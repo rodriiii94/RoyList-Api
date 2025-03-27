@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983531
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983531
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 16,
+                    "previous": [],
+                    "timestamp": 1742983531
+                },
+                "name": {
+                    "value": "Pizzas y platos preparados",
+                    "previous": [],
+                    "timestamp": 1742983531
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983531
+                },
+                "order": {
+                    "value": 596,
+                    "previous": [],
+                    "timestamp": 1742983531
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Pizza jamón y queso familiar Hacendado",
+            "previous": [],
+            "timestamp": 1742983531
+        },
+        "id": {
+            "value": "63627",
+            "previous": [],
+            "timestamp": 1742983531
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983531
+        },
+        "packaging": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983531
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983531
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983531
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983531
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983531
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983531
+            },
+            "unit_size": {
+                "value": 0.6,
+                "previous": [],
+                "timestamp": 1742983531
+            },
+            "bulk_price": {
+                "value": "5.67",
+                "previous": [],
+                "timestamp": 1742983531
+            },
+            "unit_price": {
+                "value": "3.40",
+                "previous": [],
+                "timestamp": 1742983531
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983531
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983531
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983531
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983531
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983531
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983531
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983531
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1742983531
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983531
+            },
+            "reference_price": {
+                "value": "5.667",
+                "previous": [],
+                "timestamp": 1742983531
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983531
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983531
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983531
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983531
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983531
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/63627/pizza-jamon-queso-familiar-hacendado",
+            "previous": [],
+            "timestamp": 1742983531
+        },
+        "slug": {
+            "value": "pizza-jamon-queso-familiar-hacendado",
+            "previous": [],
+            "timestamp": 1742983531
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983531
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/9171debfdd811cd2bc2b50c63b66227a.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983531
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983531
+        }
+    },
+    "stats": {
+        "created_at": 1742983531,
+        "updated_at": 1743023384,
+        "updates": 2
+    }
+}

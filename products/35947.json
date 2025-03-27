@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983429
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983429
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 21,
+                    "previous": [],
+                    "timestamp": 1742983429
+                },
+                "name": {
+                    "value": "Cuidado del cabello",
+                    "previous": [],
+                    "timestamp": 1742983429
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983429
+                },
+                "order": {
+                    "value": 238,
+                    "previous": [],
+                    "timestamp": 1742983429
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Quitamanchas de tinte capilar Deliplus",
+            "previous": [],
+            "timestamp": 1742983429
+        },
+        "id": {
+            "value": "35947",
+            "previous": [],
+            "timestamp": 1742983429
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983429
+        },
+        "packaging": {
+            "value": "Bote",
+            "previous": [],
+            "timestamp": 1742983429
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1742983429
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983429
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983429
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983429
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983429
+            },
+            "unit_size": {
+                "value": 0.085,
+                "previous": [],
+                "timestamp": 1742983429
+            },
+            "bulk_price": {
+                "value": "28.24",
+                "previous": [],
+                "timestamp": 1742983429
+            },
+            "unit_price": {
+                "value": "2.40",
+                "previous": [],
+                "timestamp": 1742983429
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983429
+            },
+            "size_format": {
+                "value": "l",
+                "previous": [],
+                "timestamp": 1742983429
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983429
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983429
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983429
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983429
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983429
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1742983429
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983429
+            },
+            "reference_price": {
+                "value": "2.824",
+                "previous": [],
+                "timestamp": 1742983429
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983429
+            },
+            "reference_format": {
+                "value": "100 ml",
+                "previous": [],
+                "timestamp": 1742983429
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983429
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983429
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983429
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/35947/quitamanchas-tinte-capilar-deliplus-con-aceite-rosa-mosqueta-bote",
+            "previous": [],
+            "timestamp": 1742983429
+        },
+        "slug": {
+            "value": "quitamanchas-tinte-capilar-deliplus-con-aceite-rosa-mosqueta-bote",
+            "previous": [],
+            "timestamp": 1742983429
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983429
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/4772d2a3accd0a36e8920cab887c4a25.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983429
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983429
+        }
+    },
+    "stats": {
+        "created_at": 1742983429,
+        "updated_at": 1743023271,
+        "updates": 2
+    }
+}

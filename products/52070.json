@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983508
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983508
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 25,
+                    "previous": [],
+                    "timestamp": 1742983508
+                },
+                "name": {
+                    "value": "Mascotas",
+                    "previous": [],
+                    "timestamp": 1742983508
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983508
+                },
+                "order": {
+                    "value": 442,
+                    "previous": [],
+                    "timestamp": 1742983508
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Paté gato júnior Delikuit con pollo y pavo",
+            "previous": [],
+            "timestamp": 1742983508
+        },
+        "id": {
+            "value": "52070",
+            "previous": [],
+            "timestamp": 1742983508
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983508
+        },
+        "packaging": {
+            "value": "Tarrina",
+            "previous": [],
+            "timestamp": 1742983508
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983508
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983508
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983508
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983508
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983508
+            },
+            "unit_size": {
+                "value": 0.1,
+                "previous": [],
+                "timestamp": 1742983508
+            },
+            "bulk_price": {
+                "value": "4.50",
+                "previous": [],
+                "timestamp": 1742983508
+            },
+            "unit_price": {
+                "value": "0.45",
+                "previous": [],
+                "timestamp": 1742983508
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983508
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983508
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983508
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983508
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983508
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983508
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983508
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1742983508
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983508
+            },
+            "reference_price": {
+                "value": "4.500",
+                "previous": [],
+                "timestamp": 1742983508
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983508
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983508
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983508
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983508
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983508
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/52070/pate-gato-junior-delikuit-con-pollo-pavo-tarrina",
+            "previous": [],
+            "timestamp": 1742983508
+        },
+        "slug": {
+            "value": "pate-gato-junior-delikuit-con-pollo-pavo-tarrina",
+            "previous": [],
+            "timestamp": 1742983508
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983508
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/ad01e344dd1d7ef2529f903a304f4ecd.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983508
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983508
+        }
+    },
+    "stats": {
+        "created_at": 1742983508,
+        "updated_at": 1743023361,
+        "updates": 2
+    }
+}

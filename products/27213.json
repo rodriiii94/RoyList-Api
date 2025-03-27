@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983311
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983311
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 18,
+                    "previous": [],
+                    "timestamp": 1742983311
+                },
+                "name": {
+                    "value": "Agua y refrescos",
+                    "previous": [],
+                    "timestamp": 1742983311
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983311
+                },
+                "order": {
+                    "value": 8,
+                    "previous": [],
+                    "timestamp": 1742983311
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Agua mineral con gas grande Vichy Catalan",
+            "previous": [],
+            "timestamp": 1742983311
+        },
+        "id": {
+            "value": "27213",
+            "previous": [],
+            "timestamp": 1742983311
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983311
+        },
+        "packaging": {
+            "value": "Botella",
+            "previous": [],
+            "timestamp": 1742983311
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983311
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983311
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983311
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983311
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983311
+            },
+            "unit_size": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983311
+            },
+            "bulk_price": {
+                "value": "1.49",
+                "previous": [],
+                "timestamp": 1742983311
+            },
+            "unit_price": {
+                "value": "1.49",
+                "previous": [],
+                "timestamp": 1742983311
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983311
+            },
+            "size_format": {
+                "value": "l",
+                "previous": [],
+                "timestamp": 1742983311
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983311
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983311
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983311
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983311
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983311
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1742983311
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983311
+            },
+            "reference_price": {
+                "value": "1.490",
+                "previous": [],
+                "timestamp": 1742983311
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983311
+            },
+            "reference_format": {
+                "value": "L",
+                "previous": [],
+                "timestamp": 1742983311
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983311
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983311
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983311
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/27213/agua-mineral-con-gas-grande-vichy-catalan-botella",
+            "previous": [],
+            "timestamp": 1742983311
+        },
+        "slug": {
+            "value": "agua-mineral-con-gas-grande-vichy-catalan-botella",
+            "previous": [],
+            "timestamp": 1742983311
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983311
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/0475ab502de87ae5e8ae65ffd5a44a42.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983311
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983311
+        }
+    },
+    "stats": {
+        "created_at": 1742983311,
+        "updated_at": 1743023135,
+        "updates": 2
+    }
+}

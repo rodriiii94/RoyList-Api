@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983530
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983530
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 16,
+                    "previous": [],
+                    "timestamp": 1742983530
+                },
+                "name": {
+                    "value": "Pizzas y platos preparados",
+                    "previous": [],
+                    "timestamp": 1742983530
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983530
+                },
+                "order": {
+                    "value": 596,
+                    "previous": [],
+                    "timestamp": 1742983530
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Media tortilla de patata con calabacín Listo para Comer",
+            "previous": [],
+            "timestamp": 1742983530
+        },
+        "id": {
+            "value": "60128",
+            "previous": [],
+            "timestamp": 1742983530
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983530
+        },
+        "packaging": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983530
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983530
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983530
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983530
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983530
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983530
+            },
+            "unit_size": {
+                "value": 0.65,
+                "previous": [],
+                "timestamp": 1742983530
+            },
+            "bulk_price": {
+                "value": "6.92",
+                "previous": [],
+                "timestamp": 1742983530
+            },
+            "unit_price": {
+                "value": "4.50",
+                "previous": [],
+                "timestamp": 1742983530
+            },
+            "approx_size": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983530
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983530
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983530
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983530
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983530
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983530
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983530
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1742983530
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983530
+            },
+            "reference_price": {
+                "value": "6.924",
+                "previous": [],
+                "timestamp": 1742983530
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983530
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983530
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983530
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983530
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983530
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/60128/media-tortilla-patata-con-calabacin-listo-comer",
+            "previous": [],
+            "timestamp": 1742983530
+        },
+        "slug": {
+            "value": "media-tortilla-patata-con-calabacin-listo-comer",
+            "previous": [],
+            "timestamp": 1742983530
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983530
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/a4bca5f58a0e151b33805255268ee6d3.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983530
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983530
+        }
+    },
+    "stats": {
+        "created_at": 1742983530,
+        "updated_at": 1743023387,
+        "updates": 4
+    }
+}

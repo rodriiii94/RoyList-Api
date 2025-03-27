@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983324
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983324
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 13,
+                    "previous": [],
+                    "timestamp": 1742983324
+                },
+                "name": {
+                    "value": "Arroz, legumbres y pasta",
+                    "previous": [],
+                    "timestamp": 1742983324
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983324
+                },
+                "order": {
+                    "value": 10,
+                    "previous": [],
+                    "timestamp": 1742983324
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Grano de avena cocida Sabroz",
+            "previous": [],
+            "timestamp": 1742983324
+        },
+        "id": {
+            "value": "52527",
+            "previous": [],
+            "timestamp": 1742983324
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983324
+        },
+        "packaging": {
+            "value": "Pack-2",
+            "previous": [],
+            "timestamp": 1742983324
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983324
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983324
+            },
+            "is_pack": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983324
+            },
+            "pack_size": {
+                "value": 0.125,
+                "previous": [],
+                "timestamp": 1742983324
+            },
+            "unit_name": {
+                "value": "vasitos",
+                "previous": [],
+                "timestamp": 1742983324
+            },
+            "unit_size": {
+                "value": 0.25,
+                "previous": [],
+                "timestamp": 1742983324
+            },
+            "bulk_price": {
+                "value": "4.80",
+                "previous": [],
+                "timestamp": 1742983324
+            },
+            "unit_price": {
+                "value": "1.20",
+                "previous": [],
+                "timestamp": 1742983324
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983324
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983324
+            },
+            "total_units": {
+                "value": 2,
+                "previous": [],
+                "timestamp": 1742983324
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983324
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983324
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983324
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983324
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1742983324
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983324
+            },
+            "reference_price": {
+                "value": "4.800",
+                "previous": [],
+                "timestamp": 1742983324
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983324
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983324
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983324
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983324
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983324
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/52527/grano-avena-cocida-sabroz-brillante-pack-2",
+            "previous": [],
+            "timestamp": 1742983324
+        },
+        "slug": {
+            "value": "grano-avena-cocida-sabroz-brillante-pack-2",
+            "previous": [],
+            "timestamp": 1742983324
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983324
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/f3779fba69c4dcf5d2226d5705f46984.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983324
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983324
+        }
+    },
+    "stats": {
+        "created_at": 1742983324,
+        "updated_at": 1743023152,
+        "updates": 2
+    }
+}

@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983550
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983550
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 11,
+                    "previous": [],
+                    "timestamp": 1742983550
+                },
+                "name": {
+                    "value": "Postres y yogures",
+                    "previous": [],
+                    "timestamp": 1742983550
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983550
+                },
+                "order": {
+                    "value": 597,
+                    "previous": [],
+                    "timestamp": 1742983550
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Petit sabores Hacendado",
+            "previous": [],
+            "timestamp": 1742983550
+        },
+        "id": {
+            "value": "20536",
+            "previous": [],
+            "timestamp": 1742983550
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983550
+        },
+        "packaging": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983550
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 4,
+                "previous": [],
+                "timestamp": 1742983550
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983550
+            },
+            "is_pack": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983550
+            },
+            "pack_size": {
+                "value": 0.06,
+                "previous": [],
+                "timestamp": 1742983550
+            },
+            "unit_name": {
+                "value": "ud.",
+                "previous": [],
+                "timestamp": 1742983550
+            },
+            "unit_size": {
+                "value": 0.72,
+                "previous": [],
+                "timestamp": 1742983550
+            },
+            "bulk_price": {
+                "value": "1.96",
+                "previous": [],
+                "timestamp": 1742983550
+            },
+            "unit_price": {
+                "value": "1.41",
+                "previous": [],
+                "timestamp": 1742983550
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983550
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983550
+            },
+            "total_units": {
+                "value": 12,
+                "previous": [],
+                "timestamp": 1742983550
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983550
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983550
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983550
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983550
+            },
+            "tax_percentage": {
+                "value": "4.000",
+                "previous": [],
+                "timestamp": 1742983550
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983550
+            },
+            "reference_price": {
+                "value": "1.959",
+                "previous": [],
+                "timestamp": 1742983550
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983550
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983550
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983550
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983550
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983550
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/20536/petit-sabores-hacendado-6-fresa-6-fresa-platano",
+            "previous": [],
+            "timestamp": 1742983550
+        },
+        "slug": {
+            "value": "petit-sabores-hacendado-6-fresa-6-fresa-platano",
+            "previous": [],
+            "timestamp": 1742983550
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983550
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/db331b2e61d371272cea030ea49101f3.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983550
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983550
+        }
+    },
+    "stats": {
+        "created_at": 1742983550,
+        "updated_at": 1743023404,
+        "updates": 2
+    }
+}

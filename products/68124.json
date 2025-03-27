@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983550
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983550
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 11,
+                    "previous": [],
+                    "timestamp": 1742983550
+                },
+                "name": {
+                    "value": "Postres y yogures",
+                    "previous": [],
+                    "timestamp": 1742983550
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983550
+                },
+                "order": {
+                    "value": 597,
+                    "previous": [],
+                    "timestamp": 1742983550
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Danonino sabor fresa Danone",
+            "previous": [],
+            "timestamp": 1742983550
+        },
+        "id": {
+            "value": "68124",
+            "previous": [],
+            "timestamp": 1742983550
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983550
+        },
+        "packaging": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983550
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 4,
+                "previous": [],
+                "timestamp": 1742983550
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983550
+            },
+            "is_pack": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983550
+            },
+            "pack_size": {
+                "value": 0.05,
+                "previous": [],
+                "timestamp": 1742983550
+            },
+            "unit_name": {
+                "value": "ud.",
+                "previous": [],
+                "timestamp": 1742983550
+            },
+            "unit_size": {
+                "value": 0.3,
+                "previous": [],
+                "timestamp": 1742983550
+            },
+            "bulk_price": {
+                "value": "4.50",
+                "previous": [],
+                "timestamp": 1742983550
+            },
+            "unit_price": {
+                "value": "1.35",
+                "previous": [],
+                "timestamp": 1742983550
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983550
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983550
+            },
+            "total_units": {
+                "value": 6,
+                "previous": [],
+                "timestamp": 1742983550
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983550
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983550
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983550
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983550
+            },
+            "tax_percentage": {
+                "value": "4.000",
+                "previous": [],
+                "timestamp": 1742983550
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983550
+            },
+            "reference_price": {
+                "value": "4.500",
+                "previous": [],
+                "timestamp": 1742983550
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983550
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983550
+            },
+            "previous_unit_price": {
+                "value": "        1.50",
+                "previous": [],
+                "timestamp": 1742983550
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983550
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983550
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/68124/danonino-sabor-fresa-danone-pack-6",
+            "previous": [],
+            "timestamp": 1742983550
+        },
+        "slug": {
+            "value": "danonino-sabor-fresa-danone-pack-6",
+            "previous": [],
+            "timestamp": 1742983550
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983550
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/e82093b0b187272b72050dd3de16f81d.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983550
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983550
+        }
+    },
+    "stats": {
+        "created_at": 1742983550,
+        "updated_at": 1743023404,
+        "updates": 2
+    }
+}

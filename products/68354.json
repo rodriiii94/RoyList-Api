@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983541
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983541
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 11,
+                    "previous": [],
+                    "timestamp": 1742983541
+                },
+                "name": {
+                    "value": "Postres y yogures",
+                    "previous": [],
+                    "timestamp": 1742983541
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983541
+                },
+                "order": {
+                    "value": 597,
+                    "previous": [],
+                    "timestamp": 1742983541
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Arroz con leche Hacendado",
+            "previous": [],
+            "timestamp": 1742983541
+        },
+        "id": {
+            "value": "68354",
+            "previous": [],
+            "timestamp": 1742983541
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983541
+        },
+        "packaging": {
+            "value": "Pack-4",
+            "previous": [],
+            "timestamp": 1742983541
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983541
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983541
+            },
+            "is_pack": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983541
+            },
+            "pack_size": {
+                "value": 0.13,
+                "previous": [],
+                "timestamp": 1742983541
+            },
+            "unit_name": {
+                "value": "ud.",
+                "previous": [],
+                "timestamp": 1742983541
+            },
+            "unit_size": {
+                "value": 0.52,
+                "previous": [],
+                "timestamp": 1742983541
+            },
+            "bulk_price": {
+                "value": "2.60",
+                "previous": [],
+                "timestamp": 1742983541
+            },
+            "unit_price": {
+                "value": "1.35",
+                "previous": [],
+                "timestamp": 1742983541
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983541
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983541
+            },
+            "total_units": {
+                "value": 4,
+                "previous": [],
+                "timestamp": 1742983541
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983541
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983541
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983541
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983541
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1742983541
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983541
+            },
+            "reference_price": {
+                "value": "2.597",
+                "previous": [],
+                "timestamp": 1742983541
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983541
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983541
+            },
+            "previous_unit_price": {
+                "value": "        1.40",
+                "previous": [],
+                "timestamp": 1742983541
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983541
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983541
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/68354/arroz-con-leche-hacendado-pack-4",
+            "previous": [],
+            "timestamp": 1742983541
+        },
+        "slug": {
+            "value": "arroz-con-leche-hacendado-pack-4",
+            "previous": [],
+            "timestamp": 1742983541
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983541
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/ecd6886e214a2cc49c2738e7155c1a48.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983541
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983541
+        }
+    },
+    "stats": {
+        "created_at": 1742983541,
+        "updated_at": 1743023394,
+        "updates": 2
+    }
+}

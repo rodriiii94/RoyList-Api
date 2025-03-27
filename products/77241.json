@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983453
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983453
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 23,
+                    "previous": [],
+                    "timestamp": 1742983453
+                },
+                "name": {
+                    "value": "Fitoterapia y parafarmacia",
+                    "previous": [],
+                    "timestamp": 1742983453
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983453
+                },
+                "order": {
+                    "value": 305,
+                    "previous": [],
+                    "timestamp": 1742983453
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Agua oxigenada Deliplus desinfectante antiséptico",
+            "previous": [],
+            "timestamp": 1742983453
+        },
+        "id": {
+            "value": "77241",
+            "previous": [],
+            "timestamp": 1742983453
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983453
+        },
+        "packaging": {
+            "value": "Botella",
+            "previous": [],
+            "timestamp": 1742983453
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983453
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983453
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983453
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983453
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983453
+            },
+            "unit_size": {
+                "value": 0.25,
+                "previous": [],
+                "timestamp": 1742983453
+            },
+            "bulk_price": {
+                "value": "2.60",
+                "previous": [],
+                "timestamp": 1742983453
+            },
+            "unit_price": {
+                "value": "0.65",
+                "previous": [],
+                "timestamp": 1742983453
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983453
+            },
+            "size_format": {
+                "value": "l",
+                "previous": [],
+                "timestamp": 1742983453
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983453
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983453
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983453
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983453
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983453
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1742983453
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983453
+            },
+            "reference_price": {
+                "value": "0.260",
+                "previous": [],
+                "timestamp": 1742983453
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983453
+            },
+            "reference_format": {
+                "value": "100 ml",
+                "previous": [],
+                "timestamp": 1742983453
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983453
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983453
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983453
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/77241/agua-oxigenada-deliplus-desinfectante-antiseptico-botella",
+            "previous": [],
+            "timestamp": 1742983453
+        },
+        "slug": {
+            "value": "agua-oxigenada-deliplus-desinfectante-antiseptico-botella",
+            "previous": [],
+            "timestamp": 1742983453
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983453
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/87da79c7a7b3c04f21b2132ad8e2948a.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983453
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983453
+        }
+    },
+    "stats": {
+        "created_at": 1742983453,
+        "updated_at": 1743023300,
+        "updates": 2
+    }
+}

@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983509
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983509
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 25,
+                    "previous": [],
+                    "timestamp": 1742983509
+                },
+                "name": {
+                    "value": "Mascotas",
+                    "previous": [],
+                    "timestamp": 1742983509
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983509
+                },
+                "order": {
+                    "value": 442,
+                    "previous": [],
+                    "timestamp": 1742983509
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Snack gato barritas Compy de salmón y trucha",
+            "previous": [],
+            "timestamp": 1742983509
+        },
+        "id": {
+            "value": "52149",
+            "previous": [],
+            "timestamp": 1742983509
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983509
+        },
+        "packaging": {
+            "value": "Pack-10",
+            "previous": [],
+            "timestamp": 1742983509
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983509
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983509
+            },
+            "is_pack": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983509
+            },
+            "pack_size": {
+                "value": 0.005,
+                "previous": [],
+                "timestamp": 1742983509
+            },
+            "unit_name": {
+                "value": "ud.",
+                "previous": [],
+                "timestamp": 1742983509
+            },
+            "unit_size": {
+                "value": 0.05,
+                "previous": [],
+                "timestamp": 1742983509
+            },
+            "bulk_price": {
+                "value": "21.00",
+                "previous": [],
+                "timestamp": 1742983509
+            },
+            "unit_price": {
+                "value": "1.05",
+                "previous": [],
+                "timestamp": 1742983509
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983509
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983509
+            },
+            "total_units": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983509
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983509
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983509
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983509
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983509
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1742983509
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983509
+            },
+            "reference_price": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1742983509
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983509
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983509
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983509
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983509
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983509
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/52149/snack-gato-barritas-compy-salmon-trucha-pack-10",
+            "previous": [],
+            "timestamp": 1742983509
+        },
+        "slug": {
+            "value": "snack-gato-barritas-compy-salmon-trucha-pack-10",
+            "previous": [],
+            "timestamp": 1742983509
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983509
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/0af61ed93b57a2df63116c93f9dae4b8.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983509
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983509
+        }
+    },
+    "stats": {
+        "created_at": 1742983509,
+        "updated_at": 1743023361,
+        "updates": 2
+    }
+}

@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983305
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983305
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 12,
+                    "previous": [],
+                    "timestamp": 1742983305
+                },
+                "name": {
+                    "value": "Aceite, especias y salsas",
+                    "previous": [],
+                    "timestamp": 1742983305
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983305
+                },
+                "order": {
+                    "value": 7,
+                    "previous": [],
+                    "timestamp": 1742983305
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Sal de frutas sabor limón Hacendado",
+            "previous": [],
+            "timestamp": 1742983305
+        },
+        "id": {
+            "value": "29016",
+            "previous": [],
+            "timestamp": 1742983305
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983305
+        },
+        "packaging": {
+            "value": "Bote",
+            "previous": [],
+            "timestamp": 1742983305
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983305
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983305
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983305
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983305
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983305
+            },
+            "unit_size": {
+                "value": 0.25,
+                "previous": [],
+                "timestamp": 1742983305
+            },
+            "bulk_price": {
+                "value": "8.40",
+                "previous": [],
+                "timestamp": 1742983305
+            },
+            "unit_price": {
+                "value": "2.10",
+                "previous": [],
+                "timestamp": 1742983305
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983305
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983305
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983305
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983305
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983305
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983305
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983305
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1742983305
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983305
+            },
+            "reference_price": {
+                "value": "8.400",
+                "previous": [],
+                "timestamp": 1742983305
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983305
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983305
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983305
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983305
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983305
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/29016/sal-frutas-sabor-limon-hacendado-bote",
+            "previous": [],
+            "timestamp": 1742983305
+        },
+        "slug": {
+            "value": "sal-frutas-sabor-limon-hacendado-bote",
+            "previous": [],
+            "timestamp": 1742983305
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983305
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/e01b7ced535cf57318ff7c7a1628d3ed.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983305
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983305
+        }
+    },
+    "stats": {
+        "created_at": 1742983305,
+        "updated_at": 1743023128,
+        "updates": 2
+    }
+}

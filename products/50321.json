@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983435
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983435
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 20,
+                    "previous": [],
+                    "timestamp": 1742983435
+                },
+                "name": {
+                    "value": "Cuidado facial y corporal",
+                    "previous": [],
+                    "timestamp": 1742983435
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983435
+                },
+                "order": {
+                    "value": 241,
+                    "previous": [],
+                    "timestamp": 1742983435
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Ampollas faciales Ácido Hialurónico Hidrata Deliplus concentrado",
+            "previous": [],
+            "timestamp": 1742983435
+        },
+        "id": {
+            "value": "50321",
+            "previous": [],
+            "timestamp": 1742983435
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983435
+        },
+        "packaging": {
+            "value": "Caja",
+            "previous": [],
+            "timestamp": 1742983435
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1742983435
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983435
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983435
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983435
+            },
+            "unit_name": {
+                "value": "ampollas",
+                "previous": [],
+                "timestamp": 1742983435
+            },
+            "unit_size": {
+                "value": 0.014,
+                "previous": [],
+                "timestamp": 1742983435
+            },
+            "bulk_price": {
+                "value": "250.00",
+                "previous": [],
+                "timestamp": 1742983435
+            },
+            "unit_price": {
+                "value": "3.50",
+                "previous": [],
+                "timestamp": 1742983435
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983435
+            },
+            "size_format": {
+                "value": "l",
+                "previous": [],
+                "timestamp": 1742983435
+            },
+            "total_units": {
+                "value": 7,
+                "previous": [],
+                "timestamp": 1742983435
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983435
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983435
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983435
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983435
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1742983435
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983435
+            },
+            "reference_price": {
+                "value": "25.000",
+                "previous": [],
+                "timestamp": 1742983435
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983435
+            },
+            "reference_format": {
+                "value": "100 ml",
+                "previous": [],
+                "timestamp": 1742983435
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983435
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983435
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983435
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/50321/ampollas-faciales-acido-hialuronico-hidrata-deliplus-concentrado-caja",
+            "previous": [],
+            "timestamp": 1742983435
+        },
+        "slug": {
+            "value": "ampollas-faciales-acido-hialuronico-hidrata-deliplus-concentrado-caja",
+            "previous": [],
+            "timestamp": 1742983435
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983435
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/e684de0153b2817d14493f5967f67c04.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983435
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983435
+        }
+    },
+    "stats": {
+        "created_at": 1742983435,
+        "updated_at": 1743023279,
+        "updates": 2
+    }
+}

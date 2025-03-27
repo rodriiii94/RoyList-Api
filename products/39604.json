@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983557
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983557
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 10,
+                    "previous": [],
+                    "timestamp": 1742983557
+                },
+                "name": {
+                    "value": "Zumos",
+                    "previous": [],
+                    "timestamp": 1742983557
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983557
+                },
+                "order": {
+                    "value": 792,
+                    "previous": [],
+                    "timestamp": 1742983557
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Bebida de pomelo Hacendado sin azúcares añadidos",
+            "previous": [],
+            "timestamp": 1742983557
+        },
+        "id": {
+            "value": "39604",
+            "previous": [],
+            "timestamp": 1742983557
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983557
+        },
+        "packaging": {
+            "value": "Brick",
+            "previous": [],
+            "timestamp": 1742983557
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1742983557
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983557
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983557
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983557
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983557
+            },
+            "unit_size": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983557
+            },
+            "bulk_price": {
+                "value": "1.25",
+                "previous": [],
+                "timestamp": 1742983557
+            },
+            "unit_price": {
+                "value": "1.25",
+                "previous": [],
+                "timestamp": 1742983557
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983557
+            },
+            "size_format": {
+                "value": "l",
+                "previous": [],
+                "timestamp": 1742983557
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983557
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983557
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983557
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983557
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983557
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1742983557
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983557
+            },
+            "reference_price": {
+                "value": "1.250",
+                "previous": [],
+                "timestamp": 1742983557
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983557
+            },
+            "reference_format": {
+                "value": "L",
+                "previous": [],
+                "timestamp": 1742983557
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983557
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983557
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983557
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/39604/bebida-pomelo-hacendado-sin-azucares-anadidos-brick",
+            "previous": [],
+            "timestamp": 1742983557
+        },
+        "slug": {
+            "value": "bebida-pomelo-hacendado-sin-azucares-anadidos-brick",
+            "previous": [],
+            "timestamp": 1742983557
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983557
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/9d055e110488e6e2a6efa1b322d3ba0e.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983557
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983557
+        }
+    },
+    "stats": {
+        "created_at": 1742983557,
+        "updated_at": 1743023410,
+        "updates": 2
+    }
+}

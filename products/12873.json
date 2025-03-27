@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1743023227
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1743023227
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 4,
+                    "previous": [],
+                    "timestamp": 1743023227
+                },
+                "name": {
+                    "value": "Charcutería y quesos",
+                    "previous": [],
+                    "timestamp": 1743023227
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1743023227
+                },
+                "order": {
+                    "value": 159,
+                    "previous": [],
+                    "timestamp": 1743023227
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Lomo de bellota 100% ibérico cortado a máquina",
+            "previous": [],
+            "timestamp": 1743023227
+        },
+        "id": {
+            "value": "12873",
+            "previous": [],
+            "timestamp": 1743023227
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1743023227
+        },
+        "packaging": {
+            "value": "Paquete",
+            "previous": [],
+            "timestamp": 1743023227
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1743023227
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1743023227
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1743023227
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1743023227
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1743023227
+            },
+            "unit_size": {
+                "value": 0.09,
+                "previous": [],
+                "timestamp": 1743023227
+            },
+            "bulk_price": {
+                "value": "65.00",
+                "previous": [],
+                "timestamp": 1743023227
+            },
+            "unit_price": {
+                "value": "5.85",
+                "previous": [],
+                "timestamp": 1743023227
+            },
+            "approx_size": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1743023227
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1743023227
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1743023227
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1743023227
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1743023227
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1743023227
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1743023227
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1743023227
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1743023227
+            },
+            "reference_price": {
+                "value": "65.000",
+                "previous": [],
+                "timestamp": 1743023227
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1743023227
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1743023227
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1743023227
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1743023227
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1743023227
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/12873/lomo-bellota-100-iberico-cortado-maquina-envasado-vacio-paquete",
+            "previous": [],
+            "timestamp": 1743023227
+        },
+        "slug": {
+            "value": "lomo-bellota-100-iberico-cortado-maquina-envasado-vacio-paquete",
+            "previous": [],
+            "timestamp": 1743023227
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1743023227
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/1abf8f70334b597d1be099357e3e8456.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1743023227
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1743023227
+        }
+    },
+    "stats": {
+        "created_at": 1743023227,
+        "updated_at": 1743023227,
+        "updates": 1
+    }
+}

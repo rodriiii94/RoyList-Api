@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983457
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983457
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 1,
+                    "previous": [],
+                    "timestamp": 1742983457
+                },
+                "name": {
+                    "value": "Fruta y verdura",
+                    "previous": [],
+                    "timestamp": 1742983457
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983457
+                },
+                "order": {
+                    "value": 306,
+                    "previous": [],
+                    "timestamp": 1742983457
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Lechuga romana cortada",
+            "previous": [],
+            "timestamp": 1742983457
+        },
+        "id": {
+            "value": "69435",
+            "previous": [],
+            "timestamp": 1742983457
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983457
+        },
+        "packaging": {
+            "value": "Paquete",
+            "previous": [],
+            "timestamp": 1742983457
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 4,
+                "previous": [],
+                "timestamp": 1742983457
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983457
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983457
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983457
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983457
+            },
+            "unit_size": {
+                "value": 0.2,
+                "previous": [],
+                "timestamp": 1742983457
+            },
+            "bulk_price": {
+                "value": "5.60",
+                "previous": [],
+                "timestamp": 1742983457
+            },
+            "unit_price": {
+                "value": "1.12",
+                "previous": [],
+                "timestamp": 1742983457
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983457
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983457
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983457
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983457
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983457
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983457
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983457
+            },
+            "tax_percentage": {
+                "value": "4.000",
+                "previous": [],
+                "timestamp": 1742983457
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983457
+            },
+            "reference_price": {
+                "value": "5.600",
+                "previous": [],
+                "timestamp": 1742983457
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983457
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983457
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983457
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983457
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983457
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/69435/lechuga-romana-cortada-paquete",
+            "previous": [],
+            "timestamp": 1742983457
+        },
+        "slug": {
+            "value": "lechuga-romana-cortada-paquete",
+            "previous": [],
+            "timestamp": 1742983457
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983457
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/de27c05991934ccea736560b54d21694.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983457
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983457
+        }
+    },
+    "stats": {
+        "created_at": 1742983457,
+        "updated_at": 1743023305,
+        "updates": 2
+    }
+}

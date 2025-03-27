@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983383
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983383
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 7,
+                    "previous": [],
+                    "timestamp": 1742983383
+                },
+                "name": {
+                    "value": "Cereales y galletas",
+                    "previous": [],
+                    "timestamp": 1742983383
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983383
+                },
+                "order": {
+                    "value": 18,
+                    "previous": [],
+                    "timestamp": 1742983383
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Tortitas de arroz con chocolate con leche Hacendado",
+            "previous": [],
+            "timestamp": 1742983383
+        },
+        "id": {
+            "value": "14142",
+            "previous": [],
+            "timestamp": 1742983383
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983383
+        },
+        "packaging": {
+            "value": "Paquete",
+            "previous": [],
+            "timestamp": 1742983383
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983383
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983383
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983383
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983383
+            },
+            "unit_name": {
+                "value": "packs",
+                "previous": [],
+                "timestamp": 1742983383
+            },
+            "unit_size": {
+                "value": 0.13,
+                "previous": [],
+                "timestamp": 1742983383
+            },
+            "bulk_price": {
+                "value": "15.00",
+                "previous": [],
+                "timestamp": 1742983383
+            },
+            "unit_price": {
+                "value": "1.95",
+                "previous": [],
+                "timestamp": 1742983383
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983383
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983383
+            },
+            "total_units": {
+                "value": 4,
+                "previous": [],
+                "timestamp": 1742983383
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983383
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983383
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983383
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983383
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1742983383
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983383
+            },
+            "reference_price": {
+                "value": "15.000",
+                "previous": [],
+                "timestamp": 1742983383
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983383
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983383
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983383
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983383
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983383
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/14142/tortitas-arroz-con-chocolate-con-leche-hacendado-paquete",
+            "previous": [],
+            "timestamp": 1742983383
+        },
+        "slug": {
+            "value": "tortitas-arroz-con-chocolate-con-leche-hacendado-paquete",
+            "previous": [],
+            "timestamp": 1742983383
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983383
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/60b082a9bef5bf65a21fff90ea8a2ba4.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983383
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983383
+        }
+    },
+    "stats": {
+        "created_at": 1742983383,
+        "updated_at": 1743023219,
+        "updates": 2
+    }
+}

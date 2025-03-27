@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1743023391
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1743023391
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 11,
+                    "previous": [],
+                    "timestamp": 1743023391
+                },
+                "name": {
+                    "value": "Postres y yogures",
+                    "previous": [],
+                    "timestamp": 1743023391
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1743023391
+                },
+                "order": {
+                    "value": 597,
+                    "previous": [],
+                    "timestamp": 1743023391
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Bífidus probiótico con ciruelas pasas Hacendado",
+            "previous": [],
+            "timestamp": 1743023391
+        },
+        "id": {
+            "value": "21312",
+            "previous": [],
+            "timestamp": 1743023391
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1743023391
+        },
+        "packaging": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1743023391
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 4,
+                "previous": [],
+                "timestamp": 1743023391
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1743023391
+            },
+            "is_pack": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1743023391
+            },
+            "pack_size": {
+                "value": 0.125,
+                "previous": [],
+                "timestamp": 1743023391
+            },
+            "unit_name": {
+                "value": "ud.",
+                "previous": [],
+                "timestamp": 1743023391
+            },
+            "unit_size": {
+                "value": 0.5,
+                "previous": [],
+                "timestamp": 1743023391
+            },
+            "bulk_price": {
+                "value": "2.46",
+                "previous": [],
+                "timestamp": 1743023391
+            },
+            "unit_price": {
+                "value": "1.23",
+                "previous": [],
+                "timestamp": 1743023391
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1743023391
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1743023391
+            },
+            "total_units": {
+                "value": 4,
+                "previous": [],
+                "timestamp": 1743023391
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1743023391
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1743023391
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1743023391
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1743023391
+            },
+            "tax_percentage": {
+                "value": "4.000",
+                "previous": [],
+                "timestamp": 1743023391
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1743023391
+            },
+            "reference_price": {
+                "value": "2.460",
+                "previous": [],
+                "timestamp": 1743023391
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1743023391
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1743023391
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1743023391
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1743023391
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1743023391
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/21312/bifidus-probiotico-con-ciruelas-pasas-hacendado",
+            "previous": [],
+            "timestamp": 1743023391
+        },
+        "slug": {
+            "value": "bifidus-probiotico-con-ciruelas-pasas-hacendado",
+            "previous": [],
+            "timestamp": 1743023391
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1743023391
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/25decb781a3798d0ffa30f5c81c21225.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1743023391
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1743023391
+        }
+    },
+    "stats": {
+        "created_at": 1743023391,
+        "updated_at": 1743023391,
+        "updates": 1
+    }
+}

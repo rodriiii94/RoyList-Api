@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983321
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983321
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 15,
+                    "previous": [],
+                    "timestamp": 1742983321
+                },
+                "name": {
+                    "value": "Aperitivos",
+                    "previous": [],
+                    "timestamp": 1742983321
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983321
+                },
+                "order": {
+                    "value": 9,
+                    "previous": [],
+                    "timestamp": 1742983321
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Palomitas de maíz sabor mantequilla Hacendado para microondas",
+            "previous": [],
+            "timestamp": 1742983321
+        },
+        "id": {
+            "value": "34212",
+            "previous": [],
+            "timestamp": 1742983321
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983321
+        },
+        "packaging": {
+            "value": "Paquete",
+            "previous": [],
+            "timestamp": 1742983321
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983321
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983321
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983321
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983321
+            },
+            "unit_name": {
+                "value": "ud.",
+                "previous": [],
+                "timestamp": 1742983321
+            },
+            "unit_size": {
+                "value": 0.27,
+                "previous": [],
+                "timestamp": 1742983321
+            },
+            "bulk_price": {
+                "value": "4.44",
+                "previous": [],
+                "timestamp": 1742983321
+            },
+            "unit_price": {
+                "value": "1.20",
+                "previous": [],
+                "timestamp": 1742983321
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983321
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983321
+            },
+            "total_units": {
+                "value": 3,
+                "previous": [],
+                "timestamp": 1742983321
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983321
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983321
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983321
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983321
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1742983321
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983321
+            },
+            "reference_price": {
+                "value": "4.445",
+                "previous": [],
+                "timestamp": 1742983321
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983321
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983321
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983321
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983321
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983321
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/34212/palomitas-maiz-sabor-mantequilla-hacendado-microondas-paquete",
+            "previous": [],
+            "timestamp": 1742983321
+        },
+        "slug": {
+            "value": "palomitas-maiz-sabor-mantequilla-hacendado-microondas-paquete",
+            "previous": [],
+            "timestamp": 1742983321
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983321
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/f8ea8d436cfb80f7e563563cbe8b9316.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983321
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983321
+        }
+    },
+    "stats": {
+        "created_at": 1742983321,
+        "updated_at": 1743023148,
+        "updates": 2
+    }
+}

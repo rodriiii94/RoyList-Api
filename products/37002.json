@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983354
+            },
+            "requires_age_check": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983354
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 19,
+                    "previous": [],
+                    "timestamp": 1742983354
+                },
+                "name": {
+                    "value": "Bodega",
+                    "previous": [],
+                    "timestamp": 1742983354
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983354
+                },
+                "order": {
+                    "value": 15,
+                    "previous": [],
+                    "timestamp": 1742983354
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Vino rosado D.O Navarra Hypatia",
+            "previous": [],
+            "timestamp": 1742983354
+        },
+        "id": {
+            "value": "37002",
+            "previous": [],
+            "timestamp": 1742983354
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983354
+        },
+        "packaging": {
+            "value": "Botella",
+            "previous": [],
+            "timestamp": 1742983354
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1742983354
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983354
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983354
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983354
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983354
+            },
+            "unit_size": {
+                "value": 0.75,
+                "previous": [],
+                "timestamp": 1742983354
+            },
+            "bulk_price": {
+                "value": "2.80",
+                "previous": [],
+                "timestamp": 1742983354
+            },
+            "unit_price": {
+                "value": "2.10",
+                "previous": [],
+                "timestamp": 1742983354
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983354
+            },
+            "size_format": {
+                "value": "l",
+                "previous": [],
+                "timestamp": 1742983354
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983354
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983354
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983354
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983354
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983354
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1742983354
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983354
+            },
+            "reference_price": {
+                "value": "2.800",
+                "previous": [],
+                "timestamp": 1742983354
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983354
+            },
+            "reference_format": {
+                "value": "L",
+                "previous": [],
+                "timestamp": 1742983354
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983354
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983354
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983354
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/37002/vino-rosado-do-navarra-hypatia-botella",
+            "previous": [],
+            "timestamp": 1742983354
+        },
+        "slug": {
+            "value": "vino-rosado-do-navarra-hypatia-botella",
+            "previous": [],
+            "timestamp": 1742983354
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983354
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/f2c43710af7bdec97b19098a1f427618.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983354
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983354
+        }
+    },
+    "stats": {
+        "created_at": 1742983354,
+        "updated_at": 1743023187,
+        "updates": 2
+    }
+}

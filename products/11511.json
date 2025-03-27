@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983534
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983534
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 16,
+                    "previous": [],
+                    "timestamp": 1742983534
+                },
+                "name": {
+                    "value": "Pizzas y platos preparados",
+                    "previous": [],
+                    "timestamp": 1742983534
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983534
+                },
+                "order": {
+                    "value": 596,
+                    "previous": [],
+                    "timestamp": 1742983534
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Carne de cerdo Pulled Pork Hacendado sabor barbacoa",
+            "previous": [],
+            "timestamp": 1742983534
+        },
+        "id": {
+            "value": "11511",
+            "previous": [],
+            "timestamp": 1742983534
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983534
+        },
+        "packaging": {
+            "value": "Bandeja",
+            "previous": [],
+            "timestamp": 1742983534
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983534
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983534
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983534
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983534
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983534
+            },
+            "unit_size": {
+                "value": 0.2,
+                "previous": [],
+                "timestamp": 1742983534
+            },
+            "bulk_price": {
+                "value": "12.50",
+                "previous": [],
+                "timestamp": 1742983534
+            },
+            "unit_price": {
+                "value": "2.50",
+                "previous": [],
+                "timestamp": 1742983534
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983534
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983534
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983534
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983534
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983534
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983534
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983534
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1742983534
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983534
+            },
+            "reference_price": {
+                "value": "12.500",
+                "previous": [],
+                "timestamp": 1742983534
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983534
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983534
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983534
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983534
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983534
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/11511/carne-cerdo-pulled-pork-hacendado-sabor-barbacoa-bandeja",
+            "previous": [],
+            "timestamp": 1742983534
+        },
+        "slug": {
+            "value": "carne-cerdo-pulled-pork-hacendado-sabor-barbacoa-bandeja",
+            "previous": [],
+            "timestamp": 1742983534
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983534
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/52cfd9bb99a1dc0e47653a0f5903f388.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983534
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983534
+        }
+    },
+    "stats": {
+        "created_at": 1742983534,
+        "updated_at": 1743023387,
+        "updates": 2
+    }
+}

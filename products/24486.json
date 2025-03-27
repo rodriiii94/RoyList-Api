@@ -1,0 +1,229 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983405
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983405
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 17,
+                    "previous": [],
+                    "timestamp": 1742983405
+                },
+                "name": {
+                    "value": "Congelados",
+                    "previous": [],
+                    "timestamp": 1742983405
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983405
+                },
+                "order": {
+                    "value": 213,
+                    "previous": [],
+                    "timestamp": 1742983405
+                }
+            },
+            {
+                "id": {
+                    "value": 2,
+                    "previous": [],
+                    "timestamp": 1742983500
+                },
+                "name": {
+                    "value": "Marisco y pescado",
+                    "previous": [],
+                    "timestamp": 1742983500
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983500
+                },
+                "order": {
+                    "value": 441,
+                    "previous": [],
+                    "timestamp": 1742983500
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Langostino crudo y pelado Hacendado ultracongelado",
+            "previous": [],
+            "timestamp": 1742983405
+        },
+        "id": {
+            "value": "24486",
+            "previous": [],
+            "timestamp": 1742983405
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983405
+        },
+        "packaging": {
+            "value": "Bandeja",
+            "previous": [],
+            "timestamp": 1742983405
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983405
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983405
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983405
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983405
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983405
+            },
+            "unit_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983405
+            },
+            "bulk_price": {
+                "value": "17.95",
+                "previous": [],
+                "timestamp": 1742983405
+            },
+            "unit_price": {
+                "value": "3.95",
+                "previous": [],
+                "timestamp": 1742983405
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983405
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983405
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983405
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983405
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983405
+            },
+            "drained_weight": {
+                "value": 0.22,
+                "previous": [],
+                "timestamp": 1742983405
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983405
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1742983405
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983405
+            },
+            "reference_price": {
+                "value": "17.955",
+                "previous": [],
+                "timestamp": 1742983405
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983405
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983405
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983405
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983405
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983405
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/24486/langostino-crudo-pelado-hacendado-ultracongelado-bandeja",
+            "previous": [],
+            "timestamp": 1742983405
+        },
+        "slug": {
+            "value": "langostino-crudo-pelado-hacendado-ultracongelado-bandeja",
+            "previous": [],
+            "timestamp": 1742983405
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983405
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/f1d0ac68049e49c543f0f63afb6d08b0.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983405
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983405
+        }
+    },
+    "stats": {
+        "created_at": 1742983405,
+        "updated_at": 1743023353,
+        "updates": 4
+    }
+}

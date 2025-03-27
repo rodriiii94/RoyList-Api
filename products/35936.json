@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983453
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983453
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 23,
+                    "previous": [],
+                    "timestamp": 1742983453
+                },
+                "name": {
+                    "value": "Fitoterapia y parafarmacia",
+                    "previous": [],
+                    "timestamp": 1742983453
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983453
+                },
+                "order": {
+                    "value": 305,
+                    "previous": [],
+                    "timestamp": 1742983453
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Tiras adhesivas protectoras de poliuretano Aqua Deliplus surtidas resistentes al agua",
+            "previous": [],
+            "timestamp": 1742983453
+        },
+        "id": {
+            "value": "35936",
+            "previous": [],
+            "timestamp": 1742983453
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983453
+        },
+        "packaging": {
+            "value": "Caja",
+            "previous": [],
+            "timestamp": 1742983453
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983453
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983453
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983453
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983453
+            },
+            "unit_name": {
+                "value": "tiras",
+                "previous": [],
+                "timestamp": 1742983453
+            },
+            "unit_size": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983453
+            },
+            "bulk_price": {
+                "value": "0.11",
+                "previous": [],
+                "timestamp": 1742983453
+            },
+            "unit_price": {
+                "value": "1.10",
+                "previous": [],
+                "timestamp": 1742983453
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983453
+            },
+            "size_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1742983453
+            },
+            "total_units": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983453
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983453
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983453
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983453
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983453
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1742983453
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983453
+            },
+            "reference_price": {
+                "value": "0.110",
+                "previous": [],
+                "timestamp": 1742983453
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983453
+            },
+            "reference_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1742983453
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983453
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983453
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983453
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/35936/tiras-adhesivas-protectoras-poliuretano-aqua-deliplus-surtidas-resistentes-agua-caja",
+            "previous": [],
+            "timestamp": 1742983453
+        },
+        "slug": {
+            "value": "tiras-adhesivas-protectoras-poliuretano-aqua-deliplus-surtidas-resistentes-agua-caja",
+            "previous": [],
+            "timestamp": 1742983453
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983453
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/69f0d3276299d7d4d14052c0dcc87629.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983453
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983453
+        }
+    },
+    "stats": {
+        "created_at": 1742983453,
+        "updated_at": 1743023300,
+        "updates": 2
+    }
+}

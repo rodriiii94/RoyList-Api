@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983510
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983510
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 25,
+                    "previous": [],
+                    "timestamp": 1742983510
+                },
+                "name": {
+                    "value": "Mascotas",
+                    "previous": [],
+                    "timestamp": 1742983510
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983510
+                },
+                "order": {
+                    "value": 442,
+                    "previous": [],
+                    "timestamp": 1742983510
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Bolsas para residuos caninos Nuske Doggy bags",
+            "previous": [],
+            "timestamp": 1742983510
+        },
+        "id": {
+            "value": "49760",
+            "previous": [],
+            "timestamp": 1742983510
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983510
+        },
+        "packaging": {
+            "value": "Paquete",
+            "previous": [],
+            "timestamp": 1742983510
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1742983510
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983510
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983510
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983510
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983510
+            },
+            "unit_size": {
+                "value": 45,
+                "previous": [],
+                "timestamp": 1742983510
+            },
+            "bulk_price": {
+                "value": "0.03",
+                "previous": [],
+                "timestamp": 1742983510
+            },
+            "unit_price": {
+                "value": "1.30",
+                "previous": [],
+                "timestamp": 1742983510
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983510
+            },
+            "size_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1742983510
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983510
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983510
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983510
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983510
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983510
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1742983510
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983510
+            },
+            "reference_price": {
+                "value": "0.029",
+                "previous": [],
+                "timestamp": 1742983510
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983510
+            },
+            "reference_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1742983510
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983510
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983510
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983510
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/49760/bolsas-residuos-caninos-kordis-doggy-bags-paquete",
+            "previous": [],
+            "timestamp": 1742983510
+        },
+        "slug": {
+            "value": "bolsas-residuos-caninos-kordis-doggy-bags-paquete",
+            "previous": [],
+            "timestamp": 1742983510
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983510
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/8ef33001c04f5a1e3247cf5d3381b7b4.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983510
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983510
+        }
+    },
+    "stats": {
+        "created_at": 1742983510,
+        "updated_at": 1743023363,
+        "updates": 2
+    }
+}

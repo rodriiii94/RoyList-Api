@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983323
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983323
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 15,
+                    "previous": [],
+                    "timestamp": 1742983323
+                },
+                "name": {
+                    "value": "Aperitivos",
+                    "previous": [],
+                    "timestamp": 1742983323
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983323
+                },
+                "order": {
+                    "value": 9,
+                    "previous": [],
+                    "timestamp": 1742983323
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Patatas fritas sabor chili y lima Hacendado",
+            "previous": [],
+            "timestamp": 1742983323
+        },
+        "id": {
+            "value": "8243",
+            "previous": [],
+            "timestamp": 1742983323
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983323
+        },
+        "packaging": {
+            "value": "Paquete",
+            "previous": [],
+            "timestamp": 1742983323
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983323
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983323
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983323
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983323
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983323
+            },
+            "unit_size": {
+                "value": 0.15,
+                "previous": [],
+                "timestamp": 1742983323
+            },
+            "bulk_price": {
+                "value": "8.00",
+                "previous": [],
+                "timestamp": 1742983323
+            },
+            "unit_price": {
+                "value": "1.20",
+                "previous": [],
+                "timestamp": 1742983323
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983323
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983323
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983323
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983323
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983323
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983323
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983323
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1742983323
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983323
+            },
+            "reference_price": {
+                "value": "8.000",
+                "previous": [],
+                "timestamp": 1742983323
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983323
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983323
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983323
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983323
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983323
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/8243/patatas-fritas-sabor-chili-lima-hacendado-paquete",
+            "previous": [],
+            "timestamp": 1742983323
+        },
+        "slug": {
+            "value": "patatas-fritas-sabor-chili-lima-hacendado-paquete",
+            "previous": [],
+            "timestamp": 1742983323
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983323
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/350c9942cd10944b69411214785e2ef1.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983323
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983323
+        }
+    },
+    "stats": {
+        "created_at": 1742983323,
+        "updated_at": 1743023150,
+        "updates": 2
+    }
+}

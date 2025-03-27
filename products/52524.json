@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983442
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983442
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 20,
+                    "previous": [],
+                    "timestamp": 1742983442
+                },
+                "name": {
+                    "value": "Cuidado facial y corporal",
+                    "previous": [],
+                    "timestamp": 1742983442
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983442
+                },
+                "order": {
+                    "value": 241,
+                    "previous": [],
+                    "timestamp": 1742983442
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Enjuague bucal Blanqueador Bicarbonato Deliplus zero alcohol",
+            "previous": [],
+            "timestamp": 1742983442
+        },
+        "id": {
+            "value": "52524",
+            "previous": [],
+            "timestamp": 1742983442
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983442
+        },
+        "packaging": {
+            "value": "Botella",
+            "previous": [],
+            "timestamp": 1742983442
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1742983442
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983442
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983442
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983442
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983442
+            },
+            "unit_size": {
+                "value": 0.5,
+                "previous": [],
+                "timestamp": 1742983442
+            },
+            "bulk_price": {
+                "value": "3.00",
+                "previous": [],
+                "timestamp": 1742983442
+            },
+            "unit_price": {
+                "value": "1.50",
+                "previous": [],
+                "timestamp": 1742983442
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983442
+            },
+            "size_format": {
+                "value": "l",
+                "previous": [],
+                "timestamp": 1742983442
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983442
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983442
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983442
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983442
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983442
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1742983442
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983442
+            },
+            "reference_price": {
+                "value": "0.300",
+                "previous": [],
+                "timestamp": 1742983442
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983442
+            },
+            "reference_format": {
+                "value": "100 ml",
+                "previous": [],
+                "timestamp": 1742983442
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983442
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983442
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983442
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/52524/enjuague-bucal-blanqueador-bicarbonato-deliplus-zero-alcohol-botella",
+            "previous": [],
+            "timestamp": 1742983442
+        },
+        "slug": {
+            "value": "enjuague-bucal-blanqueador-bicarbonato-deliplus-zero-alcohol-botella",
+            "previous": [],
+            "timestamp": 1742983442
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983442
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/24b6d3d744919e538a173424ae28fb4a.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983442
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983442
+        }
+    },
+    "stats": {
+        "created_at": 1742983442,
+        "updated_at": 1743023288,
+        "updates": 2
+    }
+}

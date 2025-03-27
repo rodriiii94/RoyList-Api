@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983508
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983508
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 25,
+                    "previous": [],
+                    "timestamp": 1742983508
+                },
+                "name": {
+                    "value": "Mascotas",
+                    "previous": [],
+                    "timestamp": 1742983508
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983508
+                },
+                "order": {
+                    "value": 442,
+                    "previous": [],
+                    "timestamp": 1742983508
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Mousse con ternera y pollo gato adulto Delikuit",
+            "previous": [],
+            "timestamp": 1742983508
+        },
+        "id": {
+            "value": "15984",
+            "previous": [],
+            "timestamp": 1742983508
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983508
+        },
+        "packaging": {
+            "value": "Caja",
+            "previous": [],
+            "timestamp": 1742983508
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983508
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983508
+            },
+            "is_pack": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983508
+            },
+            "pack_size": {
+                "value": 0.085,
+                "previous": [],
+                "timestamp": 1742983508
+            },
+            "unit_name": {
+                "value": "tarrinas",
+                "previous": [],
+                "timestamp": 1742983508
+            },
+            "unit_size": {
+                "value": 0.34,
+                "previous": [],
+                "timestamp": 1742983508
+            },
+            "bulk_price": {
+                "value": "5.88",
+                "previous": [],
+                "timestamp": 1742983508
+            },
+            "unit_price": {
+                "value": "2.00",
+                "previous": [],
+                "timestamp": 1742983508
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983508
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983508
+            },
+            "total_units": {
+                "value": 4,
+                "previous": [],
+                "timestamp": 1742983508
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983508
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983508
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983508
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983508
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1742983508
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983508
+            },
+            "reference_price": {
+                "value": "5.883",
+                "previous": [],
+                "timestamp": 1742983508
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983508
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983508
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983508
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983508
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983508
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/15984/mousse-con-ternera-pollo-gato-adulto-delikuit-caja",
+            "previous": [],
+            "timestamp": 1742983508
+        },
+        "slug": {
+            "value": "mousse-con-ternera-pollo-gato-adulto-delikuit-caja",
+            "previous": [],
+            "timestamp": 1742983508
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983508
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/f45fc61a285dc30ae5c6b7c7319cccd6.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983508
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983508
+        }
+    },
+    "stats": {
+        "created_at": 1742983508,
+        "updated_at": 1743023361,
+        "updates": 2
+    }
+}

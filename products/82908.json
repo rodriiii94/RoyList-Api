@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983515
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983515
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 5,
+                    "previous": [],
+                    "timestamp": 1742983515
+                },
+                "name": {
+                    "value": "Panadería y pastelería",
+                    "previous": [],
+                    "timestamp": 1742983515
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983515
+                },
+                "order": {
+                    "value": 514,
+                    "previous": [],
+                    "timestamp": 1742983515
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Tortas de aceite Inés Rosales",
+            "previous": [],
+            "timestamp": 1742983515
+        },
+        "id": {
+            "value": "82908",
+            "previous": [],
+            "timestamp": 1742983515
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983515
+        },
+        "packaging": {
+            "value": "Paquete",
+            "previous": [],
+            "timestamp": 1742983515
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983515
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983515
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983515
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983515
+            },
+            "unit_name": {
+                "value": "ud.",
+                "previous": [],
+                "timestamp": 1742983515
+            },
+            "unit_size": {
+                "value": 0.18,
+                "previous": [],
+                "timestamp": 1742983515
+            },
+            "bulk_price": {
+                "value": "11.67",
+                "previous": [],
+                "timestamp": 1742983515
+            },
+            "unit_price": {
+                "value": "2.10",
+                "previous": [],
+                "timestamp": 1742983515
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983515
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983515
+            },
+            "total_units": {
+                "value": 6,
+                "previous": [],
+                "timestamp": 1742983515
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983515
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983515
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983515
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983515
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1742983515
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983515
+            },
+            "reference_price": {
+                "value": "11.667",
+                "previous": [],
+                "timestamp": 1742983515
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983515
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983515
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983515
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983515
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983515
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/82908/tortas-aceite-ines-rosales-paquete",
+            "previous": [],
+            "timestamp": 1742983515
+        },
+        "slug": {
+            "value": "tortas-aceite-ines-rosales-paquete",
+            "previous": [],
+            "timestamp": 1742983515
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983515
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/bcb8a5cfcad3ae65cbb352ddf3ecb3f4.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983515
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983515
+        }
+    },
+    "stats": {
+        "created_at": 1742983515,
+        "updated_at": 1743023368,
+        "updates": 2
+    }
+}

@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983320
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983320
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 15,
+                    "previous": [],
+                    "timestamp": 1742983320
+                },
+                "name": {
+                    "value": "Aperitivos",
+                    "previous": [],
+                    "timestamp": 1742983320
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983320
+                },
+                "order": {
+                    "value": 9,
+                    "previous": [],
+                    "timestamp": 1742983320
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Aceitunas negras en rodajas Hacendado",
+            "previous": [],
+            "timestamp": 1742983320
+        },
+        "id": {
+            "value": "8309",
+            "previous": [],
+            "timestamp": 1742983320
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983320
+        },
+        "packaging": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983320
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983320
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983320
+            },
+            "is_pack": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983320
+            },
+            "pack_size": {
+                "value": 0.037,
+                "previous": [],
+                "timestamp": 1742983320
+            },
+            "unit_name": {
+                "value": "botes",
+                "previous": [],
+                "timestamp": 1742983320
+            },
+            "unit_size": {
+                "value": 0.148,
+                "previous": [],
+                "timestamp": 1742983320
+            },
+            "bulk_price": {
+                "value": "13.51",
+                "previous": [],
+                "timestamp": 1742983320
+            },
+            "unit_price": {
+                "value": "2.00",
+                "previous": [],
+                "timestamp": 1742983320
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983320
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983320
+            },
+            "total_units": {
+                "value": 4,
+                "previous": [],
+                "timestamp": 1742983320
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983320
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983320
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983320
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983320
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1742983320
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983320
+            },
+            "reference_price": {
+                "value": "13.514",
+                "previous": [],
+                "timestamp": 1742983320
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983320
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983320
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983320
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983320
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983320
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/8309/aceitunas-negras-hacendado-rodajas",
+            "previous": [],
+            "timestamp": 1742983320
+        },
+        "slug": {
+            "value": "aceitunas-negras-hacendado-rodajas",
+            "previous": [],
+            "timestamp": 1742983320
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983320
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/4cc12679f0a56049713fc09731163d79.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983320
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983320
+        }
+    },
+    "stats": {
+        "created_at": 1742983320,
+        "updated_at": 1743023146,
+        "updates": 2
+    }
+}

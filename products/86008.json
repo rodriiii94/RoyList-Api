@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983523
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983523
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 5,
+                    "previous": [],
+                    "timestamp": 1742983523
+                },
+                "name": {
+                    "value": "Panadería y pastelería",
+                    "previous": [],
+                    "timestamp": 1742983523
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983523
+                },
+                "order": {
+                    "value": 514,
+                    "previous": [],
+                    "timestamp": 1742983523
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Pan tostado 100% integral",
+            "previous": [],
+            "timestamp": 1742983523
+        },
+        "id": {
+            "value": "86008",
+            "previous": [],
+            "timestamp": 1742983523
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983523
+        },
+        "packaging": {
+            "value": "Paquete",
+            "previous": [],
+            "timestamp": 1742983523
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 4,
+                "previous": [],
+                "timestamp": 1742983523
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983523
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983523
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983523
+            },
+            "unit_name": {
+                "value": "packs",
+                "previous": [],
+                "timestamp": 1742983523
+            },
+            "unit_size": {
+                "value": 0.55,
+                "previous": [],
+                "timestamp": 1742983523
+            },
+            "bulk_price": {
+                "value": "3.27",
+                "previous": [],
+                "timestamp": 1742983523
+            },
+            "unit_price": {
+                "value": "1.80",
+                "previous": [],
+                "timestamp": 1742983523
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983523
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983523
+            },
+            "total_units": {
+                "value": 6,
+                "previous": [],
+                "timestamp": 1742983523
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983523
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983523
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983523
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983523
+            },
+            "tax_percentage": {
+                "value": "4.000",
+                "previous": [],
+                "timestamp": 1742983523
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983523
+            },
+            "reference_price": {
+                "value": "3.273",
+                "previous": [],
+                "timestamp": 1742983523
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983523
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983523
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983523
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983523
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983523
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/86008/pan-tostado-100-integral-paquete",
+            "previous": [],
+            "timestamp": 1742983523
+        },
+        "slug": {
+            "value": "pan-tostado-100-integral-paquete",
+            "previous": [],
+            "timestamp": 1742983523
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983523
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/5de413d561d2f5a1df428beaeb6746cb.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983523
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983523
+        }
+    },
+    "stats": {
+        "created_at": 1742983523,
+        "updated_at": 1743023376,
+        "updates": 2
+    }
+}

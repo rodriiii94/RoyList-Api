@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983494
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983494
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 22,
+                    "previous": [],
+                    "timestamp": 1742983494
+                },
+                "name": {
+                    "value": "Maquillaje",
+                    "previous": [],
+                    "timestamp": 1742983494
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983494
+                },
+                "order": {
+                    "value": 421,
+                    "previous": [],
+                    "timestamp": 1742983494
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Perfilador de labios Long Lasting Deliplus 01 rosa nude",
+            "previous": [],
+            "timestamp": 1742983494
+        },
+        "id": {
+            "value": "35539",
+            "previous": [],
+            "timestamp": 1742983494
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983494
+        },
+        "packaging": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983494
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1742983494
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983494
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983494
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983494
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983494
+            },
+            "unit_size": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983494
+            },
+            "bulk_price": {
+                "value": "2.50",
+                "previous": [],
+                "timestamp": 1742983494
+            },
+            "unit_price": {
+                "value": "2.50",
+                "previous": [],
+                "timestamp": 1742983494
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983494
+            },
+            "size_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1742983494
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983494
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983494
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983494
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983494
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983494
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1742983494
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983494
+            },
+            "reference_price": {
+                "value": "2.500",
+                "previous": [],
+                "timestamp": 1742983494
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983494
+            },
+            "reference_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1742983494
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983494
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983494
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983494
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/35539/perfilador-labios-long-lasting-deliplus-01-rosa-nude",
+            "previous": [],
+            "timestamp": 1742983494
+        },
+        "slug": {
+            "value": "perfilador-labios-long-lasting-deliplus-01-rosa-nude",
+            "previous": [],
+            "timestamp": 1742983494
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983494
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/4dcda793dfeed0e0ef4d543141b3e69d.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983494
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983494
+        }
+    },
+    "stats": {
+        "created_at": 1742983494,
+        "updated_at": 1743023346,
+        "updates": 2
+    }
+}

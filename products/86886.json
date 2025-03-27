@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983482
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983482
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 26,
+                    "previous": [],
+                    "timestamp": 1742983482
+                },
+                "name": {
+                    "value": "Limpieza y hogar",
+                    "previous": [],
+                    "timestamp": 1742983482
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983482
+                },
+                "order": {
+                    "value": 374,
+                    "previous": [],
+                    "timestamp": 1742983482
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Lavavajillas Power Essential Finish en gel",
+            "previous": [],
+            "timestamp": 1742983482
+        },
+        "id": {
+            "value": "86886",
+            "previous": [],
+            "timestamp": 1742983482
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983482
+        },
+        "packaging": {
+            "value": "Botella",
+            "previous": [],
+            "timestamp": 1742983482
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1742983482
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983482
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983482
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983482
+            },
+            "unit_name": {
+                "value": "lavados",
+                "previous": [],
+                "timestamp": 1742983482
+            },
+            "unit_size": {
+                "value": 0.56,
+                "previous": [],
+                "timestamp": 1742983482
+            },
+            "bulk_price": {
+                "value": "7.05",
+                "previous": [],
+                "timestamp": 1742983482
+            },
+            "unit_price": {
+                "value": "3.95",
+                "previous": [],
+                "timestamp": 1742983482
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983482
+            },
+            "size_format": {
+                "value": "l",
+                "previous": [],
+                "timestamp": 1742983482
+            },
+            "total_units": {
+                "value": 28,
+                "previous": [],
+                "timestamp": 1742983482
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983482
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983482
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983482
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983482
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1742983482
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983482
+            },
+            "reference_price": {
+                "value": "0.142",
+                "previous": [],
+                "timestamp": 1742983482
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983482
+            },
+            "reference_format": {
+                "value": "lv",
+                "previous": [],
+                "timestamp": 1742983482
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983482
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983482
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983482
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/86886/lavavajillas-power-essential-finish-gel-lavado-maquina-botella",
+            "previous": [],
+            "timestamp": 1742983482
+        },
+        "slug": {
+            "value": "lavavajillas-power-essential-finish-gel-lavado-maquina-botella",
+            "previous": [],
+            "timestamp": 1742983482
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983482
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/35a216c9818fa10c764e3b09c77e1294.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983482
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983482
+        }
+    },
+    "stats": {
+        "created_at": 1742983482,
+        "updated_at": 1743023333,
+        "updates": 2
+    }
+}

@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983516
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983516
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 5,
+                    "previous": [],
+                    "timestamp": 1742983516
+                },
+                "name": {
+                    "value": "Panadería y pastelería",
+                    "previous": [],
+                    "timestamp": 1742983516
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983516
+                },
+                "order": {
+                    "value": 514,
+                    "previous": [],
+                    "timestamp": 1742983516
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Espiral al cacao Hacendado",
+            "previous": [],
+            "timestamp": 1742983516
+        },
+        "id": {
+            "value": "85787",
+            "previous": [],
+            "timestamp": 1742983516
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983516
+        },
+        "packaging": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983516
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983516
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983516
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983516
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983516
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983516
+            },
+            "unit_size": {
+                "value": 0.064,
+                "previous": [],
+                "timestamp": 1742983516
+            },
+            "bulk_price": {
+                "value": "5.00",
+                "previous": [],
+                "timestamp": 1742983516
+            },
+            "unit_price": {
+                "value": "0.32",
+                "previous": [],
+                "timestamp": 1742983516
+            },
+            "approx_size": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983516
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983516
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983516
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983516
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983516
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983516
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983516
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1742983516
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983516
+            },
+            "reference_price": {
+                "value": "5.000",
+                "previous": [],
+                "timestamp": 1742983516
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983516
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983516
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983516
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983516
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983516
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/85787/espiral-cacao-hacendado",
+            "previous": [],
+            "timestamp": 1742983516
+        },
+        "slug": {
+            "value": "espiral-cacao-hacendado",
+            "previous": [],
+            "timestamp": 1742983516
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983516
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/ac0fcc11b19b5fd0ed37c44f22dad6c2.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983516
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983516
+        }
+    },
+    "stats": {
+        "created_at": 1742983516,
+        "updated_at": 1743023368,
+        "updates": 2
+    }
+}

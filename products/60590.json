@@ -1,0 +1,229 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983436
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983436
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 20,
+                    "previous": [],
+                    "timestamp": 1742983436
+                },
+                "name": {
+                    "value": "Cuidado facial y corporal",
+                    "previous": [],
+                    "timestamp": 1742983436
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983436
+                },
+                "order": {
+                    "value": 241,
+                    "previous": [],
+                    "timestamp": 1742983436
+                }
+            },
+            {
+                "id": {
+                    "value": 22,
+                    "previous": [],
+                    "timestamp": 1742983497
+                },
+                "name": {
+                    "value": "Maquillaje",
+                    "previous": [],
+                    "timestamp": 1742983497
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983497
+                },
+                "order": {
+                    "value": 421,
+                    "previous": [],
+                    "timestamp": 1742983497
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Sérum de pestañas SOS cuida y refuerza Deliplus",
+            "previous": [],
+            "timestamp": 1742983436
+        },
+        "id": {
+            "value": "60590",
+            "previous": [],
+            "timestamp": 1742983436
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983436
+        },
+        "packaging": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983436
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1742983436
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983436
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983436
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983436
+            },
+            "unit_name": {
+                "value": "ud.",
+                "previous": [],
+                "timestamp": 1742983436
+            },
+            "unit_size": {
+                "value": 0.0085,
+                "previous": [],
+                "timestamp": 1742983436
+            },
+            "bulk_price": {
+                "value": "5.00",
+                "previous": [],
+                "timestamp": 1742983436
+            },
+            "unit_price": {
+                "value": "5.00",
+                "previous": [],
+                "timestamp": 1742983436
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983436
+            },
+            "size_format": {
+                "value": "l",
+                "previous": [],
+                "timestamp": 1742983436
+            },
+            "total_units": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983436
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983436
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983436
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983436
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983436
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1742983436
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983436
+            },
+            "reference_price": {
+                "value": "5.000",
+                "previous": [],
+                "timestamp": 1742983436
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983436
+            },
+            "reference_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1742983436
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983436
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983436
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983436
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/60590/serum-pestanas-sos-cuida-refuerza-deliplus",
+            "previous": [],
+            "timestamp": 1742983436
+        },
+        "slug": {
+            "value": "serum-pestanas-sos-cuida-refuerza-deliplus",
+            "previous": [],
+            "timestamp": 1742983436
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983436
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/ecf0dc550070f4585cb5738b81f1c6e6.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983436
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983436
+        }
+    },
+    "stats": {
+        "created_at": 1742983436,
+        "updated_at": 1743023349,
+        "updates": 4
+    }
+}

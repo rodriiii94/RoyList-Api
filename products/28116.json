@@ -1,0 +1,229 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983312
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983312
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 18,
+                    "previous": [],
+                    "timestamp": 1742983312
+                },
+                "name": {
+                    "value": "Agua y refrescos",
+                    "previous": [],
+                    "timestamp": 1742983312
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983312
+                },
+                "order": {
+                    "value": 8,
+                    "previous": [],
+                    "timestamp": 1742983312
+                }
+            },
+            {
+                "id": {
+                    "value": 23,
+                    "previous": [],
+                    "timestamp": 1742983451
+                },
+                "name": {
+                    "value": "Fitoterapia y parafarmacia",
+                    "previous": [],
+                    "timestamp": 1742983451
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983451
+                },
+                "order": {
+                    "value": 305,
+                    "previous": [],
+                    "timestamp": 1742983451
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Gel energético con cafeína Enervit Sport sabor cítricos",
+            "previous": [],
+            "timestamp": 1742983312
+        },
+        "id": {
+            "value": "28116",
+            "previous": [],
+            "timestamp": 1742983312
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983312
+        },
+        "packaging": {
+            "value": "Pack-3",
+            "previous": [],
+            "timestamp": 1742983312
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983312
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983312
+            },
+            "is_pack": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983312
+            },
+            "pack_size": {
+                "value": 0.032,
+                "previous": [],
+                "timestamp": 1742983312
+            },
+            "unit_name": {
+                "value": "ud.",
+                "previous": [],
+                "timestamp": 1742983312
+            },
+            "unit_size": {
+                "value": 0.096,
+                "previous": [],
+                "timestamp": 1742983312
+            },
+            "bulk_price": {
+                "value": "40.76",
+                "previous": [],
+                "timestamp": 1742983312
+            },
+            "unit_price": {
+                "value": "3.75",
+                "previous": [],
+                "timestamp": 1742983312
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983312
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983312
+            },
+            "total_units": {
+                "value": 3,
+                "previous": [],
+                "timestamp": 1742983312
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983312
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983312
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983312
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983312
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1742983312
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983312
+            },
+            "reference_price": {
+                "value": "40.761",
+                "previous": [],
+                "timestamp": 1742983312
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983312
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983312
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983312
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983312
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983312
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/28116/gel-energetico-con-cafeina-enervit-sport-sabor-citricos-pack-3",
+            "previous": [],
+            "timestamp": 1742983312
+        },
+        "slug": {
+            "value": "gel-energetico-con-cafeina-enervit-sport-sabor-citricos-pack-3",
+            "previous": [],
+            "timestamp": 1742983312
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983312
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/43778722108beca2bd6aa7e0c89c7eb4.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983312
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983312
+        }
+    },
+    "stats": {
+        "created_at": 1742983312,
+        "updated_at": 1743023298,
+        "updates": 4
+    }
+}

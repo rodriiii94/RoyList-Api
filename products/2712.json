@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983376
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983376
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 3,
+                    "previous": [],
+                    "timestamp": 1742983376
+                },
+                "name": {
+                    "value": "Carne",
+                    "previous": [],
+                    "timestamp": 1742983376
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983376
+                },
+                "order": {
+                    "value": 17,
+                    "previous": [],
+                    "timestamp": 1742983376
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Filetes de vacuno 1º B añojo para plancha o guisar",
+            "previous": [],
+            "timestamp": 1742983376
+        },
+        "id": {
+            "value": "2712",
+            "previous": [],
+            "timestamp": 1742983376
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983376
+        },
+        "packaging": {
+            "value": "Bandeja",
+            "previous": [],
+            "timestamp": 1742983376
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983376
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983376
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983376
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983376
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983376
+            },
+            "unit_size": {
+                "value": 0.5,
+                "previous": [],
+                "timestamp": 1742983376
+            },
+            "bulk_price": {
+                "value": "17.00",
+                "previous": [],
+                "timestamp": 1742983376
+            },
+            "unit_price": {
+                "value": "8.50",
+                "previous": [],
+                "timestamp": 1742983376
+            },
+            "approx_size": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983376
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983376
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983376
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983376
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983376
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983376
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983376
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1742983376
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983376
+            },
+            "reference_price": {
+                "value": "17.000",
+                "previous": [],
+                "timestamp": 1742983376
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983376
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983376
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983376
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983376
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983376
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/2712/filetes-vacuno-1o-b-anojo-plancha-guisar-bandeja",
+            "previous": [],
+            "timestamp": 1742983376
+        },
+        "slug": {
+            "value": "filetes-vacuno-1o-b-anojo-plancha-guisar-bandeja",
+            "previous": [],
+            "timestamp": 1742983376
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983376
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/fe2116cf645e321392d405ac3f6c6b37.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983376
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983376
+        }
+    },
+    "stats": {
+        "created_at": 1742983376,
+        "updated_at": 1743023211,
+        "updates": 2
+    }
+}

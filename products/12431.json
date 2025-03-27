@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983332
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983332
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 9,
+                    "previous": [],
+                    "timestamp": 1742983332
+                },
+                "name": {
+                    "value": "Azúcar, caramelos y chocolate",
+                    "previous": [],
+                    "timestamp": 1742983332
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983332
+                },
+                "order": {
+                    "value": 11,
+                    "previous": [],
+                    "timestamp": 1742983332
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Chocolatinas de chocolate negro Royal Mints 49% rellenas de crema sabor a menta",
+            "previous": [],
+            "timestamp": 1742983332
+        },
+        "id": {
+            "value": "12431",
+            "previous": [],
+            "timestamp": 1742983332
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983332
+        },
+        "packaging": {
+            "value": "Caja",
+            "previous": [],
+            "timestamp": 1742983332
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983332
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983332
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983332
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983332
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983332
+            },
+            "unit_size": {
+                "value": 0.2,
+                "previous": [],
+                "timestamp": 1742983332
+            },
+            "bulk_price": {
+                "value": "10.25",
+                "previous": [],
+                "timestamp": 1742983332
+            },
+            "unit_price": {
+                "value": "2.05",
+                "previous": [],
+                "timestamp": 1742983332
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983332
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983332
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983332
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983332
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983332
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983332
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983332
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1742983332
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983332
+            },
+            "reference_price": {
+                "value": "10.250",
+                "previous": [],
+                "timestamp": 1742983332
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983332
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983332
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983332
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983332
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983332
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/12431/chocolatinas-chocolate-negro-royal-mints-49-rellenas-crema-sabor-menta-caja",
+            "previous": [],
+            "timestamp": 1742983332
+        },
+        "slug": {
+            "value": "chocolatinas-chocolate-negro-royal-mints-49-rellenas-crema-sabor-menta-caja",
+            "previous": [],
+            "timestamp": 1742983332
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983332
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/388d58b7f7976656eaf9ec945411b92e.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983332
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983332
+        }
+    },
+    "stats": {
+        "created_at": 1742983332,
+        "updated_at": 1743023162,
+        "updates": 2
+    }
+}

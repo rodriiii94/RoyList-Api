@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983477
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983477
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 26,
+                    "previous": [],
+                    "timestamp": 1742983477
+                },
+                "name": {
+                    "value": "Limpieza y hogar",
+                    "previous": [],
+                    "timestamp": 1742983477
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983477
+                },
+                "order": {
+                    "value": 374,
+                    "previous": [],
+                    "timestamp": 1742983477
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Limpiador WC Spa Bosque Verde en gel",
+            "previous": [],
+            "timestamp": 1742983477
+        },
+        "id": {
+            "value": "43420",
+            "previous": [],
+            "timestamp": 1742983477
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983477
+        },
+        "packaging": {
+            "value": "Botella",
+            "previous": [],
+            "timestamp": 1742983477
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1742983477
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983477
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983477
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983477
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983477
+            },
+            "unit_size": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983477
+            },
+            "bulk_price": {
+                "value": "1.15",
+                "previous": [],
+                "timestamp": 1742983477
+            },
+            "unit_price": {
+                "value": "1.15",
+                "previous": [],
+                "timestamp": 1742983477
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983477
+            },
+            "size_format": {
+                "value": "l",
+                "previous": [],
+                "timestamp": 1742983477
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983477
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983477
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983477
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983477
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983477
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1742983477
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983477
+            },
+            "reference_price": {
+                "value": "1.150",
+                "previous": [],
+                "timestamp": 1742983477
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983477
+            },
+            "reference_format": {
+                "value": "L",
+                "previous": [],
+                "timestamp": 1742983477
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983477
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983477
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983477
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/43420/limpiador-wc-spa-bosque-verde-gel-botella",
+            "previous": [],
+            "timestamp": 1742983477
+        },
+        "slug": {
+            "value": "limpiador-wc-spa-bosque-verde-gel-botella",
+            "previous": [],
+            "timestamp": 1742983477
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983477
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/66b6ba2bce806ba6a38550dceb3ba031.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983477
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983477
+        }
+    },
+    "stats": {
+        "created_at": 1742983477,
+        "updated_at": 1743023328,
+        "updates": 2
+    }
+}

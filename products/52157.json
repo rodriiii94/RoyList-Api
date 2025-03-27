@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983393
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983393
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 4,
+                    "previous": [],
+                    "timestamp": 1742983393
+                },
+                "name": {
+                    "value": "Charcutería y quesos",
+                    "previous": [],
+                    "timestamp": 1742983393
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983393
+                },
+                "order": {
+                    "value": 159,
+                    "previous": [],
+                    "timestamp": 1742983393
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Paté de cerdo y pollo con trufa y arándanos Hacendado",
+            "previous": [],
+            "timestamp": 1742983393
+        },
+        "id": {
+            "value": "52157",
+            "previous": [],
+            "timestamp": 1742983393
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983393
+        },
+        "packaging": {
+            "value": "Paquete",
+            "previous": [],
+            "timestamp": 1742983393
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983393
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983393
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983393
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983393
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983393
+            },
+            "unit_size": {
+                "value": 0.1,
+                "previous": [],
+                "timestamp": 1742983393
+            },
+            "bulk_price": {
+                "value": "18.50",
+                "previous": [],
+                "timestamp": 1742983393
+            },
+            "unit_price": {
+                "value": "1.85",
+                "previous": [],
+                "timestamp": 1742983393
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983393
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983393
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983393
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983393
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983393
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983393
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983393
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1742983393
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983393
+            },
+            "reference_price": {
+                "value": "18.500",
+                "previous": [],
+                "timestamp": 1742983393
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983393
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983393
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983393
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983393
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983393
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/52157/pate-cerdo-pollo-con-trufa-arandanos-hacendado-paquete",
+            "previous": [],
+            "timestamp": 1742983393
+        },
+        "slug": {
+            "value": "pate-cerdo-pollo-con-trufa-arandanos-hacendado-paquete",
+            "previous": [],
+            "timestamp": 1742983393
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983393
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/a934d649a0d255eed26810f4804eb6d9.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983393
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983393
+        }
+    },
+    "stats": {
+        "created_at": 1742983393,
+        "updated_at": 1743023230,
+        "updates": 2
+    }
+}

@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983429
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983429
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 21,
+                    "previous": [],
+                    "timestamp": 1742983429
+                },
+                "name": {
+                    "value": "Cuidado del cabello",
+                    "previous": [],
+                    "timestamp": 1742983429
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983429
+                },
+                "order": {
+                    "value": 238,
+                    "previous": [],
+                    "timestamp": 1742983429
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Coloración permanente 8 1/2.1 rubio claro ceniza Deliplus",
+            "previous": [],
+            "timestamp": 1742983429
+        },
+        "id": {
+            "value": "73194",
+            "previous": [],
+            "timestamp": 1742983429
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983429
+        },
+        "packaging": {
+            "value": "Caja",
+            "previous": [],
+            "timestamp": 1742983429
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1742983429
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983429
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983429
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983429
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983429
+            },
+            "unit_size": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983429
+            },
+            "bulk_price": {
+                "value": "3.90",
+                "previous": [],
+                "timestamp": 1742983429
+            },
+            "unit_price": {
+                "value": "3.90",
+                "previous": [],
+                "timestamp": 1742983429
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983429
+            },
+            "size_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1742983429
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983429
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983429
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983429
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983429
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983429
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1742983429
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983429
+            },
+            "reference_price": {
+                "value": "3.900",
+                "previous": [],
+                "timestamp": 1742983429
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983429
+            },
+            "reference_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1742983429
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983429
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983429
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983429
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/73194/coloracion-permanente-8-121-rubio-claro-ceniza-deliplus-colorcor-caja",
+            "previous": [],
+            "timestamp": 1742983429
+        },
+        "slug": {
+            "value": "coloracion-permanente-8-121-rubio-claro-ceniza-deliplus-colorcor-caja",
+            "previous": [],
+            "timestamp": 1742983429
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983429
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/e1d10f35a08d14b3669abd9173668973.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983429
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983429
+        }
+    },
+    "stats": {
+        "created_at": 1742983429,
+        "updated_at": 1743023271,
+        "updates": 2
+    }
+}

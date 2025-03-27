@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983507
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983507
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 2,
+                    "previous": [],
+                    "timestamp": 1742983507
+                },
+                "name": {
+                    "value": "Marisco y pescado",
+                    "previous": [],
+                    "timestamp": 1742983507
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983507
+                },
+                "order": {
+                    "value": 441,
+                    "previous": [],
+                    "timestamp": 1742983507
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Taquitos de salmón ahumado Hacendado",
+            "previous": [],
+            "timestamp": 1742983507
+        },
+        "id": {
+            "value": "22612",
+            "previous": [],
+            "timestamp": 1742983507
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983507
+        },
+        "packaging": {
+            "value": "Paquete",
+            "previous": [],
+            "timestamp": 1742983507
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983507
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983507
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983507
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983507
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983507
+            },
+            "unit_size": {
+                "value": 0.1,
+                "previous": [],
+                "timestamp": 1742983507
+            },
+            "bulk_price": {
+                "value": "38.00",
+                "previous": [],
+                "timestamp": 1742983507
+            },
+            "unit_price": {
+                "value": "3.80",
+                "previous": [],
+                "timestamp": 1742983507
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983507
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983507
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983507
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983507
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983507
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983507
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983507
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1742983507
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983507
+            },
+            "reference_price": {
+                "value": "38.000",
+                "previous": [],
+                "timestamp": 1742983507
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983507
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983507
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983507
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983507
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983507
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/22612/taquitos-salmon-ahumado-hacendado-paquete",
+            "previous": [],
+            "timestamp": 1742983507
+        },
+        "slug": {
+            "value": "taquitos-salmon-ahumado-hacendado-paquete",
+            "previous": [],
+            "timestamp": 1742983507
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983507
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/8fcc57e7b49d3a0d3416acd77110e8f0.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983507
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983507
+        }
+    },
+    "stats": {
+        "created_at": 1742983507,
+        "updated_at": 1743023359,
+        "updates": 2
+    }
+}

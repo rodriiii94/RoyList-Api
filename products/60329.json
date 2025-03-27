@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983385
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983385
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 4,
+                    "previous": [],
+                    "timestamp": 1742983385
+                },
+                "name": {
+                    "value": "Charcutería y quesos",
+                    "previous": [],
+                    "timestamp": 1742983385
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983385
+                },
+                "order": {
+                    "value": 159,
+                    "previous": [],
+                    "timestamp": 1742983385
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Jamón cocido extra Hacendado finas lonchas",
+            "previous": [],
+            "timestamp": 1742983385
+        },
+        "id": {
+            "value": "60329",
+            "previous": [],
+            "timestamp": 1742983385
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983385
+        },
+        "packaging": {
+            "value": "Paquete",
+            "previous": [],
+            "timestamp": 1742983385
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983385
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983385
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983385
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983385
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983385
+            },
+            "unit_size": {
+                "value": 0.2,
+                "previous": [],
+                "timestamp": 1742983385
+            },
+            "bulk_price": {
+                "value": "10.25",
+                "previous": [],
+                "timestamp": 1742983385
+            },
+            "unit_price": {
+                "value": "2.05",
+                "previous": [],
+                "timestamp": 1742983385
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983385
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983385
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983385
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983385
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983385
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983385
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983385
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1742983385
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983385
+            },
+            "reference_price": {
+                "value": "10.250",
+                "previous": [],
+                "timestamp": 1742983385
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983385
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983385
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983385
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983385
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983385
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/60329/jamon-cocido-extra-hacendado-finas-lonchas-paquete",
+            "previous": [],
+            "timestamp": 1742983385
+        },
+        "slug": {
+            "value": "jamon-cocido-extra-hacendado-finas-lonchas-paquete",
+            "previous": [],
+            "timestamp": 1742983385
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983385
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/d070e4c58948dba0b36098e312bb401b.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983385
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983385
+        }
+    },
+    "stats": {
+        "created_at": 1742983385,
+        "updated_at": 1743023221,
+        "updates": 2
+    }
+}

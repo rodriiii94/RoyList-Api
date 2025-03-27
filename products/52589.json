@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983452
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983452
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 23,
+                    "previous": [],
+                    "timestamp": 1742983452
+                },
+                "name": {
+                    "value": "Fitoterapia y parafarmacia",
+                    "previous": [],
+                    "timestamp": 1742983452
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983452
+                },
+                "order": {
+                    "value": 305,
+                    "previous": [],
+                    "timestamp": 1742983452
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Cápsulas Probiótico Deliplus",
+            "previous": [],
+            "timestamp": 1742983452
+        },
+        "id": {
+            "value": "52589",
+            "previous": [],
+            "timestamp": 1742983452
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983452
+        },
+        "packaging": {
+            "value": "Caja",
+            "previous": [],
+            "timestamp": 1742983452
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983452
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983452
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983452
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983452
+            },
+            "unit_name": {
+                "value": "cápsulas",
+                "previous": [],
+                "timestamp": 1742983452
+            },
+            "unit_size": {
+                "value": 0.01785,
+                "previous": [],
+                "timestamp": 1742983452
+            },
+            "bulk_price": {
+                "value": "0.20",
+                "previous": [],
+                "timestamp": 1742983452
+            },
+            "unit_price": {
+                "value": "5.95",
+                "previous": [],
+                "timestamp": 1742983452
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983452
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983452
+            },
+            "total_units": {
+                "value": 30,
+                "previous": [],
+                "timestamp": 1742983452
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983452
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983452
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983452
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983452
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1742983452
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983452
+            },
+            "reference_price": {
+                "value": "0.199",
+                "previous": [],
+                "timestamp": 1742983452
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983452
+            },
+            "reference_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1742983452
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983452
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983452
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983452
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/52589/capsulas-probiotico-deliplus-contiene-5-variedades-cepas-elaborado-base-microorganismos-fos-caja",
+            "previous": [],
+            "timestamp": 1742983452
+        },
+        "slug": {
+            "value": "capsulas-probiotico-deliplus-contiene-5-variedades-cepas-elaborado-base-microorganismos-fos-caja",
+            "previous": [],
+            "timestamp": 1742983452
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983452
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/d94188b7a400445efd52f09bc4349a8f.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983452
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983452
+        }
+    },
+    "stats": {
+        "created_at": 1742983452,
+        "updated_at": 1743023298,
+        "updates": 2
+    }
+}

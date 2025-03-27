@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983391
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983391
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 4,
+                    "previous": [],
+                    "timestamp": 1742983391
+                },
+                "name": {
+                    "value": "Charcutería y quesos",
+                    "previous": [],
+                    "timestamp": 1742983391
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983391
+                },
+                "order": {
+                    "value": 159,
+                    "previous": [],
+                    "timestamp": 1742983391
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Jamón cebo ibérico cortado a máquina",
+            "previous": [],
+            "timestamp": 1742983391
+        },
+        "id": {
+            "value": "22879",
+            "previous": [],
+            "timestamp": 1742983391
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983391
+        },
+        "packaging": {
+            "value": "Paquete",
+            "previous": [],
+            "timestamp": 1742983391
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983391
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983391
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983391
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983391
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983391
+            },
+            "unit_size": {
+                "value": 0.18,
+                "previous": [],
+                "timestamp": 1742983391
+            },
+            "bulk_price": {
+                "value": "53.00",
+                "previous": [],
+                "timestamp": 1742983391
+            },
+            "unit_price": {
+                "value": "9.54",
+                "previous": [],
+                "timestamp": 1742983391
+            },
+            "approx_size": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983391
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983391
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983391
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983391
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983391
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983391
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983391
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1742983391
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983391
+            },
+            "reference_price": {
+                "value": "53.000",
+                "previous": [],
+                "timestamp": 1742983391
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983391
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983391
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983391
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983391
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983391
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/22879/jamon-cebo-iberico-cortado-maquina-envasado-vacio-paquete",
+            "previous": [],
+            "timestamp": 1742983391
+        },
+        "slug": {
+            "value": "jamon-cebo-iberico-cortado-maquina-envasado-vacio-paquete",
+            "previous": [],
+            "timestamp": 1742983391
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983391
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/49463ba5be44bdee24435f9175d659a9.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983391
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983391
+        }
+    },
+    "stats": {
+        "created_at": 1742983391,
+        "updated_at": 1743023228,
+        "updates": 2
+    }
+}

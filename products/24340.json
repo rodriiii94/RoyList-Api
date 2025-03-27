@@ -1,0 +1,229 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983407
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983407
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 17,
+                    "previous": [],
+                    "timestamp": 1742983407
+                },
+                "name": {
+                    "value": "Congelados",
+                    "previous": [],
+                    "timestamp": 1742983407
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983407
+                },
+                "order": {
+                    "value": 213,
+                    "previous": [],
+                    "timestamp": 1742983407
+                }
+            },
+            {
+                "id": {
+                    "value": 2,
+                    "previous": [],
+                    "timestamp": 1742983502
+                },
+                "name": {
+                    "value": "Marisco y pescado",
+                    "previous": [],
+                    "timestamp": 1742983502
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983502
+                },
+                "order": {
+                    "value": 441,
+                    "previous": [],
+                    "timestamp": 1742983502
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Cola de rape del Cabo sin piel Hacendado ultracongelada",
+            "previous": [],
+            "timestamp": 1742983407
+        },
+        "id": {
+            "value": "24340",
+            "previous": [],
+            "timestamp": 1742983407
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983407
+        },
+        "packaging": {
+            "value": "Pieza",
+            "previous": [],
+            "timestamp": 1742983407
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983407
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983407
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983407
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983407
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983407
+            },
+            "unit_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983407
+            },
+            "bulk_price": {
+                "value": "17.95",
+                "previous": [],
+                "timestamp": 1742983407
+            },
+            "unit_price": {
+                "value": "8.98",
+                "previous": [],
+                "timestamp": 1742983407
+            },
+            "approx_size": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983407
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983407
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983407
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983407
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983407
+            },
+            "drained_weight": {
+                "value": 0.5,
+                "previous": [],
+                "timestamp": 1742983407
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983407
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1742983407
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983407
+            },
+            "reference_price": {
+                "value": "17.950",
+                "previous": [],
+                "timestamp": 1742983407
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983407
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983407
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983407
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983407
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983407
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/24340/cola-rape-cabo-hacendado-ultracongelada-pieza",
+            "previous": [],
+            "timestamp": 1742983407
+        },
+        "slug": {
+            "value": "cola-rape-cabo-hacendado-ultracongelada-pieza",
+            "previous": [],
+            "timestamp": 1742983407
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983407
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/c6a90e97cfdc0b074089fa6fcc67c6cd.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983407
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983407
+        }
+    },
+    "stats": {
+        "created_at": 1742983407,
+        "updated_at": 1743023354,
+        "updates": 4
+    }
+}

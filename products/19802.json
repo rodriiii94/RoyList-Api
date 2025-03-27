@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983329
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983329
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 9,
+                    "previous": [],
+                    "timestamp": 1742983329
+                },
+                "name": {
+                    "value": "Azúcar, caramelos y chocolate",
+                    "previous": [],
+                    "timestamp": 1742983329
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983329
+                },
+                "order": {
+                    "value": 11,
+                    "previous": [],
+                    "timestamp": 1742983329
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Edulcorante en pastillas sacarina Hacendado",
+            "previous": [],
+            "timestamp": 1742983329
+        },
+        "id": {
+            "value": "19802",
+            "previous": [],
+            "timestamp": 1742983329
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983329
+        },
+        "packaging": {
+            "value": "Bote",
+            "previous": [],
+            "timestamp": 1742983329
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983329
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983329
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983329
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983329
+            },
+            "unit_name": {
+                "value": "pastillas",
+                "previous": [],
+                "timestamp": 1742983329
+            },
+            "unit_size": {
+                "value": 0.052,
+                "previous": [],
+                "timestamp": 1742983329
+            },
+            "bulk_price": {
+                "value": "22.12",
+                "previous": [],
+                "timestamp": 1742983329
+            },
+            "unit_price": {
+                "value": "1.15",
+                "previous": [],
+                "timestamp": 1742983329
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983329
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983329
+            },
+            "total_units": {
+                "value": 850,
+                "previous": [],
+                "timestamp": 1742983329
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983329
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983329
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983329
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983329
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1742983329
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983329
+            },
+            "reference_price": {
+                "value": "22.116",
+                "previous": [],
+                "timestamp": 1742983329
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983329
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983329
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983329
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983329
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983329
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/19802/edulcorante-pastillas-sacarina-hacendado-bote",
+            "previous": [],
+            "timestamp": 1742983329
+        },
+        "slug": {
+            "value": "edulcorante-pastillas-sacarina-hacendado-bote",
+            "previous": [],
+            "timestamp": 1742983329
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983329
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/dc0e233a3502c53e0e79b58ec47949d7.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983329
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983329
+        }
+    },
+    "stats": {
+        "created_at": 1742983329,
+        "updated_at": 1743023158,
+        "updates": 2
+    }
+}

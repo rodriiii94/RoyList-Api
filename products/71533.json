@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983489
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983489
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 26,
+                    "previous": [],
+                    "timestamp": 1742983489
+                },
+                "name": {
+                    "value": "Limpieza y hogar",
+                    "previous": [],
+                    "timestamp": 1742983489
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983489
+                },
+                "order": {
+                    "value": 374,
+                    "previous": [],
+                    "timestamp": 1742983489
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Gamuzas atrapa polvo Bosque Verde",
+            "previous": [],
+            "timestamp": 1742983489
+        },
+        "id": {
+            "value": "71533",
+            "previous": [],
+            "timestamp": 1742983489
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983489
+        },
+        "packaging": {
+            "value": "Paquete",
+            "previous": [],
+            "timestamp": 1742983489
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1742983489
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983489
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983489
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983489
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983489
+            },
+            "unit_size": {
+                "value": 30,
+                "previous": [],
+                "timestamp": 1742983489
+            },
+            "bulk_price": {
+                "value": "0.06",
+                "previous": [],
+                "timestamp": 1742983489
+            },
+            "unit_price": {
+                "value": "1.80",
+                "previous": [],
+                "timestamp": 1742983489
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983489
+            },
+            "size_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1742983489
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983489
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983489
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983489
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983489
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983489
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1742983489
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983489
+            },
+            "reference_price": {
+                "value": "0.060",
+                "previous": [],
+                "timestamp": 1742983489
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983489
+            },
+            "reference_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1742983489
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983489
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983489
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983489
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/71533/gamuzas-atrapa-polvo-bosque-verde-paquete",
+            "previous": [],
+            "timestamp": 1742983489
+        },
+        "slug": {
+            "value": "gamuzas-atrapa-polvo-bosque-verde-paquete",
+            "previous": [],
+            "timestamp": 1742983489
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983489
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/1ae35728df80a90961898ca31112047d.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983489
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983489
+        }
+    },
+    "stats": {
+        "created_at": 1742983489,
+        "updated_at": 1743023340,
+        "updates": 2
+    }
+}

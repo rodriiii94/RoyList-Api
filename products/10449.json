@@ -1,0 +1,229 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983362
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983362
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 8,
+                    "previous": [],
+                    "timestamp": 1742983362
+                },
+                "name": {
+                    "value": "Cacao, café e infusiones",
+                    "previous": [],
+                    "timestamp": 1742983362
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983362
+                },
+                "order": {
+                    "value": 16,
+                    "previous": [],
+                    "timestamp": 1742983362
+                }
+            },
+            {
+                "id": {
+                    "value": 6,
+                    "previous": [],
+                    "timestamp": 1742983463
+                },
+                "name": {
+                    "value": "Huevos, leche y mantequilla",
+                    "previous": [],
+                    "timestamp": 1742983463
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983463
+                },
+                "order": {
+                    "value": 373,
+                    "previous": [],
+                    "timestamp": 1742983463
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Crema de leche para café Campina",
+            "previous": [],
+            "timestamp": 1742983362
+        },
+        "id": {
+            "value": "10449",
+            "previous": [],
+            "timestamp": 1742983362
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983362
+        },
+        "packaging": {
+            "value": "Paquete",
+            "previous": [],
+            "timestamp": 1742983362
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983362
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983362
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983362
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983362
+            },
+            "unit_name": {
+                "value": "ud.",
+                "previous": [],
+                "timestamp": 1742983362
+            },
+            "unit_size": {
+                "value": 0.2,
+                "previous": [],
+                "timestamp": 1742983362
+            },
+            "bulk_price": {
+                "value": "6.50",
+                "previous": [],
+                "timestamp": 1742983362
+            },
+            "unit_price": {
+                "value": "1.30",
+                "previous": [],
+                "timestamp": 1742983362
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983362
+            },
+            "size_format": {
+                "value": "l",
+                "previous": [],
+                "timestamp": 1742983362
+            },
+            "total_units": {
+                "value": 20,
+                "previous": [],
+                "timestamp": 1742983362
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983362
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983362
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983362
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983362
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1742983362
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983362
+            },
+            "reference_price": {
+                "value": "6.500",
+                "previous": [],
+                "timestamp": 1742983362
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983362
+            },
+            "reference_format": {
+                "value": "L",
+                "previous": [],
+                "timestamp": 1742983362
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983362
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983362
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983362
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/10449/crema-leche-cafe-campina-paquete",
+            "previous": [],
+            "timestamp": 1742983362
+        },
+        "slug": {
+            "value": "crema-leche-cafe-campina-paquete",
+            "previous": [],
+            "timestamp": 1742983362
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983362
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/d60fe3bcdd22baf485111a85653587d3.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983362
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983362
+        }
+    },
+    "stats": {
+        "created_at": 1742983362,
+        "updated_at": 1743023313,
+        "updates": 4
+    }
+}

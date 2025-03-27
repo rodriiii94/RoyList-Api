@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983352
+            },
+            "requires_age_check": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983352
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 19,
+                    "previous": [],
+                    "timestamp": 1742983352
+                },
+                "name": {
+                    "value": "Bodega",
+                    "previous": [],
+                    "timestamp": 1742983352
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983352
+                },
+                "order": {
+                    "value": 15,
+                    "previous": [],
+                    "timestamp": 1742983352
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Vino tinto dulce de aguja Sangue di Giuda Cueva peccato frizzante",
+            "previous": [],
+            "timestamp": 1742983352
+        },
+        "id": {
+            "value": "66673",
+            "previous": [],
+            "timestamp": 1742983352
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983352
+        },
+        "packaging": {
+            "value": "Botella",
+            "previous": [],
+            "timestamp": 1742983352
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1742983352
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983352
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983352
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983352
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983352
+            },
+            "unit_size": {
+                "value": 0.75,
+                "previous": [],
+                "timestamp": 1742983352
+            },
+            "bulk_price": {
+                "value": "5.20",
+                "previous": [],
+                "timestamp": 1742983352
+            },
+            "unit_price": {
+                "value": "3.90",
+                "previous": [],
+                "timestamp": 1742983352
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983352
+            },
+            "size_format": {
+                "value": "l",
+                "previous": [],
+                "timestamp": 1742983352
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983352
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983352
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983352
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983352
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983352
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1742983352
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983352
+            },
+            "reference_price": {
+                "value": "5.200",
+                "previous": [],
+                "timestamp": 1742983352
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983352
+            },
+            "reference_format": {
+                "value": "L",
+                "previous": [],
+                "timestamp": 1742983352
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983352
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983352
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983352
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/66673/vino-tinto-dulce-aguja-sangue-di-giuda-cueva-peccato-frizzante-botella",
+            "previous": [],
+            "timestamp": 1742983352
+        },
+        "slug": {
+            "value": "vino-tinto-dulce-aguja-sangue-di-giuda-cueva-peccato-frizzante-botella",
+            "previous": [],
+            "timestamp": 1742983352
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983352
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/6af259b3c0bfb3d1320b00743970edb3.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983352
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983352
+        }
+    },
+    "stats": {
+        "created_at": 1742983352,
+        "updated_at": 1743023189,
+        "updates": 4
+    }
+}

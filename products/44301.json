@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983476
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983476
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 26,
+                    "previous": [],
+                    "timestamp": 1742983476
+                },
+                "name": {
+                    "value": "Limpieza y hogar",
+                    "previous": [],
+                    "timestamp": 1742983476
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983476
+                },
+                "order": {
+                    "value": 374,
+                    "previous": [],
+                    "timestamp": 1742983476
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Friegasuelos Pétalos Bosque Verde concentrado",
+            "previous": [],
+            "timestamp": 1742983476
+        },
+        "id": {
+            "value": "44301",
+            "previous": [],
+            "timestamp": 1742983476
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983476
+        },
+        "packaging": {
+            "value": "Botella",
+            "previous": [],
+            "timestamp": 1742983476
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1742983476
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983476
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983476
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983476
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983476
+            },
+            "unit_size": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983476
+            },
+            "bulk_price": {
+                "value": "1.70",
+                "previous": [],
+                "timestamp": 1742983476
+            },
+            "unit_price": {
+                "value": "1.70",
+                "previous": [],
+                "timestamp": 1742983476
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983476
+            },
+            "size_format": {
+                "value": "l",
+                "previous": [],
+                "timestamp": 1742983476
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983476
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983476
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983476
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983476
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983476
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1742983476
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983476
+            },
+            "reference_price": {
+                "value": "1.700",
+                "previous": [],
+                "timestamp": 1742983476
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983476
+            },
+            "reference_format": {
+                "value": "L",
+                "previous": [],
+                "timestamp": 1742983476
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983476
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983476
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983476
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/44301/friegasuelos-petalos-bosque-verde-concentrado-perfume-intenso-duradero-botella",
+            "previous": [],
+            "timestamp": 1742983476
+        },
+        "slug": {
+            "value": "friegasuelos-petalos-bosque-verde-concentrado-perfume-intenso-duradero-botella",
+            "previous": [],
+            "timestamp": 1742983476
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983476
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/9a329d11c669b51faecc3a2f47be8e40.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983476
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983476
+        }
+    },
+    "stats": {
+        "created_at": 1742983476,
+        "updated_at": 1743023326,
+        "updates": 2
+    }
+}

@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983479
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983479
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 26,
+                    "previous": [],
+                    "timestamp": 1742983479
+                },
+                "name": {
+                    "value": "Limpieza y hogar",
+                    "previous": [],
+                    "timestamp": 1742983479
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983479
+                },
+                "order": {
+                    "value": 374,
+                    "previous": [],
+                    "timestamp": 1742983479
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Toallitas limpiadoras desengrasantes de Cocina Bosque Verde",
+            "previous": [],
+            "timestamp": 1742983479
+        },
+        "id": {
+            "value": "43935",
+            "previous": [],
+            "timestamp": 1742983479
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983479
+        },
+        "packaging": {
+            "value": "Paquete",
+            "previous": [],
+            "timestamp": 1742983479
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1742983479
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983479
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983479
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983479
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983479
+            },
+            "unit_size": {
+                "value": 50,
+                "previous": [],
+                "timestamp": 1742983479
+            },
+            "bulk_price": {
+                "value": "0.03",
+                "previous": [],
+                "timestamp": 1742983479
+            },
+            "unit_price": {
+                "value": "1.30",
+                "previous": [],
+                "timestamp": 1742983479
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983479
+            },
+            "size_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1742983479
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983479
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983479
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983479
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983479
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983479
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1742983479
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983479
+            },
+            "reference_price": {
+                "value": "0.026",
+                "previous": [],
+                "timestamp": 1742983479
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983479
+            },
+            "reference_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1742983479
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983479
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983479
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983479
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/43935/toallitas-limpiadoras-desengrasantes-cocina-bosque-verde-paquete",
+            "previous": [],
+            "timestamp": 1742983479
+        },
+        "slug": {
+            "value": "toallitas-limpiadoras-desengrasantes-cocina-bosque-verde-paquete",
+            "previous": [],
+            "timestamp": 1742983479
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983479
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/429883f9dc188dcca4118f3c0ba8649e.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983479
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983479
+        }
+    },
+    "stats": {
+        "created_at": 1742983479,
+        "updated_at": 1743023330,
+        "updates": 2
+    }
+}

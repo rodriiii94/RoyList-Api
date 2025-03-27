@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983415
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983415
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 14,
+                    "previous": [],
+                    "timestamp": 1742983415
+                },
+                "name": {
+                    "value": "Conservas, caldos y cremas",
+                    "previous": [],
+                    "timestamp": 1742983415
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983415
+                },
+                "order": {
+                    "value": 215,
+                    "previous": [],
+                    "timestamp": 1742983415
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Sardinillas reducidas en sal en aceite de oliva Hacendado",
+            "previous": [],
+            "timestamp": 1742983415
+        },
+        "id": {
+            "value": "18214",
+            "previous": [],
+            "timestamp": 1742983415
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983415
+        },
+        "packaging": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983415
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983415
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983415
+            },
+            "is_pack": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983415
+            },
+            "pack_size": {
+                "value": 0.065,
+                "previous": [],
+                "timestamp": 1742983415
+            },
+            "unit_name": {
+                "value": "latas",
+                "previous": [],
+                "timestamp": 1742983415
+            },
+            "unit_size": {
+                "value": 0.18,
+                "previous": [],
+                "timestamp": 1742983415
+            },
+            "bulk_price": {
+                "value": "11.39",
+                "previous": [],
+                "timestamp": 1742983415
+            },
+            "unit_price": {
+                "value": "2.05",
+                "previous": [],
+                "timestamp": 1742983415
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983415
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983415
+            },
+            "total_units": {
+                "value": 2,
+                "previous": [],
+                "timestamp": 1742983415
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983415
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983415
+            },
+            "drained_weight": {
+                "value": 0.13,
+                "previous": [],
+                "timestamp": 1742983415
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983415
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1742983415
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983415
+            },
+            "reference_price": {
+                "value": "15.770",
+                "previous": [],
+                "timestamp": 1742983415
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983415
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983415
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983415
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983415
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983415
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/18214/sardinillas-reducidas-sal-aceite-oliva-hacendado-6-12-ud-pack-2",
+            "previous": [],
+            "timestamp": 1742983415
+        },
+        "slug": {
+            "value": "sardinillas-reducidas-sal-aceite-oliva-hacendado-6-12-ud-pack-2",
+            "previous": [],
+            "timestamp": 1742983415
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983415
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/50ed9a5e452499dc949cd76af9138024.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983415
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983415
+        }
+    },
+    "stats": {
+        "created_at": 1742983415,
+        "updated_at": 1743023256,
+        "updates": 2
+    }
+}

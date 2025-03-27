@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983519
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983519
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 5,
+                    "previous": [],
+                    "timestamp": 1742983519
+                },
+                "name": {
+                    "value": "Panadería y pastelería",
+                    "previous": [],
+                    "timestamp": 1742983519
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983519
+                },
+                "order": {
+                    "value": 514,
+                    "previous": [],
+                    "timestamp": 1742983519
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Pan mini semillas",
+            "previous": [],
+            "timestamp": 1742983519
+        },
+        "id": {
+            "value": "83116",
+            "previous": [],
+            "timestamp": 1742983519
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983519
+        },
+        "packaging": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983519
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 4,
+                "previous": [],
+                "timestamp": 1742983519
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983519
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983519
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983519
+            },
+            "unit_name": {
+                "value": "ud.",
+                "previous": [],
+                "timestamp": 1742983519
+            },
+            "unit_size": {
+                "value": 0.09,
+                "previous": [],
+                "timestamp": 1742983519
+            },
+            "bulk_price": {
+                "value": "3.67",
+                "previous": [],
+                "timestamp": 1742983519
+            },
+            "unit_price": {
+                "value": "0.33",
+                "previous": [],
+                "timestamp": 1742983519
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983519
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983519
+            },
+            "total_units": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983519
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983519
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983519
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983519
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983519
+            },
+            "tax_percentage": {
+                "value": "4.000",
+                "previous": [],
+                "timestamp": 1742983519
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983519
+            },
+            "reference_price": {
+                "value": "3.667",
+                "previous": [],
+                "timestamp": 1742983519
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983519
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983519
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983519
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983519
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983519
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/83116/pan-mini-semillas",
+            "previous": [],
+            "timestamp": 1742983519
+        },
+        "slug": {
+            "value": "pan-mini-semillas",
+            "previous": [],
+            "timestamp": 1742983519
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983519
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/59676df0c9df7308840d3aac54fd742c.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983519
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983519
+        }
+    },
+    "stats": {
+        "created_at": 1742983519,
+        "updated_at": 1743023372,
+        "updates": 2
+    }
+}

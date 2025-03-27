@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983462
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983462
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 6,
+                    "previous": [],
+                    "timestamp": 1742983462
+                },
+                "name": {
+                    "value": "Huevos, leche y mantequilla",
+                    "previous": [],
+                    "timestamp": 1742983462
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983462
+                },
+                "order": {
+                    "value": 373,
+                    "previous": [],
+                    "timestamp": 1742983462
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Leche semidesnatada Hacendado",
+            "previous": [],
+            "timestamp": 1742983462
+        },
+        "id": {
+            "value": "10794",
+            "previous": [],
+            "timestamp": 1742983462
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983462
+        },
+        "packaging": {
+            "value": "Pack-6",
+            "previous": [],
+            "timestamp": 1742983462
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 4,
+                "previous": [],
+                "timestamp": 1742983462
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983462
+            },
+            "is_pack": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983462
+            },
+            "pack_size": {
+                "value": 0.2,
+                "previous": [],
+                "timestamp": 1742983462
+            },
+            "unit_name": {
+                "value": "mini bricks",
+                "previous": [],
+                "timestamp": 1742983462
+            },
+            "unit_size": {
+                "value": 1.2,
+                "previous": [],
+                "timestamp": 1742983462
+            },
+            "bulk_price": {
+                "value": "1.33",
+                "previous": [],
+                "timestamp": 1742983462
+            },
+            "unit_price": {
+                "value": "1.59",
+                "previous": [],
+                "timestamp": 1742983462
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983462
+            },
+            "size_format": {
+                "value": "l",
+                "previous": [],
+                "timestamp": 1742983462
+            },
+            "total_units": {
+                "value": 6,
+                "previous": [],
+                "timestamp": 1742983462
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983462
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983462
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983462
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983462
+            },
+            "tax_percentage": {
+                "value": "4.000",
+                "previous": [],
+                "timestamp": 1742983462
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983462
+            },
+            "reference_price": {
+                "value": "1.325",
+                "previous": [],
+                "timestamp": 1742983462
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983462
+            },
+            "reference_format": {
+                "value": "L",
+                "previous": [],
+                "timestamp": 1742983462
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983462
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983462
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983462
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/10794/leche-semidesnatada-hacendado-pack-6",
+            "previous": [],
+            "timestamp": 1742983462
+        },
+        "slug": {
+            "value": "leche-semidesnatada-hacendado-pack-6",
+            "previous": [],
+            "timestamp": 1742983462
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983462
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/f16c6d550a0a4236222a7dfdea3017ca.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983462
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983462
+        }
+    },
+    "stats": {
+        "created_at": 1742983462,
+        "updated_at": 1743023311,
+        "updates": 2
+    }
+}

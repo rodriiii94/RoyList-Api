@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983444
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983444
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 20,
+                    "previous": [],
+                    "timestamp": 1742983444
+                },
+                "name": {
+                    "value": "Cuidado facial y corporal",
+                    "previous": [],
+                    "timestamp": 1742983444
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983444
+                },
+                "order": {
+                    "value": 241,
+                    "previous": [],
+                    "timestamp": 1742983444
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Compresa con alas normal Deliplus Cotton",
+            "previous": [],
+            "timestamp": 1742983444
+        },
+        "id": {
+            "value": "47356",
+            "previous": [],
+            "timestamp": 1742983444
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983444
+        },
+        "packaging": {
+            "value": "Paquete",
+            "previous": [],
+            "timestamp": 1742983444
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 4,
+                "previous": [],
+                "timestamp": 1742983444
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983444
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983444
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983444
+            },
+            "unit_name": {
+                "value": "ud.",
+                "previous": [],
+                "timestamp": 1742983444
+            },
+            "unit_size": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983444
+            },
+            "bulk_price": {
+                "value": "0.10",
+                "previous": [],
+                "timestamp": 1742983444
+            },
+            "unit_price": {
+                "value": "3.20",
+                "previous": [],
+                "timestamp": 1742983444
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983444
+            },
+            "size_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1742983444
+            },
+            "total_units": {
+                "value": 32,
+                "previous": [],
+                "timestamp": 1742983444
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983444
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983444
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983444
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983444
+            },
+            "tax_percentage": {
+                "value": "4.000",
+                "previous": [],
+                "timestamp": 1742983444
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983444
+            },
+            "reference_price": {
+                "value": "0.100",
+                "previous": [],
+                "timestamp": 1742983444
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983444
+            },
+            "reference_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1742983444
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983444
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983444
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983444
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/47356/compresa-con-alas-normal-deliplus-cotton-paquete",
+            "previous": [],
+            "timestamp": 1742983444
+        },
+        "slug": {
+            "value": "compresa-con-alas-normal-deliplus-cotton-paquete",
+            "previous": [],
+            "timestamp": 1742983444
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983444
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/b6469f741661e97c8f8fd610cf01fb6c.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983444
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983444
+        }
+    },
+    "stats": {
+        "created_at": 1742983444,
+        "updated_at": 1743023290,
+        "updates": 2
+    }
+}

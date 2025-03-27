@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983499
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983499
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 22,
+                    "previous": [],
+                    "timestamp": 1742983499
+                },
+                "name": {
+                    "value": "Maquillaje",
+                    "previous": [],
+                    "timestamp": 1742983499
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983499
+                },
+                "order": {
+                    "value": 421,
+                    "previous": [],
+                    "timestamp": 1742983499
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Esponja maquillaje Deliplus",
+            "previous": [],
+            "timestamp": 1742983499
+        },
+        "id": {
+            "value": "9947",
+            "previous": [],
+            "timestamp": 1742983499
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983499
+        },
+        "packaging": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983499
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1742983499
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983499
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983499
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983499
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983499
+            },
+            "unit_size": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983499
+            },
+            "bulk_price": {
+                "value": "3.00",
+                "previous": [],
+                "timestamp": 1742983499
+            },
+            "unit_price": {
+                "value": "3.00",
+                "previous": [],
+                "timestamp": 1742983499
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983499
+            },
+            "size_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1742983499
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983499
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983499
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983499
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983499
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983499
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1742983499
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983499
+            },
+            "reference_price": {
+                "value": "3.000",
+                "previous": [],
+                "timestamp": 1742983499
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983499
+            },
+            "reference_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1742983499
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983499
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983499
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983499
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/9947/esponja-maquillaje-deliplus",
+            "previous": [],
+            "timestamp": 1742983499
+        },
+        "slug": {
+            "value": "esponja-maquillaje-deliplus",
+            "previous": [],
+            "timestamp": 1742983499
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983499
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/f989b1bab0f74bb6012fdbaacf4c256a.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983499
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983499
+        }
+    },
+    "stats": {
+        "created_at": 1742983499,
+        "updated_at": 1743023351,
+        "updates": 2
+    }
+}

@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983379
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983379
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 7,
+                    "previous": [],
+                    "timestamp": 1742983379
+                },
+                "name": {
+                    "value": "Cereales y galletas",
+                    "previous": [],
+                    "timestamp": 1742983379
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983379
+                },
+                "order": {
+                    "value": 18,
+                    "previous": [],
+                    "timestamp": 1742983379
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Muesli Crunchy Hacendado con chocolate",
+            "previous": [],
+            "timestamp": 1742983379
+        },
+        "id": {
+            "value": "9355",
+            "previous": [],
+            "timestamp": 1742983379
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983379
+        },
+        "packaging": {
+            "value": "Paquete",
+            "previous": [],
+            "timestamp": 1742983379
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983379
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983379
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983379
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983379
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983379
+            },
+            "unit_size": {
+                "value": 0.5,
+                "previous": [],
+                "timestamp": 1742983379
+            },
+            "bulk_price": {
+                "value": "4.90",
+                "previous": [],
+                "timestamp": 1742983379
+            },
+            "unit_price": {
+                "value": "2.45",
+                "previous": [],
+                "timestamp": 1742983379
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983379
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983379
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983379
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983379
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983379
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983379
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983379
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1742983379
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983379
+            },
+            "reference_price": {
+                "value": "4.900",
+                "previous": [],
+                "timestamp": 1742983379
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983379
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983379
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983379
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983379
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983379
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/9355/muesli-crunchy-hacendado-con-chocolate-15-chocolate-paquete",
+            "previous": [],
+            "timestamp": 1742983379
+        },
+        "slug": {
+            "value": "muesli-crunchy-hacendado-con-chocolate-15-chocolate-paquete",
+            "previous": [],
+            "timestamp": 1742983379
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983379
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/3d93c78bdee2295299fbdca9332e7439.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983379
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983379
+        }
+    },
+    "stats": {
+        "created_at": 1742983379,
+        "updated_at": 1743023215,
+        "updates": 2
+    }
+}

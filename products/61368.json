@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983413
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983413
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 17,
+                    "previous": [],
+                    "timestamp": 1742983413
+                },
+                "name": {
+                    "value": "Congelados",
+                    "previous": [],
+                    "timestamp": 1742983413
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983413
+                },
+                "order": {
+                    "value": 213,
+                    "previous": [],
+                    "timestamp": 1742983413
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Espinacas a la crema Hacendado ultracongeladas",
+            "previous": [],
+            "timestamp": 1742983413
+        },
+        "id": {
+            "value": "61368",
+            "previous": [],
+            "timestamp": 1742983413
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983413
+        },
+        "packaging": {
+            "value": "Paquete",
+            "previous": [],
+            "timestamp": 1742983413
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983413
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983413
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983413
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983413
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983413
+            },
+            "unit_size": {
+                "value": 0.45,
+                "previous": [],
+                "timestamp": 1742983413
+            },
+            "bulk_price": {
+                "value": "4.89",
+                "previous": [],
+                "timestamp": 1742983413
+            },
+            "unit_price": {
+                "value": "2.20",
+                "previous": [],
+                "timestamp": 1742983413
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983413
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983413
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983413
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983413
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983413
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983413
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983413
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1742983413
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983413
+            },
+            "reference_price": {
+                "value": "4.889",
+                "previous": [],
+                "timestamp": 1742983413
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983413
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983413
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983413
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983413
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983413
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/61368/espinacas-crema-hacendado-ultracongeladas-paquete",
+            "previous": [],
+            "timestamp": 1742983413
+        },
+        "slug": {
+            "value": "espinacas-crema-hacendado-ultracongeladas-paquete",
+            "previous": [],
+            "timestamp": 1742983413
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983413
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/cc99070a8e4019d32be76112997cc953.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983413
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983413
+        }
+    },
+    "stats": {
+        "created_at": 1742983413,
+        "updated_at": 1743023254,
+        "updates": 2
+    }
+}

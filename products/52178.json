@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983393
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983393
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 4,
+                    "previous": [],
+                    "timestamp": 1742983393
+                },
+                "name": {
+                    "value": "Charcutería y quesos",
+                    "previous": [],
+                    "timestamp": 1742983393
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983393
+                },
+                "order": {
+                    "value": 159,
+                    "previous": [],
+                    "timestamp": 1742983393
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Paté de cerdo ibérico Hacendado",
+            "previous": [],
+            "timestamp": 1742983393
+        },
+        "id": {
+            "value": "52178",
+            "previous": [],
+            "timestamp": 1742983393
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983393
+        },
+        "packaging": {
+            "value": "Pack-3",
+            "previous": [],
+            "timestamp": 1742983393
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983393
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983393
+            },
+            "is_pack": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983393
+            },
+            "pack_size": {
+                "value": 0.08,
+                "previous": [],
+                "timestamp": 1742983393
+            },
+            "unit_name": {
+                "value": "latas",
+                "previous": [],
+                "timestamp": 1742983393
+            },
+            "unit_size": {
+                "value": 0.24,
+                "previous": [],
+                "timestamp": 1742983393
+            },
+            "bulk_price": {
+                "value": "7.29",
+                "previous": [],
+                "timestamp": 1742983393
+            },
+            "unit_price": {
+                "value": "1.75",
+                "previous": [],
+                "timestamp": 1742983393
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983393
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983393
+            },
+            "total_units": {
+                "value": 3,
+                "previous": [],
+                "timestamp": 1742983393
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983393
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983393
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983393
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983393
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1742983393
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983393
+            },
+            "reference_price": {
+                "value": "7.292",
+                "previous": [],
+                "timestamp": 1742983393
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983393
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983393
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983393
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983393
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983393
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/52178/pate-cerdo-iberico-hacendado-pack-3",
+            "previous": [],
+            "timestamp": 1742983393
+        },
+        "slug": {
+            "value": "pate-cerdo-iberico-hacendado-pack-3",
+            "previous": [],
+            "timestamp": 1742983393
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983393
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/09f41250e4543b2b96fcccb291fcd6fa.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983393
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983393
+        }
+    },
+    "stats": {
+        "created_at": 1742983393,
+        "updated_at": 1743023230,
+        "updates": 2
+    }
+}

@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983451
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983451
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 23,
+                    "previous": [],
+                    "timestamp": 1742983451
+                },
+                "name": {
+                    "value": "Fitoterapia y parafarmacia",
+                    "previous": [],
+                    "timestamp": 1742983451
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983451
+                },
+                "order": {
+                    "value": 305,
+                    "previous": [],
+                    "timestamp": 1742983451
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Spray oral Própolis Deliplus",
+            "previous": [],
+            "timestamp": 1742983451
+        },
+        "id": {
+            "value": "22233",
+            "previous": [],
+            "timestamp": 1742983451
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983451
+        },
+        "packaging": {
+            "value": "Spray",
+            "previous": [],
+            "timestamp": 1742983451
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983451
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983451
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983451
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983451
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983451
+            },
+            "unit_size": {
+                "value": 0.02,
+                "previous": [],
+                "timestamp": 1742983451
+            },
+            "bulk_price": {
+                "value": "180.00",
+                "previous": [],
+                "timestamp": 1742983451
+            },
+            "unit_price": {
+                "value": "3.60",
+                "previous": [],
+                "timestamp": 1742983451
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983451
+            },
+            "size_format": {
+                "value": "l",
+                "previous": [],
+                "timestamp": 1742983451
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983451
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983451
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983451
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983451
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983451
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1742983451
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983451
+            },
+            "reference_price": {
+                "value": "18.000",
+                "previous": [],
+                "timestamp": 1742983451
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983451
+            },
+            "reference_format": {
+                "value": "100 ml",
+                "previous": [],
+                "timestamp": 1742983451
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983451
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983451
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983451
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/22233/spray-oral-propolis-deliplus-contiene-equinacea-eucalipto-elaborado-base-especies-vegetales-liquen-islandia-spray",
+            "previous": [],
+            "timestamp": 1742983451
+        },
+        "slug": {
+            "value": "spray-oral-propolis-deliplus-contiene-equinacea-eucalipto-elaborado-base-especies-vegetales-liquen-islandia-spray",
+            "previous": [],
+            "timestamp": 1742983451
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983451
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/7b7a1b899876dc2ab66a488f0298037e.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983451
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983451
+        }
+    },
+    "stats": {
+        "created_at": 1742983451,
+        "updated_at": 1743023298,
+        "updates": 2
+    }
+}

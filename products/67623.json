@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983345
+            },
+            "requires_age_check": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983345
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 19,
+                    "previous": [],
+                    "timestamp": 1742983345
+                },
+                "name": {
+                    "value": "Bodega",
+                    "previous": [],
+                    "timestamp": 1742983345
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983345
+                },
+                "order": {
+                    "value": 15,
+                    "previous": [],
+                    "timestamp": 1742983345
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Cerveza 0,0% sin alcohol tostada Falke",
+            "previous": [],
+            "timestamp": 1742983345
+        },
+        "id": {
+            "value": "67623",
+            "previous": [],
+            "timestamp": 1742983345
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983345
+        },
+        "packaging": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983345
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1742983345
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983345
+            },
+            "is_pack": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983345
+            },
+            "pack_size": {
+                "value": 0.25,
+                "previous": [],
+                "timestamp": 1742983345
+            },
+            "unit_name": {
+                "value": "botellines",
+                "previous": [],
+                "timestamp": 1742983345
+            },
+            "unit_size": {
+                "value": 1.5,
+                "previous": [],
+                "timestamp": 1742983345
+            },
+            "bulk_price": {
+                "value": "2.00",
+                "previous": [],
+                "timestamp": 1742983345
+            },
+            "unit_price": {
+                "value": "3.00",
+                "previous": [],
+                "timestamp": 1742983345
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983345
+            },
+            "size_format": {
+                "value": "l",
+                "previous": [],
+                "timestamp": 1742983345
+            },
+            "total_units": {
+                "value": 6,
+                "previous": [],
+                "timestamp": 1742983345
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983345
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983345
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983345
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983345
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1742983345
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983345
+            },
+            "reference_price": {
+                "value": "2.000",
+                "previous": [],
+                "timestamp": 1742983345
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983345
+            },
+            "reference_format": {
+                "value": "L",
+                "previous": [],
+                "timestamp": 1742983345
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983345
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983345
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983345
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/67623/cerveza-00-sin-alcohol-tostada-falke-pack-6",
+            "previous": [],
+            "timestamp": 1742983345
+        },
+        "slug": {
+            "value": "cerveza-00-sin-alcohol-tostada-falke-pack-6",
+            "previous": [],
+            "timestamp": 1742983345
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983345
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/ad99dbd025c7b3ff949507bc6652acbf.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983345
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983345
+        }
+    },
+    "stats": {
+        "created_at": 1742983345,
+        "updated_at": 1743023177,
+        "updates": 2
+    }
+}

@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983472
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983472
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 26,
+                    "previous": [],
+                    "timestamp": 1742983472
+                },
+                "name": {
+                    "value": "Limpieza y hogar",
+                    "previous": [],
+                    "timestamp": 1742983472
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983472
+                },
+                "order": {
+                    "value": 374,
+                    "previous": [],
+                    "timestamp": 1742983472
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Antialgas líquido Bosque Verde para piscina",
+            "previous": [],
+            "timestamp": 1742983472
+        },
+        "id": {
+            "value": "90309",
+            "previous": [],
+            "timestamp": 1742983472
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983472
+        },
+        "packaging": {
+            "value": "Garrafa",
+            "previous": [],
+            "timestamp": 1742983472
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1742983472
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983472
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983472
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983472
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983472
+            },
+            "unit_size": {
+                "value": 5,
+                "previous": [],
+                "timestamp": 1742983472
+            },
+            "bulk_price": {
+                "value": "2.50",
+                "previous": [],
+                "timestamp": 1742983472
+            },
+            "unit_price": {
+                "value": "12.50",
+                "previous": [],
+                "timestamp": 1742983472
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983472
+            },
+            "size_format": {
+                "value": "l",
+                "previous": [],
+                "timestamp": 1742983472
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983472
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983472
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983472
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983472
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983472
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1742983472
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983472
+            },
+            "reference_price": {
+                "value": "2.500",
+                "previous": [],
+                "timestamp": 1742983472
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983472
+            },
+            "reference_format": {
+                "value": "L",
+                "previous": [],
+                "timestamp": 1742983472
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983472
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983472
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983472
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/90309/antialgas-liquido-bosque-verde-piscina-garrafa",
+            "previous": [],
+            "timestamp": 1742983472
+        },
+        "slug": {
+            "value": "antialgas-liquido-bosque-verde-piscina-garrafa",
+            "previous": [],
+            "timestamp": 1742983472
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983472
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/9d7742a313df42fcc3efd403914b5dab.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983472
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983472
+        }
+    },
+    "stats": {
+        "created_at": 1742983472,
+        "updated_at": 1743023323,
+        "updates": 2
+    }
+}

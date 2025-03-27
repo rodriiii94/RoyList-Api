@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983363
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983363
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 8,
+                    "previous": [],
+                    "timestamp": 1742983363
+                },
+                "name": {
+                    "value": "Cacao, café e infusiones",
+                    "previous": [],
+                    "timestamp": 1742983363
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983363
+                },
+                "order": {
+                    "value": 16,
+                    "previous": [],
+                    "timestamp": 1742983363
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Té negro con canela Hacendado",
+            "previous": [],
+            "timestamp": 1742983363
+        },
+        "id": {
+            "value": "35727",
+            "previous": [],
+            "timestamp": 1742983363
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983363
+        },
+        "packaging": {
+            "value": "Caja",
+            "previous": [],
+            "timestamp": 1742983363
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983363
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983363
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983363
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983363
+            },
+            "unit_name": {
+                "value": "bolsitas",
+                "previous": [],
+                "timestamp": 1742983363
+            },
+            "unit_size": {
+                "value": 0.03,
+                "previous": [],
+                "timestamp": 1742983363
+            },
+            "bulk_price": {
+                "value": "46.67",
+                "previous": [],
+                "timestamp": 1742983363
+            },
+            "unit_price": {
+                "value": "1.40",
+                "previous": [],
+                "timestamp": 1742983363
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983363
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983363
+            },
+            "total_units": {
+                "value": 20,
+                "previous": [],
+                "timestamp": 1742983363
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983363
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983363
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983363
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983363
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1742983363
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983363
+            },
+            "reference_price": {
+                "value": "4.667",
+                "previous": [],
+                "timestamp": 1742983363
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983363
+            },
+            "reference_format": {
+                "value": "100 g",
+                "previous": [],
+                "timestamp": 1742983363
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983363
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983363
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983363
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/35727/te-negro-con-canela-hacendado-caja",
+            "previous": [],
+            "timestamp": 1742983363
+        },
+        "slug": {
+            "value": "te-negro-con-canela-hacendado-caja",
+            "previous": [],
+            "timestamp": 1742983363
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983363
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/0f79bda7b73f67dfa7c085ba0119ae66.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983363
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983363
+        }
+    },
+    "stats": {
+        "created_at": 1742983363,
+        "updated_at": 1743023198,
+        "updates": 2
+    }
+}

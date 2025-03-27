@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983498
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983498
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 22,
+                    "previous": [],
+                    "timestamp": 1742983498
+                },
+                "name": {
+                    "value": "Maquillaje",
+                    "previous": [],
+                    "timestamp": 1742983498
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983498
+                },
+                "order": {
+                    "value": 421,
+                    "previous": [],
+                    "timestamp": 1742983498
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Kit verde de pinceles maquillaje Deliplus",
+            "previous": [],
+            "timestamp": 1742983498
+        },
+        "id": {
+            "value": "60594",
+            "previous": [],
+            "timestamp": 1742983498
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983498
+        },
+        "packaging": {
+            "value": "Caja",
+            "previous": [],
+            "timestamp": 1742983498
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1742983498
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983498
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983498
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983498
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983498
+            },
+            "unit_size": {
+                "value": 2,
+                "previous": [],
+                "timestamp": 1742983498
+            },
+            "bulk_price": {
+                "value": "5.00",
+                "previous": [],
+                "timestamp": 1742983498
+            },
+            "unit_price": {
+                "value": "5.00",
+                "previous": [],
+                "timestamp": 1742983498
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983498
+            },
+            "size_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1742983498
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983498
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983498
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983498
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983498
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983498
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1742983498
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983498
+            },
+            "reference_price": {
+                "value": "5.000",
+                "previous": [],
+                "timestamp": 1742983498
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983498
+            },
+            "reference_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1742983498
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983498
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983498
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983498
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/60594/kit-verde-pinceles-maquillaje-deliplus-contiene-esponja-maquillaje-brocha-caja",
+            "previous": [],
+            "timestamp": 1742983498
+        },
+        "slug": {
+            "value": "kit-verde-pinceles-maquillaje-deliplus-contiene-esponja-maquillaje-brocha-caja",
+            "previous": [],
+            "timestamp": 1742983498
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983498
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/03c3158ce03c7e852549b1daa56195d5.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983498
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983498
+        }
+    },
+    "stats": {
+        "created_at": 1742983498,
+        "updated_at": 1743023351,
+        "updates": 2
+    }
+}

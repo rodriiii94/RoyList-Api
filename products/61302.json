@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983399
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983399
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 17,
+                    "previous": [],
+                    "timestamp": 1742983399
+                },
+                "name": {
+                    "value": "Congelados",
+                    "previous": [],
+                    "timestamp": 1742983399
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983399
+                },
+                "order": {
+                    "value": 213,
+                    "previous": [],
+                    "timestamp": 1742983399
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Arroz precocido Hacendado ultracongelado",
+            "previous": [],
+            "timestamp": 1742983399
+        },
+        "id": {
+            "value": "61302",
+            "previous": [],
+            "timestamp": 1742983399
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983399
+        },
+        "packaging": {
+            "value": "Paquete",
+            "previous": [],
+            "timestamp": 1742983399
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 4,
+                "previous": [],
+                "timestamp": 1742983399
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983399
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983399
+            },
+            "pack_size": {
+                "value": 0.167,
+                "previous": [],
+                "timestamp": 1742983399
+            },
+            "unit_name": {
+                "value": "bolsitas",
+                "previous": [],
+                "timestamp": 1742983399
+            },
+            "unit_size": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983399
+            },
+            "bulk_price": {
+                "value": "2.00",
+                "previous": [],
+                "timestamp": 1742983399
+            },
+            "unit_price": {
+                "value": "2.00",
+                "previous": [],
+                "timestamp": 1742983399
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983399
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983399
+            },
+            "total_units": {
+                "value": 6,
+                "previous": [],
+                "timestamp": 1742983399
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983399
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983399
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983399
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983399
+            },
+            "tax_percentage": {
+                "value": "4.000",
+                "previous": [],
+                "timestamp": 1742983399
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983399
+            },
+            "reference_price": {
+                "value": "2.000",
+                "previous": [],
+                "timestamp": 1742983399
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983399
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983399
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983399
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983399
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983399
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/61302/arroz-precocido-hacendado-ultracongelado-paquete",
+            "previous": [],
+            "timestamp": 1742983399
+        },
+        "slug": {
+            "value": "arroz-precocido-hacendado-ultracongelado-paquete",
+            "previous": [],
+            "timestamp": 1742983399
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983399
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/53cbde8ddadb5640989b4a3a8d85e289.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983399
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983399
+        }
+    },
+    "stats": {
+        "created_at": 1742983399,
+        "updated_at": 1743023238,
+        "updates": 2
+    }
+}

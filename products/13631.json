@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983524
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983524
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 5,
+                    "previous": [],
+                    "timestamp": 1742983524
+                },
+                "name": {
+                    "value": "Panadería y pastelería",
+                    "previous": [],
+                    "timestamp": 1742983524
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983524
+                },
+                "order": {
+                    "value": 514,
+                    "previous": [],
+                    "timestamp": 1742983524
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Picos saladitos Hacendado",
+            "previous": [],
+            "timestamp": 1742983524
+        },
+        "id": {
+            "value": "13631",
+            "previous": [],
+            "timestamp": 1742983524
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983524
+        },
+        "packaging": {
+            "value": "Paquete",
+            "previous": [],
+            "timestamp": 1742983524
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 4,
+                "previous": [],
+                "timestamp": 1742983524
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983524
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983524
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983524
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983524
+            },
+            "unit_size": {
+                "value": 0.25,
+                "previous": [],
+                "timestamp": 1742983524
+            },
+            "bulk_price": {
+                "value": "4.52",
+                "previous": [],
+                "timestamp": 1742983524
+            },
+            "unit_price": {
+                "value": "1.13",
+                "previous": [],
+                "timestamp": 1742983524
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983524
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983524
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983524
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983524
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983524
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983524
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983524
+            },
+            "tax_percentage": {
+                "value": "4.000",
+                "previous": [],
+                "timestamp": 1742983524
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983524
+            },
+            "reference_price": {
+                "value": "4.520",
+                "previous": [],
+                "timestamp": 1742983524
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983524
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983524
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983524
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983524
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983524
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/13631/picos-saladitos-hacendado-paquete",
+            "previous": [],
+            "timestamp": 1742983524
+        },
+        "slug": {
+            "value": "picos-saladitos-hacendado-paquete",
+            "previous": [],
+            "timestamp": 1742983524
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983524
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/8c7a4edac6f9b2c4542585553eb7e15a.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983524
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983524
+        }
+    },
+    "stats": {
+        "created_at": 1742983524,
+        "updated_at": 1743023378,
+        "updates": 2
+    }
+}

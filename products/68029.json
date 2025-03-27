@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983550
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983550
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 11,
+                    "previous": [],
+                    "timestamp": 1742983550
+                },
+                "name": {
+                    "value": "Postres y yogures",
+                    "previous": [],
+                    "timestamp": 1742983550
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983550
+                },
+                "order": {
+                    "value": 597,
+                    "previous": [],
+                    "timestamp": 1742983550
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Petit Nesquik Nestlé",
+            "previous": [],
+            "timestamp": 1742983550
+        },
+        "id": {
+            "value": "68029",
+            "previous": [],
+            "timestamp": 1742983550
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983550
+        },
+        "packaging": {
+            "value": "Pack-6",
+            "previous": [],
+            "timestamp": 1742983550
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983550
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983550
+            },
+            "is_pack": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983550
+            },
+            "pack_size": {
+                "value": 0.06,
+                "previous": [],
+                "timestamp": 1742983550
+            },
+            "unit_name": {
+                "value": "ud.",
+                "previous": [],
+                "timestamp": 1742983550
+            },
+            "unit_size": {
+                "value": 0.36,
+                "previous": [],
+                "timestamp": 1742983550
+            },
+            "bulk_price": {
+                "value": "5.14",
+                "previous": [],
+                "timestamp": 1742983550
+            },
+            "unit_price": {
+                "value": "1.85",
+                "previous": [],
+                "timestamp": 1742983550
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983550
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983550
+            },
+            "total_units": {
+                "value": 6,
+                "previous": [],
+                "timestamp": 1742983550
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983550
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983550
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983550
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983550
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1742983550
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983550
+            },
+            "reference_price": {
+                "value": "5.139",
+                "previous": [],
+                "timestamp": 1742983550
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983550
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983550
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983550
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983550
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983550
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/68029/petit-nesquik-nestle-pack-6",
+            "previous": [],
+            "timestamp": 1742983550
+        },
+        "slug": {
+            "value": "petit-nesquik-nestle-pack-6",
+            "previous": [],
+            "timestamp": 1742983550
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983550
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/f819e859580812aa746ae8e2f2c91aa6.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983550
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983550
+        }
+    },
+    "stats": {
+        "created_at": 1742983550,
+        "updated_at": 1743023404,
+        "updates": 2
+    }
+}

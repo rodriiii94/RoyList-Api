@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983455
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983455
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 1,
+                    "previous": [],
+                    "timestamp": 1742983455
+                },
+                "name": {
+                    "value": "Fruta y verdura",
+                    "previous": [],
+                    "timestamp": 1742983455
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983455
+                },
+                "order": {
+                    "value": 306,
+                    "previous": [],
+                    "timestamp": 1742983455
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Manzana Golden",
+            "previous": [],
+            "timestamp": 1742983455
+        },
+        "id": {
+            "value": "3028",
+            "previous": [],
+            "timestamp": 1742983455
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983455
+        },
+        "packaging": {
+            "value": "Pieza",
+            "previous": [],
+            "timestamp": 1742983455
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 4,
+                "previous": [],
+                "timestamp": 1742983455
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983455
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983455
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983455
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983455
+            },
+            "unit_size": {
+                "value": 0.19,
+                "previous": [],
+                "timestamp": 1742983455
+            },
+            "bulk_price": {
+                "value": "2.10",
+                "previous": [],
+                "timestamp": 1742983455
+            },
+            "unit_price": {
+                "value": "0.40",
+                "previous": [],
+                "timestamp": 1742983455
+            },
+            "approx_size": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983455
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983455
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983455
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983455
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983455
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983455
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983455
+            },
+            "tax_percentage": {
+                "value": "4.000",
+                "previous": [],
+                "timestamp": 1742983455
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983455
+            },
+            "reference_price": {
+                "value": "2.100",
+                "previous": [],
+                "timestamp": 1742983455
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983455
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983455
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983455
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983455
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983455
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/3028/manzana-golden-pieza",
+            "previous": [],
+            "timestamp": 1742983455
+        },
+        "slug": {
+            "value": "manzana-golden-pieza",
+            "previous": [],
+            "timestamp": 1742983455
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983455
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/0badb0be855ae3b5d11d4750b92c765b.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983455
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983455
+        }
+    },
+    "stats": {
+        "created_at": 1742983455,
+        "updated_at": 1743023302,
+        "updates": 2
+    }
+}

@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983379
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983379
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 7,
+                    "previous": [],
+                    "timestamp": 1742983379
+                },
+                "name": {
+                    "value": "Cereales y galletas",
+                    "previous": [],
+                    "timestamp": 1742983379
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983379
+                },
+                "order": {
+                    "value": 18,
+                    "previous": [],
+                    "timestamp": 1742983379
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Cereales rellenos de chocolate y avellana Hacendado",
+            "previous": [],
+            "timestamp": 1742983379
+        },
+        "id": {
+            "value": "9377",
+            "previous": [],
+            "timestamp": 1742983379
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983379
+        },
+        "packaging": {
+            "value": "Paquete",
+            "previous": [],
+            "timestamp": 1742983379
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983379
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983379
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983379
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983379
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983379
+            },
+            "unit_size": {
+                "value": 0.5,
+                "previous": [],
+                "timestamp": 1742983379
+            },
+            "bulk_price": {
+                "value": "4.20",
+                "previous": [],
+                "timestamp": 1742983379
+            },
+            "unit_price": {
+                "value": "2.10",
+                "previous": [],
+                "timestamp": 1742983379
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983379
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983379
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983379
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983379
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983379
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983379
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983379
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1742983379
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983379
+            },
+            "reference_price": {
+                "value": "4.200",
+                "previous": [],
+                "timestamp": 1742983379
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983379
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983379
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983379
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983379
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983379
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/9377/cereales-rellenos-chocolate-avellana-hacendado-paquete",
+            "previous": [],
+            "timestamp": 1742983379
+        },
+        "slug": {
+            "value": "cereales-rellenos-chocolate-avellana-hacendado-paquete",
+            "previous": [],
+            "timestamp": 1742983379
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983379
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/bfd940e46de1fdc0c05b91750161f379.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983379
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983379
+        }
+    },
+    "stats": {
+        "created_at": 1742983379,
+        "updated_at": 1743023215,
+        "updates": 2
+    }
+}

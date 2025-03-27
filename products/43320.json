@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983475
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983475
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 26,
+                    "previous": [],
+                    "timestamp": 1742983475
+                },
+                "name": {
+                    "value": "Limpieza y hogar",
+                    "previous": [],
+                    "timestamp": 1742983475
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983475
+                },
+                "order": {
+                    "value": 374,
+                    "previous": [],
+                    "timestamp": 1742983475
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Friegasuelos Spa Bosque Verde líquido",
+            "previous": [],
+            "timestamp": 1742983475
+        },
+        "id": {
+            "value": "43320",
+            "previous": [],
+            "timestamp": 1742983475
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983475
+        },
+        "packaging": {
+            "value": "Botella",
+            "previous": [],
+            "timestamp": 1742983475
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1742983475
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983475
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983475
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983475
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983475
+            },
+            "unit_size": {
+                "value": 1.5,
+                "previous": [],
+                "timestamp": 1742983475
+            },
+            "bulk_price": {
+                "value": "0.63",
+                "previous": [],
+                "timestamp": 1742983475
+            },
+            "unit_price": {
+                "value": "0.95",
+                "previous": [],
+                "timestamp": 1742983475
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983475
+            },
+            "size_format": {
+                "value": "l",
+                "previous": [],
+                "timestamp": 1742983475
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983475
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983475
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983475
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983475
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983475
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1742983475
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983475
+            },
+            "reference_price": {
+                "value": "0.634",
+                "previous": [],
+                "timestamp": 1742983475
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983475
+            },
+            "reference_format": {
+                "value": "L",
+                "previous": [],
+                "timestamp": 1742983475
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983475
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983475
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983475
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/43320/friegasuelos-spa-bosque-verde-liquido-botella",
+            "previous": [],
+            "timestamp": 1742983475
+        },
+        "slug": {
+            "value": "friegasuelos-spa-bosque-verde-liquido-botella",
+            "previous": [],
+            "timestamp": 1742983475
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983475
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/710460cd3335f95111222c75d8d1a3d2.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983475
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983475
+        }
+    },
+    "stats": {
+        "created_at": 1742983475,
+        "updated_at": 1743023326,
+        "updates": 2
+    }
+}

@@ -1,0 +1,202 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983484
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983484
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 26,
+                    "previous": [],
+                    "timestamp": 1742983484
+                },
+                "name": {
+                    "value": "Limpieza y hogar",
+                    "previous": [],
+                    "timestamp": 1742983484
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983484
+                },
+                "order": {
+                    "value": 372,
+                    "previous": [],
+                    "timestamp": 1742983484
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Fósforos de madera largos Tres Estrellas",
+            "previous": [],
+            "timestamp": 1742983484
+        },
+        "id": {
+            "value": "49116",
+            "previous": [],
+            "timestamp": 1742983484
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983484
+        },
+        "packaging": {
+            "value": "Paquete",
+            "previous": [],
+            "timestamp": 1742983484
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1742983484
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983484
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983484
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983484
+            },
+            "unit_name": {
+                "value": "cajas",
+                "previous": [],
+                "timestamp": 1742983484
+            },
+            "unit_size": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983484
+            },
+            "bulk_price": {
+                "value": "0.40",
+                "previous": [],
+                "timestamp": 1742983484
+            },
+            "unit_price": {
+                "value": "1.20",
+                "previous": [],
+                "timestamp": 1742983484
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983484
+            },
+            "size_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1742983484
+            },
+            "total_units": {
+                "value": 3,
+                "previous": [],
+                "timestamp": 1742983484
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983484
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983484
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983484
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983484
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983484
+            },
+            "reference_price": {
+                "value": "0.400",
+                "previous": [],
+                "timestamp": 1742983484
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983484
+            },
+            "reference_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1742983484
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983484
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983484
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983484
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/49116/fosforos-madera-largos-tres-estrellas-paquete",
+            "previous": [],
+            "timestamp": 1742983484
+        },
+        "slug": {
+            "value": "fosforos-madera-largos-tres-estrellas-paquete",
+            "previous": [],
+            "timestamp": 1742983484
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983484
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/04e8d7d7df8142eb18b7cf5cff90dd76.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983484
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983484
+        }
+    },
+    "stats": {
+        "created_at": 1742983484,
+        "updated_at": 1743023335,
+        "updates": 2
+    }
+}

@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983538
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983538
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 11,
+                    "previous": [],
+                    "timestamp": 1742983538
+                },
+                "name": {
+                    "value": "Postres y yogures",
+                    "previous": [],
+                    "timestamp": 1742983538
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983538
+                },
+                "order": {
+                    "value": 597,
+                    "previous": [],
+                    "timestamp": 1742983538
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Bífidus desnatado natural Activia zero m.g.",
+            "previous": [],
+            "timestamp": 1742983538
+        },
+        "id": {
+            "value": "23477",
+            "previous": [],
+            "timestamp": 1742983538
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983538
+        },
+        "packaging": {
+            "value": "Pack-8",
+            "previous": [],
+            "timestamp": 1742983538
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 4,
+                "previous": [],
+                "timestamp": 1742983538
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983538
+            },
+            "is_pack": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983538
+            },
+            "pack_size": {
+                "value": 0.12,
+                "previous": [],
+                "timestamp": 1742983538
+            },
+            "unit_name": {
+                "value": "ud.",
+                "previous": [],
+                "timestamp": 1742983538
+            },
+            "unit_size": {
+                "value": 0.96,
+                "previous": [],
+                "timestamp": 1742983538
+            },
+            "bulk_price": {
+                "value": "3.65",
+                "previous": [],
+                "timestamp": 1742983538
+            },
+            "unit_price": {
+                "value": "3.50",
+                "previous": [],
+                "timestamp": 1742983538
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983538
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983538
+            },
+            "total_units": {
+                "value": 8,
+                "previous": [],
+                "timestamp": 1742983538
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983538
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983538
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983538
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983538
+            },
+            "tax_percentage": {
+                "value": "4.000",
+                "previous": [],
+                "timestamp": 1742983538
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983538
+            },
+            "reference_price": {
+                "value": "3.646",
+                "previous": [],
+                "timestamp": 1742983538
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983538
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983538
+            },
+            "previous_unit_price": {
+                "value": "        3.89",
+                "previous": [],
+                "timestamp": 1742983538
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983538
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983538
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/23477/bifidus-desnatado-natural-activia-zero-mg-danone-pack-8",
+            "previous": [],
+            "timestamp": 1742983538
+        },
+        "slug": {
+            "value": "bifidus-desnatado-natural-activia-zero-mg-danone-pack-8",
+            "previous": [],
+            "timestamp": 1742983538
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983538
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/5503c0081f32067decd11eee17bc72be.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983538
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983538
+        }
+    },
+    "stats": {
+        "created_at": 1742983538,
+        "updated_at": 1743023391,
+        "updates": 2
+    }
+}

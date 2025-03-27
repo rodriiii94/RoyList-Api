@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983371
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983371
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 3,
+                    "previous": [],
+                    "timestamp": 1742983371
+                },
+                "name": {
+                    "value": "Carne",
+                    "previous": [],
+                    "timestamp": 1742983371
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983371
+                },
+                "order": {
+                    "value": 17,
+                    "previous": [],
+                    "timestamp": 1742983371
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Conejo entero",
+            "previous": [],
+            "timestamp": 1742983371
+        },
+        "id": {
+            "value": "2797",
+            "previous": [],
+            "timestamp": 1742983371
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983371
+        },
+        "packaging": {
+            "value": "Pieza",
+            "previous": [],
+            "timestamp": 1742983371
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983371
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983371
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983371
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983371
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983371
+            },
+            "unit_size": {
+                "value": 1.3,
+                "previous": [],
+                "timestamp": 1742983371
+            },
+            "bulk_price": {
+                "value": "8.25",
+                "previous": [],
+                "timestamp": 1742983371
+            },
+            "unit_price": {
+                "value": "10.73",
+                "previous": [],
+                "timestamp": 1742983371
+            },
+            "approx_size": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983371
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983371
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983371
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983371
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983371
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983371
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983371
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1742983371
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983371
+            },
+            "reference_price": {
+                "value": "8.250",
+                "previous": [],
+                "timestamp": 1742983371
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983371
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983371
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983371
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983371
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983371
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/2797/conejo-entero-pieza",
+            "previous": [],
+            "timestamp": 1742983371
+        },
+        "slug": {
+            "value": "conejo-entero-pieza",
+            "previous": [],
+            "timestamp": 1742983371
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983371
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/52c8948410dc55176c8db96cba4c34c1.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983371
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983371
+        }
+    },
+    "stats": {
+        "created_at": 1742983371,
+        "updated_at": 1743023207,
+        "updates": 2
+    }
+}

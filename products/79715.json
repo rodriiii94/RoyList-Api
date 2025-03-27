@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983339
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983339
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 24,
+                    "previous": [],
+                    "timestamp": 1742983339
+                },
+                "name": {
+                    "value": "Bebé",
+                    "previous": [],
+                    "timestamp": 1742983339
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983339
+                },
+                "order": {
+                    "value": 14,
+                    "previous": [],
+                    "timestamp": 1742983339
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Biberón 150 ml tetina silicona flujo lento Deliplus +0 meses",
+            "previous": [],
+            "timestamp": 1742983339
+        },
+        "id": {
+            "value": "79715",
+            "previous": [],
+            "timestamp": 1742983339
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983339
+        },
+        "packaging": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983339
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1742983339
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983339
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983339
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983339
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983339
+            },
+            "unit_size": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983339
+            },
+            "bulk_price": {
+                "value": "3.30",
+                "previous": [],
+                "timestamp": 1742983339
+            },
+            "unit_price": {
+                "value": "3.30",
+                "previous": [],
+                "timestamp": 1742983339
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983339
+            },
+            "size_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1742983339
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983339
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983339
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983339
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983339
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983339
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1742983339
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983339
+            },
+            "reference_price": {
+                "value": "3.300",
+                "previous": [],
+                "timestamp": 1742983339
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983339
+            },
+            "reference_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1742983339
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983339
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983339
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983339
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/79715/biberon-150-ml-tetina-silicona-flujo-lento-0-meses-deliplus",
+            "previous": [],
+            "timestamp": 1742983339
+        },
+        "slug": {
+            "value": "biberon-150-ml-tetina-silicona-flujo-lento-0-meses-deliplus",
+            "previous": [],
+            "timestamp": 1742983339
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983339
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/c0efe2f357bd88b60884787a35e09efe.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983339
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983339
+        }
+    },
+    "stats": {
+        "created_at": 1742983339,
+        "updated_at": 1743023169,
+        "updates": 2
+    }
+}

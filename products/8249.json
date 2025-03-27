@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983537
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983537
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 11,
+                    "previous": [],
+                    "timestamp": 1742983537
+                },
+                "name": {
+                    "value": "Postres y yogures",
+                    "previous": [],
+                    "timestamp": 1742983537
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983537
+                },
+                "order": {
+                    "value": 597,
+                    "previous": [],
+                    "timestamp": 1742983537
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Bífidus cremoso sabor melocotón Activia",
+            "previous": [],
+            "timestamp": 1742983537
+        },
+        "id": {
+            "value": "8249",
+            "previous": [],
+            "timestamp": 1742983537
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983537
+        },
+        "packaging": {
+            "value": "Pack-4",
+            "previous": [],
+            "timestamp": 1742983537
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 4,
+                "previous": [],
+                "timestamp": 1742983537
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983537
+            },
+            "is_pack": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983537
+            },
+            "pack_size": {
+                "value": 0.115,
+                "previous": [],
+                "timestamp": 1742983537
+            },
+            "unit_name": {
+                "value": "ud.",
+                "previous": [],
+                "timestamp": 1742983537
+            },
+            "unit_size": {
+                "value": 0.46,
+                "previous": [],
+                "timestamp": 1742983537
+            },
+            "bulk_price": {
+                "value": "5.20",
+                "previous": [],
+                "timestamp": 1742983537
+            },
+            "unit_price": {
+                "value": "2.39",
+                "previous": [],
+                "timestamp": 1742983537
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983537
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983537
+            },
+            "total_units": {
+                "value": 4,
+                "previous": [],
+                "timestamp": 1742983537
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983537
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983537
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983537
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983537
+            },
+            "tax_percentage": {
+                "value": "4.000",
+                "previous": [],
+                "timestamp": 1742983537
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983537
+            },
+            "reference_price": {
+                "value": "5.196",
+                "previous": [],
+                "timestamp": 1742983537
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983537
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983537
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983537
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983537
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983537
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/8249/bifidus-cremoso-sabor-melocoton-activia-danone-pack-4",
+            "previous": [],
+            "timestamp": 1742983537
+        },
+        "slug": {
+            "value": "bifidus-cremoso-sabor-melocoton-activia-danone-pack-4",
+            "previous": [],
+            "timestamp": 1742983537
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983537
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/62f4d1643d055d53f523ce72a0958f71.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983537
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983537
+        }
+    },
+    "stats": {
+        "created_at": 1742983537,
+        "updated_at": 1743023391,
+        "updates": 2
+    }
+}

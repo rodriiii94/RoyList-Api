@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983458
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983458
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 1,
+                    "previous": [],
+                    "timestamp": 1742983458
+                },
+                "name": {
+                    "value": "Fruta y verdura",
+                    "previous": [],
+                    "timestamp": 1742983458
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983458
+                },
+                "order": {
+                    "value": 306,
+                    "previous": [],
+                    "timestamp": 1742983458
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Patatas",
+            "previous": [],
+            "timestamp": 1742983458
+        },
+        "id": {
+            "value": "69166",
+            "previous": [],
+            "timestamp": 1742983458
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983458
+        },
+        "packaging": {
+            "value": "Malla",
+            "previous": [],
+            "timestamp": 1742983458
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 4,
+                "previous": [],
+                "timestamp": 1742983458
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983458
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983458
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983458
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983458
+            },
+            "unit_size": {
+                "value": 3,
+                "previous": [],
+                "timestamp": 1742983458
+            },
+            "bulk_price": {
+                "value": "1.73",
+                "previous": [],
+                "timestamp": 1742983458
+            },
+            "unit_price": {
+                "value": "5.20",
+                "previous": [],
+                "timestamp": 1742983458
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983458
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983458
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983458
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983458
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983458
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983458
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983458
+            },
+            "tax_percentage": {
+                "value": "4.000",
+                "previous": [],
+                "timestamp": 1742983458
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983458
+            },
+            "reference_price": {
+                "value": "1.734",
+                "previous": [],
+                "timestamp": 1742983458
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983458
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983458
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983458
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983458
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983458
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/69166/patatas-malla",
+            "previous": [],
+            "timestamp": 1742983458
+        },
+        "slug": {
+            "value": "patatas-malla",
+            "previous": [],
+            "timestamp": 1742983458
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983458
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/9a13af8fac3aa3f71d6b8098d7e9b176.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983458
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983458
+        }
+    },
+    "stats": {
+        "created_at": 1742983458,
+        "updated_at": 1743023307,
+        "updates": 2
+    }
+}

@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983414
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983414
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 17,
+                    "previous": [],
+                    "timestamp": 1742983414
+                },
+                "name": {
+                    "value": "Congelados",
+                    "previous": [],
+                    "timestamp": 1742983414
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983414
+                },
+                "order": {
+                    "value": 213,
+                    "previous": [],
+                    "timestamp": 1742983414
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Patatas prefritas corte grueso Hacendado ultracongeladas",
+            "previous": [],
+            "timestamp": 1742983414
+        },
+        "id": {
+            "value": "61405",
+            "previous": [],
+            "timestamp": 1742983414
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983414
+        },
+        "packaging": {
+            "value": "Paquete",
+            "previous": [],
+            "timestamp": 1742983414
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 4,
+                "previous": [],
+                "timestamp": 1742983414
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983414
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983414
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983414
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983414
+            },
+            "unit_size": {
+                "value": 2,
+                "previous": [],
+                "timestamp": 1742983414
+            },
+            "bulk_price": {
+                "value": "1.55",
+                "previous": [],
+                "timestamp": 1742983414
+            },
+            "unit_price": {
+                "value": "3.10",
+                "previous": [],
+                "timestamp": 1742983414
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983414
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983414
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983414
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983414
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983414
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983414
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983414
+            },
+            "tax_percentage": {
+                "value": "4.000",
+                "previous": [],
+                "timestamp": 1742983414
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983414
+            },
+            "reference_price": {
+                "value": "1.550",
+                "previous": [],
+                "timestamp": 1742983414
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983414
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983414
+            },
+            "previous_unit_price": {
+                "value": "        3.21",
+                "previous": [],
+                "timestamp": 1742983414
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983414
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983414
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/61405/patatas-prefritas-corte-grueso-hacendado-ultracongeladas-paquete",
+            "previous": [],
+            "timestamp": 1742983414
+        },
+        "slug": {
+            "value": "patatas-prefritas-corte-grueso-hacendado-ultracongeladas-paquete",
+            "previous": [],
+            "timestamp": 1742983414
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983414
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/17505e86e95e53c0feef6e25fbe294c7.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983414
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983414
+        }
+    },
+    "stats": {
+        "created_at": 1742983414,
+        "updated_at": 1743023254,
+        "updates": 2
+    }
+}

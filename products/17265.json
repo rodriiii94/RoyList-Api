@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983309
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983309
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 12,
+                    "previous": [],
+                    "timestamp": 1742983309
+                },
+                "name": {
+                    "value": "Aceite, especias y salsas",
+                    "previous": [],
+                    "timestamp": 1742983309
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983309
+                },
+                "order": {
+                    "value": 7,
+                    "previous": [],
+                    "timestamp": 1742983309
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Aliño de aceite con perejil y ajo Hacendado",
+            "previous": [],
+            "timestamp": 1742983309
+        },
+        "id": {
+            "value": "17265",
+            "previous": [],
+            "timestamp": 1742983309
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983309
+        },
+        "packaging": {
+            "value": "Tarrina",
+            "previous": [],
+            "timestamp": 1742983309
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983309
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983309
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983309
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983309
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983309
+            },
+            "unit_size": {
+                "value": 0.15,
+                "previous": [],
+                "timestamp": 1742983309
+            },
+            "bulk_price": {
+                "value": "11.67",
+                "previous": [],
+                "timestamp": 1742983309
+            },
+            "unit_price": {
+                "value": "1.75",
+                "previous": [],
+                "timestamp": 1742983309
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983309
+            },
+            "size_format": {
+                "value": "l",
+                "previous": [],
+                "timestamp": 1742983309
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983309
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983309
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983309
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983309
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983309
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1742983309
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983309
+            },
+            "reference_price": {
+                "value": "11.667",
+                "previous": [],
+                "timestamp": 1742983309
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983309
+            },
+            "reference_format": {
+                "value": "L",
+                "previous": [],
+                "timestamp": 1742983309
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983309
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983309
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983309
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/17265/alino-aceite-ajo-perejil-hacendado-tarrina",
+            "previous": [],
+            "timestamp": 1742983309
+        },
+        "slug": {
+            "value": "alino-aceite-ajo-perejil-hacendado-tarrina",
+            "previous": [],
+            "timestamp": 1742983309
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983309
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/081c554fcf8b0512ed68017f76ac8145.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983309
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983309
+        }
+    },
+    "stats": {
+        "created_at": 1742983309,
+        "updated_at": 1743023133,
+        "updates": 2
+    }
+}

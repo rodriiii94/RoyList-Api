@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983374
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983374
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 3,
+                    "previous": [],
+                    "timestamp": 1742983374
+                },
+                "name": {
+                    "value": "Carne",
+                    "previous": [],
+                    "timestamp": 1742983374
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983374
+                },
+                "order": {
+                    "value": 17,
+                    "previous": [],
+                    "timestamp": 1742983374
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Burger Crunchy Chicken",
+            "previous": [],
+            "timestamp": 1742983374
+        },
+        "id": {
+            "value": "4079",
+            "previous": [],
+            "timestamp": 1742983374
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983374
+        },
+        "packaging": {
+            "value": "Bandeja",
+            "previous": [],
+            "timestamp": 1742983374
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983374
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983374
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983374
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983374
+            },
+            "unit_name": {
+                "value": "ud.",
+                "previous": [],
+                "timestamp": 1742983374
+            },
+            "unit_size": {
+                "value": 0.24,
+                "previous": [],
+                "timestamp": 1742983374
+            },
+            "bulk_price": {
+                "value": "7.92",
+                "previous": [],
+                "timestamp": 1742983374
+            },
+            "unit_price": {
+                "value": "1.90",
+                "previous": [],
+                "timestamp": 1742983374
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983374
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983374
+            },
+            "total_units": {
+                "value": 2,
+                "previous": [],
+                "timestamp": 1742983374
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983374
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983374
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983374
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983374
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1742983374
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983374
+            },
+            "reference_price": {
+                "value": "7.917",
+                "previous": [],
+                "timestamp": 1742983374
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983374
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983374
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983374
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983374
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983374
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/4079/burger-crunchy-chicken-bandeja",
+            "previous": [],
+            "timestamp": 1742983374
+        },
+        "slug": {
+            "value": "burger-crunchy-chicken-bandeja",
+            "previous": [],
+            "timestamp": 1742983374
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983374
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/9fdf535c406d2b19c50ecb5a65fc942c.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983374
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983374
+        }
+    },
+    "stats": {
+        "created_at": 1742983374,
+        "updated_at": 1743023210,
+        "updates": 2
+    }
+}

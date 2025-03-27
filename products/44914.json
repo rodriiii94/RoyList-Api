@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983440
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983440
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 20,
+                    "previous": [],
+                    "timestamp": 1742983440
+                },
+                "name": {
+                    "value": "Cuidado facial y corporal",
+                    "previous": [],
+                    "timestamp": 1742983440
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983440
+                },
+                "order": {
+                    "value": 241,
+                    "previous": [],
+                    "timestamp": 1742983440
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Gel aceite de baño Deliplus piel atópica",
+            "previous": [],
+            "timestamp": 1742983440
+        },
+        "id": {
+            "value": "44914",
+            "previous": [],
+            "timestamp": 1742983440
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983440
+        },
+        "packaging": {
+            "value": "Botella",
+            "previous": [],
+            "timestamp": 1742983440
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1742983440
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983440
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983440
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983440
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983440
+            },
+            "unit_size": {
+                "value": 0.5,
+                "previous": [],
+                "timestamp": 1742983440
+            },
+            "bulk_price": {
+                "value": "7.00",
+                "previous": [],
+                "timestamp": 1742983440
+            },
+            "unit_price": {
+                "value": "3.50",
+                "previous": [],
+                "timestamp": 1742983440
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983440
+            },
+            "size_format": {
+                "value": "l",
+                "previous": [],
+                "timestamp": 1742983440
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983440
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983440
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983440
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983440
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983440
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1742983440
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983440
+            },
+            "reference_price": {
+                "value": "0.700",
+                "previous": [],
+                "timestamp": 1742983440
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983440
+            },
+            "reference_format": {
+                "value": "100 ml",
+                "previous": [],
+                "timestamp": 1742983440
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983440
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983440
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983440
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/44914/gel-aceite-bano-deliplus-piel-atopica-botella",
+            "previous": [],
+            "timestamp": 1742983440
+        },
+        "slug": {
+            "value": "gel-aceite-bano-deliplus-piel-atopica-botella",
+            "previous": [],
+            "timestamp": 1742983440
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983440
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/ac449f3641e8a49e22bf18a559966511.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983440
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983440
+        }
+    },
+    "stats": {
+        "created_at": 1742983440,
+        "updated_at": 1743023286,
+        "updates": 2
+    }
+}

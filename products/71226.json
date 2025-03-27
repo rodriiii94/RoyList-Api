@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983469
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983469
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 26,
+                    "previous": [],
+                    "timestamp": 1742983469
+                },
+                "name": {
+                    "value": "Limpieza y hogar",
+                    "previous": [],
+                    "timestamp": 1742983469
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983469
+                },
+                "order": {
+                    "value": 374,
+                    "previous": [],
+                    "timestamp": 1742983469
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Guantes de nitrilo Bosque Verde talla mediana",
+            "previous": [],
+            "timestamp": 1742983469
+        },
+        "id": {
+            "value": "71226",
+            "previous": [],
+            "timestamp": 1742983469
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983469
+        },
+        "packaging": {
+            "value": "Caja",
+            "previous": [],
+            "timestamp": 1742983469
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1742983469
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983469
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983469
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983469
+            },
+            "unit_name": {
+                "value": "ud.",
+                "previous": [],
+                "timestamp": 1742983469
+            },
+            "unit_size": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983469
+            },
+            "bulk_price": {
+                "value": "0.10",
+                "previous": [],
+                "timestamp": 1742983469
+            },
+            "unit_price": {
+                "value": "2.95",
+                "previous": [],
+                "timestamp": 1742983469
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983469
+            },
+            "size_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1742983469
+            },
+            "total_units": {
+                "value": 30,
+                "previous": [],
+                "timestamp": 1742983469
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983469
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983469
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983469
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983469
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1742983469
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983469
+            },
+            "reference_price": {
+                "value": "0.099",
+                "previous": [],
+                "timestamp": 1742983469
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983469
+            },
+            "reference_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1742983469
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983469
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983469
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983469
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/71226/guantes-nitrilo-bosque-verde-talla-mediana-desechables-caja",
+            "previous": [],
+            "timestamp": 1742983469
+        },
+        "slug": {
+            "value": "guantes-nitrilo-bosque-verde-talla-mediana-desechables-caja",
+            "previous": [],
+            "timestamp": 1742983469
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983469
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/0685bb726ca5ad1db983e103654f855a.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983469
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983469
+        }
+    },
+    "stats": {
+        "created_at": 1742983469,
+        "updated_at": 1743023319,
+        "updates": 2
+    }
+}

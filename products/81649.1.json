@@ -1,0 +1,217 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983504
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983504
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 2,
+                    "previous": [],
+                    "timestamp": 1742983504
+                },
+                "name": {
+                    "value": "Marisco y pescado",
+                    "previous": [],
+                    "timestamp": 1742983504
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983504
+                },
+                "order": {
+                    "value": 441,
+                    "previous": [],
+                    "timestamp": 1742983504
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Salmón a rodajas",
+            "previous": [],
+            "timestamp": 1742983504
+        },
+        "id": {
+            "value": "81649.1",
+            "previous": [],
+            "timestamp": 1742983504
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983504
+        },
+        "packaging": {
+            "value": "Pieza",
+            "previous": [],
+            "timestamp": 1742983504
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983504
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983504
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983504
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983504
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983504
+            },
+            "unit_size": {
+                "value": 2.88,
+                "previous": [
+                    {
+                        "value": 2.91,
+                        "timestamp": 1742983504
+                    }
+                ],
+                "timestamp": 1743023356
+            },
+            "bulk_price": {
+                "value": "12.95",
+                "previous": [],
+                "timestamp": 1742983504
+            },
+            "unit_price": {
+                "value": "37.30",
+                "previous": [
+                    {
+                        "value": "37.68",
+                        "timestamp": 1742983504
+                    }
+                ],
+                "timestamp": 1743023356
+            },
+            "approx_size": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983504
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983504
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983504
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983504
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983504
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983504
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983504
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1742983504
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983504
+            },
+            "reference_price": {
+                "value": "12.950",
+                "previous": [],
+                "timestamp": 1742983504
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983504
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983504
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983504
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983504
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983504
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/81649.1/salmon-rodajas-pieza",
+            "previous": [],
+            "timestamp": 1742983504
+        },
+        "slug": {
+            "value": "salmon-rodajas-pieza",
+            "previous": [],
+            "timestamp": 1742983504
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983504
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/efde699df9d548c2e8a9887daf63cd7a.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983504
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983504
+        }
+    },
+    "stats": {
+        "created_at": 1742983504,
+        "updated_at": 1743023356,
+        "updates": 2
+    }
+}

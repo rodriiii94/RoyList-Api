@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983532
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983532
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 16,
+                    "previous": [],
+                    "timestamp": 1742983532
+                },
+                "name": {
+                    "value": "Pizzas y platos preparados",
+                    "previous": [],
+                    "timestamp": 1742983532
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983532
+                },
+                "order": {
+                    "value": 596,
+                    "previous": [],
+                    "timestamp": 1742983532
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Pizza atún y bacón Hacendado",
+            "previous": [],
+            "timestamp": 1742983532
+        },
+        "id": {
+            "value": "63582",
+            "previous": [],
+            "timestamp": 1742983532
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983532
+        },
+        "packaging": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983532
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983532
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983532
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983532
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983532
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983532
+            },
+            "unit_size": {
+                "value": 0.415,
+                "previous": [],
+                "timestamp": 1742983532
+            },
+            "bulk_price": {
+                "value": "6.99",
+                "previous": [],
+                "timestamp": 1742983532
+            },
+            "unit_price": {
+                "value": "2.90",
+                "previous": [],
+                "timestamp": 1742983532
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983532
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983532
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983532
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983532
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983532
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983532
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983532
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1742983532
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983532
+            },
+            "reference_price": {
+                "value": "6.988",
+                "previous": [],
+                "timestamp": 1742983532
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983532
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983532
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983532
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983532
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983532
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/63582/pizza-atun-bacon-hacendado",
+            "previous": [],
+            "timestamp": 1742983532
+        },
+        "slug": {
+            "value": "pizza-atun-bacon-hacendado",
+            "previous": [],
+            "timestamp": 1742983532
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983532
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/1ad5ad92762039d5727be185ab45d8ba.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983532
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983532
+        }
+    },
+    "stats": {
+        "created_at": 1742983532,
+        "updated_at": 1743023385,
+        "updates": 2
+    }
+}

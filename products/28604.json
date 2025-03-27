@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983346
+            },
+            "requires_age_check": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983346
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 19,
+                    "previous": [],
+                    "timestamp": 1742983346
+                },
+                "name": {
+                    "value": "Bodega",
+                    "previous": [],
+                    "timestamp": 1742983346
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983346
+                },
+                "order": {
+                    "value": 15,
+                    "previous": [],
+                    "timestamp": 1742983346
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Whisky escocés Ballantine's",
+            "previous": [],
+            "timestamp": 1742983346
+        },
+        "id": {
+            "value": "28604",
+            "previous": [],
+            "timestamp": 1742983346
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983346
+        },
+        "packaging": {
+            "value": "Botella",
+            "previous": [],
+            "timestamp": 1742983346
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1742983346
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983346
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983346
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983346
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983346
+            },
+            "unit_size": {
+                "value": 0.7,
+                "previous": [],
+                "timestamp": 1742983346
+            },
+            "bulk_price": {
+                "value": "19.36",
+                "previous": [],
+                "timestamp": 1742983346
+            },
+            "unit_price": {
+                "value": "13.55",
+                "previous": [],
+                "timestamp": 1742983346
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983346
+            },
+            "size_format": {
+                "value": "l",
+                "previous": [],
+                "timestamp": 1742983346
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983346
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983346
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983346
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983346
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983346
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1742983346
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983346
+            },
+            "reference_price": {
+                "value": "19.358",
+                "previous": [],
+                "timestamp": 1742983346
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983346
+            },
+            "reference_format": {
+                "value": "L",
+                "previous": [],
+                "timestamp": 1742983346
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983346
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983346
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983346
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/28604/whisky-escoces-ballantines-botella",
+            "previous": [],
+            "timestamp": 1742983346
+        },
+        "slug": {
+            "value": "whisky-escoces-ballantines-botella",
+            "previous": [],
+            "timestamp": 1742983346
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983346
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/35e8d7fe259d796beafe0e1f113f7067.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983346
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983346
+        }
+    },
+    "stats": {
+        "created_at": 1742983346,
+        "updated_at": 1743023179,
+        "updates": 2
+    }
+}

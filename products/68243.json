@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983539
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983539
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 11,
+                    "previous": [],
+                    "timestamp": 1742983539
+                },
+                "name": {
+                    "value": "Postres y yogures",
+                    "previous": [],
+                    "timestamp": 1742983539
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983539
+                },
+                "order": {
+                    "value": 597,
+                    "previous": [],
+                    "timestamp": 1742983539
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Natillas de chocolate Danet",
+            "previous": [],
+            "timestamp": 1742983539
+        },
+        "id": {
+            "value": "68243",
+            "previous": [],
+            "timestamp": 1742983539
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983539
+        },
+        "packaging": {
+            "value": "Pack-4",
+            "previous": [],
+            "timestamp": 1742983539
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983539
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983539
+            },
+            "is_pack": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983539
+            },
+            "pack_size": {
+                "value": 0.12,
+                "previous": [],
+                "timestamp": 1742983539
+            },
+            "unit_name": {
+                "value": "ud.",
+                "previous": [],
+                "timestamp": 1742983539
+            },
+            "unit_size": {
+                "value": 0.48,
+                "previous": [],
+                "timestamp": 1742983539
+            },
+            "bulk_price": {
+                "value": "4.17",
+                "previous": [],
+                "timestamp": 1742983539
+            },
+            "unit_price": {
+                "value": "2.00",
+                "previous": [],
+                "timestamp": 1742983539
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983539
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983539
+            },
+            "total_units": {
+                "value": 4,
+                "previous": [],
+                "timestamp": 1742983539
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983539
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983539
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983539
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983539
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1742983539
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983539
+            },
+            "reference_price": {
+                "value": "4.167",
+                "previous": [],
+                "timestamp": 1742983539
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983539
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983539
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983539
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983539
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983539
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/68243/natillas-chocolate-danet-danone-pack-4",
+            "previous": [],
+            "timestamp": 1742983539
+        },
+        "slug": {
+            "value": "natillas-chocolate-danet-danone-pack-4",
+            "previous": [],
+            "timestamp": 1742983539
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983539
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/492c04a070fe43c5c272cb4879e11fbe.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983539
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983539
+        }
+    },
+    "stats": {
+        "created_at": 1742983539,
+        "updated_at": 1743023392,
+        "updates": 2
+    }
+}

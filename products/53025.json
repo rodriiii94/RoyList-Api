@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983370
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983370
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 3,
+                    "previous": [],
+                    "timestamp": 1742983370
+                },
+                "name": {
+                    "value": "Carne",
+                    "previous": [],
+                    "timestamp": 1742983370
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983370
+                },
+                "order": {
+                    "value": 17,
+                    "previous": [],
+                    "timestamp": 1742983370
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Panceta adobada torrezno",
+            "previous": [],
+            "timestamp": 1742983370
+        },
+        "id": {
+            "value": "53025",
+            "previous": [],
+            "timestamp": 1742983370
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983370
+        },
+        "packaging": {
+            "value": "Pieza",
+            "previous": [],
+            "timestamp": 1742983370
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983370
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983370
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983370
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983370
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983370
+            },
+            "unit_size": {
+                "value": 0.4,
+                "previous": [],
+                "timestamp": 1742983370
+            },
+            "bulk_price": {
+                "value": "10.50",
+                "previous": [],
+                "timestamp": 1742983370
+            },
+            "unit_price": {
+                "value": "4.20",
+                "previous": [],
+                "timestamp": 1742983370
+            },
+            "approx_size": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983370
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983370
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983370
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983370
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983370
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983370
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983370
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1742983370
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983370
+            },
+            "reference_price": {
+                "value": "10.500",
+                "previous": [],
+                "timestamp": 1742983370
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983370
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983370
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983370
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983370
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983370
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/53025/panceta-adobada-torrezno-pieza",
+            "previous": [],
+            "timestamp": 1742983370
+        },
+        "slug": {
+            "value": "panceta-adobada-torrezno-pieza",
+            "previous": [],
+            "timestamp": 1742983370
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983370
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/ddfa60f4777ef6f63a5809b249b0dbfd.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983370
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983370
+        }
+    },
+    "stats": {
+        "created_at": 1742983370,
+        "updated_at": 1743023213,
+        "updates": 4
+    }
+}

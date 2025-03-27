@@ -1,0 +1,229 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983408
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983408
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 17,
+                    "previous": [],
+                    "timestamp": 1742983408
+                },
+                "name": {
+                    "value": "Congelados",
+                    "previous": [],
+                    "timestamp": 1742983408
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983408
+                },
+                "order": {
+                    "value": 213,
+                    "previous": [],
+                    "timestamp": 1742983408
+                }
+            },
+            {
+                "id": {
+                    "value": 16,
+                    "previous": [],
+                    "timestamp": 1742983532
+                },
+                "name": {
+                    "value": "Pizzas y platos preparados",
+                    "previous": [],
+                    "timestamp": 1742983532
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983532
+                },
+                "order": {
+                    "value": 596,
+                    "previous": [],
+                    "timestamp": 1742983532
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Bases de pizza artesanas extrafinas y crujientes Hacendado ultracongeladas",
+            "previous": [],
+            "timestamp": 1742983408
+        },
+        "id": {
+            "value": "63648",
+            "previous": [],
+            "timestamp": 1742983408
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983408
+        },
+        "packaging": {
+            "value": "Paquete",
+            "previous": [],
+            "timestamp": 1742983408
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 4,
+                "previous": [],
+                "timestamp": 1742983408
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983408
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983408
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983408
+            },
+            "unit_name": {
+                "value": "ud.",
+                "previous": [],
+                "timestamp": 1742983408
+            },
+            "unit_size": {
+                "value": 0.42,
+                "previous": [],
+                "timestamp": 1742983408
+            },
+            "bulk_price": {
+                "value": "4.29",
+                "previous": [],
+                "timestamp": 1742983408
+            },
+            "unit_price": {
+                "value": "1.80",
+                "previous": [],
+                "timestamp": 1742983408
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983408
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983408
+            },
+            "total_units": {
+                "value": 3,
+                "previous": [],
+                "timestamp": 1742983408
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983408
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983408
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983408
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983408
+            },
+            "tax_percentage": {
+                "value": "4.000",
+                "previous": [],
+                "timestamp": 1742983408
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983408
+            },
+            "reference_price": {
+                "value": "4.286",
+                "previous": [],
+                "timestamp": 1742983408
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983408
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983408
+            },
+            "previous_unit_price": {
+                "value": "        1.90",
+                "previous": [],
+                "timestamp": 1742983408
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983408
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983408
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/63648/bases-pizza-artesanas-extrafinas-crujientes-hacendado-ultracongeladas-con-aceite-oliva-paquete",
+            "previous": [],
+            "timestamp": 1742983408
+        },
+        "slug": {
+            "value": "bases-pizza-artesanas-extrafinas-crujientes-hacendado-ultracongeladas-con-aceite-oliva-paquete",
+            "previous": [],
+            "timestamp": 1742983408
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983408
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/389b21fc80a59fe8b2d1c192618b45b9.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983408
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983408
+        }
+    },
+    "stats": {
+        "created_at": 1742983408,
+        "updated_at": 1743023385,
+        "updates": 4
+    }
+}

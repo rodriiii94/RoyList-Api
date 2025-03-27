@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983342
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983342
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 24,
+                    "previous": [],
+                    "timestamp": 1742983342
+                },
+                "name": {
+                    "value": "Bebé",
+                    "previous": [],
+                    "timestamp": 1742983342
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983342
+                },
+                "order": {
+                    "value": 14,
+                    "previous": [],
+                    "timestamp": 1742983342
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Toallitas bebé Aqua Deliplus",
+            "previous": [],
+            "timestamp": 1742983342
+        },
+        "id": {
+            "value": "35356",
+            "previous": [],
+            "timestamp": 1742983342
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983342
+        },
+        "packaging": {
+            "value": "Paquete",
+            "previous": [],
+            "timestamp": 1742983342
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1742983342
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983342
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983342
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983342
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983342
+            },
+            "unit_size": {
+                "value": 60,
+                "previous": [],
+                "timestamp": 1742983342
+            },
+            "bulk_price": {
+                "value": "0.03",
+                "previous": [],
+                "timestamp": 1742983342
+            },
+            "unit_price": {
+                "value": "1.70",
+                "previous": [],
+                "timestamp": 1742983342
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983342
+            },
+            "size_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1742983342
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983342
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983342
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983342
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983342
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983342
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1742983342
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983342
+            },
+            "reference_price": {
+                "value": "0.029",
+                "previous": [],
+                "timestamp": 1742983342
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983342
+            },
+            "reference_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1742983342
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983342
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983342
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983342
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/35356/toallitas-bebe-aqua-deliplus-fibras-origen-natural-99-agua-paquete",
+            "previous": [],
+            "timestamp": 1742983342
+        },
+        "slug": {
+            "value": "toallitas-bebe-aqua-deliplus-fibras-origen-natural-99-agua-paquete",
+            "previous": [],
+            "timestamp": 1742983342
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983342
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/d25fb681357f0515bf9258c89616fe3c.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983342
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983342
+        }
+    },
+    "stats": {
+        "created_at": 1742983342,
+        "updated_at": 1743023173,
+        "updates": 2
+    }
+}

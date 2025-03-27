@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983552
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983552
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 10,
+                    "previous": [],
+                    "timestamp": 1742983552
+                },
+                "name": {
+                    "value": "Zumos",
+                    "previous": [],
+                    "timestamp": 1742983552
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983552
+                },
+                "order": {
+                    "value": 792,
+                    "previous": [],
+                    "timestamp": 1742983552
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Fruta + leche caribe Don Simón sin azúcares añadidos y zero materia grasa",
+            "previous": [],
+            "timestamp": 1742983552
+        },
+        "id": {
+            "value": "10106",
+            "previous": [],
+            "timestamp": 1742983552
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983552
+        },
+        "packaging": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983552
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1742983552
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983552
+            },
+            "is_pack": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983552
+            },
+            "pack_size": {
+                "value": 0.2,
+                "previous": [],
+                "timestamp": 1742983552
+            },
+            "unit_name": {
+                "value": "mini bricks",
+                "previous": [],
+                "timestamp": 1742983552
+            },
+            "unit_size": {
+                "value": 1.2,
+                "previous": [],
+                "timestamp": 1742983552
+            },
+            "bulk_price": {
+                "value": "1.25",
+                "previous": [],
+                "timestamp": 1742983552
+            },
+            "unit_price": {
+                "value": "1.50",
+                "previous": [],
+                "timestamp": 1742983552
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983552
+            },
+            "size_format": {
+                "value": "l",
+                "previous": [],
+                "timestamp": 1742983552
+            },
+            "total_units": {
+                "value": 6,
+                "previous": [],
+                "timestamp": 1742983552
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983552
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983552
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983552
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983552
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1742983552
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983552
+            },
+            "reference_price": {
+                "value": "1.250",
+                "previous": [],
+                "timestamp": 1742983552
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983552
+            },
+            "reference_format": {
+                "value": "L",
+                "previous": [],
+                "timestamp": 1742983552
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983552
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983552
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983552
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/10106/fruta-leche-caribe-don-simon-sin-azucares-anadidos-zero-materia-grasa-pack-6",
+            "previous": [],
+            "timestamp": 1742983552
+        },
+        "slug": {
+            "value": "fruta-leche-caribe-don-simon-sin-azucares-anadidos-zero-materia-grasa-pack-6",
+            "previous": [],
+            "timestamp": 1742983552
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983552
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/bbed0e5ba3617c5be6c3c8bec5b6eff3.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983552
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983552
+        }
+    },
+    "stats": {
+        "created_at": 1742983552,
+        "updated_at": 1743023405,
+        "updates": 2
+    }
+}

@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983438
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983438
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 20,
+                    "previous": [],
+                    "timestamp": 1742983438
+                },
+                "name": {
+                    "value": "Cuidado facial y corporal",
+                    "previous": [],
+                    "timestamp": 1742983438
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983438
+                },
+                "order": {
+                    "value": 241,
+                    "previous": [],
+                    "timestamp": 1742983438
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Desodorante roll-on Dermo extra control Sanex antitranspirante",
+            "previous": [],
+            "timestamp": 1742983438
+        },
+        "id": {
+            "value": "46028",
+            "previous": [],
+            "timestamp": 1742983438
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983438
+        },
+        "packaging": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983438
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1742983438
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983438
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983438
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983438
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983438
+            },
+            "unit_size": {
+                "value": 0.05,
+                "previous": [],
+                "timestamp": 1742983438
+            },
+            "bulk_price": {
+                "value": "42.00",
+                "previous": [],
+                "timestamp": 1742983438
+            },
+            "unit_price": {
+                "value": "2.10",
+                "previous": [],
+                "timestamp": 1742983438
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983438
+            },
+            "size_format": {
+                "value": "l",
+                "previous": [],
+                "timestamp": 1742983438
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983438
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983438
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983438
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983438
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983438
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1742983438
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983438
+            },
+            "reference_price": {
+                "value": "4.200",
+                "previous": [],
+                "timestamp": 1742983438
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983438
+            },
+            "reference_format": {
+                "value": "100 ml",
+                "previous": [],
+                "timestamp": 1742983438
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983438
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983438
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983438
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/46028/desodorante-roll-on-dermo-extra-control-sanex-antitranspirante",
+            "previous": [],
+            "timestamp": 1742983438
+        },
+        "slug": {
+            "value": "desodorante-roll-on-dermo-extra-control-sanex-antitranspirante",
+            "previous": [],
+            "timestamp": 1742983438
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983438
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/93ad6eaff729427d86d34e8d16ddff12.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983438
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983438
+        }
+    },
+    "stats": {
+        "created_at": 1742983438,
+        "updated_at": 1743023283,
+        "updates": 2
+    }
+}

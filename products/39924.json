@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983555
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983555
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 10,
+                    "previous": [],
+                    "timestamp": 1742983555
+                },
+                "name": {
+                    "value": "Zumos",
+                    "previous": [],
+                    "timestamp": 1742983555
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983555
+                },
+                "order": {
+                    "value": 792,
+                    "previous": [],
+                    "timestamp": 1742983555
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Zumo de clementina selección Hacendado",
+            "previous": [],
+            "timestamp": 1742983555
+        },
+        "id": {
+            "value": "39924",
+            "previous": [],
+            "timestamp": 1742983555
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983555
+        },
+        "packaging": {
+            "value": "Brick",
+            "previous": [],
+            "timestamp": 1742983555
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983555
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983555
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983555
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983555
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983555
+            },
+            "unit_size": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983555
+            },
+            "bulk_price": {
+                "value": "1.70",
+                "previous": [],
+                "timestamp": 1742983555
+            },
+            "unit_price": {
+                "value": "1.70",
+                "previous": [],
+                "timestamp": 1742983555
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983555
+            },
+            "size_format": {
+                "value": "l",
+                "previous": [],
+                "timestamp": 1742983555
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983555
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983555
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983555
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983555
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983555
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1742983555
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983555
+            },
+            "reference_price": {
+                "value": "1.700",
+                "previous": [],
+                "timestamp": 1742983555
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983555
+            },
+            "reference_format": {
+                "value": "L",
+                "previous": [],
+                "timestamp": 1742983555
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983555
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983555
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983555
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/39924/zumo-clementina-seleccion-hacendado-brick",
+            "previous": [],
+            "timestamp": 1742983555
+        },
+        "slug": {
+            "value": "zumo-clementina-seleccion-hacendado-brick",
+            "previous": [],
+            "timestamp": 1742983555
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983555
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/3b1c95fc31cf7f1e03e72745d3667271.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983555
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983555
+        }
+    },
+    "stats": {
+        "created_at": 1742983555,
+        "updated_at": 1743023409,
+        "updates": 2
+    }
+}

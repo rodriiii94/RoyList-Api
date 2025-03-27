@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983415
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983415
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 14,
+                    "previous": [],
+                    "timestamp": 1742983415
+                },
+                "name": {
+                    "value": "Conservas, caldos y cremas",
+                    "previous": [],
+                    "timestamp": 1742983415
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983415
+                },
+                "order": {
+                    "value": 215,
+                    "previous": [],
+                    "timestamp": 1742983415
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Filetes de bonito del norte en aceite de oliva Hacendado",
+            "previous": [],
+            "timestamp": 1742983415
+        },
+        "id": {
+            "value": "18102",
+            "previous": [],
+            "timestamp": 1742983415
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983415
+        },
+        "packaging": {
+            "value": "Tarro",
+            "previous": [],
+            "timestamp": 1742983415
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983415
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983415
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983415
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983415
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983415
+            },
+            "unit_size": {
+                "value": 0.4,
+                "previous": [],
+                "timestamp": 1742983415
+            },
+            "bulk_price": {
+                "value": "18.50",
+                "previous": [],
+                "timestamp": 1742983415
+            },
+            "unit_price": {
+                "value": "7.40",
+                "previous": [],
+                "timestamp": 1742983415
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983415
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983415
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983415
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983415
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983415
+            },
+            "drained_weight": {
+                "value": 0.28,
+                "previous": [],
+                "timestamp": 1742983415
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983415
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1742983415
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983415
+            },
+            "reference_price": {
+                "value": "26.429",
+                "previous": [],
+                "timestamp": 1742983415
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983415
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983415
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983415
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983415
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983415
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/18102/filetes-bonito-norte-aceite-oliva-hacendado-tarro",
+            "previous": [],
+            "timestamp": 1742983415
+        },
+        "slug": {
+            "value": "filetes-bonito-norte-aceite-oliva-hacendado-tarro",
+            "previous": [],
+            "timestamp": 1742983415
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983415
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/6204cafe238bdef0472c25f50e9eea7a.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983415
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983415
+        }
+    },
+    "stats": {
+        "created_at": 1742983415,
+        "updated_at": 1743023256,
+        "updates": 2
+    }
+}

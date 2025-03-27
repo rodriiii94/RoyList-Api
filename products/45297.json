@@ -1,0 +1,224 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983426
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983426
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 21,
+                    "previous": [],
+                    "timestamp": 1742983426
+                },
+                "name": {
+                    "value": "Cuidado del cabello",
+                    "previous": [],
+                    "timestamp": 1742983426
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983426
+                },
+                "order": {
+                    "value": 238,
+                    "previous": [],
+                    "timestamp": 1742983426
+                }
+            },
+            {
+                "id": {
+                    "value": 20,
+                    "previous": [],
+                    "timestamp": 1742983440
+                },
+                "name": {
+                    "value": "Cuidado facial y corporal",
+                    "previous": [],
+                    "timestamp": 1742983440
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983440
+                },
+                "order": {
+                    "value": 241,
+                    "previous": [],
+                    "timestamp": 1742983440
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Envase rellenable Deliplus tamaño viaje",
+            "previous": [],
+            "timestamp": 1742983426
+        },
+        "id": {
+            "value": "45297",
+            "previous": [],
+            "timestamp": 1742983426
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983426
+        },
+        "packaging": {
+            "value": "Botella",
+            "previous": [],
+            "timestamp": 1742983426
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1742983426
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983426
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983426
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983426
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983426
+            },
+            "unit_size": {
+                "value": 0.1,
+                "previous": [],
+                "timestamp": 1742983426
+            },
+            "bulk_price": {
+                "value": "0.90",
+                "previous": [],
+                "timestamp": 1742983426
+            },
+            "unit_price": {
+                "value": "0.90",
+                "previous": [],
+                "timestamp": 1742983426
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983426
+            },
+            "size_format": {
+                "value": "l",
+                "previous": [],
+                "timestamp": 1742983426
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983426
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983426
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983426
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983426
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983426
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983426
+            },
+            "reference_price": {
+                "value": "0.900",
+                "previous": [],
+                "timestamp": 1742983426
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983426
+            },
+            "reference_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1742983426
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983426
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983426
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983426
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/45297/envase-rellenable-deliplus-tamano-viaje-botella",
+            "previous": [],
+            "timestamp": 1742983426
+        },
+        "slug": {
+            "value": "envase-rellenable-deliplus-tamano-viaje-botella",
+            "previous": [],
+            "timestamp": 1742983426
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983426
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/594feef14906895ee60ee0405d1db9f9.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983426
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983426
+        }
+    },
+    "stats": {
+        "created_at": 1742983426,
+        "updated_at": 1743023285,
+        "updates": 4
+    }
+}

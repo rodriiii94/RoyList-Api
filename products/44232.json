@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983474
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983474
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 26,
+                    "previous": [],
+                    "timestamp": 1742983474
+                },
+                "name": {
+                    "value": "Limpieza y hogar",
+                    "previous": [],
+                    "timestamp": 1742983474
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983474
+                },
+                "order": {
+                    "value": 374,
+                    "previous": [],
+                    "timestamp": 1742983474
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Limpiador desincrustante y chimeneas Bosque Verde",
+            "previous": [],
+            "timestamp": 1742983474
+        },
+        "id": {
+            "value": "44232",
+            "previous": [],
+            "timestamp": 1742983474
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983474
+        },
+        "packaging": {
+            "value": "Botella",
+            "previous": [],
+            "timestamp": 1742983474
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1742983474
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983474
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983474
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983474
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983474
+            },
+            "unit_size": {
+                "value": 0.75,
+                "previous": [],
+                "timestamp": 1742983474
+            },
+            "bulk_price": {
+                "value": "4.73",
+                "previous": [],
+                "timestamp": 1742983474
+            },
+            "unit_price": {
+                "value": "3.55",
+                "previous": [],
+                "timestamp": 1742983474
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983474
+            },
+            "size_format": {
+                "value": "l",
+                "previous": [],
+                "timestamp": 1742983474
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983474
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983474
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983474
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983474
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983474
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1742983474
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983474
+            },
+            "reference_price": {
+                "value": "4.734",
+                "previous": [],
+                "timestamp": 1742983474
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983474
+            },
+            "reference_format": {
+                "value": "L",
+                "previous": [],
+                "timestamp": 1742983474
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983474
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983474
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983474
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/44232/limpiador-desincrustante-chimeneas-bosque-verde-con-pistola-botella",
+            "previous": [],
+            "timestamp": 1742983474
+        },
+        "slug": {
+            "value": "limpiador-desincrustante-chimeneas-bosque-verde-con-pistola-botella",
+            "previous": [],
+            "timestamp": 1742983474
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983474
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/37eed54529d21e97fa80b439505c6527.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983474
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983474
+        }
+    },
+    "stats": {
+        "created_at": 1742983474,
+        "updated_at": 1743023325,
+        "updates": 2
+    }
+}

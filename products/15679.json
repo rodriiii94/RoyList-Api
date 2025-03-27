@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983467
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983467
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 26,
+                    "previous": [],
+                    "timestamp": 1742983467
+                },
+                "name": {
+                    "value": "Limpieza y hogar",
+                    "previous": [],
+                    "timestamp": 1742983467
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983467
+                },
+                "order": {
+                    "value": 374,
+                    "previous": [],
+                    "timestamp": 1742983467
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Percarbonato blanqueante Bosque Verde",
+            "previous": [],
+            "timestamp": 1742983467
+        },
+        "id": {
+            "value": "15679",
+            "previous": [],
+            "timestamp": 1742983467
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983467
+        },
+        "packaging": {
+            "value": "Paquete",
+            "previous": [],
+            "timestamp": 1742983467
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1742983467
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983467
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983467
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983467
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983467
+            },
+            "unit_size": {
+                "value": 0.75,
+                "previous": [],
+                "timestamp": 1742983467
+            },
+            "bulk_price": {
+                "value": "2.20",
+                "previous": [],
+                "timestamp": 1742983467
+            },
+            "unit_price": {
+                "value": "1.65",
+                "previous": [],
+                "timestamp": 1742983467
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983467
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983467
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983467
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983467
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983467
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983467
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983467
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1742983467
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983467
+            },
+            "reference_price": {
+                "value": "2.200",
+                "previous": [],
+                "timestamp": 1742983467
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983467
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983467
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983467
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983467
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983467
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/15679/percarbonato-blanqueante-bosque-verde-paquete",
+            "previous": [],
+            "timestamp": 1742983467
+        },
+        "slug": {
+            "value": "percarbonato-blanqueante-bosque-verde-paquete",
+            "previous": [],
+            "timestamp": 1742983467
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983467
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/4eeed51e4f131ac1a777f20b6a1a6015.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983467
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983467
+        }
+    },
+    "stats": {
+        "created_at": 1742983467,
+        "updated_at": 1743023317,
+        "updates": 2
+    }
+}

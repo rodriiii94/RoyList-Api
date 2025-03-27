@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983487
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983487
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 26,
+                    "previous": [],
+                    "timestamp": 1742983487
+                },
+                "name": {
+                    "value": "Limpieza y hogar",
+                    "previous": [],
+                    "timestamp": 1742983487
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983487
+                },
+                "order": {
+                    "value": 374,
+                    "previous": [],
+                    "timestamp": 1742983487
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Bolsa de basura mini Bosque Verde 10L cubo pequeño",
+            "previous": [],
+            "timestamp": 1742983487
+        },
+        "id": {
+            "value": "49704",
+            "previous": [],
+            "timestamp": 1742983487
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983487
+        },
+        "packaging": {
+            "value": "Paquete",
+            "previous": [],
+            "timestamp": 1742983487
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1742983487
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983487
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983487
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983487
+            },
+            "unit_name": {
+                "value": "bolsas",
+                "previous": [],
+                "timestamp": 1742983487
+            },
+            "unit_size": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983487
+            },
+            "bulk_price": {
+                "value": "0.03",
+                "previous": [],
+                "timestamp": 1742983487
+            },
+            "unit_price": {
+                "value": "1.35",
+                "previous": [],
+                "timestamp": 1742983487
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983487
+            },
+            "size_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1742983487
+            },
+            "total_units": {
+                "value": 40,
+                "previous": [],
+                "timestamp": 1742983487
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983487
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983487
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983487
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983487
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1742983487
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983487
+            },
+            "reference_price": {
+                "value": "0.034",
+                "previous": [],
+                "timestamp": 1742983487
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983487
+            },
+            "reference_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1742983487
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983487
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983487
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983487
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/49704/bolsa-basura-mini-bosque-verde-10l-cubo-pequeno-paquete",
+            "previous": [],
+            "timestamp": 1742983487
+        },
+        "slug": {
+            "value": "bolsa-basura-mini-bosque-verde-10l-cubo-pequeno-paquete",
+            "previous": [],
+            "timestamp": 1742983487
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983487
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/0e5782114bc8c0174d8a3d3574dc2965.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983487
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983487
+        }
+    },
+    "stats": {
+        "created_at": 1742983487,
+        "updated_at": 1743023339,
+        "updates": 2
+    }
+}

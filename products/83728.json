@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983500
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983500
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 2,
+                    "previous": [],
+                    "timestamp": 1742983500
+                },
+                "name": {
+                    "value": "Marisco y pescado",
+                    "previous": [],
+                    "timestamp": 1742983500
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983500
+                },
+                "order": {
+                    "value": 441,
+                    "previous": [],
+                    "timestamp": 1742983500
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Mejillón selección",
+            "previous": [],
+            "timestamp": 1742983500
+        },
+        "id": {
+            "value": "83728",
+            "previous": [],
+            "timestamp": 1742983500
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983500
+        },
+        "packaging": {
+            "value": "Malla",
+            "previous": [],
+            "timestamp": 1742983500
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983500
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983500
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983500
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983500
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983500
+            },
+            "unit_size": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983500
+            },
+            "bulk_price": {
+                "value": "3.95",
+                "previous": [],
+                "timestamp": 1742983500
+            },
+            "unit_price": {
+                "value": "3.95",
+                "previous": [],
+                "timestamp": 1742983500
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983500
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983500
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983500
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983500
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983500
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983500
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983500
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1742983500
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983500
+            },
+            "reference_price": {
+                "value": "3.950",
+                "previous": [],
+                "timestamp": 1742983500
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983500
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983500
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983500
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983500
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983500
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/83728/mejillon-seleccion-malla",
+            "previous": [],
+            "timestamp": 1742983500
+        },
+        "slug": {
+            "value": "mejillon-seleccion-malla",
+            "previous": [],
+            "timestamp": 1742983500
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983500
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/c1925bb244da1a9da2932a4f16fa6d60.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983500
+        },
+        "unavailable_from": {
+            "value": "2025-03-29T23:00:00+00:00",
+            "previous": [],
+            "timestamp": 1742983500
+        }
+    },
+    "stats": {
+        "created_at": 1742983500,
+        "updated_at": 1743023353,
+        "updates": 2
+    }
+}

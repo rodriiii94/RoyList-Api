@@ -1,0 +1,229 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983412
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983412
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 17,
+                    "previous": [],
+                    "timestamp": 1742983412
+                },
+                "name": {
+                    "value": "Congelados",
+                    "previous": [],
+                    "timestamp": 1742983412
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983412
+                },
+                "order": {
+                    "value": 213,
+                    "previous": [],
+                    "timestamp": 1742983412
+                }
+            },
+            {
+                "id": {
+                    "value": 5,
+                    "previous": [],
+                    "timestamp": 1742983526
+                },
+                "name": {
+                    "value": "Panadería y pastelería",
+                    "previous": [],
+                    "timestamp": 1742983526
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983526
+                },
+                "order": {
+                    "value": 514,
+                    "previous": [],
+                    "timestamp": 1742983526
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Tarta Ferrer bombón crujiente Hacendado congelada",
+            "previous": [],
+            "timestamp": 1742983412
+        },
+        "id": {
+            "value": "87609",
+            "previous": [],
+            "timestamp": 1742983412
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983412
+        },
+        "packaging": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983412
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983412
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983412
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983412
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983412
+            },
+            "unit_name": {
+                "value": "raciones",
+                "previous": [],
+                "timestamp": 1742983412
+            },
+            "unit_size": {
+                "value": 0.71,
+                "previous": [],
+                "timestamp": 1742983412
+            },
+            "bulk_price": {
+                "value": "13.38",
+                "previous": [],
+                "timestamp": 1742983412
+            },
+            "unit_price": {
+                "value": "9.50",
+                "previous": [],
+                "timestamp": 1742983412
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983412
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983412
+            },
+            "total_units": {
+                "value": 8,
+                "previous": [],
+                "timestamp": 1742983412
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983412
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983412
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983412
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983412
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1742983412
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983412
+            },
+            "reference_price": {
+                "value": "13.381",
+                "previous": [],
+                "timestamp": 1742983412
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983412
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983412
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983412
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983412
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983412
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/87609/tarta-ferrer-bombon-crujiente-hacendado-congelada-rellena-con-trufa",
+            "previous": [],
+            "timestamp": 1742983412
+        },
+        "slug": {
+            "value": "tarta-ferrer-bombon-crujiente-hacendado-congelada-rellena-con-trufa",
+            "previous": [],
+            "timestamp": 1742983412
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983412
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/d9411b738be324270ca21d6f2b789ab1.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983412
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983412
+        }
+    },
+    "stats": {
+        "created_at": 1742983412,
+        "updated_at": 1743023379,
+        "updates": 4
+    }
+}

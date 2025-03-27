@@ -1,0 +1,229 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983368
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983368
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 3,
+                    "previous": [],
+                    "timestamp": 1742983368
+                },
+                "name": {
+                    "value": "Carne",
+                    "previous": [],
+                    "timestamp": 1742983368
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983368
+                },
+                "order": {
+                    "value": 17,
+                    "previous": [],
+                    "timestamp": 1742983368
+                }
+            },
+            {
+                "id": {
+                    "value": 17,
+                    "previous": [],
+                    "timestamp": 1742983401
+                },
+                "name": {
+                    "value": "Congelados",
+                    "previous": [],
+                    "timestamp": 1742983401
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983401
+                },
+                "order": {
+                    "value": 213,
+                    "previous": [],
+                    "timestamp": 1742983401
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Carrillada de vacuno congelado",
+            "previous": [],
+            "timestamp": 1742983368
+        },
+        "id": {
+            "value": "21101",
+            "previous": [],
+            "timestamp": 1742983368
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983368
+        },
+        "packaging": {
+            "value": "Paquete",
+            "previous": [],
+            "timestamp": 1742983368
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983368
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983368
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983368
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983368
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983368
+            },
+            "unit_size": {
+                "value": 0.6,
+                "previous": [],
+                "timestamp": 1742983368
+            },
+            "bulk_price": {
+                "value": "15.50",
+                "previous": [],
+                "timestamp": 1742983368
+            },
+            "unit_price": {
+                "value": "9.30",
+                "previous": [],
+                "timestamp": 1742983368
+            },
+            "approx_size": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983368
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983368
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983368
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983368
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983368
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983368
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983368
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1742983368
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983368
+            },
+            "reference_price": {
+                "value": "15.500",
+                "previous": [],
+                "timestamp": 1742983368
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983368
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983368
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983368
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983368
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983368
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/21101/carrillada-vacuno-congelado-paquete",
+            "previous": [],
+            "timestamp": 1742983368
+        },
+        "slug": {
+            "value": "carrillada-vacuno-congelado-paquete",
+            "previous": [],
+            "timestamp": 1742983368
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983368
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/c58c4c7651db7fdaf2fe8c0278a1e3d4.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983368
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983368
+        }
+    },
+    "stats": {
+        "created_at": 1742983368,
+        "updated_at": 1743023240,
+        "updates": 4
+    }
+}

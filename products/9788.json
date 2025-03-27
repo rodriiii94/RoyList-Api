@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983397
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983397
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 4,
+                    "previous": [],
+                    "timestamp": 1742983397
+                },
+                "name": {
+                    "value": "Charcutería y quesos",
+                    "previous": [],
+                    "timestamp": 1742983397
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983397
+                },
+                "order": {
+                    "value": 159,
+                    "previous": [],
+                    "timestamp": 1742983397
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Crema de queso Tex-Mex Hacendado",
+            "previous": [],
+            "timestamp": 1742983397
+        },
+        "id": {
+            "value": "9788",
+            "previous": [],
+            "timestamp": 1742983397
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983397
+        },
+        "packaging": {
+            "value": "Tarrina",
+            "previous": [],
+            "timestamp": 1742983397
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 4,
+                "previous": [],
+                "timestamp": 1742983397
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983397
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983397
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983397
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983397
+            },
+            "unit_size": {
+                "value": 0.15,
+                "previous": [],
+                "timestamp": 1742983397
+            },
+            "bulk_price": {
+                "value": "10.53",
+                "previous": [],
+                "timestamp": 1742983397
+            },
+            "unit_price": {
+                "value": "1.58",
+                "previous": [],
+                "timestamp": 1742983397
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983397
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983397
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983397
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983397
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983397
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983397
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983397
+            },
+            "tax_percentage": {
+                "value": "4.000",
+                "previous": [],
+                "timestamp": 1742983397
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983397
+            },
+            "reference_price": {
+                "value": "10.534",
+                "previous": [],
+                "timestamp": 1742983397
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983397
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983397
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983397
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983397
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983397
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/9788/crema-queso-tex-mex-hacendado-tarrina",
+            "previous": [],
+            "timestamp": 1742983397
+        },
+        "slug": {
+            "value": "crema-queso-tex-mex-hacendado-tarrina",
+            "previous": [],
+            "timestamp": 1742983397
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983397
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/b43b6a577fe0d3be3bd7272de06b7362.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983397
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983397
+        }
+    },
+    "stats": {
+        "created_at": 1742983397,
+        "updated_at": 1743023236,
+        "updates": 2
+    }
+}

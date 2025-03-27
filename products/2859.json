@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983369
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983369
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 3,
+                    "previous": [],
+                    "timestamp": 1742983369
+                },
+                "name": {
+                    "value": "Carne",
+                    "previous": [],
+                    "timestamp": 1742983369
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983369
+                },
+                "order": {
+                    "value": 17,
+                    "previous": [],
+                    "timestamp": 1742983369
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Filetes hígado de cerdo",
+            "previous": [],
+            "timestamp": 1742983369
+        },
+        "id": {
+            "value": "2859",
+            "previous": [],
+            "timestamp": 1742983369
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983369
+        },
+        "packaging": {
+            "value": "Bandeja",
+            "previous": [],
+            "timestamp": 1742983369
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983369
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983369
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983369
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983369
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983369
+            },
+            "unit_size": {
+                "value": 0.45,
+                "previous": [],
+                "timestamp": 1742983369
+            },
+            "bulk_price": {
+                "value": "5.60",
+                "previous": [],
+                "timestamp": 1742983369
+            },
+            "unit_price": {
+                "value": "2.52",
+                "previous": [],
+                "timestamp": 1742983369
+            },
+            "approx_size": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983369
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983369
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983369
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983369
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983369
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983369
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983369
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1742983369
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983369
+            },
+            "reference_price": {
+                "value": "5.600",
+                "previous": [],
+                "timestamp": 1742983369
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983369
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983369
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983369
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983369
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983369
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/2859/filetes-higado-cerdo-bandeja",
+            "previous": [],
+            "timestamp": 1742983369
+        },
+        "slug": {
+            "value": "filetes-higado-cerdo-bandeja",
+            "previous": [],
+            "timestamp": 1742983369
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983369
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/28919c32a11d76b17dc8bd6c756e7b8f.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983369
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983369
+        }
+    },
+    "stats": {
+        "created_at": 1742983369,
+        "updated_at": 1743023205,
+        "updates": 2
+    }
+}

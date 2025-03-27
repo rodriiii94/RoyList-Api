@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983359
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983359
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 8,
+                    "previous": [],
+                    "timestamp": 1742983359
+                },
+                "name": {
+                    "value": "Cacao, café e infusiones",
+                    "previous": [],
+                    "timestamp": 1742983359
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983359
+                },
+                "order": {
+                    "value": 16,
+                    "previous": [],
+                    "timestamp": 1742983359
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Café en cápsula extra forte Hacendado",
+            "previous": [],
+            "timestamp": 1742983359
+        },
+        "id": {
+            "value": "13636",
+            "previous": [],
+            "timestamp": 1742983359
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983359
+        },
+        "packaging": {
+            "value": "Caja",
+            "previous": [],
+            "timestamp": 1742983359
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983359
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983359
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983359
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983359
+            },
+            "unit_name": {
+                "value": "cápsulas",
+                "previous": [],
+                "timestamp": 1742983359
+            },
+            "unit_size": {
+                "value": 0.112,
+                "previous": [],
+                "timestamp": 1742983359
+            },
+            "bulk_price": {
+                "value": "29.46",
+                "previous": [],
+                "timestamp": 1742983359
+            },
+            "unit_price": {
+                "value": "3.30",
+                "previous": [],
+                "timestamp": 1742983359
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983359
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983359
+            },
+            "total_units": {
+                "value": 16,
+                "previous": [],
+                "timestamp": 1742983359
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983359
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983359
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983359
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983359
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1742983359
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983359
+            },
+            "reference_price": {
+                "value": "29.465",
+                "previous": [],
+                "timestamp": 1742983359
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983359
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983359
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983359
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983359
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983359
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/13636/cafe-capsula-extra-forte-hacendado-compatibles-maquinas-dolce-gusto-caja",
+            "previous": [],
+            "timestamp": 1742983359
+        },
+        "slug": {
+            "value": "cafe-capsula-extra-forte-hacendado-compatibles-maquinas-dolce-gusto-caja",
+            "previous": [],
+            "timestamp": 1742983359
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983359
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/0991ea7cd349dd0f44bd34766a760356.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983359
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983359
+        }
+    },
+    "stats": {
+        "created_at": 1742983359,
+        "updated_at": 1743023192,
+        "updates": 2
+    }
+}

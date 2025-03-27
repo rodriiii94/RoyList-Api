@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983514
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983514
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 5,
+                    "previous": [],
+                    "timestamp": 1742983514
+                },
+                "name": {
+                    "value": "Panadería y pastelería",
+                    "previous": [],
+                    "timestamp": 1742983514
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983514
+                },
+                "order": {
+                    "value": 514,
+                    "previous": [],
+                    "timestamp": 1742983514
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Empanadilla de pollo 10% y bechamel",
+            "previous": [],
+            "timestamp": 1742983514
+        },
+        "id": {
+            "value": "4912",
+            "previous": [],
+            "timestamp": 1742983514
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983514
+        },
+        "packaging": {
+            "value": "Pieza",
+            "previous": [],
+            "timestamp": 1742983514
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983514
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983514
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983514
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983514
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983514
+            },
+            "unit_size": {
+                "value": 0.098,
+                "previous": [],
+                "timestamp": 1742983514
+            },
+            "bulk_price": {
+                "value": "13.27",
+                "previous": [],
+                "timestamp": 1742983514
+            },
+            "unit_price": {
+                "value": "1.30",
+                "previous": [],
+                "timestamp": 1742983514
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983514
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983514
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983514
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983514
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983514
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983514
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983514
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1742983514
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983514
+            },
+            "reference_price": {
+                "value": "13.266",
+                "previous": [],
+                "timestamp": 1742983514
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983514
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983514
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983514
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983514
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983514
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/4912/empanadilla-pollo-10-bechamel-pieza",
+            "previous": [],
+            "timestamp": 1742983514
+        },
+        "slug": {
+            "value": "empanadilla-pollo-10-bechamel-pieza",
+            "previous": [],
+            "timestamp": 1742983514
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983514
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/fca8ea787af9601db902466b8c8adb3c.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983514
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983514
+        }
+    },
+    "stats": {
+        "created_at": 1742983514,
+        "updated_at": 1743023366,
+        "updates": 2
+    }
+}

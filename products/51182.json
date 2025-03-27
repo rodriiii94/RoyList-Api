@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983396
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983396
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 4,
+                    "previous": [],
+                    "timestamp": 1742983396
+                },
+                "name": {
+                    "value": "Charcutería y quesos",
+                    "previous": [],
+                    "timestamp": 1742983396
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983396
+                },
+                "order": {
+                    "value": 159,
+                    "previous": [],
+                    "timestamp": 1742983396
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Queso lonchas fundido suave mezcla Hacendado",
+            "previous": [],
+            "timestamp": 1742983396
+        },
+        "id": {
+            "value": "51182",
+            "previous": [],
+            "timestamp": 1742983396
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983396
+        },
+        "packaging": {
+            "value": "Paquete",
+            "previous": [],
+            "timestamp": 1742983396
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 4,
+                "previous": [],
+                "timestamp": 1742983396
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983396
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983396
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983396
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983396
+            },
+            "unit_size": {
+                "value": 0.555,
+                "previous": [],
+                "timestamp": 1742983396
+            },
+            "bulk_price": {
+                "value": "4.32",
+                "previous": [],
+                "timestamp": 1742983396
+            },
+            "unit_price": {
+                "value": "2.40",
+                "previous": [],
+                "timestamp": 1742983396
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983396
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983396
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983396
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983396
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983396
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983396
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983396
+            },
+            "tax_percentage": {
+                "value": "4.000",
+                "previous": [],
+                "timestamp": 1742983396
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983396
+            },
+            "reference_price": {
+                "value": "4.325",
+                "previous": [],
+                "timestamp": 1742983396
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983396
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983396
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983396
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983396
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983396
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/51182/queso-lonchas-fundido-suave-mezcla-hacendado-paquete",
+            "previous": [],
+            "timestamp": 1742983396
+        },
+        "slug": {
+            "value": "queso-lonchas-fundido-suave-mezcla-hacendado-paquete",
+            "previous": [],
+            "timestamp": 1742983396
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983396
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/05ad4f7d31c244c5c7d056a6de5e2545.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983396
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983396
+        }
+    },
+    "stats": {
+        "created_at": 1742983396,
+        "updated_at": 1743023234,
+        "updates": 2
+    }
+}

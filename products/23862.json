@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983348
+            },
+            "requires_age_check": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983348
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 19,
+                    "previous": [],
+                    "timestamp": 1742983348
+                },
+                "name": {
+                    "value": "Bodega",
+                    "previous": [],
+                    "timestamp": 1742983348
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983348
+                },
+                "order": {
+                    "value": 15,
+                    "previous": [],
+                    "timestamp": 1742983348
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Sidra asturiana El Mayu",
+            "previous": [],
+            "timestamp": 1742983348
+        },
+        "id": {
+            "value": "23862",
+            "previous": [],
+            "timestamp": 1742983348
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983348
+        },
+        "packaging": {
+            "value": "Botellín",
+            "previous": [],
+            "timestamp": 1742983348
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1742983348
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983348
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983348
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983348
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983348
+            },
+            "unit_size": {
+                "value": 0.25,
+                "previous": [],
+                "timestamp": 1742983348
+            },
+            "bulk_price": {
+                "value": "3.60",
+                "previous": [],
+                "timestamp": 1742983348
+            },
+            "unit_price": {
+                "value": "0.90",
+                "previous": [],
+                "timestamp": 1742983348
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983348
+            },
+            "size_format": {
+                "value": "l",
+                "previous": [],
+                "timestamp": 1742983348
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983348
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983348
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983348
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983348
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983348
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1742983348
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983348
+            },
+            "reference_price": {
+                "value": "3.600",
+                "previous": [],
+                "timestamp": 1742983348
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983348
+            },
+            "reference_format": {
+                "value": "L",
+                "previous": [],
+                "timestamp": 1742983348
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983348
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983348
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983348
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/23862/sidra-asturiana-mayu-botellin",
+            "previous": [],
+            "timestamp": 1742983348
+        },
+        "slug": {
+            "value": "sidra-asturiana-mayu-botellin",
+            "previous": [],
+            "timestamp": 1742983348
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983348
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/5d5ecffad2e603a8824568b74458d9b5.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983348
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983348
+        }
+    },
+    "stats": {
+        "created_at": 1742983348,
+        "updated_at": 1743023180,
+        "updates": 2
+    }
+}

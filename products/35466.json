@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983542
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983542
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 11,
+                    "previous": [],
+                    "timestamp": 1742983542
+                },
+                "name": {
+                    "value": "Postres y yogures",
+                    "previous": [],
+                    "timestamp": 1742983542
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983542
+                },
+                "order": {
+                    "value": 597,
+                    "previous": [],
+                    "timestamp": 1742983542
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Postre de soja Hacendado sabor chocolate",
+            "previous": [],
+            "timestamp": 1742983542
+        },
+        "id": {
+            "value": "35466",
+            "previous": [],
+            "timestamp": 1742983542
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983542
+        },
+        "packaging": {
+            "value": "Pack-4",
+            "previous": [],
+            "timestamp": 1742983542
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983542
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983542
+            },
+            "is_pack": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983542
+            },
+            "pack_size": {
+                "value": 0.1,
+                "previous": [],
+                "timestamp": 1742983542
+            },
+            "unit_name": {
+                "value": "ud.",
+                "previous": [],
+                "timestamp": 1742983542
+            },
+            "unit_size": {
+                "value": 0.4,
+                "previous": [],
+                "timestamp": 1742983542
+            },
+            "bulk_price": {
+                "value": "3.88",
+                "previous": [],
+                "timestamp": 1742983542
+            },
+            "unit_price": {
+                "value": "1.55",
+                "previous": [],
+                "timestamp": 1742983542
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983542
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983542
+            },
+            "total_units": {
+                "value": 4,
+                "previous": [],
+                "timestamp": 1742983542
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983542
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983542
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983542
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983542
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1742983542
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983542
+            },
+            "reference_price": {
+                "value": "3.875",
+                "previous": [],
+                "timestamp": 1742983542
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983542
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983542
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983542
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983542
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983542
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/35466/postre-soja-hacendado-sabor-chocolate-pack-4",
+            "previous": [],
+            "timestamp": 1742983542
+        },
+        "slug": {
+            "value": "postre-soja-hacendado-sabor-chocolate-pack-4",
+            "previous": [],
+            "timestamp": 1742983542
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983542
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/468346ff431f9b07d6974bc7d86d7682.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983542
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983542
+        }
+    },
+    "stats": {
+        "created_at": 1742983542,
+        "updated_at": 1743023396,
+        "updates": 2
+    }
+}

@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983545
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983545
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 11,
+                    "previous": [],
+                    "timestamp": 1742983545
+                },
+                "name": {
+                    "value": "Postres y yogures",
+                    "previous": [],
+                    "timestamp": 1742983545
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983545
+                },
+                "order": {
+                    "value": 597,
+                    "previous": [],
+                    "timestamp": 1742983545
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Yogur griego con mango Hacendado",
+            "previous": [],
+            "timestamp": 1742983545
+        },
+        "id": {
+            "value": "21160",
+            "previous": [],
+            "timestamp": 1742983545
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983545
+        },
+        "packaging": {
+            "value": "Pack-4",
+            "previous": [],
+            "timestamp": 1742983545
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 4,
+                "previous": [],
+                "timestamp": 1742983545
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983545
+            },
+            "is_pack": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983545
+            },
+            "pack_size": {
+                "value": 0.125,
+                "previous": [],
+                "timestamp": 1742983545
+            },
+            "unit_name": {
+                "value": "ud.",
+                "previous": [],
+                "timestamp": 1742983545
+            },
+            "unit_size": {
+                "value": 0.5,
+                "previous": [],
+                "timestamp": 1742983545
+            },
+            "bulk_price": {
+                "value": "3.22",
+                "previous": [],
+                "timestamp": 1742983545
+            },
+            "unit_price": {
+                "value": "1.61",
+                "previous": [],
+                "timestamp": 1742983545
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983545
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983545
+            },
+            "total_units": {
+                "value": 4,
+                "previous": [],
+                "timestamp": 1742983545
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983545
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983545
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983545
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983545
+            },
+            "tax_percentage": {
+                "value": "4.000",
+                "previous": [],
+                "timestamp": 1742983545
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983545
+            },
+            "reference_price": {
+                "value": "3.220",
+                "previous": [],
+                "timestamp": 1742983545
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983545
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983545
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983545
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983545
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983545
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/21160/yogur-griego-con-mango-hacendado-pack-4",
+            "previous": [],
+            "timestamp": 1742983545
+        },
+        "slug": {
+            "value": "yogur-griego-con-mango-hacendado-pack-4",
+            "previous": [],
+            "timestamp": 1742983545
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983545
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/8e5c6a11713d9cb99dee77a13e49f9b0.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983545
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983545
+        }
+    },
+    "stats": {
+        "created_at": 1742983545,
+        "updated_at": 1743023399,
+        "updates": 2
+    }
+}

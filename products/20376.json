@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983549
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983549
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 11,
+                    "previous": [],
+                    "timestamp": 1742983549
+                },
+                "name": {
+                    "value": "Postres y yogures",
+                    "previous": [],
+                    "timestamp": 1742983549
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983549
+                },
+                "order": {
+                    "value": 597,
+                    "previous": [],
+                    "timestamp": 1742983549
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Yogur cremoso Hacendado con frutos silvestres",
+            "previous": [],
+            "timestamp": 1742983549
+        },
+        "id": {
+            "value": "20376",
+            "previous": [],
+            "timestamp": 1742983549
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983549
+        },
+        "packaging": {
+            "value": "Bote",
+            "previous": [],
+            "timestamp": 1742983549
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 4,
+                "previous": [],
+                "timestamp": 1742983549
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983549
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983549
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983549
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983549
+            },
+            "unit_size": {
+                "value": 0.5,
+                "previous": [],
+                "timestamp": 1742983549
+            },
+            "bulk_price": {
+                "value": "2.40",
+                "previous": [],
+                "timestamp": 1742983549
+            },
+            "unit_price": {
+                "value": "1.20",
+                "previous": [],
+                "timestamp": 1742983549
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983549
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983549
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983549
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983549
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983549
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983549
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983549
+            },
+            "tax_percentage": {
+                "value": "4.000",
+                "previous": [],
+                "timestamp": 1742983549
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983549
+            },
+            "reference_price": {
+                "value": "2.400",
+                "previous": [],
+                "timestamp": 1742983549
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983549
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983549
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983549
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983549
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983549
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/20376/yogur-cremoso-hacendado-con-frutos-silvestres-bote",
+            "previous": [],
+            "timestamp": 1742983549
+        },
+        "slug": {
+            "value": "yogur-cremoso-hacendado-con-frutos-silvestres-bote",
+            "previous": [],
+            "timestamp": 1742983549
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983549
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/840391a85ff4e6356e14782b46b5a076.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983549
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983549
+        }
+    },
+    "stats": {
+        "created_at": 1742983549,
+        "updated_at": 1743023402,
+        "updates": 2
+    }
+}

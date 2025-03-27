@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983459
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983459
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 1,
+                    "previous": [],
+                    "timestamp": 1742983459
+                },
+                "name": {
+                    "value": "Fruta y verdura",
+                    "previous": [],
+                    "timestamp": 1742983459
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983459
+                },
+                "order": {
+                    "value": 306,
+                    "previous": [],
+                    "timestamp": 1742983459
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Tomate rallado",
+            "previous": [],
+            "timestamp": 1742983459
+        },
+        "id": {
+            "value": "69938",
+            "previous": [],
+            "timestamp": 1742983459
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983459
+        },
+        "packaging": {
+            "value": "Tarrina",
+            "previous": [],
+            "timestamp": 1742983459
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 4,
+                "previous": [],
+                "timestamp": 1742983459
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983459
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983459
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983459
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983459
+            },
+            "unit_size": {
+                "value": 0.29,
+                "previous": [],
+                "timestamp": 1742983459
+            },
+            "bulk_price": {
+                "value": "5.00",
+                "previous": [],
+                "timestamp": 1742983459
+            },
+            "unit_price": {
+                "value": "1.45",
+                "previous": [],
+                "timestamp": 1742983459
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983459
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983459
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983459
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983459
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983459
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983459
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983459
+            },
+            "tax_percentage": {
+                "value": "4.000",
+                "previous": [],
+                "timestamp": 1742983459
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983459
+            },
+            "reference_price": {
+                "value": "5.000",
+                "previous": [],
+                "timestamp": 1742983459
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983459
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983459
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983459
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983459
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983459
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/69938/tomate-rallado-tarrina",
+            "previous": [],
+            "timestamp": 1742983459
+        },
+        "slug": {
+            "value": "tomate-rallado-tarrina",
+            "previous": [],
+            "timestamp": 1742983459
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983459
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/4bec5b1ddd1915ecba5b1a8bd2a64118.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983459
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983459
+        }
+    },
+    "stats": {
+        "created_at": 1742983459,
+        "updated_at": 1743023307,
+        "updates": 2
+    }
+}

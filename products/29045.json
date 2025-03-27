@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983315
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983315
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 18,
+                    "previous": [],
+                    "timestamp": 1742983315
+                },
+                "name": {
+                    "value": "Agua y refrescos",
+                    "previous": [],
+                    "timestamp": 1742983315
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983315
+                },
+                "order": {
+                    "value": 8,
+                    "previous": [],
+                    "timestamp": 1742983315
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Refresco de limón Hacendado zero azúcar fresh gas",
+            "previous": [],
+            "timestamp": 1742983315
+        },
+        "id": {
+            "value": "29045",
+            "previous": [],
+            "timestamp": 1742983315
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983315
+        },
+        "packaging": {
+            "value": "Pack-6",
+            "previous": [],
+            "timestamp": 1742983315
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1742983315
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983315
+            },
+            "is_pack": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983315
+            },
+            "pack_size": {
+                "value": 0.33,
+                "previous": [],
+                "timestamp": 1742983315
+            },
+            "unit_name": {
+                "value": "latas",
+                "previous": [],
+                "timestamp": 1742983315
+            },
+            "unit_size": {
+                "value": 1.98,
+                "previous": [],
+                "timestamp": 1742983315
+            },
+            "bulk_price": {
+                "value": "1.12",
+                "previous": [],
+                "timestamp": 1742983315
+            },
+            "unit_price": {
+                "value": "2.22",
+                "previous": [],
+                "timestamp": 1742983315
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983315
+            },
+            "size_format": {
+                "value": "l",
+                "previous": [],
+                "timestamp": 1742983315
+            },
+            "total_units": {
+                "value": 6,
+                "previous": [],
+                "timestamp": 1742983315
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983315
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983315
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983315
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983315
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1742983315
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983315
+            },
+            "reference_price": {
+                "value": "1.122",
+                "previous": [],
+                "timestamp": 1742983315
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983315
+            },
+            "reference_format": {
+                "value": "L",
+                "previous": [],
+                "timestamp": 1742983315
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983315
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983315
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983315
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/29045/refresco-limon-hacendado-zero-azucar-fresh-gas-pack-6",
+            "previous": [],
+            "timestamp": 1742983315
+        },
+        "slug": {
+            "value": "refresco-limon-hacendado-zero-azucar-fresh-gas-pack-6",
+            "previous": [],
+            "timestamp": 1742983315
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983315
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/89127452a2d67c5499cb76e532db6a29.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983315
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983315
+        }
+    },
+    "stats": {
+        "created_at": 1742983315,
+        "updated_at": 1743023141,
+        "updates": 2
+    }
+}

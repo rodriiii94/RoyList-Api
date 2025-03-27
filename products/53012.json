@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983386
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983386
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 4,
+                    "previous": [],
+                    "timestamp": 1742983386
+                },
+                "name": {
+                    "value": "Charcutería y quesos",
+                    "previous": [],
+                    "timestamp": 1742983386
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983386
+                },
+                "order": {
+                    "value": 159,
+                    "previous": [],
+                    "timestamp": 1742983386
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Salchichas cocidas Schara de cerdo ahumadas",
+            "previous": [],
+            "timestamp": 1742983386
+        },
+        "id": {
+            "value": "53012",
+            "previous": [],
+            "timestamp": 1742983386
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983386
+        },
+        "packaging": {
+            "value": "Pack-2",
+            "previous": [],
+            "timestamp": 1742983386
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983386
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983386
+            },
+            "is_pack": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983386
+            },
+            "pack_size": {
+                "value": 0.17,
+                "previous": [],
+                "timestamp": 1742983386
+            },
+            "unit_name": {
+                "value": "paquetes",
+                "previous": [],
+                "timestamp": 1742983386
+            },
+            "unit_size": {
+                "value": 0.34,
+                "previous": [],
+                "timestamp": 1742983386
+            },
+            "bulk_price": {
+                "value": "12.50",
+                "previous": [],
+                "timestamp": 1742983386
+            },
+            "unit_price": {
+                "value": "4.25",
+                "previous": [],
+                "timestamp": 1742983386
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983386
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983386
+            },
+            "total_units": {
+                "value": 2,
+                "previous": [],
+                "timestamp": 1742983386
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983386
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983386
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983386
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983386
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1742983386
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983386
+            },
+            "reference_price": {
+                "value": "12.500",
+                "previous": [],
+                "timestamp": 1742983386
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983386
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983386
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983386
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983386
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983386
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/53012/salchichas-cocidas-schara-cerdo-ahumadas-pack-2",
+            "previous": [],
+            "timestamp": 1742983386
+        },
+        "slug": {
+            "value": "salchichas-cocidas-schara-cerdo-ahumadas-pack-2",
+            "previous": [],
+            "timestamp": 1742983386
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983386
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/89f97bcb8605eac58678430d998e8030.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983386
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983386
+        }
+    },
+    "stats": {
+        "created_at": 1742983386,
+        "updated_at": 1743023223,
+        "updates": 2
+    }
+}

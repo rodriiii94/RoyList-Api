@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983528
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983528
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 5,
+                    "previous": [],
+                    "timestamp": 1742983528
+                },
+                "name": {
+                    "value": "Panadería y pastelería",
+                    "previous": [],
+                    "timestamp": 1742983528
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983528
+                },
+                "order": {
+                    "value": 514,
+                    "previous": [],
+                    "timestamp": 1742983528
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Almendra palitos Hacendado",
+            "previous": [],
+            "timestamp": 1742983528
+        },
+        "id": {
+            "value": "52928",
+            "previous": [],
+            "timestamp": 1742983528
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983528
+        },
+        "packaging": {
+            "value": "Paquete",
+            "previous": [],
+            "timestamp": 1742983528
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 4,
+                "previous": [],
+                "timestamp": 1742983528
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983528
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983528
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983528
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983528
+            },
+            "unit_size": {
+                "value": 0.1,
+                "previous": [],
+                "timestamp": 1742983528
+            },
+            "bulk_price": {
+                "value": "18.50",
+                "previous": [],
+                "timestamp": 1742983528
+            },
+            "unit_price": {
+                "value": "1.85",
+                "previous": [],
+                "timestamp": 1742983528
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983528
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983528
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983528
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983528
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983528
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983528
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983528
+            },
+            "tax_percentage": {
+                "value": "4.000",
+                "previous": [],
+                "timestamp": 1742983528
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983528
+            },
+            "reference_price": {
+                "value": "18.500",
+                "previous": [],
+                "timestamp": 1742983528
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983528
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983528
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983528
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983528
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983528
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/52928/almendra-palitos-hacendado-paquete",
+            "previous": [],
+            "timestamp": 1742983528
+        },
+        "slug": {
+            "value": "almendra-palitos-hacendado-paquete",
+            "previous": [],
+            "timestamp": 1742983528
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983528
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/a2300bd02a8f7d62bef999bb8fa5b732.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983528
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983528
+        }
+    },
+    "stats": {
+        "created_at": 1742983528,
+        "updated_at": 1743023381,
+        "updates": 2
+    }
+}

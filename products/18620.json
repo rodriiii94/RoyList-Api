@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983417
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983417
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 14,
+                    "previous": [],
+                    "timestamp": 1742983417
+                },
+                "name": {
+                    "value": "Conservas, caldos y cremas",
+                    "previous": [],
+                    "timestamp": 1742983417
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983417
+                },
+                "order": {
+                    "value": 215,
+                    "previous": [],
+                    "timestamp": 1742983417
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Mejillones al natural Hacendado pequeños",
+            "previous": [],
+            "timestamp": 1742983417
+        },
+        "id": {
+            "value": "18620",
+            "previous": [],
+            "timestamp": 1742983417
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983417
+        },
+        "packaging": {
+            "value": "Lata",
+            "previous": [],
+            "timestamp": 1742983417
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983417
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983417
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983417
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983417
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983417
+            },
+            "unit_size": {
+                "value": 0.111,
+                "previous": [],
+                "timestamp": 1742983417
+            },
+            "bulk_price": {
+                "value": "10.81",
+                "previous": [],
+                "timestamp": 1742983417
+            },
+            "unit_price": {
+                "value": "1.20",
+                "previous": [],
+                "timestamp": 1742983417
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983417
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983417
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983417
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983417
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983417
+            },
+            "drained_weight": {
+                "value": 0.069,
+                "previous": [],
+                "timestamp": 1742983417
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983417
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1742983417
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983417
+            },
+            "reference_price": {
+                "value": "17.392",
+                "previous": [],
+                "timestamp": 1742983417
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983417
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983417
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983417
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983417
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983417
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/18620/mejillones-natural-hacendado-pequenos-15-20-piezas-lata",
+            "previous": [],
+            "timestamp": 1742983417
+        },
+        "slug": {
+            "value": "mejillones-natural-hacendado-pequenos-15-20-piezas-lata",
+            "previous": [],
+            "timestamp": 1742983417
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983417
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/c8879720b1c9bae132effcfb1f11d3d3.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983417
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983417
+        }
+    },
+    "stats": {
+        "created_at": 1742983417,
+        "updated_at": 1743023257,
+        "updates": 2
+    }
+}

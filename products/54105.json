@@ -1,0 +1,202 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983389
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983389
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 4,
+                    "previous": [],
+                    "timestamp": 1742983389
+                },
+                "name": {
+                    "value": "Charcutería y quesos",
+                    "previous": [],
+                    "timestamp": 1742983389
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983389
+                },
+                "order": {
+                    "value": 159,
+                    "previous": [],
+                    "timestamp": 1742983389
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Chorizo de Tarancón Bricio",
+            "previous": [],
+            "timestamp": 1742983389
+        },
+        "id": {
+            "value": "54105",
+            "previous": [],
+            "timestamp": 1742983389
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983389
+        },
+        "packaging": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983389
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983389
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983389
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983389
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983389
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983389
+            },
+            "unit_size": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983389
+            },
+            "bulk_price": {
+                "value": "3.20",
+                "previous": [],
+                "timestamp": 1742983389
+            },
+            "unit_price": {
+                "value": "3.20",
+                "previous": [],
+                "timestamp": 1742983389
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983389
+            },
+            "size_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1742983389
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983389
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983389
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983389
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983389
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983389
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983389
+            },
+            "reference_price": {
+                "value": "3.200",
+                "previous": [],
+                "timestamp": 1742983389
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983389
+            },
+            "reference_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1742983389
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983389
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983389
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983389
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/54105/chorizo-tarancon-bricio",
+            "previous": [],
+            "timestamp": 1742983389
+        },
+        "slug": {
+            "value": "chorizo-tarancon-bricio",
+            "previous": [],
+            "timestamp": 1742983389
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983389
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/4b8175b7ecd7036cf61607512296492b.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983389
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983389
+        }
+    },
+    "stats": {
+        "created_at": 1742983389,
+        "updated_at": 1743023227,
+        "updates": 2
+    }
+}

@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983343
+            },
+            "requires_age_check": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983343
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 19,
+                    "previous": [],
+                    "timestamp": 1742983343
+                },
+                "name": {
+                    "value": "Bodega",
+                    "previous": [],
+                    "timestamp": 1742983343
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983343
+                },
+                "order": {
+                    "value": 15,
+                    "previous": [],
+                    "timestamp": 1742983343
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Cerveza Radler Steinburg con zumo natural de limón",
+            "previous": [],
+            "timestamp": 1742983343
+        },
+        "id": {
+            "value": "66554",
+            "previous": [],
+            "timestamp": 1742983343
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983343
+        },
+        "packaging": {
+            "value": "Lata",
+            "previous": [],
+            "timestamp": 1742983343
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1742983343
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983343
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983343
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983343
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983343
+            },
+            "unit_size": {
+                "value": 0.33,
+                "previous": [],
+                "timestamp": 1742983343
+            },
+            "bulk_price": {
+                "value": "1.24",
+                "previous": [],
+                "timestamp": 1742983343
+            },
+            "unit_price": {
+                "value": "0.41",
+                "previous": [],
+                "timestamp": 1742983343
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983343
+            },
+            "size_format": {
+                "value": "l",
+                "previous": [],
+                "timestamp": 1742983343
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983343
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983343
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983343
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983343
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983343
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1742983343
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983343
+            },
+            "reference_price": {
+                "value": "1.243",
+                "previous": [],
+                "timestamp": 1742983343
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983343
+            },
+            "reference_format": {
+                "value": "L",
+                "previous": [],
+                "timestamp": 1742983343
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983343
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983343
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983343
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/66554/cerveza-radler-con-zumo-natural-limon-steinburg-lata",
+            "previous": [],
+            "timestamp": 1742983343
+        },
+        "slug": {
+            "value": "cerveza-radler-con-zumo-natural-limon-steinburg-lata",
+            "previous": [],
+            "timestamp": 1742983343
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983343
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/e758198a282ff5190c65b8706c23da6e.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983343
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983343
+        }
+    },
+    "stats": {
+        "created_at": 1742983343,
+        "updated_at": 1743023175,
+        "updates": 2
+    }
+}

@@ -1,0 +1,229 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983367
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983367
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 3,
+                    "previous": [],
+                    "timestamp": 1742983367
+                },
+                "name": {
+                    "value": "Carne",
+                    "previous": [],
+                    "timestamp": 1742983367
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983367
+                },
+                "order": {
+                    "value": 17,
+                    "previous": [],
+                    "timestamp": 1742983367
+                }
+            },
+            {
+                "id": {
+                    "value": 17,
+                    "previous": [],
+                    "timestamp": 1742983401
+                },
+                "name": {
+                    "value": "Congelados",
+                    "previous": [],
+                    "timestamp": 1742983401
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983401
+                },
+                "order": {
+                    "value": 213,
+                    "previous": [],
+                    "timestamp": 1742983401
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Solomillo de pavo marinado congelado",
+            "previous": [],
+            "timestamp": 1742983367
+        },
+        "id": {
+            "value": "25353",
+            "previous": [],
+            "timestamp": 1742983367
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983367
+        },
+        "packaging": {
+            "value": "Paquete",
+            "previous": [],
+            "timestamp": 1742983367
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983367
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983367
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983367
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983367
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983367
+            },
+            "unit_size": {
+                "value": 0.35,
+                "previous": [],
+                "timestamp": 1742983367
+            },
+            "bulk_price": {
+                "value": "8.20",
+                "previous": [],
+                "timestamp": 1742983367
+            },
+            "unit_price": {
+                "value": "2.87",
+                "previous": [],
+                "timestamp": 1742983367
+            },
+            "approx_size": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983367
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983367
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983367
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983367
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983367
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983367
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983367
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1742983367
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983367
+            },
+            "reference_price": {
+                "value": "8.200",
+                "previous": [],
+                "timestamp": 1742983367
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983367
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983367
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983367
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983367
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983367
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/25353/solomillo-pavo-marinado-congelado-paquete",
+            "previous": [],
+            "timestamp": 1742983367
+        },
+        "slug": {
+            "value": "solomillo-pavo-marinado-congelado-paquete",
+            "previous": [],
+            "timestamp": 1742983367
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983367
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/5bb818d0e9762e82d926efb3ce16c8a9.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983367
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983367
+        }
+    },
+    "stats": {
+        "created_at": 1742983367,
+        "updated_at": 1743023240,
+        "updates": 4
+    }
+}

@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983468
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983468
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 26,
+                    "previous": [],
+                    "timestamp": 1742983468
+                },
+                "name": {
+                    "value": "Limpieza y hogar",
+                    "previous": [],
+                    "timestamp": 1742983468
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983468
+                },
+                "order": {
+                    "value": 374,
+                    "previous": [],
+                    "timestamp": 1742983468
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Guantes de látex Bosque Verde talla pequeña-mediana",
+            "previous": [],
+            "timestamp": 1742983468
+        },
+        "id": {
+            "value": "71203",
+            "previous": [],
+            "timestamp": 1742983468
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983468
+        },
+        "packaging": {
+            "value": "Caja",
+            "previous": [],
+            "timestamp": 1742983468
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1742983468
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983468
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983468
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983468
+            },
+            "unit_name": {
+                "value": "ud.",
+                "previous": [],
+                "timestamp": 1742983468
+            },
+            "unit_size": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983468
+            },
+            "bulk_price": {
+                "value": "0.06",
+                "previous": [],
+                "timestamp": 1742983468
+            },
+            "unit_price": {
+                "value": "3.10",
+                "previous": [],
+                "timestamp": 1742983468
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983468
+            },
+            "size_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1742983468
+            },
+            "total_units": {
+                "value": 50,
+                "previous": [],
+                "timestamp": 1742983468
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983468
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983468
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983468
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983468
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1742983468
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983468
+            },
+            "reference_price": {
+                "value": "0.062",
+                "previous": [],
+                "timestamp": 1742983468
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983468
+            },
+            "reference_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1742983468
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983468
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983468
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983468
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/71203/guantes-latex-bosque-verde-talla-pequena-mediana-desechables-caja",
+            "previous": [],
+            "timestamp": 1742983468
+        },
+        "slug": {
+            "value": "guantes-latex-bosque-verde-talla-pequena-mediana-desechables-caja",
+            "previous": [],
+            "timestamp": 1742983468
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983468
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/052c46b10182937319b287c5e0a03bd8.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983468
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983468
+        }
+    },
+    "stats": {
+        "created_at": 1742983468,
+        "updated_at": 1743023319,
+        "updates": 2
+    }
+}

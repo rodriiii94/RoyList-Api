@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983518
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983518
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 5,
+                    "previous": [],
+                    "timestamp": 1742983518
+                },
+                "name": {
+                    "value": "Panadería y pastelería",
+                    "previous": [],
+                    "timestamp": 1742983518
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983518
+                },
+                "order": {
+                    "value": 514,
+                    "previous": [],
+                    "timestamp": 1742983518
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Masa fresca empanada Hacendado",
+            "previous": [],
+            "timestamp": 1742983518
+        },
+        "id": {
+            "value": "63476",
+            "previous": [],
+            "timestamp": 1742983518
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983518
+        },
+        "packaging": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983518
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983518
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983518
+            },
+            "is_pack": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983518
+            },
+            "pack_size": {
+                "value": 0.23,
+                "previous": [],
+                "timestamp": 1742983518
+            },
+            "unit_name": {
+                "value": "paquetes",
+                "previous": [],
+                "timestamp": 1742983518
+            },
+            "unit_size": {
+                "value": 0.46,
+                "previous": [],
+                "timestamp": 1742983518
+            },
+            "bulk_price": {
+                "value": "5.22",
+                "previous": [],
+                "timestamp": 1742983518
+            },
+            "unit_price": {
+                "value": "2.40",
+                "previous": [],
+                "timestamp": 1742983518
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983518
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983518
+            },
+            "total_units": {
+                "value": 2,
+                "previous": [],
+                "timestamp": 1742983518
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983518
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983518
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983518
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983518
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1742983518
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983518
+            },
+            "reference_price": {
+                "value": "5.218",
+                "previous": [],
+                "timestamp": 1742983518
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983518
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983518
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983518
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983518
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983518
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/63476/masa-fresca-empanada-hacendado-pack-2",
+            "previous": [],
+            "timestamp": 1742983518
+        },
+        "slug": {
+            "value": "masa-fresca-empanada-hacendado-pack-2",
+            "previous": [],
+            "timestamp": 1742983518
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983518
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/46b0471bbc76aff48af79b5719a0c481.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983518
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983518
+        }
+    },
+    "stats": {
+        "created_at": 1742983518,
+        "updated_at": 1743023370,
+        "updates": 2
+    }
+}

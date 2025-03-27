@@ -1,0 +1,229 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983380
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983380
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 7,
+                    "previous": [],
+                    "timestamp": 1742983380
+                },
+                "name": {
+                    "value": "Cereales y galletas",
+                    "previous": [],
+                    "timestamp": 1742983380
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983380
+                },
+                "order": {
+                    "value": 18,
+                    "previous": [],
+                    "timestamp": 1742983380
+                }
+            },
+            {
+                "id": {
+                    "value": 23,
+                    "previous": [],
+                    "timestamp": 1742983452
+                },
+                "name": {
+                    "value": "Fitoterapia y parafarmacia",
+                    "previous": [],
+                    "timestamp": 1742983452
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983452
+                },
+                "order": {
+                    "value": 305,
+                    "previous": [],
+                    "timestamp": 1742983452
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Barrita con proteínas Enervit Sport sabor chocolate negro",
+            "previous": [],
+            "timestamp": 1742983380
+        },
+        "id": {
+            "value": "23670",
+            "previous": [],
+            "timestamp": 1742983380
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983380
+        },
+        "packaging": {
+            "value": "Caja",
+            "previous": [],
+            "timestamp": 1742983380
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983380
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983380
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983380
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983380
+            },
+            "unit_name": {
+                "value": "barritas",
+                "previous": [],
+                "timestamp": 1742983380
+            },
+            "unit_size": {
+                "value": 0.18,
+                "previous": [],
+                "timestamp": 1742983380
+            },
+            "bulk_price": {
+                "value": "29.17",
+                "previous": [],
+                "timestamp": 1742983380
+            },
+            "unit_price": {
+                "value": "5.25",
+                "previous": [],
+                "timestamp": 1742983380
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983380
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983380
+            },
+            "total_units": {
+                "value": 3,
+                "previous": [],
+                "timestamp": 1742983380
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983380
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983380
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983380
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983380
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1742983380
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983380
+            },
+            "reference_price": {
+                "value": "29.167",
+                "previous": [],
+                "timestamp": 1742983380
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983380
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983380
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983380
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983380
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983380
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/23670/barrita-con-proteinas-enervit-sport-sabor-chocolate-negro-caja",
+            "previous": [],
+            "timestamp": 1742983380
+        },
+        "slug": {
+            "value": "barrita-con-proteinas-enervit-sport-sabor-chocolate-negro-caja",
+            "previous": [],
+            "timestamp": 1742983380
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983380
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/cc75c8f03909cdf07cd61354cc4275c4.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983380
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983380
+        }
+    },
+    "stats": {
+        "created_at": 1742983380,
+        "updated_at": 1743023298,
+        "updates": 4
+    }
+}

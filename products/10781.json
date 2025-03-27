@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983463
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983463
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 6,
+                    "previous": [],
+                    "timestamp": 1742983463
+                },
+                "name": {
+                    "value": "Huevos, leche y mantequilla",
+                    "previous": [],
+                    "timestamp": 1742983463
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983463
+                },
+                "order": {
+                    "value": 373,
+                    "previous": [],
+                    "timestamp": 1742983463
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Bebida láctea con cereales crecimiento y desarrollo Puleva Max",
+            "previous": [],
+            "timestamp": 1742983463
+        },
+        "id": {
+            "value": "10781",
+            "previous": [],
+            "timestamp": 1742983463
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983463
+        },
+        "packaging": {
+            "value": "Brick",
+            "previous": [],
+            "timestamp": 1742983463
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983463
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983463
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983463
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983463
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983463
+            },
+            "unit_size": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983463
+            },
+            "bulk_price": {
+                "value": "1.89",
+                "previous": [],
+                "timestamp": 1742983463
+            },
+            "unit_price": {
+                "value": "1.89",
+                "previous": [],
+                "timestamp": 1742983463
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983463
+            },
+            "size_format": {
+                "value": "l",
+                "previous": [],
+                "timestamp": 1742983463
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983463
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983463
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983463
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983463
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983463
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1742983463
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983463
+            },
+            "reference_price": {
+                "value": "1.890",
+                "previous": [],
+                "timestamp": 1742983463
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983463
+            },
+            "reference_format": {
+                "value": "L",
+                "previous": [],
+                "timestamp": 1742983463
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983463
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983463
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983463
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/10781/bebida-lactea-con-cereales-crecimiento-desarrollo-puleva-max-3-anos-brick",
+            "previous": [],
+            "timestamp": 1742983463
+        },
+        "slug": {
+            "value": "bebida-lactea-con-cereales-crecimiento-desarrollo-puleva-max-3-anos-brick",
+            "previous": [],
+            "timestamp": 1742983463
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983463
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/c85afeaac6cd1ae2471bde46f0458b9a.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983463
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983463
+        }
+    },
+    "stats": {
+        "created_at": 1742983463,
+        "updated_at": 1743023313,
+        "updates": 2
+    }
+}

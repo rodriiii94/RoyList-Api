@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983547
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983547
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 11,
+                    "previous": [],
+                    "timestamp": 1742983547
+                },
+                "name": {
+                    "value": "Postres y yogures",
+                    "previous": [],
+                    "timestamp": 1742983547
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983547
+                },
+                "order": {
+                    "value": 597,
+                    "previous": [],
+                    "timestamp": 1742983547
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Bebida Kéfir natural Hacendado 0% m.g",
+            "previous": [],
+            "timestamp": 1742983547
+        },
+        "id": {
+            "value": "15662",
+            "previous": [],
+            "timestamp": 1742983547
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983547
+        },
+        "packaging": {
+            "value": "Botella",
+            "previous": [],
+            "timestamp": 1742983547
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 4,
+                "previous": [],
+                "timestamp": 1742983547
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983547
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983547
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983547
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983547
+            },
+            "unit_size": {
+                "value": 0.25,
+                "previous": [],
+                "timestamp": 1742983547
+            },
+            "bulk_price": {
+                "value": "3.40",
+                "previous": [],
+                "timestamp": 1742983547
+            },
+            "unit_price": {
+                "value": "0.85",
+                "previous": [],
+                "timestamp": 1742983547
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983547
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983547
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983547
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983547
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983547
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983547
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983547
+            },
+            "tax_percentage": {
+                "value": "4.000",
+                "previous": [],
+                "timestamp": 1742983547
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983547
+            },
+            "reference_price": {
+                "value": "3.400",
+                "previous": [],
+                "timestamp": 1742983547
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983547
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983547
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983547
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983547
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983547
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/15662/bebida-kefir-natural-hacendado-0-mg-botella",
+            "previous": [],
+            "timestamp": 1742983547
+        },
+        "slug": {
+            "value": "bebida-kefir-natural-hacendado-0-mg-botella",
+            "previous": [],
+            "timestamp": 1742983547
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983547
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/700d23ea10748add9c31d5cfdb308633.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983547
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983547
+        }
+    },
+    "stats": {
+        "created_at": 1742983547,
+        "updated_at": 1743023401,
+        "updates": 2
+    }
+}

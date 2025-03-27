@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983433
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983433
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 20,
+                    "previous": [],
+                    "timestamp": 1742983433
+                },
+                "name": {
+                    "value": "Cuidado facial y corporal",
+                    "previous": [],
+                    "timestamp": 1742983433
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983433
+                },
+                "order": {
+                    "value": 241,
+                    "previous": [],
+                    "timestamp": 1742983433
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Loción corporal reafirmante Q10 Nivea y vitamina C",
+            "previous": [],
+            "timestamp": 1742983433
+        },
+        "id": {
+            "value": "76596",
+            "previous": [],
+            "timestamp": 1742983433
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983433
+        },
+        "packaging": {
+            "value": "Bote",
+            "previous": [],
+            "timestamp": 1742983433
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1742983433
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983433
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983433
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983433
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983433
+            },
+            "unit_size": {
+                "value": 0.4,
+                "previous": [],
+                "timestamp": 1742983433
+            },
+            "bulk_price": {
+                "value": "15.63",
+                "previous": [],
+                "timestamp": 1742983433
+            },
+            "unit_price": {
+                "value": "6.25",
+                "previous": [],
+                "timestamp": 1742983433
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983433
+            },
+            "size_format": {
+                "value": "l",
+                "previous": [],
+                "timestamp": 1742983433
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983433
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983433
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983433
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983433
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983433
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1742983433
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983433
+            },
+            "reference_price": {
+                "value": "1.563",
+                "previous": [],
+                "timestamp": 1742983433
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983433
+            },
+            "reference_format": {
+                "value": "100 ml",
+                "previous": [],
+                "timestamp": 1742983433
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983433
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983433
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983433
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/76596/locion-corporal-reafirmante-q10-nivea-vitamina-c-piel-normal-bote",
+            "previous": [],
+            "timestamp": 1742983433
+        },
+        "slug": {
+            "value": "locion-corporal-reafirmante-q10-nivea-vitamina-c-piel-normal-bote",
+            "previous": [],
+            "timestamp": 1742983433
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983433
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/e549cd3e9c2d5bb5ab8be7671c9e65aa.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983433
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983433
+        }
+    },
+    "stats": {
+        "created_at": 1742983433,
+        "updated_at": 1743023276,
+        "updates": 2
+    }
+}

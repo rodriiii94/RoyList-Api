@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983491
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983491
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 22,
+                    "previous": [],
+                    "timestamp": 1742983491
+                },
+                "name": {
+                    "value": "Maquillaje",
+                    "previous": [],
+                    "timestamp": 1742983491
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983491
+                },
+                "order": {
+                    "value": 421,
+                    "previous": [],
+                    "timestamp": 1742983491
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Maquillaje fluido Fit Me Maybelline 220 natural beige",
+            "previous": [],
+            "timestamp": 1742983491
+        },
+        "id": {
+            "value": "35636",
+            "previous": [],
+            "timestamp": 1742983491
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983491
+        },
+        "packaging": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983491
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1742983491
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983491
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983491
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983491
+            },
+            "unit_name": {
+                "value": "ud.",
+                "previous": [],
+                "timestamp": 1742983491
+            },
+            "unit_size": {
+                "value": 0.03,
+                "previous": [],
+                "timestamp": 1742983491
+            },
+            "bulk_price": {
+                "value": "7.00",
+                "previous": [],
+                "timestamp": 1742983491
+            },
+            "unit_price": {
+                "value": "7.00",
+                "previous": [],
+                "timestamp": 1742983491
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983491
+            },
+            "size_format": {
+                "value": "l",
+                "previous": [],
+                "timestamp": 1742983491
+            },
+            "total_units": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983491
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983491
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983491
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983491
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983491
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1742983491
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983491
+            },
+            "reference_price": {
+                "value": "7.000",
+                "previous": [],
+                "timestamp": 1742983491
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983491
+            },
+            "reference_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1742983491
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983491
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983491
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983491
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/35636/maquillaje-fluido-fit-maybelline-220-natural-beige",
+            "previous": [],
+            "timestamp": 1742983491
+        },
+        "slug": {
+            "value": "maquillaje-fluido-fit-maybelline-220-natural-beige",
+            "previous": [],
+            "timestamp": 1742983491
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983491
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/55e0764c91e6c6923143ec9748b24a1e.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983491
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983491
+        }
+    },
+    "stats": {
+        "created_at": 1742983491,
+        "updated_at": 1743023342,
+        "updates": 2
+    }
+}

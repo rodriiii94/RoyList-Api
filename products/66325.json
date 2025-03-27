@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983355
+            },
+            "requires_age_check": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983355
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 19,
+                    "previous": [],
+                    "timestamp": 1742983355
+                },
+                "name": {
+                    "value": "Bodega",
+                    "previous": [],
+                    "timestamp": 1742983355
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983355
+                },
+                "order": {
+                    "value": 15,
+                    "previous": [],
+                    "timestamp": 1742983355
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Vino tinto D.O Rioja Comportillo reserva",
+            "previous": [],
+            "timestamp": 1742983355
+        },
+        "id": {
+            "value": "66325",
+            "previous": [],
+            "timestamp": 1742983355
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983355
+        },
+        "packaging": {
+            "value": "Botella",
+            "previous": [],
+            "timestamp": 1742983355
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1742983355
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983355
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983355
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983355
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983355
+            },
+            "unit_size": {
+                "value": 0.75,
+                "previous": [],
+                "timestamp": 1742983355
+            },
+            "bulk_price": {
+                "value": "5.60",
+                "previous": [],
+                "timestamp": 1742983355
+            },
+            "unit_price": {
+                "value": "4.20",
+                "previous": [],
+                "timestamp": 1742983355
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983355
+            },
+            "size_format": {
+                "value": "l",
+                "previous": [],
+                "timestamp": 1742983355
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983355
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983355
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983355
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983355
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983355
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1742983355
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983355
+            },
+            "reference_price": {
+                "value": "5.600",
+                "previous": [],
+                "timestamp": 1742983355
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983355
+            },
+            "reference_format": {
+                "value": "L",
+                "previous": [],
+                "timestamp": 1742983355
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983355
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983355
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983355
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/66325/vino-tinto-do-rioja-comportillo-reserva-botella",
+            "previous": [],
+            "timestamp": 1742983355
+        },
+        "slug": {
+            "value": "vino-tinto-do-rioja-comportillo-reserva-botella",
+            "previous": [],
+            "timestamp": 1742983355
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983355
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/41cff82c17e303effbf7adb2700f60c1.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983355
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983355
+        }
+    },
+    "stats": {
+        "created_at": 1742983355,
+        "updated_at": 1743023189,
+        "updates": 2
+    }
+}

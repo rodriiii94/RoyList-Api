@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983495
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983495
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 22,
+                    "previous": [],
+                    "timestamp": 1742983495
+                },
+                "name": {
+                    "value": "Maquillaje",
+                    "previous": [],
+                    "timestamp": 1742983495
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983495
+                },
+                "order": {
+                    "value": 421,
+                    "previous": [],
+                    "timestamp": 1742983495
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Pintalabios Mate Deliplus 114 rosa medio",
+            "previous": [],
+            "timestamp": 1742983495
+        },
+        "id": {
+            "value": "8303",
+            "previous": [],
+            "timestamp": 1742983495
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983495
+        },
+        "packaging": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983495
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1742983495
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983495
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983495
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983495
+            },
+            "unit_name": {
+                "value": "ud.",
+                "previous": [],
+                "timestamp": 1742983495
+            },
+            "unit_size": {
+                "value": 0.004,
+                "previous": [],
+                "timestamp": 1742983495
+            },
+            "bulk_price": {
+                "value": "4.50",
+                "previous": [],
+                "timestamp": 1742983495
+            },
+            "unit_price": {
+                "value": "4.50",
+                "previous": [],
+                "timestamp": 1742983495
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983495
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983495
+            },
+            "total_units": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983495
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983495
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983495
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983495
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983495
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1742983495
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983495
+            },
+            "reference_price": {
+                "value": "4.500",
+                "previous": [],
+                "timestamp": 1742983495
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983495
+            },
+            "reference_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1742983495
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983495
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983495
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983495
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/8303/pintalabios-mate-deliplus-114-rosa-medio",
+            "previous": [],
+            "timestamp": 1742983495
+        },
+        "slug": {
+            "value": "pintalabios-mate-deliplus-114-rosa-medio",
+            "previous": [],
+            "timestamp": 1742983495
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983495
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/067ac53c01e9e6b654d4925b11fa7c1e.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983495
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983495
+        }
+    },
+    "stats": {
+        "created_at": 1742983495,
+        "updated_at": 1743023347,
+        "updates": 2
+    }
+}

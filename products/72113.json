@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983470
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983470
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 26,
+                    "previous": [],
+                    "timestamp": 1742983470
+                },
+                "name": {
+                    "value": "Limpieza y hogar",
+                    "previous": [],
+                    "timestamp": 1742983470
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983470
+                },
+                "order": {
+                    "value": 374,
+                    "previous": [],
+                    "timestamp": 1742983470
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Trampa polillas de los alimentos Bosque Verde",
+            "previous": [],
+            "timestamp": 1742983470
+        },
+        "id": {
+            "value": "72113",
+            "previous": [],
+            "timestamp": 1742983470
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983470
+        },
+        "packaging": {
+            "value": "Caja",
+            "previous": [],
+            "timestamp": 1742983470
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1742983470
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983470
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983470
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983470
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983470
+            },
+            "unit_size": {
+                "value": 2,
+                "previous": [],
+                "timestamp": 1742983470
+            },
+            "bulk_price": {
+                "value": "1.00",
+                "previous": [],
+                "timestamp": 1742983470
+            },
+            "unit_price": {
+                "value": "2.00",
+                "previous": [],
+                "timestamp": 1742983470
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983470
+            },
+            "size_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1742983470
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983470
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983470
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983470
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983470
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983470
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1742983470
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983470
+            },
+            "reference_price": {
+                "value": "1.000",
+                "previous": [],
+                "timestamp": 1742983470
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983470
+            },
+            "reference_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1742983470
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983470
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983470
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983470
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/72113/trampa-antipolillas-alimentos-bosque-verde-sin-insecticida-olores-caja",
+            "previous": [],
+            "timestamp": 1742983470
+        },
+        "slug": {
+            "value": "trampa-antipolillas-alimentos-bosque-verde-sin-insecticida-olores-caja",
+            "previous": [],
+            "timestamp": 1742983470
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983470
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/41e8d8d950f7c5aaf6ce30a788f2c847.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983470
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983470
+        }
+    },
+    "stats": {
+        "created_at": 1742983470,
+        "updated_at": 1743023320,
+        "updates": 2
+    }
+}

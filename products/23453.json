@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983325
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983325
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 13,
+                    "previous": [],
+                    "timestamp": 1742983325
+                },
+                "name": {
+                    "value": "Arroz, legumbres y pasta",
+                    "previous": [],
+                    "timestamp": 1742983325
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983325
+                },
+                "order": {
+                    "value": 10,
+                    "previous": [],
+                    "timestamp": 1742983325
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Alubia pinta Hacendado",
+            "previous": [],
+            "timestamp": 1742983325
+        },
+        "id": {
+            "value": "23453",
+            "previous": [],
+            "timestamp": 1742983325
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983325
+        },
+        "packaging": {
+            "value": "Paquete",
+            "previous": [],
+            "timestamp": 1742983325
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 4,
+                "previous": [],
+                "timestamp": 1742983325
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983325
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983325
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983325
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983325
+            },
+            "unit_size": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983325
+            },
+            "bulk_price": {
+                "value": "2.50",
+                "previous": [],
+                "timestamp": 1742983325
+            },
+            "unit_price": {
+                "value": "2.50",
+                "previous": [],
+                "timestamp": 1742983325
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983325
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983325
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983325
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983325
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983325
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983325
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983325
+            },
+            "tax_percentage": {
+                "value": "4.000",
+                "previous": [],
+                "timestamp": 1742983325
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983325
+            },
+            "reference_price": {
+                "value": "2.500",
+                "previous": [],
+                "timestamp": 1742983325
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983325
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983325
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983325
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983325
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983325
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/23453/alubia-pinta-hacendado-categoria-extra-paquete",
+            "previous": [],
+            "timestamp": 1742983325
+        },
+        "slug": {
+            "value": "alubia-pinta-hacendado-categoria-extra-paquete",
+            "previous": [],
+            "timestamp": 1742983325
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983325
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/cb46ed99476d370c689691cb6250844c.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983325
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983325
+        }
+    },
+    "stats": {
+        "created_at": 1742983325,
+        "updated_at": 1743023154,
+        "updates": 2
+    }
+}

@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983351
+            },
+            "requires_age_check": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983351
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 19,
+                    "previous": [],
+                    "timestamp": 1742983351
+                },
+                "name": {
+                    "value": "Bodega",
+                    "previous": [],
+                    "timestamp": 1742983351
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983351
+                },
+                "order": {
+                    "value": 15,
+                    "previous": [],
+                    "timestamp": 1742983351
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Vino blanco verdejo D.O Rueda Arribeño",
+            "previous": [],
+            "timestamp": 1742983351
+        },
+        "id": {
+            "value": "37229",
+            "previous": [],
+            "timestamp": 1742983351
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983351
+        },
+        "packaging": {
+            "value": "Botella",
+            "previous": [],
+            "timestamp": 1742983351
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1742983351
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983351
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983351
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983351
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983351
+            },
+            "unit_size": {
+                "value": 0.75,
+                "previous": [],
+                "timestamp": 1742983351
+            },
+            "bulk_price": {
+                "value": "2.67",
+                "previous": [],
+                "timestamp": 1742983351
+            },
+            "unit_price": {
+                "value": "2.00",
+                "previous": [],
+                "timestamp": 1742983351
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983351
+            },
+            "size_format": {
+                "value": "l",
+                "previous": [],
+                "timestamp": 1742983351
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983351
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983351
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983351
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983351
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983351
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1742983351
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983351
+            },
+            "reference_price": {
+                "value": "2.667",
+                "previous": [],
+                "timestamp": 1742983351
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983351
+            },
+            "reference_format": {
+                "value": "L",
+                "previous": [],
+                "timestamp": 1742983351
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983351
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983351
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983351
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/37229/vino-blanco-verdejo-do-rueda-arribeno-botella",
+            "previous": [],
+            "timestamp": 1742983351
+        },
+        "slug": {
+            "value": "vino-blanco-verdejo-do-rueda-arribeno-botella",
+            "previous": [],
+            "timestamp": 1742983351
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983351
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/38eea14b572deafb0dde92402c50f06c.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983351
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983351
+        }
+    },
+    "stats": {
+        "created_at": 1742983351,
+        "updated_at": 1743023184,
+        "updates": 2
+    }
+}

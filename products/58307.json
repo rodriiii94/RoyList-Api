@@ -1,0 +1,229 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983364
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983364
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 3,
+                    "previous": [],
+                    "timestamp": 1742983364
+                },
+                "name": {
+                    "value": "Carne",
+                    "previous": [],
+                    "timestamp": 1742983364
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983364
+                },
+                "order": {
+                    "value": 17,
+                    "previous": [],
+                    "timestamp": 1742983364
+                }
+            },
+            {
+                "id": {
+                    "value": 4,
+                    "previous": [],
+                    "timestamp": 1742983391
+                },
+                "name": {
+                    "value": "Charcutería y quesos",
+                    "previous": [],
+                    "timestamp": 1742983391
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983391
+                },
+                "order": {
+                    "value": 159,
+                    "previous": [],
+                    "timestamp": 1742983391
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Hueso garrón",
+            "previous": [],
+            "timestamp": 1742983364
+        },
+        "id": {
+            "value": "58307",
+            "previous": [],
+            "timestamp": 1742983364
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983364
+        },
+        "packaging": {
+            "value": "Pieza",
+            "previous": [],
+            "timestamp": 1742983364
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983364
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983364
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983364
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983364
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983364
+            },
+            "unit_size": {
+                "value": 0.29,
+                "previous": [],
+                "timestamp": 1742983364
+            },
+            "bulk_price": {
+                "value": "4.00",
+                "previous": [],
+                "timestamp": 1742983364
+            },
+            "unit_price": {
+                "value": "1.16",
+                "previous": [],
+                "timestamp": 1742983364
+            },
+            "approx_size": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983364
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983364
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983364
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983364
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983364
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983364
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983364
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1742983364
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983364
+            },
+            "reference_price": {
+                "value": "4.000",
+                "previous": [],
+                "timestamp": 1742983364
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983364
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983364
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983364
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983364
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983364
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/58307/hueso-garron-incarlopsa-pieza",
+            "previous": [],
+            "timestamp": 1742983364
+        },
+        "slug": {
+            "value": "hueso-garron-incarlopsa-pieza",
+            "previous": [],
+            "timestamp": 1742983364
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983364
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/1f6928a432081cf7c4bb36c66a4dd305.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983364
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983364
+        }
+    },
+    "stats": {
+        "created_at": 1742983364,
+        "updated_at": 1743023229,
+        "updates": 4
+    }
+}

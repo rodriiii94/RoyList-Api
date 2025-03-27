@@ -1,0 +1,202 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983490
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983490
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 22,
+                    "previous": [],
+                    "timestamp": 1742983490
+                },
+                "name": {
+                    "value": "Maquillaje",
+                    "previous": [],
+                    "timestamp": 1742983490
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983490
+                },
+                "order": {
+                    "value": 421,
+                    "previous": [],
+                    "timestamp": 1742983490
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Maquillaje fluido Cover & Fix Deliplus 03 beige medio",
+            "previous": [],
+            "timestamp": 1742983490
+        },
+        "id": {
+            "value": "40234",
+            "previous": [],
+            "timestamp": 1742983490
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983490
+        },
+        "packaging": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983490
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1742983490
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983490
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983490
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983490
+            },
+            "unit_name": {
+                "value": "ud.",
+                "previous": [],
+                "timestamp": 1742983490
+            },
+            "unit_size": {
+                "value": 0.03,
+                "previous": [],
+                "timestamp": 1742983490
+            },
+            "bulk_price": {
+                "value": "5.00",
+                "previous": [],
+                "timestamp": 1742983490
+            },
+            "unit_price": {
+                "value": "5.00",
+                "previous": [],
+                "timestamp": 1742983490
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983490
+            },
+            "size_format": {
+                "value": "l",
+                "previous": [],
+                "timestamp": 1742983490
+            },
+            "total_units": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983490
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983490
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983490
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983490
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983490
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983490
+            },
+            "reference_price": {
+                "value": "5.000",
+                "previous": [],
+                "timestamp": 1742983490
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983490
+            },
+            "reference_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1742983490
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983490
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983490
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983490
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/40234/maquillaje-fluido-cover-fix-deliplus-03-beige-medio-fps-25",
+            "previous": [],
+            "timestamp": 1742983490
+        },
+        "slug": {
+            "value": "maquillaje-fluido-cover-fix-deliplus-03-beige-medio-fps-25",
+            "previous": [],
+            "timestamp": 1742983490
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983490
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/c77a531d063a484c780fbeaa6806ceb1.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983490
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983490
+        }
+    },
+    "stats": {
+        "created_at": 1742983490,
+        "updated_at": 1743023342,
+        "updates": 2
+    }
+}

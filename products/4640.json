@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983305
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983305
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 12,
+                    "previous": [],
+                    "timestamp": 1742983305
+                },
+                "name": {
+                    "value": "Aceite, especias y salsas",
+                    "previous": [],
+                    "timestamp": 1742983305
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983305
+                },
+                "order": {
+                    "value": 7,
+                    "previous": [],
+                    "timestamp": 1742983305
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Aceite de oliva 1º Hacendado",
+            "previous": [],
+            "timestamp": 1742983305
+        },
+        "id": {
+            "value": "4640",
+            "previous": [],
+            "timestamp": 1742983305
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983305
+        },
+        "packaging": {
+            "value": "Botella",
+            "previous": [],
+            "timestamp": 1742983305
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 4,
+                "previous": [],
+                "timestamp": 1742983305
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983305
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983305
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983305
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983305
+            },
+            "unit_size": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983305
+            },
+            "bulk_price": {
+                "value": "4.65",
+                "previous": [],
+                "timestamp": 1742983305
+            },
+            "unit_price": {
+                "value": "4.65",
+                "previous": [],
+                "timestamp": 1742983305
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983305
+            },
+            "size_format": {
+                "value": "l",
+                "previous": [],
+                "timestamp": 1742983305
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983305
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983305
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983305
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983305
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983305
+            },
+            "tax_percentage": {
+                "value": "4.000",
+                "previous": [],
+                "timestamp": 1742983305
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983305
+            },
+            "reference_price": {
+                "value": "4.650",
+                "previous": [],
+                "timestamp": 1742983305
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983305
+            },
+            "reference_format": {
+                "value": "L",
+                "previous": [],
+                "timestamp": 1742983305
+            },
+            "previous_unit_price": {
+                "value": "        4.95",
+                "previous": [],
+                "timestamp": 1742983305
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983305
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983305
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/4640/aceite-oliva-1o-hacendado-botella",
+            "previous": [],
+            "timestamp": 1742983305
+        },
+        "slug": {
+            "value": "aceite-oliva-1o-hacendado-botella",
+            "previous": [],
+            "timestamp": 1742983305
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983305
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/fe860edbcbb7504d90ad34af0b93b6d7.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983305
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983305
+        }
+    },
+    "stats": {
+        "created_at": 1742983305,
+        "updated_at": 1743023127,
+        "updates": 2
+    }
+}

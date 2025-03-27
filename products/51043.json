@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983398
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983398
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 4,
+                    "previous": [],
+                    "timestamp": 1742983398
+                },
+                "name": {
+                    "value": "Charcutería y quesos",
+                    "previous": [],
+                    "timestamp": 1742983398
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983398
+                },
+                "order": {
+                    "value": 159,
+                    "previous": [],
+                    "timestamp": 1742983398
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Queso fresco 0% m.g de vaca Burgo de Arias",
+            "previous": [],
+            "timestamp": 1742983398
+        },
+        "id": {
+            "value": "51043",
+            "previous": [],
+            "timestamp": 1742983398
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983398
+        },
+        "packaging": {
+            "value": "Pack-3",
+            "previous": [],
+            "timestamp": 1742983398
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 4,
+                "previous": [],
+                "timestamp": 1742983398
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983398
+            },
+            "is_pack": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983398
+            },
+            "pack_size": {
+                "value": 0.072,
+                "previous": [],
+                "timestamp": 1742983398
+            },
+            "unit_name": {
+                "value": "tarrinas",
+                "previous": [],
+                "timestamp": 1742983398
+            },
+            "unit_size": {
+                "value": 0.216,
+                "previous": [],
+                "timestamp": 1742983398
+            },
+            "bulk_price": {
+                "value": "14.81",
+                "previous": [],
+                "timestamp": 1742983398
+            },
+            "unit_price": {
+                "value": "3.20",
+                "previous": [],
+                "timestamp": 1742983398
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983398
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983398
+            },
+            "total_units": {
+                "value": 3,
+                "previous": [],
+                "timestamp": 1742983398
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983398
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983398
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983398
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983398
+            },
+            "tax_percentage": {
+                "value": "4.000",
+                "previous": [],
+                "timestamp": 1742983398
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983398
+            },
+            "reference_price": {
+                "value": "14.815",
+                "previous": [],
+                "timestamp": 1742983398
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983398
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983398
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983398
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983398
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983398
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/51043/queso-fresco-0-mg-vaca-burgo-arias-pack-3",
+            "previous": [],
+            "timestamp": 1742983398
+        },
+        "slug": {
+            "value": "queso-fresco-0-mg-vaca-burgo-arias-pack-3",
+            "previous": [],
+            "timestamp": 1742983398
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983398
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/6158a5fdf4b3c96128e79d36668206ca.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983398
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983398
+        }
+    },
+    "stats": {
+        "created_at": 1742983398,
+        "updated_at": 1743023236,
+        "updates": 2
+    }
+}

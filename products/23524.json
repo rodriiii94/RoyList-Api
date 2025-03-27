@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983497
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983497
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 22,
+                    "previous": [],
+                    "timestamp": 1742983497
+                },
+                "name": {
+                    "value": "Maquillaje",
+                    "previous": [],
+                    "timestamp": 1742983497
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983497
+                },
+                "order": {
+                    "value": 421,
+                    "previous": [],
+                    "timestamp": 1742983497
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Perfilador de cejas Deliplus 02 marrón medio",
+            "previous": [],
+            "timestamp": 1742983497
+        },
+        "id": {
+            "value": "23524",
+            "previous": [],
+            "timestamp": 1742983497
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983497
+        },
+        "packaging": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983497
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1742983497
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983497
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983497
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983497
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983497
+            },
+            "unit_size": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983497
+            },
+            "bulk_price": {
+                "value": "2.75",
+                "previous": [],
+                "timestamp": 1742983497
+            },
+            "unit_price": {
+                "value": "2.75",
+                "previous": [],
+                "timestamp": 1742983497
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983497
+            },
+            "size_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1742983497
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983497
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983497
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983497
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983497
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983497
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1742983497
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983497
+            },
+            "reference_price": {
+                "value": "2.750",
+                "previous": [],
+                "timestamp": 1742983497
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983497
+            },
+            "reference_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1742983497
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983497
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983497
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983497
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/23524/perfilador-cejas-deliplus-02-medio-con-cepillo",
+            "previous": [],
+            "timestamp": 1742983497
+        },
+        "slug": {
+            "value": "perfilador-cejas-deliplus-02-medio-con-cepillo",
+            "previous": [],
+            "timestamp": 1742983497
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983497
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/c593fcfa66db34727cc87460ff3e0320.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983497
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983497
+        }
+    },
+    "stats": {
+        "created_at": 1742983497,
+        "updated_at": 1743023349,
+        "updates": 2
+    }
+}

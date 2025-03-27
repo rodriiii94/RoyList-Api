@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983410
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983410
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 17,
+                    "previous": [],
+                    "timestamp": 1742983410
+                },
+                "name": {
+                    "value": "Congelados",
+                    "previous": [],
+                    "timestamp": 1742983410
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983410
+                },
+                "order": {
+                    "value": 213,
+                    "previous": [],
+                    "timestamp": 1742983410
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Tequeños de queso Hacendado ultracongelados",
+            "previous": [],
+            "timestamp": 1742983410
+        },
+        "id": {
+            "value": "13413",
+            "previous": [],
+            "timestamp": 1742983410
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983410
+        },
+        "packaging": {
+            "value": "Caja",
+            "previous": [],
+            "timestamp": 1742983410
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983410
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983410
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983410
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983410
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983410
+            },
+            "unit_size": {
+                "value": 0.48,
+                "previous": [],
+                "timestamp": 1742983410
+            },
+            "bulk_price": {
+                "value": "10.00",
+                "previous": [],
+                "timestamp": 1742983410
+            },
+            "unit_price": {
+                "value": "4.80",
+                "previous": [],
+                "timestamp": 1742983410
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983410
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983410
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983410
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983410
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983410
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983410
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983410
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1742983410
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983410
+            },
+            "reference_price": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1742983410
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983410
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983410
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983410
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983410
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983410
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/13413/tequenos-queso-hacendado-ultracongelados-caja",
+            "previous": [],
+            "timestamp": 1742983410
+        },
+        "slug": {
+            "value": "tequenos-queso-hacendado-ultracongelados-caja",
+            "previous": [],
+            "timestamp": 1742983410
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983410
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/b703147ab73a07889ae50db736367d74.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983410
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983410
+        }
+    },
+    "stats": {
+        "created_at": 1742983410,
+        "updated_at": 1743023250,
+        "updates": 2
+    }
+}

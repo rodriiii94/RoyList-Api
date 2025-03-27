@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983340
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983340
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 24,
+                    "previous": [],
+                    "timestamp": 1742983340
+                },
+                "name": {
+                    "value": "Bebé",
+                    "previous": [],
+                    "timestamp": 1742983340
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983340
+                },
+                "order": {
+                    "value": 14,
+                    "previous": [],
+                    "timestamp": 1742983340
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Gasas para bebé no tejidas Deliplus",
+            "previous": [],
+            "timestamp": 1742983340
+        },
+        "id": {
+            "value": "78132",
+            "previous": [],
+            "timestamp": 1742983340
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983340
+        },
+        "packaging": {
+            "value": "Paquete",
+            "previous": [],
+            "timestamp": 1742983340
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1742983340
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983340
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983340
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983340
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983340
+            },
+            "unit_size": {
+                "value": 100,
+                "previous": [],
+                "timestamp": 1742983340
+            },
+            "bulk_price": {
+                "value": "0.02",
+                "previous": [],
+                "timestamp": 1742983340
+            },
+            "unit_price": {
+                "value": "1.97",
+                "previous": [],
+                "timestamp": 1742983340
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983340
+            },
+            "size_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1742983340
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983340
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983340
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983340
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983340
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983340
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1742983340
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983340
+            },
+            "reference_price": {
+                "value": "0.020",
+                "previous": [],
+                "timestamp": 1742983340
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983340
+            },
+            "reference_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1742983340
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983340
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983340
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983340
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/78132/gasas-bebe-tejidas-deliplus-limpieza-ojos-cara-paquete",
+            "previous": [],
+            "timestamp": 1742983340
+        },
+        "slug": {
+            "value": "gasas-bebe-tejidas-deliplus-limpieza-ojos-cara-paquete",
+            "previous": [],
+            "timestamp": 1742983340
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983340
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/de6a3878e3ddc47a3d196f29f851b4da.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983340
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983340
+        }
+    },
+    "stats": {
+        "created_at": 1742983340,
+        "updated_at": 1743023171,
+        "updates": 2
+    }
+}

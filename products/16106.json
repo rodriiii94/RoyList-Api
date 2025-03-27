@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983419
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983419
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 14,
+                    "previous": [],
+                    "timestamp": 1742983419
+                },
+                "name": {
+                    "value": "Conservas, caldos y cremas",
+                    "previous": [],
+                    "timestamp": 1742983419
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983419
+                },
+                "order": {
+                    "value": 215,
+                    "previous": [],
+                    "timestamp": 1742983419
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Ensalada de pimientos del piquillo Cidacos",
+            "previous": [],
+            "timestamp": 1742983419
+        },
+        "id": {
+            "value": "16106",
+            "previous": [],
+            "timestamp": 1742983419
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983419
+        },
+        "packaging": {
+            "value": "Pack-2",
+            "previous": [],
+            "timestamp": 1742983419
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983419
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983419
+            },
+            "is_pack": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983419
+            },
+            "pack_size": {
+                "value": 0.18,
+                "previous": [],
+                "timestamp": 1742983419
+            },
+            "unit_name": {
+                "value": "latas",
+                "previous": [],
+                "timestamp": 1742983419
+            },
+            "unit_size": {
+                "value": 0.4,
+                "previous": [],
+                "timestamp": 1742983419
+            },
+            "bulk_price": {
+                "value": "5.00",
+                "previous": [],
+                "timestamp": 1742983419
+            },
+            "unit_price": {
+                "value": "2.00",
+                "previous": [],
+                "timestamp": 1742983419
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983419
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983419
+            },
+            "total_units": {
+                "value": 2,
+                "previous": [],
+                "timestamp": 1742983419
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983419
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983419
+            },
+            "drained_weight": {
+                "value": 0.36,
+                "previous": [],
+                "timestamp": 1742983419
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983419
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1742983419
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983419
+            },
+            "reference_price": {
+                "value": "5.556",
+                "previous": [],
+                "timestamp": 1742983419
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983419
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983419
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983419
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983419
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983419
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/16106/ensalada-pimientos-piquillo-cidacos-pack-2",
+            "previous": [],
+            "timestamp": 1742983419
+        },
+        "slug": {
+            "value": "ensalada-pimientos-piquillo-cidacos-pack-2",
+            "previous": [],
+            "timestamp": 1742983419
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983419
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/8cefa3b013453a9872d1f6d8d60eef68.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983419
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983419
+        }
+    },
+    "stats": {
+        "created_at": 1742983419,
+        "updated_at": 1743023259,
+        "updates": 2
+    }
+}

@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983434
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983434
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 20,
+                    "previous": [],
+                    "timestamp": 1742983434
+                },
+                "name": {
+                    "value": "Cuidado facial y corporal",
+                    "previous": [],
+                    "timestamp": 1742983434
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983434
+                },
+                "order": {
+                    "value": 241,
+                    "previous": [],
+                    "timestamp": 1742983434
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Crema de manos Karitesse Deliplus",
+            "previous": [],
+            "timestamp": 1742983434
+        },
+        "id": {
+            "value": "35354",
+            "previous": [],
+            "timestamp": 1742983434
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983434
+        },
+        "packaging": {
+            "value": "Bote",
+            "previous": [],
+            "timestamp": 1742983434
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1742983434
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983434
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983434
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983434
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983434
+            },
+            "unit_size": {
+                "value": 0.29,
+                "previous": [],
+                "timestamp": 1742983434
+            },
+            "bulk_price": {
+                "value": "9.31",
+                "previous": [],
+                "timestamp": 1742983434
+            },
+            "unit_price": {
+                "value": "2.70",
+                "previous": [],
+                "timestamp": 1742983434
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983434
+            },
+            "size_format": {
+                "value": "l",
+                "previous": [],
+                "timestamp": 1742983434
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983434
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983434
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983434
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983434
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983434
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1742983434
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983434
+            },
+            "reference_price": {
+                "value": "0.932",
+                "previous": [],
+                "timestamp": 1742983434
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983434
+            },
+            "reference_format": {
+                "value": "100 ml",
+                "previous": [],
+                "timestamp": 1742983434
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983434
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983434
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983434
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/35354/crema-manos-karitesse-deliplus-bote",
+            "previous": [],
+            "timestamp": 1742983434
+        },
+        "slug": {
+            "value": "crema-manos-karitesse-deliplus-bote",
+            "previous": [],
+            "timestamp": 1742983434
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983434
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/a58f6e7b5e41ef52aa490adbba215c43.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983434
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983434
+        }
+    },
+    "stats": {
+        "created_at": 1742983434,
+        "updated_at": 1743023277,
+        "updates": 2
+    }
+}

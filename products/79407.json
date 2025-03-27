@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983435
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983435
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 20,
+                    "previous": [],
+                    "timestamp": 1742983435
+                },
+                "name": {
+                    "value": "Cuidado facial y corporal",
+                    "previous": [],
+                    "timestamp": 1742983435
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983435
+                },
+                "order": {
+                    "value": 241,
+                    "previous": [],
+                    "timestamp": 1742983435
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Discos desmaquillantes Deliplus redondos algodón 100%",
+            "previous": [],
+            "timestamp": 1742983435
+        },
+        "id": {
+            "value": "79407",
+            "previous": [],
+            "timestamp": 1742983435
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983435
+        },
+        "packaging": {
+            "value": "Paquete",
+            "previous": [],
+            "timestamp": 1742983435
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1742983435
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983435
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983435
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983435
+            },
+            "unit_name": {
+                "value": "ud.",
+                "previous": [],
+                "timestamp": 1742983435
+            },
+            "unit_size": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983435
+            },
+            "bulk_price": {
+                "value": "0.01",
+                "previous": [],
+                "timestamp": 1742983435
+            },
+            "unit_price": {
+                "value": "1.05",
+                "previous": [],
+                "timestamp": 1742983435
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983435
+            },
+            "size_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1742983435
+            },
+            "total_units": {
+                "value": 150,
+                "previous": [],
+                "timestamp": 1742983435
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983435
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983435
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983435
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983435
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1742983435
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983435
+            },
+            "reference_price": {
+                "value": "0.007",
+                "previous": [],
+                "timestamp": 1742983435
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983435
+            },
+            "reference_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1742983435
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983435
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983435
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983435
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/79407/discos-desmaquillantes-deliplus-redondos-algodon-100-paquete",
+            "previous": [],
+            "timestamp": 1742983435
+        },
+        "slug": {
+            "value": "discos-desmaquillantes-deliplus-redondos-algodon-100-paquete",
+            "previous": [],
+            "timestamp": 1742983435
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983435
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/c689ec4c122804754dcfa35b153b1362.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983435
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983435
+        }
+    },
+    "stats": {
+        "created_at": 1742983435,
+        "updated_at": 1743023278,
+        "updates": 2
+    }
+}

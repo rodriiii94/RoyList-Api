@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983402
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983402
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 17,
+                    "previous": [],
+                    "timestamp": 1742983402
+                },
+                "name": {
+                    "value": "Congelados",
+                    "previous": [],
+                    "timestamp": 1742983402
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983402
+                },
+                "order": {
+                    "value": 213,
+                    "previous": [],
+                    "timestamp": 1742983402
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Helado sándwich super nata Hacendado",
+            "previous": [],
+            "timestamp": 1742983402
+        },
+        "id": {
+            "value": "64200",
+            "previous": [],
+            "timestamp": 1742983402
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983402
+        },
+        "packaging": {
+            "value": "Caja",
+            "previous": [],
+            "timestamp": 1742983402
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983402
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983402
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983402
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983402
+            },
+            "unit_name": {
+                "value": "ud.",
+                "previous": [],
+                "timestamp": 1742983402
+            },
+            "unit_size": {
+                "value": 0.87,
+                "previous": [],
+                "timestamp": 1742983402
+            },
+            "bulk_price": {
+                "value": "3.79",
+                "previous": [],
+                "timestamp": 1742983402
+            },
+            "unit_price": {
+                "value": "3.30",
+                "previous": [],
+                "timestamp": 1742983402
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983402
+            },
+            "size_format": {
+                "value": "l",
+                "previous": [],
+                "timestamp": 1742983402
+            },
+            "total_units": {
+                "value": 6,
+                "previous": [],
+                "timestamp": 1742983402
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983402
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983402
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983402
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983402
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1742983402
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983402
+            },
+            "reference_price": {
+                "value": "3.794",
+                "previous": [],
+                "timestamp": 1742983402
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983402
+            },
+            "reference_format": {
+                "value": "L",
+                "previous": [],
+                "timestamp": 1742983402
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983402
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983402
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983402
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/64200/helado-sandwich-super-nata-hacendado-caja",
+            "previous": [],
+            "timestamp": 1742983402
+        },
+        "slug": {
+            "value": "helado-sandwich-super-nata-hacendado-caja",
+            "previous": [],
+            "timestamp": 1742983402
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983402
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/9c53c2084cc20aa67e806f3c91735d48.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983402
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983402
+        }
+    },
+    "stats": {
+        "created_at": 1742983402,
+        "updated_at": 1743023241,
+        "updates": 2
+    }
+}

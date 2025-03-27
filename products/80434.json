@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983492
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983492
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 22,
+                    "previous": [],
+                    "timestamp": 1742983492
+                },
+                "name": {
+                    "value": "Maquillaje",
+                    "previous": [],
+                    "timestamp": 1742983492
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983492
+                },
+                "order": {
+                    "value": 421,
+                    "previous": [],
+                    "timestamp": 1742983492
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Polvo compacto Sol Deliplus oscuro",
+            "previous": [],
+            "timestamp": 1742983492
+        },
+        "id": {
+            "value": "80434",
+            "previous": [],
+            "timestamp": 1742983492
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983492
+        },
+        "packaging": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983492
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1742983492
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983492
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983492
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983492
+            },
+            "unit_name": {
+                "value": "ud.",
+                "previous": [],
+                "timestamp": 1742983492
+            },
+            "unit_size": {
+                "value": 0.022,
+                "previous": [],
+                "timestamp": 1742983492
+            },
+            "bulk_price": {
+                "value": "7.50",
+                "previous": [],
+                "timestamp": 1742983492
+            },
+            "unit_price": {
+                "value": "7.50",
+                "previous": [],
+                "timestamp": 1742983492
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983492
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983492
+            },
+            "total_units": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983492
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983492
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983492
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983492
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983492
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1742983492
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983492
+            },
+            "reference_price": {
+                "value": "7.500",
+                "previous": [],
+                "timestamp": 1742983492
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983492
+            },
+            "reference_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1742983492
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983492
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983492
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983492
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/80434/polvo-compacto-sol-deliplus-oscuro-fps-15",
+            "previous": [],
+            "timestamp": 1742983492
+        },
+        "slug": {
+            "value": "polvo-compacto-sol-deliplus-oscuro-fps-15",
+            "previous": [],
+            "timestamp": 1742983492
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983492
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/eb2e24057a8089e6bc2955b4b4e76770.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983492
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983492
+        }
+    },
+    "stats": {
+        "created_at": 1742983492,
+        "updated_at": 1743023344,
+        "updates": 2
+    }
+}

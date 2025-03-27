@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983541
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983541
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 11,
+                    "previous": [],
+                    "timestamp": 1742983541
+                },
+                "name": {
+                    "value": "Postres y yogures",
+                    "previous": [],
+                    "timestamp": 1742983541
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983541
+                },
+                "order": {
+                    "value": 597,
+                    "previous": [],
+                    "timestamp": 1742983541
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Yogur azucarado YogoMix Bolitas Hacendado con bolitas chocolateadas",
+            "previous": [],
+            "timestamp": 1742983541
+        },
+        "id": {
+            "value": "20499",
+            "previous": [],
+            "timestamp": 1742983541
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983541
+        },
+        "packaging": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983541
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 4,
+                "previous": [],
+                "timestamp": 1742983541
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983541
+            },
+            "is_pack": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983541
+            },
+            "pack_size": {
+                "value": 0.15,
+                "previous": [],
+                "timestamp": 1742983541
+            },
+            "unit_name": {
+                "value": "ud.",
+                "previous": [],
+                "timestamp": 1742983541
+            },
+            "unit_size": {
+                "value": 0.3,
+                "previous": [],
+                "timestamp": 1742983541
+            },
+            "bulk_price": {
+                "value": "4.33",
+                "previous": [],
+                "timestamp": 1742983541
+            },
+            "unit_price": {
+                "value": "1.30",
+                "previous": [],
+                "timestamp": 1742983541
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983541
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983541
+            },
+            "total_units": {
+                "value": 2,
+                "previous": [],
+                "timestamp": 1742983541
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983541
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983541
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983541
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983541
+            },
+            "tax_percentage": {
+                "value": "4.000",
+                "previous": [],
+                "timestamp": 1742983541
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983541
+            },
+            "reference_price": {
+                "value": "4.334",
+                "previous": [],
+                "timestamp": 1742983541
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983541
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983541
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983541
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983541
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983541
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/20499/yogur-azucarado-yogomix-bolitas-hacendado-con-bolitas-chocolateadas-pack-2",
+            "previous": [],
+            "timestamp": 1742983541
+        },
+        "slug": {
+            "value": "yogur-azucarado-yogomix-bolitas-hacendado-con-bolitas-chocolateadas-pack-2",
+            "previous": [],
+            "timestamp": 1742983541
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983541
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/4affa6b88aeec2fd7bfadf0b2ebe0d7a.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983541
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983541
+        }
+    },
+    "stats": {
+        "created_at": 1742983541,
+        "updated_at": 1743023394,
+        "updates": 2
+    }
+}

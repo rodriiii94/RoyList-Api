@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983336
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983336
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 9,
+                    "previous": [],
+                    "timestamp": 1742983336
+                },
+                "name": {
+                    "value": "Azúcar, caramelos y chocolate",
+                    "previous": [],
+                    "timestamp": 1742983336
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983336
+                },
+                "order": {
+                    "value": 11,
+                    "previous": [],
+                    "timestamp": 1742983336
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Mermelada de arándanos Hacendado",
+            "previous": [],
+            "timestamp": 1742983336
+        },
+        "id": {
+            "value": "35932",
+            "previous": [],
+            "timestamp": 1742983336
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983336
+        },
+        "packaging": {
+            "value": "Tarro",
+            "previous": [],
+            "timestamp": 1742983336
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983336
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983336
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983336
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983336
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983336
+            },
+            "unit_size": {
+                "value": 0.33,
+                "previous": [],
+                "timestamp": 1742983336
+            },
+            "bulk_price": {
+                "value": "5.61",
+                "previous": [],
+                "timestamp": 1742983336
+            },
+            "unit_price": {
+                "value": "1.85",
+                "previous": [],
+                "timestamp": 1742983336
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983336
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983336
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983336
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983336
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983336
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983336
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983336
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1742983336
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983336
+            },
+            "reference_price": {
+                "value": "5.607",
+                "previous": [],
+                "timestamp": 1742983336
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983336
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983336
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983336
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983336
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983336
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/35932/mermelada-arandanos-hacendado-tarro",
+            "previous": [],
+            "timestamp": 1742983336
+        },
+        "slug": {
+            "value": "mermelada-arandanos-hacendado-tarro",
+            "previous": [],
+            "timestamp": 1742983336
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983336
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/1cb0e04e2c01974816092f738b1e4f00.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983336
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983336
+        }
+    },
+    "stats": {
+        "created_at": 1742983336,
+        "updated_at": 1743023166,
+        "updates": 2
+    }
+}

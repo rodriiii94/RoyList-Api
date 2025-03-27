@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983361
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983361
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 8,
+                    "previous": [],
+                    "timestamp": 1742983361
+                },
+                "name": {
+                    "value": "Cacao, café e infusiones",
+                    "previous": [],
+                    "timestamp": 1742983361
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983361
+                },
+                "order": {
+                    "value": 16,
+                    "previous": [],
+                    "timestamp": 1742983361
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Café soluble Classic Hacendado",
+            "previous": [],
+            "timestamp": 1742983361
+        },
+        "id": {
+            "value": "22163",
+            "previous": [],
+            "timestamp": 1742983361
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983361
+        },
+        "packaging": {
+            "value": "Bote",
+            "previous": [],
+            "timestamp": 1742983361
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983361
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983361
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983361
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983361
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983361
+            },
+            "unit_size": {
+                "value": 0.2,
+                "previous": [],
+                "timestamp": 1742983361
+            },
+            "bulk_price": {
+                "value": "19.75",
+                "previous": [],
+                "timestamp": 1742983361
+            },
+            "unit_price": {
+                "value": "3.95",
+                "previous": [],
+                "timestamp": 1742983361
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983361
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983361
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983361
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983361
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983361
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983361
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983361
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1742983361
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983361
+            },
+            "reference_price": {
+                "value": "19.750",
+                "previous": [],
+                "timestamp": 1742983361
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983361
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983361
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983361
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983361
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983361
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/22163/cafe-soluble-classic-hacendado-bote",
+            "previous": [],
+            "timestamp": 1742983361
+        },
+        "slug": {
+            "value": "cafe-soluble-classic-hacendado-bote",
+            "previous": [],
+            "timestamp": 1742983361
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983361
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/e344726a7521b54735e68a88f002ead4.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983361
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983361
+        }
+    },
+    "stats": {
+        "created_at": 1742983361,
+        "updated_at": 1743023196,
+        "updates": 2
+    }
+}

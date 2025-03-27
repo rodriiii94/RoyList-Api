@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983314
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983314
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 18,
+                    "previous": [],
+                    "timestamp": 1742983314
+                },
+                "name": {
+                    "value": "Agua y refrescos",
+                    "previous": [],
+                    "timestamp": 1742983314
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983314
+                },
+                "order": {
+                    "value": 8,
+                    "previous": [],
+                    "timestamp": 1742983314
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Refresco cola Hacendado Zero azúcar",
+            "previous": [],
+            "timestamp": 1742983314
+        },
+        "id": {
+            "value": "29034",
+            "previous": [],
+            "timestamp": 1742983314
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983314
+        },
+        "packaging": {
+            "value": "Lata",
+            "previous": [],
+            "timestamp": 1742983314
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1742983314
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983314
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983314
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983314
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983314
+            },
+            "unit_size": {
+                "value": 0.33,
+                "previous": [],
+                "timestamp": 1742983314
+            },
+            "bulk_price": {
+                "value": "1.00",
+                "previous": [],
+                "timestamp": 1742983314
+            },
+            "unit_price": {
+                "value": "0.33",
+                "previous": [],
+                "timestamp": 1742983314
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983314
+            },
+            "size_format": {
+                "value": "l",
+                "previous": [],
+                "timestamp": 1742983314
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983314
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983314
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983314
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983314
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983314
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1742983314
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983314
+            },
+            "reference_price": {
+                "value": "1.000",
+                "previous": [],
+                "timestamp": 1742983314
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983314
+            },
+            "reference_format": {
+                "value": "L",
+                "previous": [],
+                "timestamp": 1742983314
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983314
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983314
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983314
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/29034/refresco-cola-hacendado-zero-azucar-lata",
+            "previous": [],
+            "timestamp": 1742983314
+        },
+        "slug": {
+            "value": "refresco-cola-hacendado-zero-azucar-lata",
+            "previous": [],
+            "timestamp": 1742983314
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983314
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/45300fa0b7b4840039f56ee03cd0876c.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983314
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983314
+        }
+    },
+    "stats": {
+        "created_at": 1742983314,
+        "updated_at": 1743023139,
+        "updates": 2
+    }
+}

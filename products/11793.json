@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983360
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983360
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 8,
+                    "previous": [],
+                    "timestamp": 1742983360
+                },
+                "name": {
+                    "value": "Cacao, café e infusiones",
+                    "previous": [],
+                    "timestamp": 1742983360
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983360
+                },
+                "order": {
+                    "value": 16,
+                    "previous": [],
+                    "timestamp": 1742983360
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Café molido mezcla intensa La Estrella",
+            "previous": [],
+            "timestamp": 1742983360
+        },
+        "id": {
+            "value": "11793",
+            "previous": [],
+            "timestamp": 1742983360
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983360
+        },
+        "packaging": {
+            "value": "Paquete",
+            "previous": [],
+            "timestamp": 1742983360
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983360
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983360
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983360
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983360
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983360
+            },
+            "unit_size": {
+                "value": 0.25,
+                "previous": [],
+                "timestamp": 1742983360
+            },
+            "bulk_price": {
+                "value": "13.40",
+                "previous": [],
+                "timestamp": 1742983360
+            },
+            "unit_price": {
+                "value": "3.35",
+                "previous": [],
+                "timestamp": 1742983360
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983360
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983360
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983360
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983360
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983360
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983360
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983360
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1742983360
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983360
+            },
+            "reference_price": {
+                "value": "13.400",
+                "previous": [],
+                "timestamp": 1742983360
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983360
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983360
+            },
+            "previous_unit_price": {
+                "value": "        3.75",
+                "previous": [],
+                "timestamp": 1742983360
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983360
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983360
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/11793/cafe-molido-mezcla-intensa-estrella-paquete",
+            "previous": [],
+            "timestamp": 1742983360
+        },
+        "slug": {
+            "value": "cafe-molido-mezcla-intensa-estrella-paquete",
+            "previous": [],
+            "timestamp": 1742983360
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983360
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/5658fbfe60252b2b2b48a1321d6b8e37.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983360
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983360
+        }
+    },
+    "stats": {
+        "created_at": 1742983360,
+        "updated_at": 1743023194,
+        "updates": 2
+    }
+}

@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983372
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983372
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 3,
+                    "previous": [],
+                    "timestamp": 1742983372
+                },
+                "name": {
+                    "value": "Carne",
+                    "previous": [],
+                    "timestamp": 1742983372
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983372
+                },
+                "order": {
+                    "value": 17,
+                    "previous": [],
+                    "timestamp": 1742983372
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Longaniza roja fresca",
+            "previous": [],
+            "timestamp": 1742983372
+        },
+        "id": {
+            "value": "6042",
+            "previous": [],
+            "timestamp": 1742983372
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983372
+        },
+        "packaging": {
+            "value": "Bandeja",
+            "previous": [],
+            "timestamp": 1742983372
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983372
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983372
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983372
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983372
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983372
+            },
+            "unit_size": {
+                "value": 0.27,
+                "previous": [],
+                "timestamp": 1742983372
+            },
+            "bulk_price": {
+                "value": "7.50",
+                "previous": [],
+                "timestamp": 1742983372
+            },
+            "unit_price": {
+                "value": "2.03",
+                "previous": [],
+                "timestamp": 1742983372
+            },
+            "approx_size": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983372
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983372
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983372
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983372
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983372
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983372
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983372
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1742983372
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983372
+            },
+            "reference_price": {
+                "value": "7.500",
+                "previous": [],
+                "timestamp": 1742983372
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983372
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983372
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983372
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983372
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983372
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/6042/longaniza-roja-fresca-bandeja",
+            "previous": [],
+            "timestamp": 1742983372
+        },
+        "slug": {
+            "value": "longaniza-roja-fresca-bandeja",
+            "previous": [],
+            "timestamp": 1742983372
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983372
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/01fb50b374e6e8334d56154d85f784b2.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983372
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983372
+        }
+    },
+    "stats": {
+        "created_at": 1742983372,
+        "updated_at": 1743023208,
+        "updates": 2
+    }
+}

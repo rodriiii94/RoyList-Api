@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983446
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983446
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 20,
+                    "previous": [],
+                    "timestamp": 1742983446
+                },
+                "name": {
+                    "value": "Cuidado facial y corporal",
+                    "previous": [],
+                    "timestamp": 1742983446
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983446
+                },
+                "order": {
+                    "value": 241,
+                    "previous": [],
+                    "timestamp": 1742983446
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Laca de uñas alto brillo Deliplus 31 negro místico",
+            "previous": [],
+            "timestamp": 1742983446
+        },
+        "id": {
+            "value": "42298",
+            "previous": [],
+            "timestamp": 1742983446
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983446
+        },
+        "packaging": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983446
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1742983446
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983446
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983446
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983446
+            },
+            "unit_name": {
+                "value": "ud.",
+                "previous": [],
+                "timestamp": 1742983446
+            },
+            "unit_size": {
+                "value": 0.011,
+                "previous": [],
+                "timestamp": 1742983446
+            },
+            "bulk_price": {
+                "value": "2.50",
+                "previous": [],
+                "timestamp": 1742983446
+            },
+            "unit_price": {
+                "value": "2.50",
+                "previous": [],
+                "timestamp": 1742983446
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983446
+            },
+            "size_format": {
+                "value": "l",
+                "previous": [],
+                "timestamp": 1742983446
+            },
+            "total_units": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983446
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983446
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983446
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983446
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983446
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1742983446
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983446
+            },
+            "reference_price": {
+                "value": "22.728",
+                "previous": [],
+                "timestamp": 1742983446
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983446
+            },
+            "reference_format": {
+                "value": "100 ml",
+                "previous": [],
+                "timestamp": 1742983446
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983446
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983446
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983446
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/42298/laca-unas-alto-brillo-deliplus-31-negro-mistico",
+            "previous": [],
+            "timestamp": 1742983446
+        },
+        "slug": {
+            "value": "laca-unas-alto-brillo-deliplus-31-negro-mistico",
+            "previous": [],
+            "timestamp": 1742983446
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983446
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/6e44f3a690cc0e9b76cf6bf6a0ab2145.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983446
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983446
+        }
+    },
+    "stats": {
+        "created_at": 1742983446,
+        "updated_at": 1743023292,
+        "updates": 2
+    }
+}

@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983465
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983465
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 6,
+                    "previous": [],
+                    "timestamp": 1742983465
+                },
+                "name": {
+                    "value": "Huevos, leche y mantequilla",
+                    "previous": [],
+                    "timestamp": 1742983465
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983465
+                },
+                "order": {
+                    "value": 373,
+                    "previous": [],
+                    "timestamp": 1742983465
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Mantequilla con sal Hacendado",
+            "previous": [],
+            "timestamp": 1742983465
+        },
+        "id": {
+            "value": "20722",
+            "previous": [],
+            "timestamp": 1742983465
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983465
+        },
+        "packaging": {
+            "value": "Pastilla",
+            "previous": [],
+            "timestamp": 1742983465
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983465
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983465
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983465
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983465
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983465
+            },
+            "unit_size": {
+                "value": 0.25,
+                "previous": [],
+                "timestamp": 1742983465
+            },
+            "bulk_price": {
+                "value": "9.20",
+                "previous": [],
+                "timestamp": 1742983465
+            },
+            "unit_price": {
+                "value": "2.30",
+                "previous": [],
+                "timestamp": 1742983465
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983465
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983465
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983465
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983465
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983465
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983465
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983465
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1742983465
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983465
+            },
+            "reference_price": {
+                "value": "9.200",
+                "previous": [],
+                "timestamp": 1742983465
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983465
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983465
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983465
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983465
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983465
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/20722/mantequilla-con-sal-hacendado-pastilla",
+            "previous": [],
+            "timestamp": 1742983465
+        },
+        "slug": {
+            "value": "mantequilla-con-sal-hacendado-pastilla",
+            "previous": [],
+            "timestamp": 1742983465
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983465
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/4c4ad20a9ebac8f92af9581840223d6f.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983465
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983465
+        }
+    },
+    "stats": {
+        "created_at": 1742983465,
+        "updated_at": 1743023314,
+        "updates": 2
+    }
+}

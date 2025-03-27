@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983425
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983425
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 21,
+                    "previous": [],
+                    "timestamp": 1742983425
+                },
+                "name": {
+                    "value": "Cuidado del cabello",
+                    "previous": [],
+                    "timestamp": 1742983425
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983425
+                },
+                "order": {
+                    "value": 238,
+                    "previous": [],
+                    "timestamp": 1742983425
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Hidrocrema Liss Frizz Control Deliplus cabello rebelde",
+            "previous": [],
+            "timestamp": 1742983425
+        },
+        "id": {
+            "value": "44284",
+            "previous": [],
+            "timestamp": 1742983425
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983425
+        },
+        "packaging": {
+            "value": "Bote",
+            "previous": [],
+            "timestamp": 1742983425
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1742983425
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983425
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983425
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983425
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983425
+            },
+            "unit_size": {
+                "value": 0.2,
+                "previous": [],
+                "timestamp": 1742983425
+            },
+            "bulk_price": {
+                "value": "13.75",
+                "previous": [],
+                "timestamp": 1742983425
+            },
+            "unit_price": {
+                "value": "2.75",
+                "previous": [],
+                "timestamp": 1742983425
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983425
+            },
+            "size_format": {
+                "value": "l",
+                "previous": [],
+                "timestamp": 1742983425
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983425
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983425
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983425
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983425
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983425
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1742983425
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983425
+            },
+            "reference_price": {
+                "value": "1.375",
+                "previous": [],
+                "timestamp": 1742983425
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983425
+            },
+            "reference_format": {
+                "value": "100 ml",
+                "previous": [],
+                "timestamp": 1742983425
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983425
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983425
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983425
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/44284/hidrocrema-liss-frizz-control-deliplus-cabello-rebelde-con-vitamina-queratina-proteccion-termica-230oc-bote",
+            "previous": [],
+            "timestamp": 1742983425
+        },
+        "slug": {
+            "value": "hidrocrema-liss-frizz-control-deliplus-cabello-rebelde-con-vitamina-queratina-proteccion-termica-230oc-bote",
+            "previous": [],
+            "timestamp": 1742983425
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983425
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/63d46d2ad6fa39a02713d04768413ed4.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983425
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983425
+        }
+    },
+    "stats": {
+        "created_at": 1742983425,
+        "updated_at": 1743023266,
+        "updates": 2
+    }
+}

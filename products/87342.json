@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983505
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983505
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 2,
+                    "previous": [],
+                    "timestamp": 1742983505
+                },
+                "name": {
+                    "value": "Marisco y pescado",
+                    "previous": [],
+                    "timestamp": 1742983505
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983505
+                },
+                "order": {
+                    "value": 441,
+                    "previous": [],
+                    "timestamp": 1742983505
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Filetes de trucha Arco iris",
+            "previous": [],
+            "timestamp": 1742983505
+        },
+        "id": {
+            "value": "87342",
+            "previous": [],
+            "timestamp": 1742983505
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983505
+        },
+        "packaging": {
+            "value": "Bandeja",
+            "previous": [],
+            "timestamp": 1742983505
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983505
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983505
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983505
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983505
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983505
+            },
+            "unit_size": {
+                "value": 0.226,
+                "previous": [],
+                "timestamp": 1742983505
+            },
+            "bulk_price": {
+                "value": "13.95",
+                "previous": [],
+                "timestamp": 1742983505
+            },
+            "unit_price": {
+                "value": "3.15",
+                "previous": [],
+                "timestamp": 1742983505
+            },
+            "approx_size": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983505
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983505
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983505
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983505
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983505
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983505
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983505
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1742983505
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983505
+            },
+            "reference_price": {
+                "value": "13.950",
+                "previous": [],
+                "timestamp": 1742983505
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983505
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983505
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983505
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983505
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983505
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/87342/filetes-trucha-arco-iris-bandeja",
+            "previous": [],
+            "timestamp": 1742983505
+        },
+        "slug": {
+            "value": "filetes-trucha-arco-iris-bandeja",
+            "previous": [],
+            "timestamp": 1742983505
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983505
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/8378fa17c4433262d3d7b105ca561c17.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983505
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983505
+        }
+    },
+    "stats": {
+        "created_at": 1742983505,
+        "updated_at": 1743023357,
+        "updates": 2
+    }
+}

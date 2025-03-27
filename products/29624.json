@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983312
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983312
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 18,
+                    "previous": [],
+                    "timestamp": 1742983312
+                },
+                "name": {
+                    "value": "Agua y refrescos",
+                    "previous": [],
+                    "timestamp": 1742983312
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983312
+                },
+                "order": {
+                    "value": 8,
+                    "previous": [],
+                    "timestamp": 1742983312
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Bebida isotónica naranja Aquarius",
+            "previous": [],
+            "timestamp": 1742983312
+        },
+        "id": {
+            "value": "29624",
+            "previous": [],
+            "timestamp": 1742983312
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983312
+        },
+        "packaging": {
+            "value": "Lata",
+            "previous": [],
+            "timestamp": 1742983312
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1742983312
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983312
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983312
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983312
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983312
+            },
+            "unit_size": {
+                "value": 0.33,
+                "previous": [],
+                "timestamp": 1742983312
+            },
+            "bulk_price": {
+                "value": "2.88",
+                "previous": [],
+                "timestamp": 1742983312
+            },
+            "unit_price": {
+                "value": "0.95",
+                "previous": [],
+                "timestamp": 1742983312
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983312
+            },
+            "size_format": {
+                "value": "l",
+                "previous": [],
+                "timestamp": 1742983312
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983312
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983312
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983312
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983312
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983312
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1742983312
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983312
+            },
+            "reference_price": {
+                "value": "2.879",
+                "previous": [],
+                "timestamp": 1742983312
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983312
+            },
+            "reference_format": {
+                "value": "L",
+                "previous": [],
+                "timestamp": 1742983312
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983312
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983312
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983312
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/29624/bebida-isotonica-naranja-aquarius-lata",
+            "previous": [],
+            "timestamp": 1742983312
+        },
+        "slug": {
+            "value": "bebida-isotonica-naranja-aquarius-lata",
+            "previous": [],
+            "timestamp": 1742983312
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983312
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/280306d320a7e84f1d81027dae56e68c.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983312
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983312
+        }
+    },
+    "stats": {
+        "created_at": 1742983312,
+        "updated_at": 1743023137,
+        "updates": 2
+    }
+}

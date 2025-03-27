@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983484
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983484
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 26,
+                    "previous": [],
+                    "timestamp": 1742983484
+                },
+                "name": {
+                    "value": "Limpieza y hogar",
+                    "previous": [],
+                    "timestamp": 1742983484
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983484
+                },
+                "order": {
+                    "value": 374,
+                    "previous": [],
+                    "timestamp": 1742983484
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Film Transparente Bosque Verde con sierra deslizante",
+            "previous": [],
+            "timestamp": 1742983484
+        },
+        "id": {
+            "value": "60294",
+            "previous": [],
+            "timestamp": 1742983484
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983484
+        },
+        "packaging": {
+            "value": "Caja",
+            "previous": [],
+            "timestamp": 1742983484
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1742983484
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983484
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983484
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983484
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983484
+            },
+            "unit_size": {
+                "value": 80,
+                "previous": [],
+                "timestamp": 1742983484
+            },
+            "bulk_price": {
+                "value": "0.02",
+                "previous": [],
+                "timestamp": 1742983484
+            },
+            "unit_price": {
+                "value": "1.85",
+                "previous": [],
+                "timestamp": 1742983484
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983484
+            },
+            "size_format": {
+                "value": "m",
+                "previous": [],
+                "timestamp": 1742983484
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983484
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983484
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983484
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983484
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983484
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1742983484
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983484
+            },
+            "reference_price": {
+                "value": "0.024",
+                "previous": [],
+                "timestamp": 1742983484
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983484
+            },
+            "reference_format": {
+                "value": "m",
+                "previous": [],
+                "timestamp": 1742983484
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983484
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983484
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983484
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/60294/film-transparente-bosque-verde-con-sierra-deslizante-caja",
+            "previous": [],
+            "timestamp": 1742983484
+        },
+        "slug": {
+            "value": "film-transparente-bosque-verde-con-sierra-deslizante-caja",
+            "previous": [],
+            "timestamp": 1742983484
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983484
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/2edf6e6d627c5e1f86efa0519b06761c.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983484
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983484
+        }
+    },
+    "stats": {
+        "created_at": 1742983484,
+        "updated_at": 1743023335,
+        "updates": 2
+    }
+}

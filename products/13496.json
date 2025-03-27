@@ -1,0 +1,229 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983378
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983378
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 3,
+                    "previous": [],
+                    "timestamp": 1742983378
+                },
+                "name": {
+                    "value": "Carne",
+                    "previous": [],
+                    "timestamp": 1742983378
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983378
+                },
+                "order": {
+                    "value": 17,
+                    "previous": [],
+                    "timestamp": 1742983378
+                }
+            },
+            {
+                "id": {
+                    "value": 17,
+                    "previous": [],
+                    "timestamp": 1742983410
+                },
+                "name": {
+                    "value": "Congelados",
+                    "previous": [],
+                    "timestamp": 1742983410
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983410
+                },
+                "order": {
+                    "value": 213,
+                    "previous": [],
+                    "timestamp": 1742983410
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Croquetas de cocido Hacendado ultracongeladas",
+            "previous": [],
+            "timestamp": 1742983378
+        },
+        "id": {
+            "value": "13496",
+            "previous": [],
+            "timestamp": 1742983378
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983378
+        },
+        "packaging": {
+            "value": "Paquete",
+            "previous": [],
+            "timestamp": 1742983378
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983378
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983378
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983378
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983378
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983378
+            },
+            "unit_size": {
+                "value": 0.35,
+                "previous": [],
+                "timestamp": 1742983378
+            },
+            "bulk_price": {
+                "value": "5.71",
+                "previous": [],
+                "timestamp": 1742983378
+            },
+            "unit_price": {
+                "value": "2.00",
+                "previous": [],
+                "timestamp": 1742983378
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983378
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983378
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983378
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983378
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983378
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983378
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983378
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1742983378
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983378
+            },
+            "reference_price": {
+                "value": "5.715",
+                "previous": [],
+                "timestamp": 1742983378
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983378
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983378
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983378
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983378
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983378
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/13496/croquetas-cocido-hacendado-ultracongeladas-paquete",
+            "previous": [],
+            "timestamp": 1742983378
+        },
+        "slug": {
+            "value": "croquetas-cocido-hacendado-ultracongeladas-paquete",
+            "previous": [],
+            "timestamp": 1742983378
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983378
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/1528c21f212a7b7eb203724cba48cfe9.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983378
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983378
+        }
+    },
+    "stats": {
+        "created_at": 1742983378,
+        "updated_at": 1743023250,
+        "updates": 4
+    }
+}

@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983426
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983426
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 21,
+                    "previous": [],
+                    "timestamp": 1742983426
+                },
+                "name": {
+                    "value": "Cuidado del cabello",
+                    "previous": [],
+                    "timestamp": 1742983426
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983426
+                },
+                "order": {
+                    "value": 238,
+                    "previous": [],
+                    "timestamp": 1742983426
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Champú Protect Triple Action Deliplus preventivo y protector",
+            "previous": [],
+            "timestamp": 1742983426
+        },
+        "id": {
+            "value": "67800",
+            "previous": [],
+            "timestamp": 1742983426
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983426
+        },
+        "packaging": {
+            "value": "Bote",
+            "previous": [],
+            "timestamp": 1742983426
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1742983426
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983426
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983426
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983426
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983426
+            },
+            "unit_size": {
+                "value": 0.3,
+                "previous": [],
+                "timestamp": 1742983426
+            },
+            "bulk_price": {
+                "value": "8.33",
+                "previous": [],
+                "timestamp": 1742983426
+            },
+            "unit_price": {
+                "value": "2.50",
+                "previous": [],
+                "timestamp": 1742983426
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983426
+            },
+            "size_format": {
+                "value": "l",
+                "previous": [],
+                "timestamp": 1742983426
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983426
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983426
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983426
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983426
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983426
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1742983426
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983426
+            },
+            "reference_price": {
+                "value": "0.834",
+                "previous": [],
+                "timestamp": 1742983426
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983426
+            },
+            "reference_format": {
+                "value": "100 ml",
+                "previous": [],
+                "timestamp": 1742983426
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983426
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983426
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983426
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/67800/champu-protect-triple-action-deliplus-preventivo-protector-con-arbol-te-vinagre-quassia-amara-bote",
+            "previous": [],
+            "timestamp": 1742983426
+        },
+        "slug": {
+            "value": "champu-protect-triple-action-deliplus-preventivo-protector-con-arbol-te-vinagre-quassia-amara-bote",
+            "previous": [],
+            "timestamp": 1742983426
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983426
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/8e6e410cded9870c708a0b083214a1c4.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983426
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983426
+        }
+    },
+    "stats": {
+        "created_at": 1742983426,
+        "updated_at": 1743023268,
+        "updates": 2
+    }
+}

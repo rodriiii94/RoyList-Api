@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983362
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983362
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 8,
+                    "previous": [],
+                    "timestamp": 1742983362
+                },
+                "name": {
+                    "value": "Cacao, café e infusiones",
+                    "previous": [],
+                    "timestamp": 1742983362
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983362
+                },
+                "order": {
+                    "value": 16,
+                    "previous": [],
+                    "timestamp": 1742983362
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Cereales solubles con achicoria Hacendado",
+            "previous": [],
+            "timestamp": 1742983362
+        },
+        "id": {
+            "value": "11187",
+            "previous": [],
+            "timestamp": 1742983362
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983362
+        },
+        "packaging": {
+            "value": "Bote",
+            "previous": [],
+            "timestamp": 1742983362
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983362
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983362
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983362
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983362
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983362
+            },
+            "unit_size": {
+                "value": 0.15,
+                "previous": [],
+                "timestamp": 1742983362
+            },
+            "bulk_price": {
+                "value": "14.33",
+                "previous": [],
+                "timestamp": 1742983362
+            },
+            "unit_price": {
+                "value": "2.15",
+                "previous": [],
+                "timestamp": 1742983362
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983362
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983362
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983362
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983362
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983362
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983362
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983362
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1742983362
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983362
+            },
+            "reference_price": {
+                "value": "14.334",
+                "previous": [],
+                "timestamp": 1742983362
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983362
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983362
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983362
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983362
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983362
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/11187/cereales-solubles-con-achicoria-hacendado-bote",
+            "previous": [],
+            "timestamp": 1742983362
+        },
+        "slug": {
+            "value": "cereales-solubles-con-achicoria-hacendado-bote",
+            "previous": [],
+            "timestamp": 1742983362
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983362
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/196406a5c892ae3b99ffbc8c56b3e202.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983362
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983362
+        }
+    },
+    "stats": {
+        "created_at": 1742983362,
+        "updated_at": 1743023196,
+        "updates": 2
+    }
+}

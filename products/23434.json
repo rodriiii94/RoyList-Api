@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983450
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983450
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 20,
+                    "previous": [],
+                    "timestamp": 1742983450
+                },
+                "name": {
+                    "value": "Cuidado facial y corporal",
+                    "previous": [],
+                    "timestamp": 1742983450
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983450
+                },
+                "order": {
+                    "value": 241,
+                    "previous": [],
+                    "timestamp": 1742983450
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Stick protector solar facial & zonas sensibles Deliplus FPS 50",
+            "previous": [],
+            "timestamp": 1742983450
+        },
+        "id": {
+            "value": "23434",
+            "previous": [],
+            "timestamp": 1742983450
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983450
+        },
+        "packaging": {
+            "value": "Paquete",
+            "previous": [],
+            "timestamp": 1742983450
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1742983450
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983450
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983450
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983450
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983450
+            },
+            "unit_size": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983450
+            },
+            "bulk_price": {
+                "value": "366.67",
+                "previous": [],
+                "timestamp": 1742983450
+            },
+            "unit_price": {
+                "value": "5.50",
+                "previous": [],
+                "timestamp": 1742983450
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983450
+            },
+            "size_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1742983450
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983450
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983450
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983450
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983450
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983450
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1742983450
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983450
+            },
+            "reference_price": {
+                "value": "36.667",
+                "previous": [],
+                "timestamp": 1742983450
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983450
+            },
+            "reference_format": {
+                "value": "100 g",
+                "previous": [],
+                "timestamp": 1742983450
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983450
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983450
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983450
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/23434/stick-protector-solar-facial-zonas-sensibles-deliplus-fps-50-resistente-agua-paquete",
+            "previous": [],
+            "timestamp": 1742983450
+        },
+        "slug": {
+            "value": "stick-protector-solar-facial-zonas-sensibles-deliplus-fps-50-resistente-agua-paquete",
+            "previous": [],
+            "timestamp": 1742983450
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983450
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/4fec5186e8c1141b1852ec7b6fc009c4.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983450
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983450
+        }
+    },
+    "stats": {
+        "created_at": 1742983450,
+        "updated_at": 1743023297,
+        "updates": 2
+    }
+}

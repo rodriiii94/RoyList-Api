@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983511
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983511
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 25,
+                    "previous": [],
+                    "timestamp": 1742983511
+                },
+                "name": {
+                    "value": "Mascotas",
+                    "previous": [],
+                    "timestamp": 1742983511
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983511
+                },
+                "order": {
+                    "value": 442,
+                    "previous": [],
+                    "timestamp": 1742983511
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Snack galletas perro adulto con pollo y ternera Compy razas medianas y grandes",
+            "previous": [],
+            "timestamp": 1742983511
+        },
+        "id": {
+            "value": "70763",
+            "previous": [],
+            "timestamp": 1742983511
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983511
+        },
+        "packaging": {
+            "value": "Paquete",
+            "previous": [],
+            "timestamp": 1742983511
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983511
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983511
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983511
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983511
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983511
+            },
+            "unit_size": {
+                "value": 0.7,
+                "previous": [],
+                "timestamp": 1742983511
+            },
+            "bulk_price": {
+                "value": "2.79",
+                "previous": [],
+                "timestamp": 1742983511
+            },
+            "unit_price": {
+                "value": "1.95",
+                "previous": [],
+                "timestamp": 1742983511
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983511
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983511
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983511
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983511
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983511
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983511
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983511
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1742983511
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983511
+            },
+            "reference_price": {
+                "value": "2.786",
+                "previous": [],
+                "timestamp": 1742983511
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983511
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983511
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983511
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983511
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983511
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/70763/snack-galletas-perro-adulto-con-pollo-ternera-compy-razas-medianas-grandes-paquete",
+            "previous": [],
+            "timestamp": 1742983511
+        },
+        "slug": {
+            "value": "snack-galletas-perro-adulto-con-pollo-ternera-compy-razas-medianas-grandes-paquete",
+            "previous": [],
+            "timestamp": 1742983511
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983511
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/54988ca540b37197c2bee8b9d850c99e.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983511
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983511
+        }
+    },
+    "stats": {
+        "created_at": 1742983511,
+        "updated_at": 1743023363,
+        "updates": 2
+    }
+}

@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983437
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983437
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 20,
+                    "previous": [],
+                    "timestamp": 1742983437
+                },
+                "name": {
+                    "value": "Cuidado facial y corporal",
+                    "previous": [],
+                    "timestamp": 1742983437
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983437
+                },
+                "order": {
+                    "value": 241,
+                    "previous": [],
+                    "timestamp": 1742983437
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Bandas de cera facial Deliplus piel sensible",
+            "previous": [],
+            "timestamp": 1742983437
+        },
+        "id": {
+            "value": "74079",
+            "previous": [],
+            "timestamp": 1742983437
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983437
+        },
+        "packaging": {
+            "value": "Caja",
+            "previous": [],
+            "timestamp": 1742983437
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1742983437
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983437
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983437
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983437
+            },
+            "unit_name": {
+                "value": "bandas",
+                "previous": [],
+                "timestamp": 1742983437
+            },
+            "unit_size": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983437
+            },
+            "bulk_price": {
+                "value": "0.07",
+                "previous": [],
+                "timestamp": 1742983437
+            },
+            "unit_price": {
+                "value": "1.10",
+                "previous": [],
+                "timestamp": 1742983437
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983437
+            },
+            "size_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1742983437
+            },
+            "total_units": {
+                "value": 16,
+                "previous": [],
+                "timestamp": 1742983437
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983437
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983437
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983437
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983437
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1742983437
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983437
+            },
+            "reference_price": {
+                "value": "0.069",
+                "previous": [],
+                "timestamp": 1742983437
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983437
+            },
+            "reference_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1742983437
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983437
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983437
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983437
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/74079/bandas-cera-facial-deliplus-piel-sensible-paquete",
+            "previous": [],
+            "timestamp": 1742983437
+        },
+        "slug": {
+            "value": "bandas-cera-facial-deliplus-piel-sensible-paquete",
+            "previous": [],
+            "timestamp": 1742983437
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983437
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/0cd0260cdf76b831d0bcbd3bbdf0440e.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983437
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983437
+        }
+    },
+    "stats": {
+        "created_at": 1742983437,
+        "updated_at": 1743023282,
+        "updates": 2
+    }
+}

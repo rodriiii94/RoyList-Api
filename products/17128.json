@@ -1,0 +1,229 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983309
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983309
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 12,
+                    "previous": [],
+                    "timestamp": 1742983309
+                },
+                "name": {
+                    "value": "Aceite, especias y salsas",
+                    "previous": [],
+                    "timestamp": 1742983309
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983309
+                },
+                "order": {
+                    "value": 7,
+                    "previous": [],
+                    "timestamp": 1742983309
+                }
+            },
+            {
+                "id": {
+                    "value": 14,
+                    "previous": [],
+                    "timestamp": 1742983423
+                },
+                "name": {
+                    "value": "Conservas, caldos y cremas",
+                    "previous": [],
+                    "timestamp": 1742983423
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983423
+                },
+                "order": {
+                    "value": 215,
+                    "previous": [],
+                    "timestamp": 1742983423
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Tomate frito Hacendado con aceite de oliva",
+            "previous": [],
+            "timestamp": 1742983309
+        },
+        "id": {
+            "value": "17128",
+            "previous": [],
+            "timestamp": 1742983309
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983309
+        },
+        "packaging": {
+            "value": "Pack-3",
+            "previous": [],
+            "timestamp": 1742983309
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983309
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983309
+            },
+            "is_pack": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983309
+            },
+            "pack_size": {
+                "value": 0.21,
+                "previous": [],
+                "timestamp": 1742983309
+            },
+            "unit_name": {
+                "value": "mini bricks",
+                "previous": [],
+                "timestamp": 1742983309
+            },
+            "unit_size": {
+                "value": 0.63,
+                "previous": [],
+                "timestamp": 1742983309
+            },
+            "bulk_price": {
+                "value": "2.22",
+                "previous": [],
+                "timestamp": 1742983309
+            },
+            "unit_price": {
+                "value": "1.40",
+                "previous": [],
+                "timestamp": 1742983309
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983309
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983309
+            },
+            "total_units": {
+                "value": 3,
+                "previous": [],
+                "timestamp": 1742983309
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983309
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983309
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983309
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983309
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1742983309
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983309
+            },
+            "reference_price": {
+                "value": "2.223",
+                "previous": [],
+                "timestamp": 1742983309
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983309
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983309
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983309
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983309
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983309
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/17128/tomate-frito-hacendado-con-aceite-oliva-pack-3",
+            "previous": [],
+            "timestamp": 1742983309
+        },
+        "slug": {
+            "value": "tomate-frito-hacendado-con-aceite-oliva-pack-3",
+            "previous": [],
+            "timestamp": 1742983309
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983309
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/bac47a7f2186be4ef7b42b3fbc3775d6.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983309
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983309
+        }
+    },
+    "stats": {
+        "created_at": 1742983309,
+        "updated_at": 1743023264,
+        "updates": 4
+    }
+}

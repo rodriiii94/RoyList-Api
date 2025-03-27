@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983521
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983521
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 5,
+                    "previous": [],
+                    "timestamp": 1742983521
+                },
+                "name": {
+                    "value": "Panadería y pastelería",
+                    "previous": [],
+                    "timestamp": 1742983521
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983521
+                },
+                "order": {
+                    "value": 514,
+                    "previous": [],
+                    "timestamp": 1742983521
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Pan de molde blanco natural rústico Hacendado",
+            "previous": [],
+            "timestamp": 1742983521
+        },
+        "id": {
+            "value": "23359",
+            "previous": [],
+            "timestamp": 1742983521
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983521
+        },
+        "packaging": {
+            "value": "Paquete",
+            "previous": [],
+            "timestamp": 1742983521
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 4,
+                "previous": [],
+                "timestamp": 1742983521
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983521
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983521
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983521
+            },
+            "unit_name": {
+                "value": "rebanadas",
+                "previous": [],
+                "timestamp": 1742983521
+            },
+            "unit_size": {
+                "value": 0.55,
+                "previous": [],
+                "timestamp": 1742983521
+            },
+            "bulk_price": {
+                "value": "2.75",
+                "previous": [],
+                "timestamp": 1742983521
+            },
+            "unit_price": {
+                "value": "1.51",
+                "previous": [],
+                "timestamp": 1742983521
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983521
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983521
+            },
+            "total_units": {
+                "value": 14,
+                "previous": [],
+                "timestamp": 1742983521
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983521
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983521
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983521
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983521
+            },
+            "tax_percentage": {
+                "value": "4.000",
+                "previous": [],
+                "timestamp": 1742983521
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983521
+            },
+            "reference_price": {
+                "value": "2.746",
+                "previous": [],
+                "timestamp": 1742983521
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983521
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983521
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983521
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983521
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983521
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/23359/pan-molde-blanco-natural-rustico-hacendado-0-azucares-anadidos-paquete",
+            "previous": [],
+            "timestamp": 1742983521
+        },
+        "slug": {
+            "value": "pan-molde-blanco-natural-rustico-hacendado-0-azucares-anadidos-paquete",
+            "previous": [],
+            "timestamp": 1742983521
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983521
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/f959357511174b86d32065978125d81e.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983521
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983521
+        }
+    },
+    "stats": {
+        "created_at": 1742983521,
+        "updated_at": 1743023374,
+        "updates": 2
+    }
+}

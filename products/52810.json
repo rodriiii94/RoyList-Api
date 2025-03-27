@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983378
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983378
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 3,
+                    "previous": [],
+                    "timestamp": 1742983378
+                },
+                "name": {
+                    "value": "Carne",
+                    "previous": [],
+                    "timestamp": 1742983378
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983378
+                },
+                "order": {
+                    "value": 17,
+                    "previous": [],
+                    "timestamp": 1742983378
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Cachopo de vacuno con jamón y queso sin gluten",
+            "previous": [],
+            "timestamp": 1742983378
+        },
+        "id": {
+            "value": "52810",
+            "previous": [],
+            "timestamp": 1742983378
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983378
+        },
+        "packaging": {
+            "value": "Bandeja",
+            "previous": [],
+            "timestamp": 1742983378
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983378
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983378
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983378
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983378
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983378
+            },
+            "unit_size": {
+                "value": 0.45,
+                "previous": [],
+                "timestamp": 1742983378
+            },
+            "bulk_price": {
+                "value": "16.20",
+                "previous": [],
+                "timestamp": 1742983378
+            },
+            "unit_price": {
+                "value": "7.29",
+                "previous": [],
+                "timestamp": 1742983378
+            },
+            "approx_size": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983378
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983378
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983378
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983378
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983378
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983378
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983378
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1742983378
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983378
+            },
+            "reference_price": {
+                "value": "16.200",
+                "previous": [],
+                "timestamp": 1742983378
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983378
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983378
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983378
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983378
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983378
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/52810/cachopo-vacuno-con-jamon-queso-bandeja",
+            "previous": [],
+            "timestamp": 1742983378
+        },
+        "slug": {
+            "value": "cachopo-vacuno-con-jamon-queso-bandeja",
+            "previous": [],
+            "timestamp": 1742983378
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983378
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/de86614396762e85e56af66ec18b2ada.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983378
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983378
+        }
+    },
+    "stats": {
+        "created_at": 1742983378,
+        "updated_at": 1743023213,
+        "updates": 2
+    }
+}

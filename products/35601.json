@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983337
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983337
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 24,
+                    "previous": [],
+                    "timestamp": 1742983337
+                },
+                "name": {
+                    "value": "Bebé",
+                    "previous": [],
+                    "timestamp": 1742983337
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983337
+                },
+                "order": {
+                    "value": 14,
+                    "previous": [],
+                    "timestamp": 1742983337
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Papilla 8 cereales con miel Nestlé +6 meses",
+            "previous": [],
+            "timestamp": 1742983337
+        },
+        "id": {
+            "value": "35601",
+            "previous": [],
+            "timestamp": 1742983337
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983337
+        },
+        "packaging": {
+            "value": "Caja",
+            "previous": [],
+            "timestamp": 1742983337
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983337
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983337
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983337
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983337
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983337
+            },
+            "unit_size": {
+                "value": 0.725,
+                "previous": [],
+                "timestamp": 1742983337
+            },
+            "bulk_price": {
+                "value": "7.52",
+                "previous": [],
+                "timestamp": 1742983337
+            },
+            "unit_price": {
+                "value": "5.45",
+                "previous": [],
+                "timestamp": 1742983337
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983337
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983337
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983337
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983337
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983337
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983337
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983337
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1742983337
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983337
+            },
+            "reference_price": {
+                "value": "7.518",
+                "previous": [],
+                "timestamp": 1742983337
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983337
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983337
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983337
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983337
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983337
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/35601/papilla-8-cereales-con-miel-nestle-6-meses-caja",
+            "previous": [],
+            "timestamp": 1742983337
+        },
+        "slug": {
+            "value": "papilla-8-cereales-con-miel-nestle-6-meses-caja",
+            "previous": [],
+            "timestamp": 1742983337
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983337
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/5f3eca6c9d4fd9c2ef9ea1218e1c0322.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983337
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983337
+        }
+    },
+    "stats": {
+        "created_at": 1742983337,
+        "updated_at": 1743023168,
+        "updates": 2
+    }
+}

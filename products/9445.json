@@ -1,0 +1,229 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983380
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983380
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 7,
+                    "previous": [],
+                    "timestamp": 1742983380
+                },
+                "name": {
+                    "value": "Cereales y galletas",
+                    "previous": [],
+                    "timestamp": 1742983380
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983380
+                },
+                "order": {
+                    "value": 18,
+                    "previous": [],
+                    "timestamp": 1742983380
+                }
+            },
+            {
+                "id": {
+                    "value": 23,
+                    "previous": [],
+                    "timestamp": 1742983451
+                },
+                "name": {
+                    "value": "Fitoterapia y parafarmacia",
+                    "previous": [],
+                    "timestamp": 1742983451
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983451
+                },
+                "order": {
+                    "value": 305,
+                    "previous": [],
+                    "timestamp": 1742983451
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Barritas con proteínas Enervit Sport sabor coco y chocolate",
+            "previous": [],
+            "timestamp": 1742983380
+        },
+        "id": {
+            "value": "9445",
+            "previous": [],
+            "timestamp": 1742983380
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983380
+        },
+        "packaging": {
+            "value": "Caja",
+            "previous": [],
+            "timestamp": 1742983380
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983380
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983380
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983380
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983380
+            },
+            "unit_name": {
+                "value": "barritas",
+                "previous": [],
+                "timestamp": 1742983380
+            },
+            "unit_size": {
+                "value": 0.12,
+                "previous": [],
+                "timestamp": 1742983380
+            },
+            "bulk_price": {
+                "value": "24.58",
+                "previous": [],
+                "timestamp": 1742983380
+            },
+            "unit_price": {
+                "value": "2.95",
+                "previous": [],
+                "timestamp": 1742983380
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983380
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983380
+            },
+            "total_units": {
+                "value": 3,
+                "previous": [],
+                "timestamp": 1742983380
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983380
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983380
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983380
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983380
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1742983380
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983380
+            },
+            "reference_price": {
+                "value": "24.584",
+                "previous": [],
+                "timestamp": 1742983380
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983380
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983380
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983380
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983380
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983380
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/9445/barritas-con-proteinas-enervit-sport-sabor-coco-chocolate-caja",
+            "previous": [],
+            "timestamp": 1742983380
+        },
+        "slug": {
+            "value": "barritas-con-proteinas-enervit-sport-sabor-coco-chocolate-caja",
+            "previous": [],
+            "timestamp": 1742983380
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983380
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/1991058d642d7c44258039986faec5af.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983380
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983380
+        }
+    },
+    "stats": {
+        "created_at": 1742983380,
+        "updated_at": 1743023298,
+        "updates": 4
+    }
+}

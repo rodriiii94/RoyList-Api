@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1743023227
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1743023227
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 4,
+                    "previous": [],
+                    "timestamp": 1743023227
+                },
+                "name": {
+                    "value": "Charcutería y quesos",
+                    "previous": [],
+                    "timestamp": 1743023227
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1743023227
+                },
+                "order": {
+                    "value": 159,
+                    "previous": [],
+                    "timestamp": 1743023227
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Lomo de bellota 100% ibérico Juan del Roble",
+            "previous": [],
+            "timestamp": 1743023227
+        },
+        "id": {
+            "value": "12872",
+            "previous": [],
+            "timestamp": 1743023227
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1743023227
+        },
+        "packaging": {
+            "value": "Pieza",
+            "previous": [],
+            "timestamp": 1743023227
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1743023227
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1743023227
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1743023227
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1743023227
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1743023227
+            },
+            "unit_size": {
+                "value": 1.2,
+                "previous": [],
+                "timestamp": 1743023227
+            },
+            "bulk_price": {
+                "value": "52.00",
+                "previous": [],
+                "timestamp": 1743023227
+            },
+            "unit_price": {
+                "value": "62.40",
+                "previous": [],
+                "timestamp": 1743023227
+            },
+            "approx_size": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1743023227
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1743023227
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1743023227
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1743023227
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1743023227
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1743023227
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1743023227
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1743023227
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1743023227
+            },
+            "reference_price": {
+                "value": "52.000",
+                "previous": [],
+                "timestamp": 1743023227
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1743023227
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1743023227
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1743023227
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1743023227
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1743023227
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/12872/lomo-bellota-100-iberico-juan-roble-pieza",
+            "previous": [],
+            "timestamp": 1743023227
+        },
+        "slug": {
+            "value": "lomo-bellota-100-iberico-juan-roble-pieza",
+            "previous": [],
+            "timestamp": 1743023227
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1743023227
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/d5fa6f2659fce58531c5c4c1fad2df0d.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1743023227
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1743023227
+        }
+    },
+    "stats": {
+        "created_at": 1743023227,
+        "updated_at": 1743023227,
+        "updates": 1
+    }
+}

@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983509
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983509
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 25,
+                    "previous": [],
+                    "timestamp": 1742983509
+                },
+                "name": {
+                    "value": "Mascotas",
+                    "previous": [],
+                    "timestamp": 1742983509
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983509
+                },
+                "order": {
+                    "value": 442,
+                    "previous": [],
+                    "timestamp": 1742983509
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Arena para gato antibacterias Nuske",
+            "previous": [],
+            "timestamp": 1742983509
+        },
+        "id": {
+            "value": "90080",
+            "previous": [],
+            "timestamp": 1742983509
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983509
+        },
+        "packaging": {
+            "value": "Paquete",
+            "previous": [],
+            "timestamp": 1742983509
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1742983509
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983509
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983509
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983509
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983509
+            },
+            "unit_size": {
+                "value": 5,
+                "previous": [],
+                "timestamp": 1742983509
+            },
+            "bulk_price": {
+                "value": "0.28",
+                "previous": [],
+                "timestamp": 1742983509
+            },
+            "unit_price": {
+                "value": "1.40",
+                "previous": [],
+                "timestamp": 1742983509
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983509
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983509
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983509
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983509
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983509
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983509
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983509
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1742983509
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983509
+            },
+            "reference_price": {
+                "value": "0.280",
+                "previous": [],
+                "timestamp": 1742983509
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983509
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983509
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983509
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983509
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983509
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/90080/arena-gato-antibacterias-nuske-paquete",
+            "previous": [],
+            "timestamp": 1742983509
+        },
+        "slug": {
+            "value": "arena-gato-antibacterias-nuske-paquete",
+            "previous": [],
+            "timestamp": 1742983509
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983509
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/2391d7974190920d576ab7490642803e.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983509
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983509
+        }
+    },
+    "stats": {
+        "created_at": 1742983509,
+        "updated_at": 1743023361,
+        "updates": 2
+    }
+}

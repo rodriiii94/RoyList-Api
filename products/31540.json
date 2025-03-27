@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983461
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983461
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 6,
+                    "previous": [],
+                    "timestamp": 1742983461
+                },
+                "name": {
+                    "value": "Huevos, leche y mantequilla",
+                    "previous": [],
+                    "timestamp": 1742983461
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983461
+                },
+                "order": {
+                    "value": 373,
+                    "previous": [],
+                    "timestamp": 1742983461
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Huevos grandes L",
+            "previous": [],
+            "timestamp": 1742983461
+        },
+        "id": {
+            "value": "31540",
+            "previous": [],
+            "timestamp": 1742983461
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983461
+        },
+        "packaging": {
+            "value": "Paquete",
+            "previous": [],
+            "timestamp": 1742983461
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 4,
+                "previous": [],
+                "timestamp": 1742983461
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983461
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983461
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983461
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983461
+            },
+            "unit_size": {
+                "value": 6,
+                "previous": [],
+                "timestamp": 1742983461
+            },
+            "bulk_price": {
+                "value": "0.25",
+                "previous": [],
+                "timestamp": 1742983461
+            },
+            "unit_price": {
+                "value": "1.50",
+                "previous": [],
+                "timestamp": 1742983461
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983461
+            },
+            "size_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1742983461
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983461
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983461
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983461
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983461
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983461
+            },
+            "tax_percentage": {
+                "value": "4.000",
+                "previous": [],
+                "timestamp": 1742983461
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983461
+            },
+            "reference_price": {
+                "value": "3.000",
+                "previous": [],
+                "timestamp": 1742983461
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983461
+            },
+            "reference_format": {
+                "value": "dc",
+                "previous": [],
+                "timestamp": 1742983461
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983461
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983461
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983461
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/31540/huevos-grandes-l-paquete",
+            "previous": [],
+            "timestamp": 1742983461
+        },
+        "slug": {
+            "value": "huevos-grandes-l-paquete",
+            "previous": [],
+            "timestamp": 1742983461
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983461
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/24a770df80cb4ec523ffc6b606ab61c4.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983461
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983461
+        }
+    },
+    "stats": {
+        "created_at": 1742983461,
+        "updated_at": 1743023309,
+        "updates": 2
+    }
+}

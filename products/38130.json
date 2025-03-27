@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983512
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983512
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 25,
+                    "previous": [],
+                    "timestamp": 1742983512
+                },
+                "name": {
+                    "value": "Mascotas",
+                    "previous": [],
+                    "timestamp": 1742983512
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983512
+                },
+                "order": {
+                    "value": 442,
+                    "previous": [],
+                    "timestamp": 1742983512
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Alimento completo para canarios y jilgueros Granzoo",
+            "previous": [],
+            "timestamp": 1742983512
+        },
+        "id": {
+            "value": "38130",
+            "previous": [],
+            "timestamp": 1742983512
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983512
+        },
+        "packaging": {
+            "value": "Paquete",
+            "previous": [],
+            "timestamp": 1742983512
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 4,
+                "previous": [],
+                "timestamp": 1742983512
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983512
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983512
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983512
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983512
+            },
+            "unit_size": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983512
+            },
+            "bulk_price": {
+                "value": "1.88",
+                "previous": [],
+                "timestamp": 1742983512
+            },
+            "unit_price": {
+                "value": "1.88",
+                "previous": [],
+                "timestamp": 1742983512
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983512
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983512
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983512
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983512
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983512
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983512
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983512
+            },
+            "tax_percentage": {
+                "value": "4.000",
+                "previous": [],
+                "timestamp": 1742983512
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983512
+            },
+            "reference_price": {
+                "value": "1.880",
+                "previous": [],
+                "timestamp": 1742983512
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983512
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983512
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983512
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983512
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983512
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/38130/alimento-completo-canarios-jilgueros-granzoo-paquete",
+            "previous": [],
+            "timestamp": 1742983512
+        },
+        "slug": {
+            "value": "alimento-completo-canarios-jilgueros-granzoo-paquete",
+            "previous": [],
+            "timestamp": 1742983512
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983512
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/7e208005ab1342ff5918424b0fc8c3bc.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983512
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983512
+        }
+    },
+    "stats": {
+        "created_at": 1742983512,
+        "updated_at": 1743023365,
+        "updates": 2
+    }
+}

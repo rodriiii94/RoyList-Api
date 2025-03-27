@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983470
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983470
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 26,
+                    "previous": [],
+                    "timestamp": 1742983470
+                },
+                "name": {
+                    "value": "Limpieza y hogar",
+                    "previous": [],
+                    "timestamp": 1742983470
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983470
+                },
+                "order": {
+                    "value": 374,
+                    "previous": [],
+                    "timestamp": 1742983470
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Insecticida ácaros Bosque Verde especial tejidos",
+            "previous": [],
+            "timestamp": 1742983470
+        },
+        "id": {
+            "value": "72111",
+            "previous": [],
+            "timestamp": 1742983470
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983470
+        },
+        "packaging": {
+            "value": "Spray",
+            "previous": [],
+            "timestamp": 1742983470
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1742983470
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983470
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983470
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983470
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983470
+            },
+            "unit_size": {
+                "value": 0.4,
+                "previous": [],
+                "timestamp": 1742983470
+            },
+            "bulk_price": {
+                "value": "8.25",
+                "previous": [],
+                "timestamp": 1742983470
+            },
+            "unit_price": {
+                "value": "3.30",
+                "previous": [],
+                "timestamp": 1742983470
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983470
+            },
+            "size_format": {
+                "value": "l",
+                "previous": [],
+                "timestamp": 1742983470
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983470
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983470
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983470
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983470
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983470
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1742983470
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983470
+            },
+            "reference_price": {
+                "value": "8.250",
+                "previous": [],
+                "timestamp": 1742983470
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983470
+            },
+            "reference_format": {
+                "value": "L",
+                "previous": [],
+                "timestamp": 1742983470
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983470
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983470
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983470
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/72111/insecticida-acaros-bosque-verde-especial-tejidos-spray",
+            "previous": [],
+            "timestamp": 1742983470
+        },
+        "slug": {
+            "value": "insecticida-acaros-bosque-verde-especial-tejidos-spray",
+            "previous": [],
+            "timestamp": 1742983470
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983470
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/0e52599f80ab6571abb2af7009fdc2fc.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983470
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983470
+        }
+    },
+    "stats": {
+        "created_at": 1742983470,
+        "updated_at": 1743023320,
+        "updates": 2
+    }
+}

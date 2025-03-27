@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983306
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983306
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 12,
+                    "previous": [],
+                    "timestamp": 1742983306
+                },
+                "name": {
+                    "value": "Aceite, especias y salsas",
+                    "previous": [],
+                    "timestamp": 1742983306
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983306
+                },
+                "order": {
+                    "value": 7,
+                    "previous": [],
+                    "timestamp": 1742983306
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Canela en rama Hacendado",
+            "previous": [],
+            "timestamp": 1742983306
+        },
+        "id": {
+            "value": "52880",
+            "previous": [],
+            "timestamp": 1742983306
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983306
+        },
+        "packaging": {
+            "value": "Bote",
+            "previous": [],
+            "timestamp": 1742983306
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983306
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983306
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983306
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983306
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983306
+            },
+            "unit_size": {
+                "value": 0.019,
+                "previous": [],
+                "timestamp": 1742983306
+            },
+            "bulk_price": {
+                "value": "78.95",
+                "previous": [],
+                "timestamp": 1742983306
+            },
+            "unit_price": {
+                "value": "1.50",
+                "previous": [],
+                "timestamp": 1742983306
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983306
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983306
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983306
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983306
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983306
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983306
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983306
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1742983306
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983306
+            },
+            "reference_price": {
+                "value": "7.895",
+                "previous": [],
+                "timestamp": 1742983306
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983306
+            },
+            "reference_format": {
+                "value": "100 g",
+                "previous": [],
+                "timestamp": 1742983306
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983306
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983306
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983306
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/52880/canela-rama-hacendado-bote",
+            "previous": [],
+            "timestamp": 1742983306
+        },
+        "slug": {
+            "value": "canela-rama-hacendado-bote",
+            "previous": [],
+            "timestamp": 1742983306
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983306
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/79a95af1248f3f9e5f0a5fab40e06adf.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983306
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983306
+        }
+    },
+    "stats": {
+        "created_at": 1742983306,
+        "updated_at": 1743023129,
+        "updates": 2
+    }
+}

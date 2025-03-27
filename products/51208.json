@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983397
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983397
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 4,
+                    "previous": [],
+                    "timestamp": 1742983397
+                },
+                "name": {
+                    "value": "Charcutería y quesos",
+                    "previous": [],
+                    "timestamp": 1742983397
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983397
+                },
+                "order": {
+                    "value": 159,
+                    "previous": [],
+                    "timestamp": 1742983397
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Queso untar de vaca con finas hierbas Hacendado",
+            "previous": [],
+            "timestamp": 1742983397
+        },
+        "id": {
+            "value": "51208",
+            "previous": [],
+            "timestamp": 1742983397
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983397
+        },
+        "packaging": {
+            "value": "Tarrina",
+            "previous": [],
+            "timestamp": 1742983397
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 4,
+                "previous": [],
+                "timestamp": 1742983397
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983397
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983397
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983397
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983397
+            },
+            "unit_size": {
+                "value": 0.2,
+                "previous": [],
+                "timestamp": 1742983397
+            },
+            "bulk_price": {
+                "value": "9.00",
+                "previous": [],
+                "timestamp": 1742983397
+            },
+            "unit_price": {
+                "value": "1.80",
+                "previous": [],
+                "timestamp": 1742983397
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983397
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983397
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983397
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983397
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983397
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983397
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983397
+            },
+            "tax_percentage": {
+                "value": "4.000",
+                "previous": [],
+                "timestamp": 1742983397
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983397
+            },
+            "reference_price": {
+                "value": "9.000",
+                "previous": [],
+                "timestamp": 1742983397
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983397
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983397
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983397
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983397
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983397
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/51208/queso-untar-vaca-con-finas-hierbas-hacendado-tarrina",
+            "previous": [],
+            "timestamp": 1742983397
+        },
+        "slug": {
+            "value": "queso-untar-vaca-con-finas-hierbas-hacendado-tarrina",
+            "previous": [],
+            "timestamp": 1742983397
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983397
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/c4e1e4b4bde56c545484ee43f051e8d1.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983397
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983397
+        }
+    },
+    "stats": {
+        "created_at": 1742983397,
+        "updated_at": 1743023236,
+        "updates": 2
+    }
+}

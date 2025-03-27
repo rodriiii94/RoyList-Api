@@ -1,0 +1,222 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983505
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983505
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 2,
+                    "previous": [],
+                    "timestamp": 1742983505
+                },
+                "name": {
+                    "value": "Marisco y pescado",
+                    "previous": [],
+                    "timestamp": 1742983505
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983505
+                },
+                "order": {
+                    "value": 441,
+                    "previous": [],
+                    "timestamp": 1742983505
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Bacalao media pieza abierto en libro sin cabeza y sin espina",
+            "previous": [],
+            "timestamp": 1742983505
+        },
+        "id": {
+            "value": "81204.4",
+            "previous": [],
+            "timestamp": 1742983505
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983505
+        },
+        "packaging": {
+            "value": "1/2 Pieza",
+            "previous": [],
+            "timestamp": 1742983505
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983505
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983505
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983505
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983505
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983505
+            },
+            "unit_size": {
+                "value": 1.09,
+                "previous": [],
+                "timestamp": 1742983505
+            },
+            "bulk_price": {
+                "value": "9.95",
+                "previous": [
+                    {
+                        "value": "8.95",
+                        "timestamp": 1742983505
+                    }
+                ],
+                "timestamp": 1743023357
+            },
+            "unit_price": {
+                "value": "10.85",
+                "previous": [
+                    {
+                        "value": "9.76",
+                        "timestamp": 1742983505
+                    }
+                ],
+                "timestamp": 1743023357
+            },
+            "approx_size": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983505
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983505
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983505
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983505
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983505
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983505
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983505
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1742983505
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983505
+            },
+            "reference_price": {
+                "value": "9.950",
+                "previous": [
+                    {
+                        "value": "8.950",
+                        "timestamp": 1742983505
+                    }
+                ],
+                "timestamp": 1743023357
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983505
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983505
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983505
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983505
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983505
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/81204.4/bacalao-media-pieza-abierto-libro-sin-cabeza-sin-espina-12-pieza",
+            "previous": [],
+            "timestamp": 1742983505
+        },
+        "slug": {
+            "value": "bacalao-media-pieza-abierto-libro-sin-cabeza-sin-espina-12-pieza",
+            "previous": [],
+            "timestamp": 1742983505
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983505
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/31d725c7f08f131a5e70c3677dc5e69b.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983505
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983505
+        }
+    },
+    "stats": {
+        "created_at": 1742983505,
+        "updated_at": 1743023357,
+        "updates": 2
+    }
+}

@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983525
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983525
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 5,
+                    "previous": [],
+                    "timestamp": 1742983525
+                },
+                "name": {
+                    "value": "Panadería y pastelería",
+                    "previous": [],
+                    "timestamp": 1742983525
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983525
+                },
+                "order": {
+                    "value": 514,
+                    "previous": [],
+                    "timestamp": 1742983525
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Regañá Hacendado",
+            "previous": [],
+            "timestamp": 1742983525
+        },
+        "id": {
+            "value": "82365",
+            "previous": [],
+            "timestamp": 1742983525
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983525
+        },
+        "packaging": {
+            "value": "Paquete",
+            "previous": [],
+            "timestamp": 1742983525
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 4,
+                "previous": [],
+                "timestamp": 1742983525
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983525
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983525
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983525
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983525
+            },
+            "unit_size": {
+                "value": 0.25,
+                "previous": [],
+                "timestamp": 1742983525
+            },
+            "bulk_price": {
+                "value": "4.16",
+                "previous": [],
+                "timestamp": 1742983525
+            },
+            "unit_price": {
+                "value": "1.04",
+                "previous": [],
+                "timestamp": 1742983525
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983525
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983525
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983525
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983525
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983525
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983525
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983525
+            },
+            "tax_percentage": {
+                "value": "4.000",
+                "previous": [],
+                "timestamp": 1742983525
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983525
+            },
+            "reference_price": {
+                "value": "4.160",
+                "previous": [],
+                "timestamp": 1742983525
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983525
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983525
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983525
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983525
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983525
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/82365/regana-hacendado-paquete",
+            "previous": [],
+            "timestamp": 1742983525
+        },
+        "slug": {
+            "value": "regana-hacendado-paquete",
+            "previous": [],
+            "timestamp": 1742983525
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983525
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/25b45637d60017a6943cceb6ca780eb8.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983525
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983525
+        }
+    },
+    "stats": {
+        "created_at": 1742983525,
+        "updated_at": 1743023378,
+        "updates": 2
+    }
+}

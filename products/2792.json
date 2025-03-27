@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983366
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983366
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 3,
+                    "previous": [],
+                    "timestamp": 1742983366
+                },
+                "name": {
+                    "value": "Carne",
+                    "previous": [],
+                    "timestamp": 1742983366
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983366
+                },
+                "order": {
+                    "value": 17,
+                    "previous": [],
+                    "timestamp": 1742983366
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Tacos de pavo",
+            "previous": [],
+            "timestamp": 1742983366
+        },
+        "id": {
+            "value": "2792",
+            "previous": [],
+            "timestamp": 1742983366
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983366
+        },
+        "packaging": {
+            "value": "Bandeja",
+            "previous": [],
+            "timestamp": 1742983366
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983366
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983366
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983366
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983366
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983366
+            },
+            "unit_size": {
+                "value": 0.65,
+                "previous": [],
+                "timestamp": 1742983366
+            },
+            "bulk_price": {
+                "value": "7.60",
+                "previous": [],
+                "timestamp": 1742983366
+            },
+            "unit_price": {
+                "value": "4.94",
+                "previous": [],
+                "timestamp": 1742983366
+            },
+            "approx_size": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983366
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983366
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983366
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983366
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983366
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983366
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983366
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1742983366
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983366
+            },
+            "reference_price": {
+                "value": "7.600",
+                "previous": [],
+                "timestamp": 1742983366
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983366
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983366
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983366
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983366
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983366
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/2792/tacos-pavo-bandeja",
+            "previous": [],
+            "timestamp": 1742983366
+        },
+        "slug": {
+            "value": "tacos-pavo-bandeja",
+            "previous": [],
+            "timestamp": 1742983366
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983366
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/2cf18e210fbb02e692b4d5af399e698d.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983366
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983366
+        }
+    },
+    "stats": {
+        "created_at": 1742983366,
+        "updated_at": 1743023201,
+        "updates": 2
+    }
+}

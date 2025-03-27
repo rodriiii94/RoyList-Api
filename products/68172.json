@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983540
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983540
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 11,
+                    "previous": [],
+                    "timestamp": 1742983540
+                },
+                "name": {
+                    "value": "Postres y yogures",
+                    "previous": [],
+                    "timestamp": 1742983540
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983540
+                },
+                "order": {
+                    "value": 597,
+                    "previous": [],
+                    "timestamp": 1742983540
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Gelatina sabor fresa Hacendado",
+            "previous": [],
+            "timestamp": 1742983540
+        },
+        "id": {
+            "value": "68172",
+            "previous": [],
+            "timestamp": 1742983540
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983540
+        },
+        "packaging": {
+            "value": "Pack-6",
+            "previous": [],
+            "timestamp": 1742983540
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1742983540
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983540
+            },
+            "is_pack": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983540
+            },
+            "pack_size": {
+                "value": 0.1,
+                "previous": [],
+                "timestamp": 1742983540
+            },
+            "unit_name": {
+                "value": "ud.",
+                "previous": [],
+                "timestamp": 1742983540
+            },
+            "unit_size": {
+                "value": 0.6,
+                "previous": [],
+                "timestamp": 1742983540
+            },
+            "bulk_price": {
+                "value": "1.67",
+                "previous": [],
+                "timestamp": 1742983540
+            },
+            "unit_price": {
+                "value": "1.00",
+                "previous": [],
+                "timestamp": 1742983540
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983540
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983540
+            },
+            "total_units": {
+                "value": 6,
+                "previous": [],
+                "timestamp": 1742983540
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983540
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983540
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983540
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983540
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1742983540
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983540
+            },
+            "reference_price": {
+                "value": "1.667",
+                "previous": [],
+                "timestamp": 1742983540
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983540
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1742983540
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983540
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983540
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983540
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/68172/gelatina-sabor-fresa-hacendado-pack-6",
+            "previous": [],
+            "timestamp": 1742983540
+        },
+        "slug": {
+            "value": "gelatina-sabor-fresa-hacendado-pack-6",
+            "previous": [],
+            "timestamp": 1742983540
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983540
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/ed9e075eb696bab404282ed7088d42db.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983540
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983540
+        }
+    },
+    "stats": {
+        "created_at": 1742983540,
+        "updated_at": 1743023394,
+        "updates": 2
+    }
+}

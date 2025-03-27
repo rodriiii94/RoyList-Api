@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983496
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983496
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 22,
+                    "previous": [],
+                    "timestamp": 1742983496
+                },
+                "name": {
+                    "value": "Maquillaje",
+                    "previous": [],
+                    "timestamp": 1742983496
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983496
+                },
+                "order": {
+                    "value": 421,
+                    "previous": [],
+                    "timestamp": 1742983496
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Perfilador de ojos Deliplus 01 negro",
+            "previous": [],
+            "timestamp": 1742983496
+        },
+        "id": {
+            "value": "52804",
+            "previous": [],
+            "timestamp": 1742983496
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983496
+        },
+        "packaging": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983496
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1742983496
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983496
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983496
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983496
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983496
+            },
+            "unit_size": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983496
+            },
+            "bulk_price": {
+                "value": "2.30",
+                "previous": [],
+                "timestamp": 1742983496
+            },
+            "unit_price": {
+                "value": "2.30",
+                "previous": [],
+                "timestamp": 1742983496
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983496
+            },
+            "size_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1742983496
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983496
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983496
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983496
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983496
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983496
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1742983496
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983496
+            },
+            "reference_price": {
+                "value": "2.300",
+                "previous": [],
+                "timestamp": 1742983496
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983496
+            },
+            "reference_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1742983496
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983496
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983496
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983496
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/52804/perfilador-ojos-deliplus-01-negro",
+            "previous": [],
+            "timestamp": 1742983496
+        },
+        "slug": {
+            "value": "perfilador-ojos-deliplus-01-negro",
+            "previous": [],
+            "timestamp": 1742983496
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983496
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/87e10d77774af0e224e6878fbe48a4fe.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983496
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983496
+        }
+    },
+    "stats": {
+        "created_at": 1742983496,
+        "updated_at": 1743023349,
+        "updates": 2
+    }
+}

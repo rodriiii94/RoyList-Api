@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983314
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983314
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 18,
+                    "previous": [],
+                    "timestamp": 1742983314
+                },
+                "name": {
+                    "value": "Agua y refrescos",
+                    "previous": [],
+                    "timestamp": 1742983314
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1742983314
+                },
+                "order": {
+                    "value": 8,
+                    "previous": [],
+                    "timestamp": 1742983314
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Refresco Coca-Cola Zero azúcar",
+            "previous": [],
+            "timestamp": 1742983314
+        },
+        "id": {
+            "value": "9887",
+            "previous": [],
+            "timestamp": 1742983314
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1742983314
+        },
+        "packaging": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983314
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1742983314
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983314
+            },
+            "is_pack": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983314
+            },
+            "pack_size": {
+                "value": 1.25,
+                "previous": [],
+                "timestamp": 1742983314
+            },
+            "unit_name": {
+                "value": "botellas",
+                "previous": [],
+                "timestamp": 1742983314
+            },
+            "unit_size": {
+                "value": 2.5,
+                "previous": [],
+                "timestamp": 1742983314
+            },
+            "bulk_price": {
+                "value": "1.00",
+                "previous": [],
+                "timestamp": 1742983314
+            },
+            "unit_price": {
+                "value": "2.50",
+                "previous": [],
+                "timestamp": 1742983314
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983314
+            },
+            "size_format": {
+                "value": "l",
+                "previous": [],
+                "timestamp": 1742983314
+            },
+            "total_units": {
+                "value": 2,
+                "previous": [],
+                "timestamp": 1742983314
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1742983314
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983314
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983314
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1742983314
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1742983314
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1742983314
+            },
+            "reference_price": {
+                "value": "1.000",
+                "previous": [],
+                "timestamp": 1742983314
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983314
+            },
+            "reference_format": {
+                "value": "L",
+                "previous": [],
+                "timestamp": 1742983314
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1742983314
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1742983314
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1742983314
+        },
+        "share_url": {
+            "value": "https://tienda.mercadona.es/product/9887/refresco-coca-cola-zero-azucar",
+            "previous": [],
+            "timestamp": 1742983314
+        },
+        "slug": {
+            "value": "refresco-coca-cola-zero-azucar",
+            "previous": [],
+            "timestamp": 1742983314
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983314
+        },
+        "thumbnail": {
+            "value": "https://prod-mercadona.imgix.net/images/cc076c539abb4b02394d473e87035e25.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1742983314
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1742983314
+        }
+    },
+    "stats": {
+        "created_at": 1742983314,
+        "updated_at": 1743023139,
+        "updates": 2
+    }
+}
