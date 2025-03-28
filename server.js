@@ -18,6 +18,7 @@ app.get("/api/data", (req, res) => {
 
     try {
         const data = JSON.parse(fs.readFileSync(MAPPING_FILE, "utf8"));
+        console.log("📄 Archivo product_mapping.json encontrado");
         res.json(data);
     } catch (error) {
         console.error("❌ Error leyendo product_mapping.json", error);
@@ -38,6 +39,7 @@ app.get("/api/products/:id", (req, res) => {
 
     try {
         const productData = JSON.parse(fs.readFileSync(filePath, "utf8"));
+        console.log(`📦 Producto ${productId} encontrado`);
         res.json(productData);
     } catch (error) {
         console.error(`❌ Error leyendo el archivo ${productId}.json`, error);
