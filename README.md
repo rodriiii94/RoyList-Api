@@ -1,4 +1,4 @@
-# TFG API
+# API de RoyList
 
 Este proyecto es una API desarrollada como parte de un Trabajo de Fin de Grado (TFG). Proporciona funcionalidades específicas para gestionar y procesar datos relacionados con el proyecto.
 
