@@ -17,7 +17,7 @@ Sigue estos pasos para configurar y ejecutar el proyecto:
 
     ```bash
     git clone https://github.com/usuario/tfg-api.git
-    cd tfg-api
+    cd RoyList-Api
     ```
 
 2. Instala las dependencias:
