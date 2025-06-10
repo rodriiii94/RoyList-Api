@@ -26,27 +26,10 @@ Sigue estos pasos para configurar y ejecutar el proyecto:
     npm install
     ```
 
-3. Configura las variables de entorno:
-
-    Crea un archivo `.env` en la raíz del proyecto y define las variables necesarias. Un ejemplo de archivo `.env` podría ser:
-
-    ```bash
-    PORT=3000
-    PRODUCTS_FILE=./data/products.json
-    ```
-
-4. Inicia el servidor:
+3. Inicia el servidor:
 
     ```bash
     node server.js
     ```
 
     El servidor estará disponible en `http://localhost:3000`.
-
-## Scripts disponibles
-
-- `node server.js`: Inicia el servidor en modo producción.
-
-## Contribución
-
-Si deseas contribuir a este proyecto, por favor abre un issue o envía un pull request. Agradecemos tus aportes.
