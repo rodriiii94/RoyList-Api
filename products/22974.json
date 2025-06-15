@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Dátiles Medjoul con hueso Hacendado",
+            "value": "D\u00e1tiles Medjoul con hueso Hacendado",
             "previous": [],
             "timestamp": 1742983321
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983321
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/22974/datiles-medjoul-con-hueso-hacendado-bandeja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/22974\/datiles-medjoul-con-hueso-hacendado-bandeja",
             "previous": [],
             "timestamp": 1742983321
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983321
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/120f389dd13282f785fb8ea2da1aa28a.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/120f389dd13282f785fb8ea2da1aa28a.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983321
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983321,
-        "updated_at": 1743023149,
-        "updates": 2
+        "updated_at": 1749739032,
+        "updates": 3
     }
 }

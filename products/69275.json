@@ -83,19 +83,34 @@
                 "timestamp": 1742983459
             },
             "unit_size": {
-                "value": 0.66,
-                "previous": [],
-                "timestamp": 1742983459
+                "value": 0.57,
+                "previous": [
+                    {
+                        "value": 0.66,
+                        "timestamp": 1742983459
+                    }
+                ],
+                "timestamp": 1749739240
             },
             "bulk_price": {
-                "value": "1.99",
-                "previous": [],
-                "timestamp": 1742983459
+                "value": "2.00",
+                "previous": [
+                    {
+                        "value": "1.99",
+                        "timestamp": 1742983459
+                    }
+                ],
+                "timestamp": 1749739240
             },
             "unit_price": {
-                "value": "1.31",
-                "previous": [],
-                "timestamp": 1742983459
+                "value": "1.14",
+                "previous": [
+                    {
+                        "value": "1.31",
+                        "timestamp": 1742983459
+                    }
+                ],
+                "timestamp": 1749739240
             },
             "approx_size": {
                 "value": true,
@@ -143,9 +158,14 @@
                 "timestamp": 1742983459
             },
             "reference_price": {
-                "value": "1.990",
-                "previous": [],
-                "timestamp": 1742983459
+                "value": "2.000",
+                "previous": [
+                    {
+                        "value": "1.990",
+                        "timestamp": 1742983459
+                    }
+                ],
+                "timestamp": 1749739240
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +194,7 @@
             "timestamp": 1742983459
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/69275/apio-verde-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/69275\/apio-verde-paquete",
             "previous": [],
             "timestamp": 1742983459
         },
@@ -189,7 +209,7 @@
             "timestamp": 1742983459
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/a601293be34844dafbb636e4f79b307f.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/a601293be34844dafbb636e4f79b307f.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983459
         },
@@ -201,7 +221,7 @@
     },
     "stats": {
         "created_at": 1742983459,
-        "updated_at": 1743023308,
-        "updates": 2
+        "updated_at": 1749739240,
+        "updates": 3
     }
 }

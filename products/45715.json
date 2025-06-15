@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Esponja de baño exfoliación intensa Deliplus",
+            "value": "Esponja de ba\u00f1o exfoliaci\u00f3n intensa Deliplus",
             "previous": [],
             "timestamp": 1742983440
         },
@@ -161,6 +161,11 @@
                 "value": 1,
                 "previous": [],
                 "timestamp": 1742983440
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1749739208
             }
         },
         "published": {
@@ -169,7 +174,7 @@
             "timestamp": 1742983440
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/45715/esponja-bano-exfoliacion-intensa-deliplus-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/45715\/esponja-bano-exfoliacion-intensa-deliplus-paquete",
             "previous": [],
             "timestamp": 1742983440
         },
@@ -184,7 +189,7 @@
             "timestamp": 1742983440
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/6c157d08512d2cc2885eb0796550e568.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/6c157d08512d2cc2885eb0796550e568.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983440
         },
@@ -196,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983440,
-        "updated_at": 1743023286,
-        "updates": 2
+        "updated_at": 1749739208,
+        "updates": 3
     }
 }

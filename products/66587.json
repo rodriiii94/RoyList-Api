@@ -88,14 +88,24 @@
                 "timestamp": 1742983343
             },
             "bulk_price": {
-                "value": "2.40",
-                "previous": [],
-                "timestamp": 1742983343
+                "value": "2.68",
+                "previous": [
+                    {
+                        "value": "2.40",
+                        "timestamp": 1742983343
+                    }
+                ],
+                "timestamp": 1749739065
             },
             "unit_price": {
-                "value": "7.20",
-                "previous": [],
-                "timestamp": 1742983343
+                "value": "8.04",
+                "previous": [
+                    {
+                        "value": "7.20",
+                        "timestamp": 1742983343
+                    }
+                ],
+                "timestamp": 1749739065
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983343
             },
             "reference_price": {
-                "value": "2.400",
-                "previous": [],
-                "timestamp": 1742983343
+                "value": "2.680",
+                "previous": [
+                    {
+                        "value": "2.400",
+                        "timestamp": 1742983343
+                    }
+                ],
+                "timestamp": 1749739065
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -158,9 +173,14 @@
                 "timestamp": 1742983343
             },
             "previous_unit_price": {
-                "value": "        8.04",
-                "previous": [],
-                "timestamp": 1742983343
+                "value": null,
+                "previous": [
+                    {
+                        "value": "        8.04",
+                        "timestamp": 1742983343
+                    }
+                ],
+                "timestamp": 1749739065
             },
             "increment_bunch_amount": {
                 "value": 1,
@@ -174,7 +194,7 @@
             "timestamp": 1742983343
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/66587/cerveza-especial-estrella-galicia-pack-12",
+            "value": "https:\/\/tienda.mercadona.es\/product\/66587\/cerveza-especial-estrella-galicia-pack-12",
             "previous": [],
             "timestamp": 1742983343
         },
@@ -189,7 +209,7 @@
             "timestamp": 1742983343
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/2a3512aeb431fadc29951592d2e3e212.jpeg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/2a3512aeb431fadc29951592d2e3e212.jpeg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983343
         },
@@ -201,7 +221,7 @@
     },
     "stats": {
         "created_at": 1742983343,
-        "updated_at": 1743023175,
-        "updates": 2
+        "updated_at": 1749739065,
+        "updates": 3
     }
 }

@@ -20,7 +20,7 @@
                     "timestamp": 1742983521
                 },
                 "name": {
-                    "value": "Panadería y pastelería",
+                    "value": "Panader\u00eda y pasteler\u00eda",
                     "previous": [],
                     "timestamp": 1742983521
                 },
@@ -58,9 +58,14 @@
         },
         "price_instructions": {
             "iva": {
-                "value": 10,
-                "previous": [],
-                "timestamp": 1742983521
+                "value": 4,
+                "previous": [
+                    {
+                        "value": 10,
+                        "timestamp": 1742983521
+                    }
+                ],
+                "timestamp": 1749739331
             },
             "is_new": {
                 "value": false,
@@ -88,14 +93,24 @@
                 "timestamp": 1742983521
             },
             "bulk_price": {
-                "value": "7.58",
-                "previous": [],
-                "timestamp": 1742983521
+                "value": "7.27",
+                "previous": [
+                    {
+                        "value": "7.58",
+                        "timestamp": 1742983521
+                    }
+                ],
+                "timestamp": 1749739331
             },
             "unit_price": {
-                "value": "1.25",
-                "previous": [],
-                "timestamp": 1742983521
+                "value": "1.20",
+                "previous": [
+                    {
+                        "value": "1.25",
+                        "timestamp": 1742983521
+                    }
+                ],
+                "timestamp": 1749739331
             },
             "approx_size": {
                 "value": false,
@@ -133,9 +148,14 @@
                 "timestamp": 1742983521
             },
             "tax_percentage": {
-                "value": "10.000",
-                "previous": [],
-                "timestamp": 1742983521
+                "value": "4.000",
+                "previous": [
+                    {
+                        "value": "10.000",
+                        "timestamp": 1742983521
+                    }
+                ],
+                "timestamp": 1749739331
             },
             "price_decreased": {
                 "value": false,
@@ -143,9 +163,14 @@
                 "timestamp": 1742983521
             },
             "reference_price": {
-                "value": "7.576",
-                "previous": [],
-                "timestamp": 1742983521
+                "value": "7.273",
+                "previous": [
+                    {
+                        "value": "7.576",
+                        "timestamp": 1742983521
+                    }
+                ],
+                "timestamp": 1749739331
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +199,7 @@
             "timestamp": 1742983521
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/84429/pan-mini-bocados-hacendado-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/84429\/pan-mini-bocados-hacendado-paquete",
             "previous": [],
             "timestamp": 1742983521
         },
@@ -189,9 +214,14 @@
             "timestamp": 1742983521
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/1596d862885ac792eca14e8fbea88209.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983521
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/2bd3a8a79f94c5c3e9c4763d912e6e75.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/1596d862885ac792eca14e8fbea88209.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983521
+                }
+            ],
+            "timestamp": 1749739331
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +231,7 @@
     },
     "stats": {
         "created_at": 1742983521,
-        "updated_at": 1743023374,
-        "updates": 2
+        "updated_at": 1749739331,
+        "updates": 3
     }
 }

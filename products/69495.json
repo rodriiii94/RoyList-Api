@@ -83,9 +83,14 @@
                 "timestamp": 1742983459
             },
             "unit_size": {
-                "value": 0.55,
-                "previous": [],
-                "timestamp": 1742983459
+                "value": 0.66,
+                "previous": [
+                    {
+                        "value": 0.55,
+                        "timestamp": 1742983459
+                    }
+                ],
+                "timestamp": 1749739239
             },
             "bulk_price": {
                 "value": "3.10",
@@ -93,9 +98,14 @@
                 "timestamp": 1742983459
             },
             "unit_price": {
-                "value": "1.71",
-                "previous": [],
-                "timestamp": 1742983459
+                "value": "2.05",
+                "previous": [
+                    {
+                        "value": "1.71",
+                        "timestamp": 1742983459
+                    }
+                ],
+                "timestamp": 1749739239
             },
             "approx_size": {
                 "value": true,
@@ -174,7 +184,7 @@
             "timestamp": 1742983459
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/69495/pimientos-tricolor-rojo-amarillo-verde-bandeja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/69495\/pimientos-tricolor-rojo-amarillo-verde-bandeja",
             "previous": [],
             "timestamp": 1742983459
         },
@@ -189,7 +199,7 @@
             "timestamp": 1742983459
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/e41353b7b0e82ea6e1456d6f9261a65c.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/e41353b7b0e82ea6e1456d6f9261a65c.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983459
         },
@@ -201,7 +211,7 @@
     },
     "stats": {
         "created_at": 1742983459,
-        "updated_at": 1743023307,
-        "updates": 2
+        "updated_at": 1749739239,
+        "updates": 3
     }
 }

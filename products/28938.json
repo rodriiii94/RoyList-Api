@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Cava brut nature reserva vintage Cabré & Sabaté",
+            "value": "Cava brut nature reserva vintage Cabr\u00e9 & Sabat\u00e9",
             "previous": [],
             "timestamp": 1742983348
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983348
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/28938/cava-brut-nature-reserva-vintage-cabre-sabate-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/28938\/cava-brut-nature-reserva-vintage-cabre-sabate-botella",
             "previous": [],
             "timestamp": 1742983348
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983348
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/ad3e794449dfa5d5ffcb80eaaedf9585.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/ad3e794449dfa5d5ffcb80eaaedf9585.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983348
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983348,
-        "updated_at": 1743023181,
-        "updates": 2
+        "updated_at": 1749739072,
+        "updates": 3
     }
 }

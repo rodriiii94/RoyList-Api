@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Bebida de soja sabor vainilla Hacendado 0% azúcar",
+            "value": "Bebida de soja sabor vainilla Hacendado 0% az\u00facar",
             "previous": [],
             "timestamp": 1742983463
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983463
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/67950/bebida-soja-sabor-vainilla-hacendado-0-azucar-pack-6",
+            "value": "https:\/\/tienda.mercadona.es\/product\/67950\/bebida-soja-sabor-vainilla-hacendado-0-azucar-pack-6",
             "previous": [],
             "timestamp": 1742983463
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983463
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/659b38ff1259a7fce93b5811e134cb6e.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/659b38ff1259a7fce93b5811e134cb6e.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983463
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983463,
-        "updated_at": 1743023312,
-        "updates": 2
+        "updated_at": 1749739247,
+        "updates": 3
     }
 }

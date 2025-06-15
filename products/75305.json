@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Coloración permanente L'Oréal 7 rubio",
+            "value": "Coloraci\u00f3n permanente L'Or\u00e9al 7 rubio",
             "previous": [],
             "timestamp": 1742983428
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983428
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/75305/coloracion-permanente-loreal-7-rubio-excellence-creme-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/75305\/coloracion-permanente-loreal-7-rubio-excellence-creme-caja",
             "previous": [],
             "timestamp": 1742983428
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983428
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/925ade2465c0ac9a3f9479e833a04c70.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/925ade2465c0ac9a3f9479e833a04c70.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983428
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983428,
-        "updated_at": 1743023271,
-        "updates": 2
+        "updated_at": 1749739187,
+        "updates": 3
     }
 }

@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Sacapuntas doble Deliplus lápiz fino y grueso",
+            "value": "Sacapuntas doble Deliplus l\u00e1piz fino y grueso",
             "previous": [],
             "timestamp": 1742983498
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983498
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/77467/sacapuntas-doble-deliplus-lapiz-fino-grueso",
+            "value": "https:\/\/tienda.mercadona.es\/product\/77467\/sacapuntas-doble-deliplus-lapiz-fino-grueso",
             "previous": [],
             "timestamp": 1742983498
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983498
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/8170de22eacf449e7eca75888593c536.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/8170de22eacf449e7eca75888593c536.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983498
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983498,
-        "updated_at": 1743023351,
-        "updates": 2
+        "updated_at": 1749739298,
+        "updates": 3
     }
 }

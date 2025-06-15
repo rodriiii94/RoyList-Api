@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Empanados vegetales con proteína de soja Tivall",
+            "value": "Empanados vegetales con prote\u00edna de soja Tivall",
             "previous": [],
             "timestamp": 1742983534
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983534
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/23249/empanados-vegetales-con-proteina-soja-tivall-bandeja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/23249\/empanados-vegetales-con-proteina-soja-tivall-bandeja",
             "previous": [],
             "timestamp": 1742983534
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983534
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/89a0db86361da715a4ef3a3e80ef61d7.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983534
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/c6b302b81366b56254817463ded87533.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/89a0db86361da715a4ef3a3e80ef61d7.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983534
+                }
+            ],
+            "timestamp": 1749739349
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983534,
-        "updated_at": 1743023388,
-        "updates": 2
+        "updated_at": 1749739349,
+        "updates": 3
     }
 }

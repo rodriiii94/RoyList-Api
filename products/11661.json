@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739253
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739253
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 26,
+                    "previous": [],
+                    "timestamp": 1749739253
+                },
+                "name": {
+                    "value": "Limpieza y hogar",
+                    "previous": [],
+                    "timestamp": 1749739253
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739253
+                },
+                "order": {
+                    "value": 374,
+                    "previous": [],
+                    "timestamp": 1749739253
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Suavizante ropa Violets Bosque Verde concentrado",
+            "previous": [],
+            "timestamp": 1749739253
+        },
+        "id": {
+            "value": "11661",
+            "previous": [],
+            "timestamp": 1749739253
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739253
+        },
+        "packaging": {
+            "value": "Botella",
+            "previous": [],
+            "timestamp": 1749739253
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1749739253
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739253
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739253
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739253
+            },
+            "unit_name": {
+                "value": "lavados",
+                "previous": [],
+                "timestamp": 1749739253
+            },
+            "unit_size": {
+                "value": 1.6,
+                "previous": [],
+                "timestamp": 1749739253
+            },
+            "bulk_price": {
+                "value": "1.13",
+                "previous": [],
+                "timestamp": 1749739253
+            },
+            "unit_price": {
+                "value": "1.80",
+                "previous": [],
+                "timestamp": 1749739253
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739253
+            },
+            "size_format": {
+                "value": "l",
+                "previous": [],
+                "timestamp": 1749739253
+            },
+            "total_units": {
+                "value": 80,
+                "previous": [],
+                "timestamp": 1749739253
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739253
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739253
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739253
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739253
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1749739253
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739253
+            },
+            "reference_price": {
+                "value": "0.023",
+                "previous": [],
+                "timestamp": 1749739253
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739253
+            },
+            "reference_format": {
+                "value": "lv",
+                "previous": [],
+                "timestamp": 1749739253
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739253
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739253
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739253
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/11661\/suavizante-ropa-violets-bosque-verde-concentrado-botella",
+            "previous": [],
+            "timestamp": 1749739253
+        },
+        "slug": {
+            "value": "suavizante-ropa-violets-bosque-verde-concentrado-botella",
+            "previous": [],
+            "timestamp": 1749739253
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739253
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/f79288843d6ba82534acf08c3195fc40.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739253
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739253
+        }
+    },
+    "stats": {
+        "created_at": 1749739253,
+        "updated_at": 1749739253,
+        "updates": 1
+    }
+}

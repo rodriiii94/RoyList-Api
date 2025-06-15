@@ -59,7 +59,7 @@
             }
         ],
         "display_name": {
-            "value": "Papel higiénico húmedo WC Bosque Verde",
+            "value": "Papel higi\u00e9nico h\u00famedo WC Bosque Verde",
             "previous": [],
             "timestamp": 1742983434
         },
@@ -196,7 +196,7 @@
             "timestamp": 1742983434
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/47293/papel-higienico-humedo-wc-bosque-verde-con-aloe-vera-camomila-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/47293\/papel-higienico-humedo-wc-bosque-verde-con-aloe-vera-camomila-paquete",
             "previous": [],
             "timestamp": 1742983434
         },
@@ -211,7 +211,7 @@
             "timestamp": 1742983434
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/286f24c12adab78274a9cb5cca4f1278.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/286f24c12adab78274a9cb5cca4f1278.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983434
         },
@@ -223,7 +223,7 @@
     },
     "stats": {
         "created_at": 1742983434,
-        "updated_at": 1743023337,
-        "updates": 4
+        "updated_at": 1749739279,
+        "updates": 6
     }
 }

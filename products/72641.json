@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Insecticida antimosquitos eléctrico recambio líquido",
+            "value": "Insecticida antimosquitos el\u00e9ctrico recambio l\u00edquido",
             "previous": [],
             "timestamp": 1742983470
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983470
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/72641/insecticida-antimosquitos-electrico-recambio-liquido-bosque-verde-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/72641\/insecticida-antimosquitos-electrico-recambio-liquido-bosque-verde-caja",
             "previous": [],
             "timestamp": 1742983470
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983470
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/44ba710241d7dc65b563f653228ba2af.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/44ba710241d7dc65b563f653228ba2af.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983470
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983470,
-        "updated_at": 1743023320,
-        "updates": 2
+        "updated_at": 1749739257,
+        "updates": 3
     }
 }

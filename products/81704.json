@@ -83,29 +83,42 @@
                 "timestamp": 1742983505
             },
             "unit_size": {
-                "value": 0.65,
+                "value": 0.76,
                 "previous": [
                     {
                         "value": 0.67,
                         "timestamp": 1742983505
+                    },
+                    {
+                        "value": 0.65,
+                        "timestamp": 1743023357
                     }
                 ],
-                "timestamp": 1743023357
+                "timestamp": 1749739307
             },
             "bulk_price": {
-                "value": "14.95",
-                "previous": [],
-                "timestamp": 1742983505
+                "value": "15.95",
+                "previous": [
+                    {
+                        "value": "14.95",
+                        "timestamp": 1742983505
+                    }
+                ],
+                "timestamp": 1749739307
             },
             "unit_price": {
-                "value": "9.72",
+                "value": "12.12",
                 "previous": [
                     {
                         "value": "10.02",
                         "timestamp": 1742983505
+                    },
+                    {
+                        "value": "9.72",
+                        "timestamp": 1743023357
                     }
                 ],
-                "timestamp": 1743023357
+                "timestamp": 1749739307
             },
             "approx_size": {
                 "value": true,
@@ -153,9 +166,14 @@
                 "timestamp": 1742983505
             },
             "reference_price": {
-                "value": "14.950",
-                "previous": [],
-                "timestamp": 1742983505
+                "value": "15.950",
+                "previous": [
+                    {
+                        "value": "14.950",
+                        "timestamp": 1742983505
+                    }
+                ],
+                "timestamp": 1749739307
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -184,7 +202,7 @@
             "timestamp": 1742983505
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/81704/sepia-pieza",
+            "value": "https:\/\/tienda.mercadona.es\/product\/81704\/sepia-pieza",
             "previous": [],
             "timestamp": 1742983505
         },
@@ -199,7 +217,7 @@
             "timestamp": 1742983505
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/d048cb65e9ae4c19d14d81a31fecc1dd.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/d048cb65e9ae4c19d14d81a31fecc1dd.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983505
         },
@@ -211,7 +229,7 @@
     },
     "stats": {
         "created_at": 1742983505,
-        "updated_at": 1743023357,
-        "updates": 2
+        "updated_at": 1749739307,
+        "updates": 3
     }
 }

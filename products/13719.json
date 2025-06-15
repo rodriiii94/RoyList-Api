@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Cucharas postre de plástico Bosque Verde reutilizables",
+            "value": "Cucharas postre de pl\u00e1stico Bosque Verde reutilizables",
             "previous": [],
             "timestamp": 1742983484
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983484
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/13719/cucharas-postre-plastico-bosque-verde-reutilizables-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/13719\/cucharas-postre-plastico-bosque-verde-reutilizables-paquete",
             "previous": [],
             "timestamp": 1742983484
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983484
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/c90a62fb9cc6ac925a8e5012aeca1ba6.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/c90a62fb9cc6ac925a8e5012aeca1ba6.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983484
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983484,
-        "updated_at": 1743023335,
-        "updates": 2
+        "updated_at": 1749739276,
+        "updates": 3
     }
 }

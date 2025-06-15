@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739279
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739279
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 26,
+                    "previous": [],
+                    "timestamp": 1749739279
+                },
+                "name": {
+                    "value": "Limpieza y hogar",
+                    "previous": [],
+                    "timestamp": 1749739279
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739279
+                },
+                "order": {
+                    "value": 374,
+                    "previous": [],
+                    "timestamp": 1749739279
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Papel higi\u00e9nico Suave Bosque Verde",
+            "previous": [],
+            "timestamp": 1749739279
+        },
+        "id": {
+            "value": "12912",
+            "previous": [],
+            "timestamp": 1749739279
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739279
+        },
+        "packaging": {
+            "value": "Paquete",
+            "previous": [],
+            "timestamp": 1749739279
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1749739279
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739279
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739279
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739279
+            },
+            "unit_name": {
+                "value": "rollos",
+                "previous": [],
+                "timestamp": 1749739279
+            },
+            "unit_size": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739279
+            },
+            "bulk_price": {
+                "value": "0.46",
+                "previous": [],
+                "timestamp": 1749739279
+            },
+            "unit_price": {
+                "value": "3.65",
+                "previous": [],
+                "timestamp": 1749739279
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739279
+            },
+            "size_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1749739279
+            },
+            "total_units": {
+                "value": 8,
+                "previous": [],
+                "timestamp": 1749739279
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739279
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739279
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739279
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739279
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1749739279
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739279
+            },
+            "reference_price": {
+                "value": "0.457",
+                "previous": [],
+                "timestamp": 1749739279
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739279
+            },
+            "reference_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1749739279
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739279
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739279
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739279
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/12912\/papel-higienico-suave-bosque-verde-4-capas-paquete",
+            "previous": [],
+            "timestamp": 1749739279
+        },
+        "slug": {
+            "value": "papel-higienico-suave-bosque-verde-4-capas-paquete",
+            "previous": [],
+            "timestamp": 1749739279
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739279
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/c101fb054823f64dfbece29949dd8e23.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739279
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739279
+        }
+    },
+    "stats": {
+        "created_at": 1749739279,
+        "updated_at": 1749739279,
+        "updates": 1
+    }
+}

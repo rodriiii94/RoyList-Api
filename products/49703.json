@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Bolsa de basura jardín Bosque Verde 100L cubo industrial",
+            "value": "Bolsa de basura jard\u00edn Bosque Verde 100L cubo industrial",
             "previous": [],
             "timestamp": 1742983487
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983487
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/49703/bolsa-basura-jardin-bosque-verde-100l-cubo-industrial-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/49703\/bolsa-basura-jardin-bosque-verde-100l-cubo-industrial-paquete",
             "previous": [],
             "timestamp": 1742983487
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983487
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/95002fdb6fce079fc0f3f0cf1017dca3.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/95002fdb6fce079fc0f3f0cf1017dca3.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983487
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983487,
-        "updated_at": 1743023339,
-        "updates": 2
+        "updated_at": 1749739281,
+        "updates": 3
     }
 }

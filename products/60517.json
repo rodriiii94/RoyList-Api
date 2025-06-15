@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Recipiente hermético de Plástico Rectangular 3L Bosque Verde",
+            "value": "Recipiente herm\u00e9tico de Pl\u00e1stico Rectangular 3L Bosque Verde",
             "previous": [],
             "timestamp": 1742983484
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983484
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/60517/recipiente-hermetico-plastico-rectangular-3l-bosque-verde-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/60517\/recipiente-hermetico-plastico-rectangular-3l-bosque-verde-paquete",
             "previous": [],
             "timestamp": 1742983484
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983484
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/3a8ef75e65fa91e5978757ed73c2a92b.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/3a8ef75e65fa91e5978757ed73c2a92b.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983484
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983484,
-        "updated_at": 1743023335,
-        "updates": 2
+        "updated_at": 1749739276,
+        "updates": 3
     }
 }

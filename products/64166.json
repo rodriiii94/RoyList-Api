@@ -88,14 +88,24 @@
                 "timestamp": 1742983402
             },
             "bulk_price": {
-                "value": "7.00",
-                "previous": [],
-                "timestamp": 1742983402
+                "value": "7.71",
+                "previous": [
+                    {
+                        "value": "7.00",
+                        "timestamp": 1742983402
+                    }
+                ],
+                "timestamp": 1749739147
             },
             "unit_price": {
-                "value": "2.45",
-                "previous": [],
-                "timestamp": 1742983402
+                "value": "2.70",
+                "previous": [
+                    {
+                        "value": "2.45",
+                        "timestamp": 1742983402
+                    }
+                ],
+                "timestamp": 1749739147
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983402
             },
             "reference_price": {
-                "value": "7.000",
-                "previous": [],
-                "timestamp": 1742983402
+                "value": "7.715",
+                "previous": [
+                    {
+                        "value": "7.000",
+                        "timestamp": 1742983402
+                    }
+                ],
+                "timestamp": 1749739147
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983402
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/64166/medios-cocos-helados-hacendado-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/64166\/medios-cocos-helados-hacendado-caja",
             "previous": [],
             "timestamp": 1742983402
         },
@@ -189,9 +204,14 @@
             "timestamp": 1742983402
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/09a0f03fc2e4b9718bfb14ac45ec628e.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983402
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/dd2cee008087791d00746b86c41bd696.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/09a0f03fc2e4b9718bfb14ac45ec628e.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983402
+                }
+            ],
+            "timestamp": 1749739147
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +221,7 @@
     },
     "stats": {
         "created_at": 1742983402,
-        "updated_at": 1743023241,
-        "updates": 2
+        "updated_at": 1749739147,
+        "updates": 3
     }
 }

@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739127
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739127
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 4,
+                    "previous": [],
+                    "timestamp": 1749739127
+                },
+                "name": {
+                    "value": "Charcuter\u00eda y quesos",
+                    "previous": [],
+                    "timestamp": 1749739127
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739127
+                },
+                "order": {
+                    "value": 159,
+                    "previous": [],
+                    "timestamp": 1749739127
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Salchich\u00f3n extra Hacendado lonchas",
+            "previous": [],
+            "timestamp": 1749739127
+        },
+        "id": {
+            "value": "12086",
+            "previous": [],
+            "timestamp": 1749739127
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739127
+        },
+        "packaging": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739127
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1749739127
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739127
+            },
+            "is_pack": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739127
+            },
+            "pack_size": {
+                "value": 0.05,
+                "previous": [],
+                "timestamp": 1749739127
+            },
+            "unit_name": {
+                "value": "paquetes",
+                "previous": [],
+                "timestamp": 1749739127
+            },
+            "unit_size": {
+                "value": 0.2,
+                "previous": [],
+                "timestamp": 1749739127
+            },
+            "bulk_price": {
+                "value": "12.25",
+                "previous": [],
+                "timestamp": 1749739127
+            },
+            "unit_price": {
+                "value": "2.45",
+                "previous": [],
+                "timestamp": 1749739127
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739127
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1749739127
+            },
+            "total_units": {
+                "value": 4,
+                "previous": [],
+                "timestamp": 1749739127
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739127
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739127
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739127
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739127
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1749739127
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739127
+            },
+            "reference_price": {
+                "value": "12.250",
+                "previous": [],
+                "timestamp": 1749739127
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739127
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1749739127
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739127
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739127
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739127
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/12086\/salchichon-extra-hacendado-lonchas",
+            "previous": [],
+            "timestamp": 1749739127
+        },
+        "slug": {
+            "value": "salchichon-extra-hacendado-lonchas",
+            "previous": [],
+            "timestamp": 1749739127
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739127
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/efaa6452836b1e6523ad05e38cb56c4e.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739127
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739127
+        }
+    },
+    "stats": {
+        "created_at": 1749739127,
+        "updated_at": 1749739127,
+        "updates": 1
+    }
+}

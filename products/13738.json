@@ -42,7 +42,7 @@
                     "timestamp": 1742983528
                 },
                 "name": {
-                    "value": "Panadería y pastelería",
+                    "value": "Panader\u00eda y pasteler\u00eda",
                     "previous": [],
                     "timestamp": 1742983528
                 },
@@ -59,7 +59,7 @@
             }
         ],
         "display_name": {
-            "value": "Cacahuete +Proteínas en polvo desgrasado Hacendado 14 g proteínas 70% reducido en grasa",
+            "value": "Cacahuete +Prote\u00ednas en polvo desgrasado Hacendado 14 g prote\u00ednas 70% reducido en grasa",
             "previous": [],
             "timestamp": 1742983321
         },
@@ -196,7 +196,7 @@
             "timestamp": 1742983321
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/13738/cacahuete-proteinas-polvo-desgrasado-hacendado-14-g-proteinas-70-reducido-grasa-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/13738\/cacahuete-proteinas-polvo-desgrasado-hacendado-14-g-proteinas-70-reducido-grasa-paquete",
             "previous": [],
             "timestamp": 1742983321
         },
@@ -211,9 +211,14 @@
             "timestamp": 1742983321
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/bcccfc26eb0be1ddb232e7d4c5be8017.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983321
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/d7d92dd4c1eaf7f4cacb42fcf24d0019.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/bcccfc26eb0be1ddb232e7d4c5be8017.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983321
+                }
+            ],
+            "timestamp": 1749739031
         },
         "unavailable_from": {
             "value": null,
@@ -223,7 +228,7 @@
     },
     "stats": {
         "created_at": 1742983321,
-        "updated_at": 1743023381,
-        "updates": 4
+        "updated_at": 1749739340,
+        "updates": 6
     }
 }

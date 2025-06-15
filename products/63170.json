@@ -110,14 +110,24 @@
                 "timestamp": 1742983410
             },
             "bulk_price": {
-                "value": "9.88",
-                "previous": [],
-                "timestamp": 1742983410
+                "value": "9.38",
+                "previous": [
+                    {
+                        "value": "9.88",
+                        "timestamp": 1742983410
+                    }
+                ],
+                "timestamp": 1749739159
             },
             "unit_price": {
-                "value": "3.95",
-                "previous": [],
-                "timestamp": 1742983410
+                "value": "3.75",
+                "previous": [
+                    {
+                        "value": "3.95",
+                        "timestamp": 1742983410
+                    }
+                ],
+                "timestamp": 1749739159
             },
             "approx_size": {
                 "value": false,
@@ -165,9 +175,14 @@
                 "timestamp": 1742983410
             },
             "reference_price": {
-                "value": "9.875",
-                "previous": [],
-                "timestamp": 1742983410
+                "value": "9.375",
+                "previous": [
+                    {
+                        "value": "9.875",
+                        "timestamp": 1742983410
+                    }
+                ],
+                "timestamp": 1749739159
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -180,7 +195,7 @@
                 "timestamp": 1742983410
             },
             "previous_unit_price": {
-                "value": null,
+                "value": "        3.95",
                 "previous": [],
                 "timestamp": 1742983410
             },
@@ -196,7 +211,7 @@
             "timestamp": 1742983410
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/63170/varitas-merluza-empanadas-hacendado-ultracongeladas-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/63170\/varitas-merluza-empanadas-hacendado-ultracongeladas-paquete",
             "previous": [],
             "timestamp": 1742983410
         },
@@ -211,7 +226,7 @@
             "timestamp": 1742983410
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/fbdf0c98ef14c40886949d2fd5cc22fc.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/fbdf0c98ef14c40886949d2fd5cc22fc.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983410
         },
@@ -223,7 +238,7 @@
     },
     "stats": {
         "created_at": 1742983410,
-        "updated_at": 1743023355,
-        "updates": 4
+        "updated_at": 1749739304,
+        "updates": 6
     }
 }

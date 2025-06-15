@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Comida perro sénior esterilizados Supreme Compy pollo fresco con frutas y verduras",
+            "value": "Comida perro s\u00e9nior esterilizados Supreme Compy pollo fresco con frutas y verduras",
             "previous": [],
             "timestamp": 1742983510
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983510
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/23171/comida-perro-senior-esterilizados-supreme-compy-pollo-fresco-con-frutas-verduras-razas-pequenas-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/23171\/comida-perro-senior-esterilizados-supreme-compy-pollo-fresco-con-frutas-verduras-razas-pequenas-paquete",
             "previous": [],
             "timestamp": 1742983510
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983510
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/13fce346978da5bba7251fc4d7dd61ab.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/13fce346978da5bba7251fc4d7dd61ab.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983510
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983510,
-        "updated_at": 1743023363,
-        "updates": 2
+        "updated_at": 1749739315,
+        "updates": 3
     }
 }

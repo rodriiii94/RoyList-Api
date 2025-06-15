@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Maquinillas depilación desechables Gillette Venus Colors 3 hojas",
+            "value": "Maquinillas depilaci\u00f3n desechables Gillette Venus Colors 3 hojas",
             "previous": [],
             "timestamp": 1742983437
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983437
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/67616/maquinillas-depilacion-desechables-gillette-venus-colors-3-hojas-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/67616\/maquinillas-depilacion-desechables-gillette-venus-colors-3-hojas-paquete",
             "previous": [],
             "timestamp": 1742983437
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983437
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/b84432abd43965c0ec17619d39731e36.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/b84432abd43965c0ec17619d39731e36.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983437
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983437,
-        "updated_at": 1743023282,
-        "updates": 2
+        "updated_at": 1749739202,
+        "updates": 3
     }
 }

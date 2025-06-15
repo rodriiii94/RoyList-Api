@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739358
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739358
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 11,
+                    "previous": [],
+                    "timestamp": 1749739358
+                },
+                "name": {
+                    "value": "Postres y yogures",
+                    "previous": [],
+                    "timestamp": 1749739358
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739358
+                },
+                "order": {
+                    "value": 597,
+                    "previous": [],
+                    "timestamp": 1749739358
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Mousse sabor chocolate +Prote\u00ednas Hacendado 10 g prote\u00ednas",
+            "previous": [],
+            "timestamp": 1749739358
+        },
+        "id": {
+            "value": "9905",
+            "previous": [],
+            "timestamp": 1749739358
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739358
+        },
+        "packaging": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739358
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1749739358
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739358
+            },
+            "is_pack": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739358
+            },
+            "pack_size": {
+                "value": 0.1,
+                "previous": [],
+                "timestamp": 1749739358
+            },
+            "unit_name": {
+                "value": "ud.",
+                "previous": [],
+                "timestamp": 1749739358
+            },
+            "unit_size": {
+                "value": 0.4,
+                "previous": [],
+                "timestamp": 1749739358
+            },
+            "bulk_price": {
+                "value": "6.25",
+                "previous": [],
+                "timestamp": 1749739358
+            },
+            "unit_price": {
+                "value": "2.50",
+                "previous": [],
+                "timestamp": 1749739358
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739358
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1749739358
+            },
+            "total_units": {
+                "value": 4,
+                "previous": [],
+                "timestamp": 1749739358
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739358
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739358
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739358
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739358
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1749739358
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739358
+            },
+            "reference_price": {
+                "value": "6.250",
+                "previous": [],
+                "timestamp": 1749739358
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739358
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1749739358
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739358
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739358
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739358
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/9905\/mousse-sabor-chocolate-proteinas-hacendado-10-g-proteinas",
+            "previous": [],
+            "timestamp": 1749739358
+        },
+        "slug": {
+            "value": "mousse-sabor-chocolate-proteinas-hacendado-10-g-proteinas",
+            "previous": [],
+            "timestamp": 1749739358
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739358
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/233cc1cd2532cdcd4a80f0e832c5d458.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739358
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739358
+        }
+    },
+    "stats": {
+        "created_at": 1749739358,
+        "updated_at": 1749739358,
+        "updates": 1
+    }
+}

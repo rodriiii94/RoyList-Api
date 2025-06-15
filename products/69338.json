@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Calabacín verde",
+            "value": "Calabac\u00edn verde",
             "previous": [],
             "timestamp": 1742983459
         },
@@ -83,14 +83,18 @@
                 "timestamp": 1742983459
             },
             "unit_size": {
-                "value": 0.39,
+                "value": 0.45,
                 "previous": [
                     {
                         "value": 0.4,
                         "timestamp": 1742983459
+                    },
+                    {
+                        "value": 0.39,
+                        "timestamp": 1743023307
                     }
                 ],
-                "timestamp": 1743023307
+                "timestamp": 1749739239
             },
             "bulk_price": {
                 "value": "1.75",
@@ -98,14 +102,18 @@
                 "timestamp": 1742983459
             },
             "unit_price": {
-                "value": "0.68",
+                "value": "0.79",
                 "previous": [
                     {
                         "value": "0.70",
                         "timestamp": 1742983459
+                    },
+                    {
+                        "value": "0.68",
+                        "timestamp": 1743023307
                     }
                 ],
-                "timestamp": 1743023307
+                "timestamp": 1749739239
             },
             "approx_size": {
                 "value": true,
@@ -184,7 +192,7 @@
             "timestamp": 1742983459
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/69338/calabacin-verde-pieza",
+            "value": "https:\/\/tienda.mercadona.es\/product\/69338\/calabacin-verde-pieza",
             "previous": [],
             "timestamp": 1742983459
         },
@@ -199,7 +207,7 @@
             "timestamp": 1742983459
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/ebbfb6a904fe02ba5a88b02f2be911fd.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/ebbfb6a904fe02ba5a88b02f2be911fd.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983459
         },
@@ -211,7 +219,7 @@
     },
     "stats": {
         "created_at": 1742983459,
-        "updated_at": 1743023307,
-        "updates": 2
+        "updated_at": 1749739239,
+        "updates": 3
     }
 }

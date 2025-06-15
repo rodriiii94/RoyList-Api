@@ -88,14 +88,24 @@
                 "timestamp": 1742983465
             },
             "bulk_price": {
-                "value": "7.00",
-                "previous": [],
-                "timestamp": 1742983465
+                "value": "6.60",
+                "previous": [
+                    {
+                        "value": "7.00",
+                        "timestamp": 1742983465
+                    }
+                ],
+                "timestamp": 1749739250
             },
             "unit_price": {
-                "value": "1.75",
-                "previous": [],
-                "timestamp": 1742983465
+                "value": "1.65",
+                "previous": [
+                    {
+                        "value": "1.75",
+                        "timestamp": 1742983465
+                    }
+                ],
+                "timestamp": 1749739250
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983465
             },
             "reference_price": {
-                "value": "7.000",
-                "previous": [],
-                "timestamp": 1742983465
+                "value": "6.600",
+                "previous": [
+                    {
+                        "value": "7.000",
+                        "timestamp": 1742983465
+                    }
+                ],
+                "timestamp": 1749739250
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -158,7 +173,7 @@
                 "timestamp": 1742983465
             },
             "previous_unit_price": {
-                "value": null,
+                "value": "        1.75",
                 "previous": [],
                 "timestamp": 1742983465
             },
@@ -174,7 +189,7 @@
             "timestamp": 1742983465
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/13598/nata-montada-azucarada-hacendado-spray",
+            "value": "https:\/\/tienda.mercadona.es\/product\/13598\/nata-montada-azucarada-hacendado-spray",
             "previous": [],
             "timestamp": 1742983465
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983465
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/892e7e611df692289b064ebcf2a8c806.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/892e7e611df692289b064ebcf2a8c806.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983465
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983465,
-        "updated_at": 1743023314,
-        "updates": 2
+        "updated_at": 1749739250,
+        "updates": 3
     }
 }

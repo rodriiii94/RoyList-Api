@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Desodorante stick original Tulipán Negro",
+            "value": "Desodorante stick original Tulip\u00e1n Negro",
             "previous": [],
             "timestamp": 1742983439
         },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983439
             },
             "bulk_price": {
-                "value": "27.50",
-                "previous": [],
-                "timestamp": 1742983439
+                "value": "29.00",
+                "previous": [
+                    {
+                        "value": "27.50",
+                        "timestamp": 1742983439
+                    }
+                ],
+                "timestamp": 1749739204
             },
             "unit_price": {
-                "value": "2.75",
-                "previous": [],
-                "timestamp": 1742983439
+                "value": "2.90",
+                "previous": [
+                    {
+                        "value": "2.75",
+                        "timestamp": 1742983439
+                    }
+                ],
+                "timestamp": 1749739204
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983439
             },
             "reference_price": {
-                "value": "2.750",
-                "previous": [],
-                "timestamp": 1742983439
+                "value": "2.900",
+                "previous": [
+                    {
+                        "value": "2.750",
+                        "timestamp": 1742983439
+                    }
+                ],
+                "timestamp": 1749739204
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983439
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/46087/desodorante-stick-original-tulipan-negro-0-parabenos-sales-aluminio",
+            "value": "https:\/\/tienda.mercadona.es\/product\/46087\/desodorante-stick-original-tulipan-negro-0-parabenos-sales-aluminio",
             "previous": [],
             "timestamp": 1742983439
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983439
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/c3348efe5c8c27cd5853c76a216387a1.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/c3348efe5c8c27cd5853c76a216387a1.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983439
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983439,
-        "updated_at": 1743023283,
-        "updates": 2
+        "updated_at": 1749739204,
+        "updates": 3
     }
 }

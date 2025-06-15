@@ -196,7 +196,7 @@
             "timestamp": 1742983408
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/63597/pizzas-tomate-queso-hacendado-ultracongeladas-pack-2",
+            "value": "https:\/\/tienda.mercadona.es\/product\/63597\/pizzas-tomate-queso-hacendado-ultracongeladas-pack-2",
             "previous": [],
             "timestamp": 1742983408
         },
@@ -211,7 +211,7 @@
             "timestamp": 1742983408
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/f0436f96ce14469e9de949a925ce4586.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/f0436f96ce14469e9de949a925ce4586.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983408
         },
@@ -223,7 +223,7 @@
     },
     "stats": {
         "created_at": 1742983408,
-        "updated_at": 1743023385,
-        "updates": 4
+        "updated_at": 1749739345,
+        "updates": 6
     }
 }

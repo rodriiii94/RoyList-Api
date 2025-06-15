@@ -83,9 +83,14 @@
                 "timestamp": 1742983505
             },
             "unit_size": {
-                "value": 0.35,
-                "previous": [],
-                "timestamp": 1742983505
+                "value": 0.29,
+                "previous": [
+                    {
+                        "value": 0.35,
+                        "timestamp": 1742983505
+                    }
+                ],
+                "timestamp": 1749739308
             },
             "bulk_price": {
                 "value": "18.65",
@@ -93,9 +98,14 @@
                 "timestamp": 1742983505
             },
             "unit_price": {
-                "value": "6.53",
-                "previous": [],
-                "timestamp": 1742983505
+                "value": "5.41",
+                "previous": [
+                    {
+                        "value": "6.53",
+                        "timestamp": 1742983505
+                    }
+                ],
+                "timestamp": 1749739308
             },
             "approx_size": {
                 "value": true,
@@ -174,7 +184,7 @@
             "timestamp": 1742983505
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/87185/gallo-limpio-norte-bandeja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/87185\/gallo-limpio-norte-bandeja",
             "previous": [],
             "timestamp": 1742983505
         },
@@ -189,7 +199,7 @@
             "timestamp": 1742983505
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/14b434c37773cdd9d63e6e0c85221919.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/14b434c37773cdd9d63e6e0c85221919.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983505
         },
@@ -201,7 +211,7 @@
     },
     "stats": {
         "created_at": 1742983505,
-        "updated_at": 1743023357,
-        "updates": 2
+        "updated_at": 1749739308,
+        "updates": 3
     }
 }

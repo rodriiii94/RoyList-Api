@@ -174,7 +174,7 @@
             "timestamp": 1742983433
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/79217/aceite-corporal-aloe-vera-deliplus-bote",
+            "value": "https:\/\/tienda.mercadona.es\/product\/79217\/aceite-corporal-aloe-vera-deliplus-bote",
             "previous": [],
             "timestamp": 1742983433
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983433
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/cff7c434a56bbc5fea5a9a2ace6da61c.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/cff7c434a56bbc5fea5a9a2ace6da61c.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983433
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983433,
-        "updated_at": 1743023276,
-        "updates": 2
+        "updated_at": 1749739195,
+        "updates": 3
     }
 }

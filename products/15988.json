@@ -88,14 +88,24 @@
                 "timestamp": 1742983318
             },
             "bulk_price": {
-                "value": "1.14",
-                "previous": [],
-                "timestamp": 1742983318
+                "value": "1.18",
+                "previous": [
+                    {
+                        "value": "1.14",
+                        "timestamp": 1742983318
+                    }
+                ],
+                "timestamp": 1749739026
             },
             "unit_price": {
-                "value": "1.50",
-                "previous": [],
-                "timestamp": 1742983318
+                "value": "1.56",
+                "previous": [
+                    {
+                        "value": "1.50",
+                        "timestamp": 1742983318
+                    }
+                ],
+                "timestamp": 1749739026
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983318
             },
             "reference_price": {
-                "value": "1.137",
-                "previous": [],
-                "timestamp": 1742983318
+                "value": "1.182",
+                "previous": [
+                    {
+                        "value": "1.137",
+                        "timestamp": 1742983318
+                    }
+                ],
+                "timestamp": 1749739026
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983318
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/15988/limonada-hacendado-light-sin-gas-pack-4",
+            "value": "https:\/\/tienda.mercadona.es\/product\/15988\/limonada-hacendado-light-sin-gas-pack-4",
             "previous": [],
             "timestamp": 1742983318
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983318
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/90dfe4e3ab4becac0cbd7920d3b9a3fd.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/90dfe4e3ab4becac0cbd7920d3b9a3fd.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983318
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983318,
-        "updated_at": 1743023144,
-        "updates": 2
+        "updated_at": 1749739026,
+        "updates": 3
     }
 }

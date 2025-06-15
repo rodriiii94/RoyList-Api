@@ -37,9 +37,14 @@
             }
         ],
         "display_name": {
-            "value": "Brillo de labios Volumizer gloss Deliplus 03 pink nude",
-            "previous": [],
-            "timestamp": 1742983494
+            "value": "Brillo de labios Volumizer gloss Deliplus 03 nude rosa",
+            "previous": [
+                {
+                    "value": "Brillo de labios Volumizer gloss Deliplus 03 pink nude",
+                    "timestamp": 1742983494
+                }
+            ],
+            "timestamp": 1749739292
         },
         "id": {
             "value": "35379",
@@ -88,14 +93,24 @@
                 "timestamp": 1742983494
             },
             "bulk_price": {
-                "value": "4.50",
-                "previous": [],
-                "timestamp": 1742983494
+                "value": "5.00",
+                "previous": [
+                    {
+                        "value": "4.50",
+                        "timestamp": 1742983494
+                    }
+                ],
+                "timestamp": 1749739292
             },
             "unit_price": {
-                "value": "4.50",
-                "previous": [],
-                "timestamp": 1742983494
+                "value": "5.00",
+                "previous": [
+                    {
+                        "value": "4.50",
+                        "timestamp": 1742983494
+                    }
+                ],
+                "timestamp": 1749739292
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +158,14 @@
                 "timestamp": 1742983494
             },
             "reference_price": {
-                "value": "4.500",
-                "previous": [],
-                "timestamp": 1742983494
+                "value": "5.000",
+                "previous": [
+                    {
+                        "value": "4.500",
+                        "timestamp": 1742983494
+                    }
+                ],
+                "timestamp": 1749739292
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +194,7 @@
             "timestamp": 1742983494
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/35379/brillo-labios-volumizer-gloss-deliplus-03-pink-nude",
+            "value": "https:\/\/tienda.mercadona.es\/product\/35379\/brillo-labios-volumizer-gloss-deliplus-03-pink-nude",
             "previous": [],
             "timestamp": 1742983494
         },
@@ -189,7 +209,7 @@
             "timestamp": 1742983494
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/df28fa6757443aaeebd5359540663669.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/df28fa6757443aaeebd5359540663669.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983494
         },
@@ -201,7 +221,7 @@
     },
     "stats": {
         "created_at": 1742983494,
-        "updated_at": 1743023347,
-        "updates": 2
+        "updated_at": 1749739292,
+        "updates": 3
     }
 }

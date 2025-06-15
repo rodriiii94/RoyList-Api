@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Bicarbonato de sódio Hacendado",
+            "value": "Bicarbonato de s\u00f3dio Hacendado",
             "previous": [],
             "timestamp": 1742983305
         },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983305
             },
             "bulk_price": {
-                "value": "1.50",
-                "previous": [],
-                "timestamp": 1742983305
+                "value": "1.45",
+                "previous": [
+                    {
+                        "value": "1.50",
+                        "timestamp": 1742983305
+                    }
+                ],
+                "timestamp": 1749739004
             },
             "unit_price": {
-                "value": "1.50",
-                "previous": [],
-                "timestamp": 1742983305
+                "value": "1.45",
+                "previous": [
+                    {
+                        "value": "1.50",
+                        "timestamp": 1742983305
+                    }
+                ],
+                "timestamp": 1749739004
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983305
             },
             "reference_price": {
-                "value": "1.500",
-                "previous": [],
-                "timestamp": 1742983305
+                "value": "1.450",
+                "previous": [
+                    {
+                        "value": "1.500",
+                        "timestamp": 1742983305
+                    }
+                ],
+                "timestamp": 1749739004
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983305
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/29007/bicarbonato-sodico-hacendado-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/29007\/bicarbonato-sodico-hacendado-paquete",
             "previous": [],
             "timestamp": 1742983305
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983305
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/5ae57e0348cf657e21ffa47ad36ea448.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/5ae57e0348cf657e21ffa47ad36ea448.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983305
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983305,
-        "updated_at": 1743023127,
-        "updates": 2
+        "updated_at": 1749739004,
+        "updates": 3
     }
 }

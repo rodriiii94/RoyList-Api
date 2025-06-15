@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Medio melón piel de sapo",
+            "value": "Medio mel\u00f3n piel de sapo",
             "previous": [],
             "timestamp": 1742983455
         },
@@ -52,7 +52,7 @@
             "timestamp": 1742983455
         },
         "packaging": {
-            "value": "1/2 Pieza",
+            "value": "1\/2 Pieza",
             "previous": [],
             "timestamp": 1742983455
         },
@@ -83,19 +83,34 @@
                 "timestamp": 1742983455
             },
             "unit_size": {
-                "value": 1.57,
-                "previous": [],
-                "timestamp": 1742983455
+                "value": 1.44,
+                "previous": [
+                    {
+                        "value": 1.57,
+                        "timestamp": 1742983455
+                    }
+                ],
+                "timestamp": 1749739232
             },
             "bulk_price": {
-                "value": "2.35",
-                "previous": [],
-                "timestamp": 1742983455
+                "value": "2.10",
+                "previous": [
+                    {
+                        "value": "2.35",
+                        "timestamp": 1742983455
+                    }
+                ],
+                "timestamp": 1749739232
             },
             "unit_price": {
-                "value": "3.69",
-                "previous": [],
-                "timestamp": 1742983455
+                "value": "3.02",
+                "previous": [
+                    {
+                        "value": "3.69",
+                        "timestamp": 1742983455
+                    }
+                ],
+                "timestamp": 1749739232
             },
             "approx_size": {
                 "value": true,
@@ -143,9 +158,14 @@
                 "timestamp": 1742983455
             },
             "reference_price": {
-                "value": "2.350",
-                "previous": [],
-                "timestamp": 1742983455
+                "value": "2.100",
+                "previous": [
+                    {
+                        "value": "2.350",
+                        "timestamp": 1742983455
+                    }
+                ],
+                "timestamp": 1749739232
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +194,7 @@
             "timestamp": 1742983455
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/30200/medio-melon-piel-sapo-12-pieza",
+            "value": "https:\/\/tienda.mercadona.es\/product\/30200\/medio-melon-piel-sapo-12-pieza",
             "previous": [],
             "timestamp": 1742983455
         },
@@ -189,7 +209,7 @@
             "timestamp": 1742983455
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/3022ff8aa96d13f4d814dec4f06b8b4c.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/3022ff8aa96d13f4d814dec4f06b8b4c.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983455
         },
@@ -201,7 +221,7 @@
     },
     "stats": {
         "created_at": 1742983455,
-        "updated_at": 1743023302,
-        "updates": 2
+        "updated_at": 1749739232,
+        "updates": 3
     }
 }

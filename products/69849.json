@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Ensalada César",
+            "value": "Ensalada C\u00e9sar",
             "previous": [],
             "timestamp": 1742983457
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983457
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/69849/ensalada-cesar-compuesta-hortalizas-frescas-pollo-queso-picatostes-salsas-incluye-tenedor-bol",
+            "value": "https:\/\/tienda.mercadona.es\/product\/69849\/ensalada-cesar-compuesta-hortalizas-frescas-pollo-queso-picatostes-salsas-incluye-tenedor-bol",
             "previous": [],
             "timestamp": 1742983457
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983457
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/597843305ea1cf87107a3c1a4d0ec78b.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983457
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/458885d68d0da9b9d21151044a21c493.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/597843305ea1cf87107a3c1a4d0ec78b.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983457
+                }
+            ],
+            "timestamp": 1749739235
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983457,
-        "updated_at": 1743023305,
-        "updates": 2
+        "updated_at": 1749739235,
+        "updates": 3
     }
 }

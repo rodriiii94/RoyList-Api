@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739210
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739210
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 20,
+                    "previous": [],
+                    "timestamp": 1749739210
+                },
+                "name": {
+                    "value": "Cuidado facial y corporal",
+                    "previous": [],
+                    "timestamp": 1749739210
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739210
+                },
+                "order": {
+                    "value": 241,
+                    "previous": [],
+                    "timestamp": 1749739210
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Dent\u00edfrico Enc\u00edas Protect Deliplus",
+            "previous": [],
+            "timestamp": 1749739210
+        },
+        "id": {
+            "value": "12901",
+            "previous": [],
+            "timestamp": 1749739210
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739210
+        },
+        "packaging": {
+            "value": "Tubo",
+            "previous": [],
+            "timestamp": 1749739210
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1749739210
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739210
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739210
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739210
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739210
+            },
+            "unit_size": {
+                "value": 0.1,
+                "previous": [],
+                "timestamp": 1749739210
+            },
+            "bulk_price": {
+                "value": "17.00",
+                "previous": [],
+                "timestamp": 1749739210
+            },
+            "unit_price": {
+                "value": "1.70",
+                "previous": [],
+                "timestamp": 1749739210
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739210
+            },
+            "size_format": {
+                "value": "l",
+                "previous": [],
+                "timestamp": 1749739210
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739210
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739210
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739210
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739210
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739210
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1749739210
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739210
+            },
+            "reference_price": {
+                "value": "1.700",
+                "previous": [],
+                "timestamp": 1749739210
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739210
+            },
+            "reference_format": {
+                "value": "100 ml",
+                "previous": [],
+                "timestamp": 1749739210
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739210
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739210
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739210
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/12901\/dentifrico-encias-protect-deliplus-tubo",
+            "previous": [],
+            "timestamp": 1749739210
+        },
+        "slug": {
+            "value": "dentifrico-encias-protect-deliplus-tubo",
+            "previous": [],
+            "timestamp": 1749739210
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739210
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/763a9d053d8a53a0cdb481639f37b511.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739210
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739210
+        }
+    },
+    "stats": {
+        "created_at": 1749739210,
+        "updated_at": 1749739210,
+        "updates": 1
+    }
+}

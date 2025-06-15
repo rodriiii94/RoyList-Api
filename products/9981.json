@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Bebida láctea natural azucarada Hacendado",
+            "value": "Bebida l\u00e1ctea natural azucarada Hacendado",
             "previous": [],
             "timestamp": 1742983547
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983547
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/9981/bebida-lactea-natural-azucarada-hacendado-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/9981\/bebida-lactea-natural-azucarada-hacendado-botella",
             "previous": [],
             "timestamp": 1742983547
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983547
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/8761b9c14379e95faf67971a4d59eed4.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/8761b9c14379e95faf67971a4d59eed4.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983547
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983547,
-        "updated_at": 1743023400,
-        "updates": 2
+        "updated_at": 1749739365,
+        "updates": 3
     }
 }

@@ -83,29 +83,42 @@
                 "timestamp": 1742983459
             },
             "unit_size": {
-                "value": 0.49,
+                "value": 0.45,
                 "previous": [
                     {
                         "value": 0.5,
                         "timestamp": 1742983459
+                    },
+                    {
+                        "value": 0.49,
+                        "timestamp": 1743023307
                     }
                 ],
-                "timestamp": 1743023307
+                "timestamp": 1749739238
             },
             "bulk_price": {
-                "value": "3.44",
-                "previous": [],
-                "timestamp": 1742983459
+                "value": "3.30",
+                "previous": [
+                    {
+                        "value": "3.44",
+                        "timestamp": 1742983459
+                    }
+                ],
+                "timestamp": 1749739238
             },
             "unit_price": {
-                "value": "1.69",
+                "value": "1.49",
                 "previous": [
                     {
                         "value": "1.72",
                         "timestamp": 1742983459
+                    },
+                    {
+                        "value": "1.69",
+                        "timestamp": 1743023307
                     }
                 ],
-                "timestamp": 1743023307
+                "timestamp": 1749739238
             },
             "approx_size": {
                 "value": true,
@@ -153,9 +166,14 @@
                 "timestamp": 1742983459
             },
             "reference_price": {
-                "value": "3.440",
-                "previous": [],
-                "timestamp": 1742983459
+                "value": "3.300",
+                "previous": [
+                    {
+                        "value": "3.440",
+                        "timestamp": 1742983459
+                    }
+                ],
+                "timestamp": 1749739238
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -184,7 +202,7 @@
             "timestamp": 1742983459
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/69444/tomate-rosa-pieza",
+            "value": "https:\/\/tienda.mercadona.es\/product\/69444\/tomate-rosa-pieza",
             "previous": [],
             "timestamp": 1742983459
         },
@@ -199,7 +217,7 @@
             "timestamp": 1742983459
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/16059afe6d120af69436af7868b13de6.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/16059afe6d120af69436af7868b13de6.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983459
         },
@@ -211,7 +229,7 @@
     },
     "stats": {
         "created_at": 1742983459,
-        "updated_at": 1743023307,
-        "updates": 2
+        "updated_at": 1749739238,
+        "updates": 3
     }
 }

@@ -88,14 +88,24 @@
                 "timestamp": 1742983346
             },
             "bulk_price": {
-                "value": "9.29",
-                "previous": [],
-                "timestamp": 1742983346
+                "value": "8.57",
+                "previous": [
+                    {
+                        "value": "9.29",
+                        "timestamp": 1742983346
+                    }
+                ],
+                "timestamp": 1749739070
             },
             "unit_price": {
-                "value": "6.50",
-                "previous": [],
-                "timestamp": 1742983346
+                "value": "6.00",
+                "previous": [
+                    {
+                        "value": "6.50",
+                        "timestamp": 1742983346
+                    }
+                ],
+                "timestamp": 1749739070
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983346
             },
             "reference_price": {
-                "value": "9.286",
-                "previous": [],
-                "timestamp": 1742983346
+                "value": "8.572",
+                "previous": [
+                    {
+                        "value": "9.286",
+                        "timestamp": 1742983346
+                    }
+                ],
+                "timestamp": 1749739070
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983346
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/22614/licor-crema-fresa-royal-swan-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/22614\/licor-crema-fresa-royal-swan-botella",
             "previous": [],
             "timestamp": 1742983346
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983346
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/607984889d7b0eec6eaea2009f4a6645.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/607984889d7b0eec6eaea2009f4a6645.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983346
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983346,
-        "updated_at": 1743023179,
-        "updates": 2
+        "updated_at": 1749739070,
+        "updates": 3
     }
 }

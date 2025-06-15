@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Guantes de látex Bosque Verde talla mediana-grande",
+            "value": "Guantes de l\u00e1tex Bosque Verde talla mediana-grande",
             "previous": [],
             "timestamp": 1742983468
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983468
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/71202/guantes-latex-bosque-verde-talla-mediana-grande-desachables-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/71202\/guantes-latex-bosque-verde-talla-mediana-grande-desachables-caja",
             "previous": [],
             "timestamp": 1742983468
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983468
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/294d7a8e57d069a44b086fc11b64dd9a.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/294d7a8e57d069a44b086fc11b64dd9a.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983468
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983468,
-        "updated_at": 1743023319,
-        "updates": 2
+        "updated_at": 1749739255,
+        "updates": 3
     }
 }

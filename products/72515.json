@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Recambio antihumedad con aromas cítricos Bosque Verde",
+            "value": "Recambio antihumedad con aromas c\u00edtricos Bosque Verde",
             "previous": [],
             "timestamp": 1742983471
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983471
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/72515/recambio-antihumedad-con-aromas-citricos-bosque-verde-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/72515\/recambio-antihumedad-con-aromas-citricos-bosque-verde-caja",
             "previous": [],
             "timestamp": 1742983471
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983471
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/ee6740f72af8accbbc6164c27f3cb762.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/ee6740f72af8accbbc6164c27f3cb762.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983471
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983471,
-        "updated_at": 1743023321,
-        "updates": 2
+        "updated_at": 1749739259,
+        "updates": 3
     }
 }

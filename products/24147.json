@@ -59,7 +59,7 @@
             }
         ],
         "display_name": {
-            "value": "Gambón congelado",
+            "value": "Gamb\u00f3n congelado",
             "previous": [],
             "timestamp": 1742983405
         },
@@ -110,14 +110,24 @@
                 "timestamp": 1742983405
             },
             "bulk_price": {
-                "value": "9.50",
-                "previous": [],
-                "timestamp": 1742983405
+                "value": "10.95",
+                "previous": [
+                    {
+                        "value": "9.50",
+                        "timestamp": 1742983405
+                    }
+                ],
+                "timestamp": 1749739152
             },
             "unit_price": {
-                "value": "940.50",
-                "previous": [],
-                "timestamp": 1742983405
+                "value": "1084.05",
+                "previous": [
+                    {
+                        "value": "940.50",
+                        "timestamp": 1742983405
+                    }
+                ],
+                "timestamp": 1749739152
             },
             "approx_size": {
                 "value": true,
@@ -165,9 +175,14 @@
                 "timestamp": 1742983405
             },
             "reference_price": {
-                "value": "9.500",
-                "previous": [],
-                "timestamp": 1742983405
+                "value": "10.950",
+                "previous": [
+                    {
+                        "value": "9.500",
+                        "timestamp": 1742983405
+                    }
+                ],
+                "timestamp": 1749739152
             },
             "min_bunch_amount": {
                 "value": 0.15,
@@ -196,7 +211,7 @@
             "timestamp": 1742983405
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/24147/gambon-congelado-granel",
+            "value": "https:\/\/tienda.mercadona.es\/product\/24147\/gambon-congelado-granel",
             "previous": [],
             "timestamp": 1742983405
         },
@@ -211,7 +226,7 @@
             "timestamp": 1742983405
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/8a6cce24488444736497d91a7a5ec404.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/8a6cce24488444736497d91a7a5ec404.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983405
         },
@@ -223,7 +238,7 @@
     },
     "stats": {
         "created_at": 1742983405,
-        "updated_at": 1743023352,
-        "updates": 4
+        "updated_at": 1749739299,
+        "updates": 6
     }
 }

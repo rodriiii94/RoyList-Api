@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Champú Natural Deliplus todo tipo de cabello",
+            "value": "Champ\u00fa Natural Deliplus todo tipo de cabello",
             "previous": [],
             "timestamp": 1742983426
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983426
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/44335/champu-natural-deliplus-tipo-cabello-con-extracto-tilo-aceites-esenciales-salvia-cedro-97-origen-natural-bote",
+            "value": "https:\/\/tienda.mercadona.es\/product\/44335\/champu-natural-deliplus-tipo-cabello-con-extracto-tilo-aceites-esenciales-salvia-cedro-97-origen-natural-bote",
             "previous": [],
             "timestamp": 1742983426
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983426
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/e0ad86a39e5c601800fa370c8c092330.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983426
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/90a97212275e5b40dfb483a8b9e9aa31.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/e0ad86a39e5c601800fa370c8c092330.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983426
+                }
+            ],
+            "timestamp": 1749739182
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983426,
-        "updated_at": 1743023268,
-        "updates": 2
+        "updated_at": 1749739182,
+        "updates": 3
     }
 }

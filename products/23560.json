@@ -174,7 +174,7 @@
             "timestamp": 1742983415
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/23560/chipirones-rellenos-enteros-aceite-girasol-hacendado-lata",
+            "value": "https:\/\/tienda.mercadona.es\/product\/23560\/chipirones-rellenos-enteros-aceite-girasol-hacendado-lata",
             "previous": [],
             "timestamp": 1742983415
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983415
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/32e0c0696fccdd8b73eedad6da427e5d.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/32e0c0696fccdd8b73eedad6da427e5d.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983415
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983415,
-        "updated_at": 1743023256,
-        "updates": 2
+        "updated_at": 1749739166,
+        "updates": 3
     }
 }

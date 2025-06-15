@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Brócoli",
+            "value": "Br\u00f3coli",
             "previous": [],
             "timestamp": 1742983459
         },
@@ -83,14 +83,18 @@
                 "timestamp": 1742983459
             },
             "unit_size": {
-                "value": 0.5,
+                "value": 0.55,
                 "previous": [
                     {
                         "value": 0.51,
                         "timestamp": 1742983459
+                    },
+                    {
+                        "value": 0.5,
+                        "timestamp": 1743023308
                     }
                 ],
-                "timestamp": 1743023308
+                "timestamp": 1749739240
             },
             "bulk_price": {
                 "value": "2.60",
@@ -98,14 +102,18 @@
                 "timestamp": 1742983459
             },
             "unit_price": {
-                "value": "1.30",
+                "value": "1.43",
                 "previous": [
                     {
                         "value": "1.33",
                         "timestamp": 1742983459
+                    },
+                    {
+                        "value": "1.30",
+                        "timestamp": 1743023308
                     }
                 ],
-                "timestamp": 1743023308
+                "timestamp": 1749739240
             },
             "approx_size": {
                 "value": true,
@@ -184,7 +192,7 @@
             "timestamp": 1742983459
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/69580/brocoli-pieza",
+            "value": "https:\/\/tienda.mercadona.es\/product\/69580\/brocoli-pieza",
             "previous": [],
             "timestamp": 1742983459
         },
@@ -199,7 +207,7 @@
             "timestamp": 1742983459
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/2ef72b37fe1021e9ff4ea8f46f9204f8.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/2ef72b37fe1021e9ff4ea8f46f9204f8.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983459
         },
@@ -211,7 +219,7 @@
     },
     "stats": {
         "created_at": 1742983459,
-        "updated_at": 1743023308,
-        "updates": 2
+        "updated_at": 1749739240,
+        "updates": 3
     }
 }

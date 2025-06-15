@@ -174,7 +174,7 @@
             "timestamp": 1742983491
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/52611/maquillaje-fluido-lasting-finish-rimmel-london-203-true-beige-fps-20",
+            "value": "https:\/\/tienda.mercadona.es\/product\/52611\/maquillaje-fluido-lasting-finish-rimmel-london-203-true-beige-fps-20",
             "previous": [],
             "timestamp": 1742983491
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983491
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/86eb52605db0a0c161adbee2de8528d9.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/86eb52605db0a0c161adbee2de8528d9.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983491
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983491,
-        "updated_at": 1743023343,
-        "updates": 2
+        "updated_at": 1749739286,
+        "updates": 3
     }
 }

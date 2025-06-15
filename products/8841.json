@@ -174,7 +174,7 @@
             "timestamp": 1742983489
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/8841/escoba-interiores-bosque-verde",
+            "value": "https:\/\/tienda.mercadona.es\/product\/8841\/escoba-interiores-bosque-verde",
             "previous": [],
             "timestamp": 1742983489
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983489
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/0ea0855d7a41639ba27c273a9c78705d.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/0ea0855d7a41639ba27c273a9c78705d.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983489
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983489,
-        "updated_at": 1743023340,
-        "updates": 2
+        "updated_at": 1749739282,
+        "updates": 3
     }
 }

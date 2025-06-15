@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Snack gato aperitivo líquido Compy",
+            "value": "Snack gato aperitivo l\u00edquido Compy",
             "previous": [],
             "timestamp": 1742983509
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983509
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/52146/snack-gato-aperitivo-liquido-compy-contine-4-con-pollo-higado-4-con-salmon-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/52146\/snack-gato-aperitivo-liquido-compy-contine-4-con-pollo-higado-4-con-salmon-caja",
             "previous": [],
             "timestamp": 1742983509
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983509
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/ebbc6329728fedc5ca3c18bd2413db82.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/ebbc6329728fedc5ca3c18bd2413db82.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983509
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983509,
-        "updated_at": 1743023361,
-        "updates": 2
+        "updated_at": 1749739313,
+        "updates": 3
     }
 }

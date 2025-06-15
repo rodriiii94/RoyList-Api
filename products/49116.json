@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Fósforos de madera largos Tres Estrellas",
+            "value": "F\u00f3sforos de madera largos Tres Estrellas",
             "previous": [],
             "timestamp": 1742983484
         },
@@ -169,7 +169,7 @@
             "timestamp": 1742983484
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/49116/fosforos-madera-largos-tres-estrellas-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/49116\/fosforos-madera-largos-tres-estrellas-paquete",
             "previous": [],
             "timestamp": 1742983484
         },
@@ -184,7 +184,7 @@
             "timestamp": 1742983484
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/04e8d7d7df8142eb18b7cf5cff90dd76.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/04e8d7d7df8142eb18b7cf5cff90dd76.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983484
         },
@@ -196,7 +196,7 @@
     },
     "stats": {
         "created_at": 1742983484,
-        "updated_at": 1743023335,
-        "updates": 2
+        "updated_at": 1749739277,
+        "updates": 3
     }
 }

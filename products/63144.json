@@ -196,7 +196,7 @@
             "timestamp": 1742983410
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/63144/langostino-caballitos-rebozados-hacendado-ultracongelados-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/63144\/langostino-caballitos-rebozados-hacendado-ultracongelados-paquete",
             "previous": [],
             "timestamp": 1742983410
         },
@@ -211,7 +211,7 @@
             "timestamp": 1742983410
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/c1311c0c6d0ca23b106986ff1efa861d.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/c1311c0c6d0ca23b106986ff1efa861d.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983410
         },
@@ -223,7 +223,7 @@
     },
     "stats": {
         "created_at": 1742983410,
-        "updated_at": 1743023355,
-        "updates": 4
+        "updated_at": 1749739304,
+        "updates": 6
     }
 }

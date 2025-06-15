@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Sangría Casón Histórico",
+            "value": "Sangr\u00eda Cas\u00f3n Hist\u00f3rico",
             "previous": [],
             "timestamp": 1742983349
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983349
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/66922/sangria-cason-historico-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/66922\/sangria-cason-historico-botella",
             "previous": [],
             "timestamp": 1742983349
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983349
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/8d8213455286916924e653dfd0e40665.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/8d8213455286916924e653dfd0e40665.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983349
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983349,
-        "updated_at": 1743023182,
-        "updates": 2
+        "updated_at": 1749739073,
+        "updates": 3
     }
 }

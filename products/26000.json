@@ -88,14 +88,24 @@
                 "timestamp": 1742983325
             },
             "bulk_price": {
-                "value": "2.02",
-                "previous": [],
-                "timestamp": 1742983325
+                "value": "2.19",
+                "previous": [
+                    {
+                        "value": "2.02",
+                        "timestamp": 1742983325
+                    }
+                ],
+                "timestamp": 1749739038
             },
             "unit_price": {
-                "value": "1.15",
-                "previous": [],
-                "timestamp": 1742983325
+                "value": "1.25",
+                "previous": [
+                    {
+                        "value": "1.15",
+                        "timestamp": 1742983325
+                    }
+                ],
+                "timestamp": 1749739038
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983325
             },
             "reference_price": {
-                "value": "2.875",
-                "previous": [],
-                "timestamp": 1742983325
+                "value": "3.125",
+                "previous": [
+                    {
+                        "value": "2.875",
+                        "timestamp": 1742983325
+                    }
+                ],
+                "timestamp": 1749739038
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983325
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/26000/alubia-cocida-roja-hacendado-tarro",
+            "value": "https:\/\/tienda.mercadona.es\/product\/26000\/alubia-cocida-roja-hacendado-tarro",
             "previous": [],
             "timestamp": 1742983325
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983325
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/4ee8503d1f2364a37e069c720c8094a2.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/4ee8503d1f2364a37e069c720c8094a2.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983325
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983325,
-        "updated_at": 1743023154,
-        "updates": 2
+        "updated_at": 1749739038,
+        "updates": 3
     }
 }

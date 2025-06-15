@@ -20,7 +20,7 @@
                     "timestamp": 1742983521
                 },
                 "name": {
-                    "value": "Panadería y pastelería",
+                    "value": "Panader\u00eda y pasteler\u00eda",
                     "previous": [],
                     "timestamp": 1742983521
                 },
@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Pan de hamburguesa Hacendado Rústico 100% integral",
+            "value": "Pan de hamburguesa Hacendado R\u00fastico 100% integral",
             "previous": [],
             "timestamp": 1742983521
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983521
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/60251/pan-hamburguesa-hacendado-rustico-100-integral-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/60251\/pan-hamburguesa-hacendado-rustico-100-integral-paquete",
             "previous": [],
             "timestamp": 1742983521
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983521
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/34879362d8edbe89390733a68c46fac4.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/34879362d8edbe89390733a68c46fac4.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983521
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983521,
-        "updated_at": 1743023374,
-        "updates": 2
+        "updated_at": 1749739331,
+        "updates": 3
     }
 }

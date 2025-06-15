@@ -20,7 +20,7 @@
                     "timestamp": 1742983337
                 },
                 "name": {
-                    "value": "Bebé",
+                    "value": "Beb\u00e9",
                     "previous": [],
                     "timestamp": 1742983337
                 },
@@ -59,7 +59,7 @@
             }
         ],
         "display_name": {
-            "value": "Preparado lácteo con cacao y cereales crecimiento Hacendado +1 año",
+            "value": "Preparado l\u00e1cteo con cacao y cereales crecimiento Hacendado +1 a\u00f1o",
             "previous": [],
             "timestamp": 1742983337
         },
@@ -196,7 +196,7 @@
             "timestamp": 1742983337
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/9190/preparado-lacteo-con-cacao-cereales-crecimiento-hacendado-1-ano-pack-6",
+            "value": "https:\/\/tienda.mercadona.es\/product\/9190\/preparado-lacteo-con-cacao-cereales-crecimiento-hacendado-1-ano-pack-6",
             "previous": [],
             "timestamp": 1742983337
         },
@@ -211,9 +211,14 @@
             "timestamp": 1742983337
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/3b1d455a9dd1e2c1e0774e59eaad5cc9.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983337
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/ccaa0de750fd09bcb82870afb8b24430.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/3b1d455a9dd1e2c1e0774e59eaad5cc9.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983337
+                }
+            ],
+            "timestamp": 1749739056
         },
         "unavailable_from": {
             "value": null,
@@ -223,7 +228,7 @@
     },
     "stats": {
         "created_at": 1742983337,
-        "updated_at": 1743023313,
-        "updates": 4
+        "updated_at": 1749739248,
+        "updates": 6
     }
 }

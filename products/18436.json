@@ -174,7 +174,7 @@
             "timestamp": 1742983507
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/18436/filetes-sardina-ahumada-hacendado-aceite-girasol-bandeja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/18436\/filetes-sardina-ahumada-hacendado-aceite-girasol-bandeja",
             "previous": [],
             "timestamp": 1742983507
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983507
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/a75a57ee80854214331e926d99d31fc2.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983507
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/c6505f49247832835afcd3eddc8f0f2d.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/a75a57ee80854214331e926d99d31fc2.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983507
+                }
+            ],
+            "timestamp": 1749739310
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983507,
-        "updated_at": 1743023359,
-        "updates": 2
+        "updated_at": 1749739310,
+        "updates": 3
     }
 }

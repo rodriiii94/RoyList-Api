@@ -88,14 +88,24 @@
                 "timestamp": 1742983381
             },
             "bulk_price": {
-                "value": "10.31",
-                "previous": [],
-                "timestamp": 1742983381
+                "value": "8.75",
+                "previous": [
+                    {
+                        "value": "10.31",
+                        "timestamp": 1742983381
+                    }
+                ],
+                "timestamp": 1749739116
             },
             "unit_price": {
-                "value": "1.65",
-                "previous": [],
-                "timestamp": 1742983381
+                "value": "1.40",
+                "previous": [
+                    {
+                        "value": "1.65",
+                        "timestamp": 1742983381
+                    }
+                ],
+                "timestamp": 1749739116
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983381
             },
             "reference_price": {
-                "value": "10.313",
-                "previous": [],
-                "timestamp": 1742983381
+                "value": "8.750",
+                "previous": [
+                    {
+                        "value": "10.313",
+                        "timestamp": 1742983381
+                    }
+                ],
+                "timestamp": 1749739116
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983381
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/14030/galletas-mini-oreo-lu-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/14030\/galletas-mini-oreo-lu-caja",
             "previous": [],
             "timestamp": 1742983381
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983381
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/5f23108e1655a080e08563ce3ad4a5c4.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/5f23108e1655a080e08563ce3ad4a5c4.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983381
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983381,
-        "updated_at": 1743023217,
-        "updates": 2
+        "updated_at": 1749739116,
+        "updates": 3
     }
 }

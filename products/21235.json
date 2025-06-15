@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Lagrimitas de pollo al limón empanadas sin gluten",
+            "value": "Lagrimitas de pollo al lim\u00f3n empanadas sin gluten",
             "previous": [],
             "timestamp": 1742983366
         },
@@ -83,19 +83,34 @@
                 "timestamp": 1742983366
             },
             "unit_size": {
-                "value": 0.34,
-                "previous": [],
-                "timestamp": 1742983366
+                "value": 0.42,
+                "previous": [
+                    {
+                        "value": 0.34,
+                        "timestamp": 1742983366
+                    }
+                ],
+                "timestamp": 1749739097
             },
             "bulk_price": {
-                "value": "8.10",
-                "previous": [],
-                "timestamp": 1742983366
+                "value": "8.40",
+                "previous": [
+                    {
+                        "value": "8.10",
+                        "timestamp": 1742983366
+                    }
+                ],
+                "timestamp": 1749739097
             },
             "unit_price": {
-                "value": "2.75",
-                "previous": [],
-                "timestamp": 1742983366
+                "value": "3.53",
+                "previous": [
+                    {
+                        "value": "2.75",
+                        "timestamp": 1742983366
+                    }
+                ],
+                "timestamp": 1749739097
             },
             "approx_size": {
                 "value": true,
@@ -143,9 +158,14 @@
                 "timestamp": 1742983366
             },
             "reference_price": {
-                "value": "8.100",
-                "previous": [],
-                "timestamp": 1742983366
+                "value": "8.400",
+                "previous": [
+                    {
+                        "value": "8.100",
+                        "timestamp": 1742983366
+                    }
+                ],
+                "timestamp": 1749739097
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +194,7 @@
             "timestamp": 1742983366
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/21235/lagrimitas-pollo-limon-empanadas-sin-gluten-bandeja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/21235\/lagrimitas-pollo-limon-empanadas-sin-gluten-bandeja",
             "previous": [],
             "timestamp": 1742983366
         },
@@ -189,7 +209,7 @@
             "timestamp": 1742983366
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/cc866caf2be7307dd015da85a6e8709b.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/cc866caf2be7307dd015da85a6e8709b.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983366
         },
@@ -201,7 +221,7 @@
     },
     "stats": {
         "created_at": 1742983366,
-        "updated_at": 1743023213,
-        "updates": 4
+        "updated_at": 1749739111,
+        "updates": 6
     }
 }

@@ -174,7 +174,7 @@
             "timestamp": 1742983500
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/87292/langostino-cocido-vannamei-bandeja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/87292\/langostino-cocido-vannamei-bandeja",
             "previous": [],
             "timestamp": 1742983500
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983500
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/a75cf34399fe22a08af916da1bbaebf3.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/a75cf34399fe22a08af916da1bbaebf3.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983500
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983500,
-        "updated_at": 1743023353,
-        "updates": 2
+        "updated_at": 1749739300,
+        "updates": 3
     }
 }

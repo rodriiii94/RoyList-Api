@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Corta cutículas Deliplus",
+            "value": "Corta cut\u00edculas Deliplus",
             "previous": [],
             "timestamp": 1742983446
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983446
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/22528/corta-cuticulas-deliplus-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/22528\/corta-cuticulas-deliplus-paquete",
             "previous": [],
             "timestamp": 1742983446
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983446
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/f97e0179f4b281d815b4088def8af3ca.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983446
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/ccec9fd9836987aebdc2bd3b3724d0d9.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/f97e0179f4b281d815b4088def8af3ca.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983446
+                }
+            ],
+            "timestamp": 1749739217
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983446,
-        "updated_at": 1743023292,
-        "updates": 2
+        "updated_at": 1749739217,
+        "updates": 3
     }
 }

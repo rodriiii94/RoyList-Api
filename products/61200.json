@@ -174,7 +174,7 @@
             "timestamp": 1742983413
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/61200/guisante-muy-tierno-hacendado-ultracongelado-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/61200\/guisante-muy-tierno-hacendado-ultracongelado-paquete",
             "previous": [],
             "timestamp": 1742983413
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983413
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/110a733a4288e3cee3fa98822491ea5a.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/110a733a4288e3cee3fa98822491ea5a.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983413
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983413,
-        "updated_at": 1743023253,
-        "updates": 2
+        "updated_at": 1749739163,
+        "updates": 3
     }
 }

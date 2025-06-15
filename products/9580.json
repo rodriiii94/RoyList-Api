@@ -20,7 +20,7 @@
                     "timestamp": 1742983337
                 },
                 "name": {
-                    "value": "Bebé",
+                    "value": "Beb\u00e9",
                     "previous": [],
                     "timestamp": 1742983337
                 },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983337
             },
             "bulk_price": {
-                "value": "9.51",
-                "previous": [],
-                "timestamp": 1742983337
+                "value": "8.54",
+                "previous": [
+                    {
+                        "value": "9.51",
+                        "timestamp": 1742983337
+                    }
+                ],
+                "timestamp": 1749739056
             },
             "unit_price": {
-                "value": "3.90",
-                "previous": [],
-                "timestamp": 1742983337
+                "value": "3.50",
+                "previous": [
+                    {
+                        "value": "3.90",
+                        "timestamp": 1742983337
+                    }
+                ],
+                "timestamp": 1749739056
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983337
             },
             "reference_price": {
-                "value": "9.513",
-                "previous": [],
-                "timestamp": 1742983337
+                "value": "8.537",
+                "previous": [
+                    {
+                        "value": "9.513",
+                        "timestamp": 1742983337
+                    }
+                ],
+                "timestamp": 1749739056
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -158,7 +173,7 @@
                 "timestamp": 1742983337
             },
             "previous_unit_price": {
-                "value": null,
+                "value": "        3.90",
                 "previous": [],
                 "timestamp": 1742983337
             },
@@ -174,7 +189,7 @@
             "timestamp": 1742983337
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/9580/papilla-8-cereales-hero-baby-6-meses-0-azucares-anadidos-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/9580\/papilla-8-cereales-hero-baby-6-meses-0-azucares-anadidos-caja",
             "previous": [],
             "timestamp": 1742983337
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983337
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/133c26ee0d0c0605eae785e98793b7cf.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/133c26ee0d0c0605eae785e98793b7cf.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983337
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983337,
-        "updated_at": 1743023168,
-        "updates": 2
+        "updated_at": 1749739056,
+        "updates": 3
     }
 }

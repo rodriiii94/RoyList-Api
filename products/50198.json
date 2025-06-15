@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Sérum facial potenciador 12% silicio Deliplus Sisbela Reafirm",
+            "value": "S\u00e9rum facial potenciador 12% silicio Deliplus Sisbela Reafirm",
             "previous": [],
             "timestamp": 1742983435
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983435
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/50198/serum-facial-potenciador-12-silicio-deliplus-sisbela-reafirm-tipo-piel-frasco",
+            "value": "https:\/\/tienda.mercadona.es\/product\/50198\/serum-facial-potenciador-12-silicio-deliplus-sisbela-reafirm-tipo-piel-frasco",
             "previous": [],
             "timestamp": 1742983435
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983435
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/e278a92f6e64eab7a8b420e75b49ca48.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/e278a92f6e64eab7a8b420e75b49ca48.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983435
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983435,
-        "updated_at": 1743023279,
-        "updates": 2
+        "updated_at": 1749739200,
+        "updates": 3
     }
 }

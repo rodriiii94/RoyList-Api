@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Mejillones en salsa de vieira Hacendado pequeños",
+            "value": "Mejillones en salsa de vieira Hacendado peque\u00f1os",
             "previous": [],
             "timestamp": 1742983417
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983417
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/18622/mejillones-salsa-vieira-hacendado-pequenos-13-18-piezas-lata",
+            "value": "https:\/\/tienda.mercadona.es\/product\/18622\/mejillones-salsa-vieira-hacendado-pequenos-13-18-piezas-lata",
             "previous": [],
             "timestamp": 1742983417
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983417
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/091a1ad796b0be07ad15548343d12ea0.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/091a1ad796b0be07ad15548343d12ea0.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983417
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983417,
-        "updated_at": 1743023257,
-        "updates": 2
+        "updated_at": 1749739168,
+        "updates": 3
     }
 }

@@ -174,7 +174,7 @@
             "timestamp": 1742983474
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/43218/limpiacristales-multiusos-bosque-verde-con-pistola-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/43218\/limpiacristales-multiusos-bosque-verde-con-pistola-botella",
             "previous": [],
             "timestamp": 1742983474
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983474
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/106716e6d834c4e34c61b6eaf9799cae.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/106716e6d834c4e34c61b6eaf9799cae.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983474
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983474,
-        "updated_at": 1743023325,
-        "updates": 2
+        "updated_at": 1749739263,
+        "updates": 3
     }
 }

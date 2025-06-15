@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Postre lácteo sin lactosa natural Hacendado 0% m.g 0% azúcares añadidos",
+            "value": "Postre l\u00e1cteo sin lactosa natural Hacendado 0% m.g 0% az\u00facares a\u00f1adidos",
             "previous": [],
             "timestamp": 1742983544
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983544
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/20164/postre-lacteo-sin-lactosa-natural-hacendado-0-mg-0-azucares-anadidos-pack-4",
+            "value": "https:\/\/tienda.mercadona.es\/product\/20164\/postre-lacteo-sin-lactosa-natural-hacendado-0-mg-0-azucares-anadidos-pack-4",
             "previous": [],
             "timestamp": 1742983544
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983544
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/0d226d4379884475431e18647cf97f81.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/0d226d4379884475431e18647cf97f81.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983544
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983544,
-        "updated_at": 1743023397,
-        "updates": 2
+        "updated_at": 1749739361,
+        "updates": 3
     }
 }

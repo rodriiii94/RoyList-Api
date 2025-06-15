@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Tratamiento para uñas y cutículas Sérum SOS Deliplus",
+            "value": "Tratamiento para u\u00f1as y cut\u00edculas S\u00e9rum SOS Deliplus",
             "previous": [],
             "timestamp": 1742983446
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983446
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/35289/tratamiento-unas-cuticulas-serum-sos-deliplus",
+            "value": "https:\/\/tienda.mercadona.es\/product\/35289\/tratamiento-unas-cuticulas-serum-sos-deliplus",
             "previous": [],
             "timestamp": 1742983446
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983446
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/6fb66e16c1020831d154ac3a053ad8ce.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/6fb66e16c1020831d154ac3a053ad8ce.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983446
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983446,
-        "updated_at": 1743023292,
-        "updates": 2
+        "updated_at": 1749739216,
+        "updates": 3
     }
 }

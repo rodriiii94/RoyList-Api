@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Sérum facial reparador Micro Cápsulas Deliplus",
+            "value": "S\u00e9rum facial reparador Micro C\u00e1psulas Deliplus",
             "previous": [],
             "timestamp": 1742983435
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983435
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/52820/serum-facial-reparador-micro-capsulas-deliplus-tipo-pieles-frasco",
+            "value": "https:\/\/tienda.mercadona.es\/product\/52820\/serum-facial-reparador-micro-capsulas-deliplus-tipo-pieles-frasco",
             "previous": [],
             "timestamp": 1742983435
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983435
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/310cab44afd1f3a15cbf7615c8c625b5.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/310cab44afd1f3a15cbf7615c8c625b5.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983435
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983435,
-        "updated_at": 1743023279,
-        "updates": 2
+        "updated_at": 1749739200,
+        "updates": 3
     }
 }

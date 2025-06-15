@@ -174,7 +174,7 @@
             "timestamp": 1742983348
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/28515/sidra-asturiana-mayu-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/28515\/sidra-asturiana-mayu-botella",
             "previous": [],
             "timestamp": 1742983348
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983348
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/4cad7cdfdf3defbd7090a256bd0953fe.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/4cad7cdfdf3defbd7090a256bd0953fe.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983348
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983348,
-        "updated_at": 1743023180,
-        "updates": 2
+        "updated_at": 1749739072,
+        "updates": 3
     }
 }

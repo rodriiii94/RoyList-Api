@@ -174,7 +174,7 @@
             "timestamp": 1742983512
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/38007/alimento-completo-conejos-enanos-granzoo-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/38007\/alimento-completo-conejos-enanos-granzoo-paquete",
             "previous": [],
             "timestamp": 1742983512
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983512
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/5c9beda4b732f73ef50e0d266c0082bf.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/5c9beda4b732f73ef50e0d266c0082bf.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983512
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983512,
-        "updated_at": 1743023365,
-        "updates": 2
+        "updated_at": 1749739318,
+        "updates": 3
     }
 }

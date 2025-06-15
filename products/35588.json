@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Colágeno soluble sabor limón Colagen",
+            "value": "Col\u00e1geno soluble sabor lim\u00f3n Colagen",
             "previous": [],
             "timestamp": 1742983451
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983451
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/35588/colageno-soluble-sabor-limon-colagen-complemento-alimenticio-deliplus-bote",
+            "value": "https:\/\/tienda.mercadona.es\/product\/35588\/colageno-soluble-sabor-limon-colagen-complemento-alimenticio-deliplus-bote",
             "previous": [],
             "timestamp": 1742983451
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983451
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/b373e369d67ce9234fcc5cd617cbf5df.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/b373e369d67ce9234fcc5cd617cbf5df.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983451
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983451,
-        "updated_at": 1743023298,
-        "updates": 2
+        "updated_at": 1749739226,
+        "updates": 3
     }
 }

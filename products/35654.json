@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Dentífrico reparación activa de encías Parodontax menta fresca",
+            "value": "Dent\u00edfrico reparaci\u00f3n activa de enc\u00edas Parodontax menta fresca",
             "previous": [],
             "timestamp": 1742983442
         },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983442
             },
             "bulk_price": {
-                "value": "64.67",
-                "previous": [],
-                "timestamp": 1742983442
+                "value": "63.33",
+                "previous": [
+                    {
+                        "value": "64.67",
+                        "timestamp": 1742983442
+                    }
+                ],
+                "timestamp": 1749739210
             },
             "unit_price": {
-                "value": "4.85",
-                "previous": [],
-                "timestamp": 1742983442
+                "value": "4.75",
+                "previous": [
+                    {
+                        "value": "4.85",
+                        "timestamp": 1742983442
+                    }
+                ],
+                "timestamp": 1749739210
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983442
             },
             "reference_price": {
-                "value": "6.467",
-                "previous": [],
-                "timestamp": 1742983442
+                "value": "6.334",
+                "previous": [
+                    {
+                        "value": "6.467",
+                        "timestamp": 1742983442
+                    }
+                ],
+                "timestamp": 1749739210
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983442
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/35654/dentifrico-reparacion-activa-encias-parodontax-menta-fresca-tubo",
+            "value": "https:\/\/tienda.mercadona.es\/product\/35654\/dentifrico-reparacion-activa-encias-parodontax-menta-fresca-tubo",
             "previous": [],
             "timestamp": 1742983442
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983442
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/ffa5e5d87f59e30f86e9e12a907adac7.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/ffa5e5d87f59e30f86e9e12a907adac7.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983442
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983442,
-        "updated_at": 1743023288,
-        "updates": 2
+        "updated_at": 1749739210,
+        "updates": 3
     }
 }

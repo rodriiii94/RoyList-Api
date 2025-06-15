@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739276
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739276
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 26,
+                    "previous": [],
+                    "timestamp": 1749739276
+                },
+                "name": {
+                    "value": "Limpieza y hogar",
+                    "previous": [],
+                    "timestamp": 1749739276
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739276
+                },
+                "order": {
+                    "value": 374,
+                    "previous": [],
+                    "timestamp": 1749739276
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Molde de papel Bosque Verde para Freidora de aire 20 cm",
+            "previous": [],
+            "timestamp": 1749739276
+        },
+        "id": {
+            "value": "11681",
+            "previous": [],
+            "timestamp": 1749739276
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739276
+        },
+        "packaging": {
+            "value": "Paquete",
+            "previous": [],
+            "timestamp": 1749739276
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1749739276
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739276
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739276
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739276
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739276
+            },
+            "unit_size": {
+                "value": 50,
+                "previous": [],
+                "timestamp": 1749739276
+            },
+            "bulk_price": {
+                "value": "0.05",
+                "previous": [],
+                "timestamp": 1749739276
+            },
+            "unit_price": {
+                "value": "2.50",
+                "previous": [],
+                "timestamp": 1749739276
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739276
+            },
+            "size_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1749739276
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739276
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739276
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739276
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739276
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739276
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1749739276
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739276
+            },
+            "reference_price": {
+                "value": "0.050",
+                "previous": [],
+                "timestamp": 1749739276
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739276
+            },
+            "reference_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1749739276
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739276
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739276
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739276
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/11681\/molde-papel-pulpa-madera-silicona-bosque-verde-freidora-aire-20-cm-paquete",
+            "previous": [],
+            "timestamp": 1749739276
+        },
+        "slug": {
+            "value": "molde-papel-pulpa-madera-silicona-bosque-verde-freidora-aire-20-cm-paquete",
+            "previous": [],
+            "timestamp": 1749739276
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739276
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/bb9ce898a86bd2d32020a92014c5ae0d.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739276
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739276
+        }
+    },
+    "stats": {
+        "created_at": 1749739276,
+        "updated_at": 1749739276,
+        "updates": 1
+    }
+}

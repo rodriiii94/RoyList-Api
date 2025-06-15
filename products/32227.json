@@ -20,7 +20,7 @@
                     "timestamp": 1742983332
                 },
                 "name": {
-                    "value": "Azúcar, caramelos y chocolate",
+                    "value": "Az\u00facar, caramelos y chocolate",
                     "previous": [],
                     "timestamp": 1742983332
                 },
@@ -42,7 +42,7 @@
                     "timestamp": 1742983528
                 },
                 "name": {
-                    "value": "Panadería y pastelería",
+                    "value": "Panader\u00eda y pasteler\u00eda",
                     "previous": [],
                     "timestamp": 1742983528
                 },
@@ -196,7 +196,7 @@
             "timestamp": 1742983332
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/32227/fideos-chocolate-hacendado-especial-reposteria-postres-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/32227\/fideos-chocolate-hacendado-especial-reposteria-postres-paquete",
             "previous": [],
             "timestamp": 1742983332
         },
@@ -211,7 +211,7 @@
             "timestamp": 1742983332
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/2edc66f0eb9284ea9039f1c605336b9f.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/2edc66f0eb9284ea9039f1c605336b9f.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983332
         },
@@ -223,7 +223,7 @@
     },
     "stats": {
         "created_at": 1742983332,
-        "updated_at": 1743023381,
-        "updates": 4
+        "updated_at": 1749739340,
+        "updates": 6
     }
 }

@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Bolsa de basura mini Bosque Verde 10L cubo pequeño",
+            "value": "Bolsa de basura mini Bosque Verde 10L cubo peque\u00f1o",
             "previous": [],
             "timestamp": 1742983487
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983487
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/49704/bolsa-basura-mini-bosque-verde-10l-cubo-pequeno-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/49704\/bolsa-basura-mini-bosque-verde-10l-cubo-pequeno-paquete",
             "previous": [],
             "timestamp": 1742983487
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983487
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/0e5782114bc8c0174d8a3d3574dc2965.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/0e5782114bc8c0174d8a3d3574dc2965.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983487
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983487,
-        "updated_at": 1743023339,
-        "updates": 2
+        "updated_at": 1749739281,
+        "updates": 3
     }
 }

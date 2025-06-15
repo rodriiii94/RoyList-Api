@@ -20,7 +20,7 @@
                     "timestamp": 1742983334
                 },
                 "name": {
-                    "value": "Azúcar, caramelos y chocolate",
+                    "value": "Az\u00facar, caramelos y chocolate",
                     "previous": [],
                     "timestamp": 1742983334
                 },
@@ -174,7 +174,7 @@
             "timestamp": 1742983334
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/86288/golosinas-mix-hacendado-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/86288\/golosinas-mix-hacendado-paquete",
             "previous": [],
             "timestamp": 1742983334
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983334
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/a282e8cf2b18278d2b9467f58996d527.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983334
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/cb50dff57d91ed1cb712ee7e204ac9d1.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/a282e8cf2b18278d2b9467f58996d527.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983334
+                }
+            ],
+            "timestamp": 1749739052
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983334,
-        "updated_at": 1743023164,
-        "updates": 2
+        "updated_at": 1749739052,
+        "updates": 3
     }
 }

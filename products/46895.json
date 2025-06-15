@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Dentífrico gel Clorofila Fresh 2 en 1 Deliplus",
+            "value": "Dent\u00edfrico gel Clorofila Fresh 2 en 1 Deliplus",
             "previous": [],
             "timestamp": 1742983442
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983442
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/46895/dentifrico-gel-clorofila-fresh-2-1-deliplus-bote",
+            "value": "https:\/\/tienda.mercadona.es\/product\/46895\/dentifrico-gel-clorofila-fresh-2-1-deliplus-bote",
             "previous": [],
             "timestamp": 1742983442
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983442
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/4a8d753fecfcddd333bf9402808dce95.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/4a8d753fecfcddd333bf9402808dce95.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983442
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983442,
-        "updated_at": 1743023288,
-        "updates": 2
+        "updated_at": 1749739210,
+        "updates": 3
     }
 }

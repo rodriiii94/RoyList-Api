@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Sérum facial Ácido Hialurónico y Ceramidas Deliplus Hidrata",
+            "value": "S\u00e9rum facial \u00c1cido Hialur\u00f3nico y Ceramidas Deliplus Hidrata",
             "previous": [],
             "timestamp": 1742983435
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983435
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/67596/serum-facial-acido-hialuronico-ceramidas-deliplus-hidrata-tipo-piel-frasco",
+            "value": "https:\/\/tienda.mercadona.es\/product\/67596\/serum-facial-acido-hialuronico-ceramidas-deliplus-hidrata-tipo-piel-frasco",
             "previous": [],
             "timestamp": 1742983435
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983435
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/417a335e2cf9e49c883ec654f7eedb29.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/417a335e2cf9e49c883ec654f7eedb29.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983435
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983435,
-        "updated_at": 1743023279,
-        "updates": 2
+        "updated_at": 1749739200,
+        "updates": 3
     }
 }

@@ -88,14 +88,24 @@
                 "timestamp": 1742983346
             },
             "bulk_price": {
-                "value": "9.70",
-                "previous": [],
-                "timestamp": 1742983346
+                "value": "10.30",
+                "previous": [
+                    {
+                        "value": "9.70",
+                        "timestamp": 1742983346
+                    }
+                ],
+                "timestamp": 1749739069
             },
             "unit_price": {
-                "value": "9.70",
-                "previous": [],
-                "timestamp": 1742983346
+                "value": "10.30",
+                "previous": [
+                    {
+                        "value": "9.70",
+                        "timestamp": 1742983346
+                    }
+                ],
+                "timestamp": 1749739069
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983346
             },
             "reference_price": {
-                "value": "9.700",
-                "previous": [],
-                "timestamp": 1742983346
+                "value": "10.300",
+                "previous": [
+                    {
+                        "value": "9.700",
+                        "timestamp": 1742983346
+                    }
+                ],
+                "timestamp": 1749739069
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -158,9 +173,14 @@
                 "timestamp": 1742983346
             },
             "previous_unit_price": {
-                "value": "       10.30",
-                "previous": [],
-                "timestamp": 1742983346
+                "value": "       11.90",
+                "previous": [
+                    {
+                        "value": "       10.30",
+                        "timestamp": 1742983346
+                    }
+                ],
+                "timestamp": 1749739069
             },
             "increment_bunch_amount": {
                 "value": 1,
@@ -174,7 +194,7 @@
             "timestamp": 1742983346
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/28400/vermouth-bianco-martini-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/28400\/vermouth-bianco-martini-botella",
             "previous": [],
             "timestamp": 1742983346
         },
@@ -189,9 +209,14 @@
             "timestamp": 1742983346
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/581924eee7821918f59e1037ae18a44f.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983346
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/9cfa4e725ca5cdcbb278c4f892b66cdc.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/581924eee7821918f59e1037ae18a44f.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983346
+                }
+            ],
+            "timestamp": 1749739069
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +226,7 @@
     },
     "stats": {
         "created_at": 1742983346,
-        "updated_at": 1743023178,
-        "updates": 2
+        "updated_at": 1749739069,
+        "updates": 3
     }
 }

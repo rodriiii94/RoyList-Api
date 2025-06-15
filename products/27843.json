@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Tinto de verano sabor limón La Casera",
+            "value": "Tinto de verano sabor lim\u00f3n La Casera",
             "previous": [],
             "timestamp": 1742983349
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983349
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/27843/tinto-verano-sabor-limon-casera-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/27843\/tinto-verano-sabor-limon-casera-botella",
             "previous": [],
             "timestamp": 1742983349
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983349
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/1976020dd9de515d27b764ee69974011.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983349
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/bcb030e6dcbc510c7b971e7d11347125.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/1976020dd9de515d27b764ee69974011.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983349
+                }
+            ],
+            "timestamp": 1749739074
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983349,
-        "updated_at": 1743023182,
-        "updates": 2
+        "updated_at": 1749739074,
+        "updates": 3
     }
 }

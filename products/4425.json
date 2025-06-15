@@ -174,7 +174,7 @@
             "timestamp": 1742983367
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/4425/carrillada-cerdo-congelada-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/4425\/carrillada-cerdo-congelada-paquete",
             "previous": [],
             "timestamp": 1742983367
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983367
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/c6e21271370a4d73c9d6655ee71f3e64.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983367
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/68408717b8ec8569dcc97edc496c5935.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/c6e21271370a4d73c9d6655ee71f3e64.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983367
+                }
+            ],
+            "timestamp": 1749739099
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983367,
-        "updated_at": 1743023203,
-        "updates": 2
+        "updated_at": 1749739099,
+        "updates": 3
     }
 }

@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Bebida de frutas rojas antioxidante Hacendado sin azúcares añadidos",
+            "value": "Bebida de frutas rojas antioxidante Hacendado sin az\u00facares a\u00f1adidos",
             "previous": [],
             "timestamp": 1742983552
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983552
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/39640/bebida-frutas-rojas-antioxidante-hacendado-sin-azucares-anadidos-brick",
+            "value": "https:\/\/tienda.mercadona.es\/product\/39640\/bebida-frutas-rojas-antioxidante-hacendado-sin-azucares-anadidos-brick",
             "previous": [],
             "timestamp": 1742983552
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983552
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/92019639ecae89572482df9b0c428265.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983552
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/044c7a2885bdc00629df9011eb9e6f3f.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/92019639ecae89572482df9b0c428265.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983552
+                }
+            ],
+            "timestamp": 1749739372
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983552,
-        "updated_at": 1743023405,
-        "updates": 2
+        "updated_at": 1749739372,
+        "updates": 3
     }
 }

@@ -196,7 +196,7 @@
             "timestamp": 1742983367
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/25183/jamoncitos-pollo-congelados-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/25183\/jamoncitos-pollo-congelados-paquete",
             "previous": [],
             "timestamp": 1742983367
         },
@@ -211,7 +211,7 @@
             "timestamp": 1742983367
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/bebaada78c49c64b7dda4cf6b5726cf0.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/bebaada78c49c64b7dda4cf6b5726cf0.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983367
         },
@@ -223,7 +223,7 @@
     },
     "stats": {
         "created_at": 1742983367,
-        "updated_at": 1743023239,
-        "updates": 4
+        "updated_at": 1749739144,
+        "updates": 6
     }
 }

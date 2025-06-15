@@ -174,7 +174,7 @@
             "timestamp": 1742983383
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/14141/tortitas-arroz-con-chocolate-blanco-sabor-yogur-hacendado-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/14141\/tortitas-arroz-con-chocolate-blanco-sabor-yogur-hacendado-paquete",
             "previous": [],
             "timestamp": 1742983383
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983383
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/dea888da84d58412c70b090f7c508842.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983383
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/06d5eaf5e7e3c88e3ccfe35f77c42e5a.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/dea888da84d58412c70b090f7c508842.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983383
+                }
+            ],
+            "timestamp": 1749739119
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983383,
-        "updated_at": 1743023219,
-        "updates": 2
+        "updated_at": 1749739119,
+        "updates": 3
     }
 }

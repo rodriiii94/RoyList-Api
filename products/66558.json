@@ -174,7 +174,7 @@
             "timestamp": 1742983345
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/66558/cerveza-00-sin-alcohol-tostada-mahou-pack-6",
+            "value": "https:\/\/tienda.mercadona.es\/product\/66558\/cerveza-00-sin-alcohol-tostada-mahou-pack-6",
             "previous": [],
             "timestamp": 1742983345
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983345
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/22dd35bd38940cc8caf341c90b6b9be4.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/22dd35bd38940cc8caf341c90b6b9be4.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983345
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983345,
-        "updated_at": 1743023177,
-        "updates": 2
+        "updated_at": 1749739067,
+        "updates": 3
     }
 }

@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739111
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739111
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 3,
+                    "previous": [],
+                    "timestamp": 1749739111
+                },
+                "name": {
+                    "value": "Carne",
+                    "previous": [],
+                    "timestamp": 1749739111
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739111
+                },
+                "order": {
+                    "value": 17,
+                    "previous": [],
+                    "timestamp": 1749739111
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Filetes pechuga de pavo adobado",
+            "previous": [],
+            "timestamp": 1749739111
+        },
+        "id": {
+            "value": "13915",
+            "previous": [],
+            "timestamp": 1749739111
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739111
+        },
+        "packaging": {
+            "value": "Bandeja",
+            "previous": [],
+            "timestamp": 1749739111
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1749739111
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739111
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739111
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739111
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739111
+            },
+            "unit_size": {
+                "value": 0.475,
+                "previous": [],
+                "timestamp": 1749739111
+            },
+            "bulk_price": {
+                "value": "8.70",
+                "previous": [],
+                "timestamp": 1749739111
+            },
+            "unit_price": {
+                "value": "4.13",
+                "previous": [],
+                "timestamp": 1749739111
+            },
+            "approx_size": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739111
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1749739111
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739111
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739111
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739111
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739111
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739111
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1749739111
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739111
+            },
+            "reference_price": {
+                "value": "8.700",
+                "previous": [],
+                "timestamp": 1749739111
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739111
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1749739111
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739111
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739111
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739111
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/13915\/filetes-pechuga-pavo-adobado-bandeja",
+            "previous": [],
+            "timestamp": 1749739111
+        },
+        "slug": {
+            "value": "filetes-pechuga-pavo-adobado-bandeja",
+            "previous": [],
+            "timestamp": 1749739111
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739111
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/b4c7907fcc05c725949c0bc8953d6697.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739111
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739111
+        }
+    },
+    "stats": {
+        "created_at": 1749739111,
+        "updated_at": 1749739111,
+        "updates": 1
+    }
+}

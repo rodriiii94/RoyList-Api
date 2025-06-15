@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739038
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739038
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 13,
+                    "previous": [],
+                    "timestamp": 1749739038
+                },
+                "name": {
+                    "value": "Arroz, legumbres y pasta",
+                    "previous": [],
+                    "timestamp": 1749739038
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739038
+                },
+                "order": {
+                    "value": 10,
+                    "previous": [],
+                    "timestamp": 1749739038
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Soja texturizada Luengo",
+            "previous": [],
+            "timestamp": 1749739038
+        },
+        "id": {
+            "value": "13926",
+            "previous": [],
+            "timestamp": 1749739038
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739038
+        },
+        "packaging": {
+            "value": "Paquete",
+            "previous": [],
+            "timestamp": 1749739038
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1749739038
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739038
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739038
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739038
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739038
+            },
+            "unit_size": {
+                "value": 0.2,
+                "previous": [],
+                "timestamp": 1749739038
+            },
+            "bulk_price": {
+                "value": "13.50",
+                "previous": [],
+                "timestamp": 1749739038
+            },
+            "unit_price": {
+                "value": "2.70",
+                "previous": [],
+                "timestamp": 1749739038
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739038
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1749739038
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739038
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739038
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739038
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739038
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739038
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1749739038
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739038
+            },
+            "reference_price": {
+                "value": "13.500",
+                "previous": [],
+                "timestamp": 1749739038
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739038
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1749739038
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739038
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739038
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739038
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/13926\/soja-texturizada-luengo-paquete",
+            "previous": [],
+            "timestamp": 1749739038
+        },
+        "slug": {
+            "value": "soja-texturizada-luengo-paquete",
+            "previous": [],
+            "timestamp": 1749739038
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739038
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/ec896eba3bfa82efc705ace0ecad7393.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739038
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739038
+        }
+    },
+    "stats": {
+        "created_at": 1749739038,
+        "updated_at": 1749739038,
+        "updates": 1
+    }
+}

@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Gel fijador cabello extra fuerte Giorgi fijación 3",
+            "value": "Gel fijador cabello extra fuerte Giorgi fijaci\u00f3n 3",
             "previous": [],
             "timestamp": 1742983430
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983430
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/23762/gel-fijador-cabello-extra-fuerte-giorgi-fijacion-3-bote",
+            "value": "https:\/\/tienda.mercadona.es\/product\/23762\/gel-fijador-cabello-extra-fuerte-giorgi-fijacion-3-bote",
             "previous": [],
             "timestamp": 1742983430
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983430
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/23d0595e9ef7c005fb388830a3fecf0e.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/23d0595e9ef7c005fb388830a3fecf0e.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983430
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983430,
-        "updated_at": 1743023273,
-        "updates": 2
+        "updated_at": 1749739190,
+        "updates": 3
     }
 }

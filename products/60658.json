@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Loción after shave Fresh Deliplus con alcohol",
+            "value": "Loci\u00f3n after shave Fresh Deliplus con alcohol",
             "previous": [],
             "timestamp": 1742983432
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983432
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/60658/locion-after-shave-fresh-deliplus-con-alcohol-bote",
+            "value": "https:\/\/tienda.mercadona.es\/product\/60658\/locion-after-shave-fresh-deliplus-con-alcohol-bote",
             "previous": [],
             "timestamp": 1742983432
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983432
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/e95b8b62cbc5dbcd2bdcf578c472c183.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/e95b8b62cbc5dbcd2bdcf578c472c183.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983432
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983432,
-        "updated_at": 1743023274,
-        "updates": 2
+        "updated_at": 1749739192,
+        "updates": 3
     }
 }

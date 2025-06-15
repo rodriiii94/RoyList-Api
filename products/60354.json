@@ -20,7 +20,7 @@
                     "timestamp": 1742983519
                 },
                 "name": {
-                    "value": "Panadería y pastelería",
+                    "value": "Panader\u00eda y pasteler\u00eda",
                     "previous": [],
                     "timestamp": 1742983519
                 },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983519
             },
             "bulk_price": {
-                "value": "8.61",
-                "previous": [],
-                "timestamp": 1742983519
+                "value": "8.48",
+                "previous": [
+                    {
+                        "value": "8.61",
+                        "timestamp": 1742983519
+                    }
+                ],
+                "timestamp": 1749739328
             },
             "unit_price": {
-                "value": "1.42",
-                "previous": [],
-                "timestamp": 1742983519
+                "value": "1.40",
+                "previous": [
+                    {
+                        "value": "1.42",
+                        "timestamp": 1742983519
+                    }
+                ],
+                "timestamp": 1749739328
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983519
             },
             "reference_price": {
-                "value": "8.607",
-                "previous": [],
-                "timestamp": 1742983519
+                "value": "8.485",
+                "previous": [
+                    {
+                        "value": "8.607",
+                        "timestamp": 1742983519
+                    }
+                ],
+                "timestamp": 1749739328
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983519
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/60354/pan-integral-100-fino-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/60354\/pan-integral-100-fino-paquete",
             "previous": [],
             "timestamp": 1742983519
         },
@@ -189,9 +204,14 @@
             "timestamp": 1742983519
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/9f136b5e65ea724845e1ff3ad64c535a.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983519
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/54de49ea0f90e922a30eb4f2e6843ec6.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/9f136b5e65ea724845e1ff3ad64c535a.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983519
+                }
+            ],
+            "timestamp": 1749739328
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +221,7 @@
     },
     "stats": {
         "created_at": 1742983519,
-        "updated_at": 1743023372,
-        "updates": 2
+        "updated_at": 1749739328,
+        "updates": 3
     }
 }

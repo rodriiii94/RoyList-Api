@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Coloración permanente 9.1 rubio muy claro ceniza Deliplus 0% amoníaco",
+            "value": "Coloraci\u00f3n permanente 9.1 rubio muy claro ceniza Deliplus 0% amon\u00edaco",
             "previous": [],
             "timestamp": 1742983428
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983428
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/22697/coloracion-permanente-91-rubio-muy-claro-ceniza-deliplus-0-amoniaco-colorcor-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/22697\/coloracion-permanente-91-rubio-muy-claro-ceniza-deliplus-0-amoniaco-colorcor-caja",
             "previous": [],
             "timestamp": 1742983428
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983428
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/f9852620d034070630cb0d5d4bf9b3e6.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/f9852620d034070630cb0d5d4bf9b3e6.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983428
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983428,
-        "updated_at": 1743023271,
-        "updates": 2
+        "updated_at": 1749739188,
+        "updates": 3
     }
 }

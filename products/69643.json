@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Espárrago verde grueso",
+            "value": "Esp\u00e1rrago verde grueso",
             "previous": [],
             "timestamp": 1742983459
         },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983459
             },
             "bulk_price": {
-                "value": "13.17",
-                "previous": [],
-                "timestamp": 1742983459
+                "value": "11.00",
+                "previous": [
+                    {
+                        "value": "13.17",
+                        "timestamp": 1742983459
+                    }
+                ],
+                "timestamp": 1749739240
             },
             "unit_price": {
-                "value": "3.95",
-                "previous": [],
-                "timestamp": 1742983459
+                "value": "3.30",
+                "previous": [
+                    {
+                        "value": "3.95",
+                        "timestamp": 1742983459
+                    }
+                ],
+                "timestamp": 1749739240
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983459
             },
             "reference_price": {
-                "value": "13.167",
-                "previous": [],
-                "timestamp": 1742983459
+                "value": "11.000",
+                "previous": [
+                    {
+                        "value": "13.167",
+                        "timestamp": 1742983459
+                    }
+                ],
+                "timestamp": 1749739240
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -158,9 +173,14 @@
                 "timestamp": 1742983459
             },
             "previous_unit_price": {
-                "value": "        4.05",
-                "previous": [],
-                "timestamp": 1742983459
+                "value": "        3.60",
+                "previous": [
+                    {
+                        "value": "        4.05",
+                        "timestamp": 1742983459
+                    }
+                ],
+                "timestamp": 1749739240
             },
             "increment_bunch_amount": {
                 "value": 1,
@@ -174,7 +194,7 @@
             "timestamp": 1742983459
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/69643/esparrago-verde-grueso-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/69643\/esparrago-verde-grueso-paquete",
             "previous": [],
             "timestamp": 1742983459
         },
@@ -189,9 +209,14 @@
             "timestamp": 1742983459
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/a8b5b31f777a244902f1e4e149dafaf3.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983459
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/de69bc03e85de9479421cbe7dfca1708.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/a8b5b31f777a244902f1e4e149dafaf3.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983459
+                }
+            ],
+            "timestamp": 1749739240
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +226,7 @@
     },
     "stats": {
         "created_at": 1742983459,
-        "updated_at": 1743023308,
-        "updates": 2
+        "updated_at": 1749739240,
+        "updates": 3
     }
 }

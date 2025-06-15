@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Cerveza clásica Mahou",
+            "value": "Cerveza cl\u00e1sica Mahou",
             "previous": [],
             "timestamp": 1742983343
         },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983343
             },
             "bulk_price": {
-                "value": "2.27",
-                "previous": [],
-                "timestamp": 1742983343
+                "value": "1.67",
+                "previous": [
+                    {
+                        "value": "2.27",
+                        "timestamp": 1742983343
+                    }
+                ],
+                "timestamp": 1749739064
             },
             "unit_price": {
-                "value": "9.00",
-                "previous": [],
-                "timestamp": 1742983343
+                "value": "6.60",
+                "previous": [
+                    {
+                        "value": "9.00",
+                        "timestamp": 1742983343
+                    }
+                ],
+                "timestamp": 1749739064
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983343
             },
             "reference_price": {
-                "value": "2.273",
-                "previous": [],
-                "timestamp": 1742983343
+                "value": "1.667",
+                "previous": [
+                    {
+                        "value": "2.273",
+                        "timestamp": 1742983343
+                    }
+                ],
+                "timestamp": 1749739064
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -158,7 +173,7 @@
                 "timestamp": 1742983343
             },
             "previous_unit_price": {
-                "value": null,
+                "value": "        7.20",
                 "previous": [],
                 "timestamp": 1742983343
             },
@@ -174,7 +189,7 @@
             "timestamp": 1742983343
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/66027/cerveza-clasica-mahou-pack-12",
+            "value": "https:\/\/tienda.mercadona.es\/product\/66027\/cerveza-clasica-mahou-pack-12",
             "previous": [],
             "timestamp": 1742983343
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983343
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/b1b88eab797e0178f56e313a057a60e8.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/b1b88eab797e0178f56e313a057a60e8.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983343
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983343,
-        "updated_at": 1743023175,
-        "updates": 2
+        "updated_at": 1749739064,
+        "updates": 3
     }
 }

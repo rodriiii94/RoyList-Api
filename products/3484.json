@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Chuletas de cordero palo y riñonada",
+            "value": "Chuletas de cordero palo y ri\u00f1onada",
             "previous": [],
             "timestamp": 1742983371
         },
@@ -83,9 +83,14 @@
                 "timestamp": 1742983371
             },
             "unit_size": {
-                "value": 0.63,
-                "previous": [],
-                "timestamp": 1742983371
+                "value": 0.44,
+                "previous": [
+                    {
+                        "value": 0.63,
+                        "timestamp": 1742983371
+                    }
+                ],
+                "timestamp": 1749739103
             },
             "bulk_price": {
                 "value": "29.00",
@@ -93,9 +98,14 @@
                 "timestamp": 1742983371
             },
             "unit_price": {
-                "value": "18.27",
-                "previous": [],
-                "timestamp": 1742983371
+                "value": "12.76",
+                "previous": [
+                    {
+                        "value": "18.27",
+                        "timestamp": 1742983371
+                    }
+                ],
+                "timestamp": 1749739103
             },
             "approx_size": {
                 "value": true,
@@ -174,7 +184,7 @@
             "timestamp": 1742983371
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/3484/chuletas-cordero-palo-rinonada-bandeja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/3484\/chuletas-cordero-palo-rinonada-bandeja",
             "previous": [],
             "timestamp": 1742983371
         },
@@ -189,7 +199,7 @@
             "timestamp": 1742983371
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/ca17b530a23a7cadbcc340496fe034cd.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/ca17b530a23a7cadbcc340496fe034cd.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983371
         },
@@ -201,7 +211,7 @@
     },
     "stats": {
         "created_at": 1742983371,
-        "updated_at": 1743023207,
-        "updates": 2
+        "updated_at": 1749739103,
+        "updates": 3
     }
 }

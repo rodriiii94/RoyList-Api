@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Lavavajillas Aloe Vera y Pepino Fairy líquido",
+            "value": "Lavavajillas Aloe Vera y Pepino Fairy l\u00edquido",
             "previous": [],
             "timestamp": 1742983482
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983482
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/86329/lavavajillas-aloe-vera-pepino-fairy-liquido-lavado-mano-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/86329\/lavavajillas-aloe-vera-pepino-fairy-liquido-lavado-mano-botella",
             "previous": [],
             "timestamp": 1742983482
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983482
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/d5bb9d6f38e6cf3010afce8bfecafa1f.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/d5bb9d6f38e6cf3010afce8bfecafa1f.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983482
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983482,
-        "updated_at": 1743023333,
-        "updates": 2
+        "updated_at": 1749739273,
+        "updates": 3
     }
 }

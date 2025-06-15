@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Bebida de coco y arroz sin azúcares añadidos Hacendado",
+            "value": "Bebida de coco y arroz sin az\u00facares a\u00f1adidos Hacendado",
             "previous": [],
             "timestamp": 1742983463
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983463
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/13846/bebida-coco-arroz-sin-azucares-anadidos-hacendado-brick",
+            "value": "https:\/\/tienda.mercadona.es\/product\/13846\/bebida-coco-arroz-sin-azucares-anadidos-hacendado-brick",
             "previous": [],
             "timestamp": 1742983463
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983463
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/c9d5c928c1099db31752e2e688d808a6.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/c9d5c928c1099db31752e2e688d808a6.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983463
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983463,
-        "updated_at": 1743023312,
-        "updates": 2
+        "updated_at": 1749739246,
+        "updates": 3
     }
 }

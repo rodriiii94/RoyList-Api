@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Comida perro júnior Compy con pollo, arroz, frutas y verduras",
+            "value": "Comida perro j\u00fanior Compy con pollo, arroz, frutas y verduras",
             "previous": [],
             "timestamp": 1742983510
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983510
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/23204/comida-perro-junior-compy-con-pollo-arroz-frutas-verduras-razas-medianas-grandes-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/23204\/comida-perro-junior-compy-con-pollo-arroz-frutas-verduras-razas-medianas-grandes-paquete",
             "previous": [],
             "timestamp": 1742983510
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983510
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/f247f1e0ab8e3ecd4824247a50426cda.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/f247f1e0ab8e3ecd4824247a50426cda.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983510
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983510,
-        "updated_at": 1743023363,
-        "updates": 2
+        "updated_at": 1749739315,
+        "updates": 3
     }
 }

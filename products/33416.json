@@ -88,14 +88,24 @@
                 "timestamp": 1742983323
             },
             "bulk_price": {
-                "value": "13.75",
-                "previous": [],
-                "timestamp": 1742983323
+                "value": "12.92",
+                "previous": [
+                    {
+                        "value": "13.75",
+                        "timestamp": 1742983323
+                    }
+                ],
+                "timestamp": 1749739034
             },
             "unit_price": {
-                "value": "1.65",
-                "previous": [],
-                "timestamp": 1742983323
+                "value": "1.55",
+                "previous": [
+                    {
+                        "value": "1.65",
+                        "timestamp": 1742983323
+                    }
+                ],
+                "timestamp": 1749739034
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983323
             },
             "reference_price": {
-                "value": "13.750",
-                "previous": [],
-                "timestamp": 1742983323
+                "value": "12.917",
+                "previous": [
+                    {
+                        "value": "13.750",
+                        "timestamp": 1742983323
+                    }
+                ],
+                "timestamp": 1749739034
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983323
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/33416/torreznos-hacendado-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/33416\/torreznos-hacendado-paquete",
             "previous": [],
             "timestamp": 1742983323
         },
@@ -189,9 +204,14 @@
             "timestamp": 1742983323
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/c125ca04ebb1e5d8a6ed73eb655ce5fa.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983323
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/a9d2754098702f755cbb492b22207116.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/c125ca04ebb1e5d8a6ed73eb655ce5fa.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983323
+                }
+            ],
+            "timestamp": 1749739034
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +221,7 @@
     },
     "stats": {
         "created_at": 1742983323,
-        "updated_at": 1743023151,
-        "updates": 2
+        "updated_at": 1749739034,
+        "updates": 3
     }
 }

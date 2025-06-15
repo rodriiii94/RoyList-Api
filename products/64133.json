@@ -88,14 +88,24 @@
                 "timestamp": 1742983404
             },
             "bulk_price": {
-                "value": "0.45",
-                "previous": [],
-                "timestamp": 1742983404
+                "value": "0.43",
+                "previous": [
+                    {
+                        "value": "0.45",
+                        "timestamp": 1742983404
+                    }
+                ],
+                "timestamp": 1749739150
             },
             "unit_price": {
-                "value": "4.50",
-                "previous": [],
-                "timestamp": 1742983404
+                "value": "4.25",
+                "previous": [
+                    {
+                        "value": "4.50",
+                        "timestamp": 1742983404
+                    }
+                ],
+                "timestamp": 1749739150
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983404
             },
             "reference_price": {
-                "value": "0.450",
-                "previous": [],
-                "timestamp": 1742983404
+                "value": "0.425",
+                "previous": [
+                    {
+                        "value": "0.450",
+                        "timestamp": 1742983404
+                    }
+                ],
+                "timestamp": 1749739150
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983404
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/64133/cubos-hielo-pack-5",
+            "value": "https:\/\/tienda.mercadona.es\/product\/64133\/cubos-hielo-pack-5",
             "previous": [],
             "timestamp": 1742983404
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983404
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/ab32b2cb8d1c376e81049fe84e83bce2.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/ab32b2cb8d1c376e81049fe84e83bce2.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983404
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983404,
-        "updated_at": 1743023243,
-        "updates": 2
+        "updated_at": 1749739150,
+        "updates": 3
     }
 }

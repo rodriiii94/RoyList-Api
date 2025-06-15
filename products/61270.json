@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Garrofón Hacendado ultracongelado",
+            "value": "Garrof\u00f3n Hacendado ultracongelado",
             "previous": [],
             "timestamp": 1742983413
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983413
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/61270/garrofon-hacendado-ultracongelado-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/61270\/garrofon-hacendado-ultracongelado-paquete",
             "previous": [],
             "timestamp": 1742983413
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983413
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/75a72ec0a2c86b62d4484cefbbf92536.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/75a72ec0a2c86b62d4484cefbbf92536.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983413
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983413,
-        "updated_at": 1743023253,
-        "updates": 2
+        "updated_at": 1749739163,
+        "updates": 3
     }
 }

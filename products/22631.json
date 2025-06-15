@@ -174,7 +174,7 @@
             "timestamp": 1742983425
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/22631/mascarilla-sin-aclarado-curl-perfect-deliplus-cabello-rizado-apto-metodo-curly-bote",
+            "value": "https:\/\/tienda.mercadona.es\/product\/22631\/mascarilla-sin-aclarado-curl-perfect-deliplus-cabello-rizado-apto-metodo-curly-bote",
             "previous": [],
             "timestamp": 1742983425
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983425
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/68939f0f87aef6d073573c26ef89d252.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/68939f0f87aef6d073573c26ef89d252.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983425
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983425,
-        "updated_at": 1743023266,
-        "updates": 2
+        "updated_at": 1749739180,
+        "updates": 3
     }
 }

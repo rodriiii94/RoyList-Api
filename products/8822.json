@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739199
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739199
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 20,
+                    "previous": [],
+                    "timestamp": 1749739199
+                },
+                "name": {
+                    "value": "Cuidado facial y corporal",
+                    "previous": [],
+                    "timestamp": 1749739199
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739199
+                },
+                "order": {
+                    "value": 241,
+                    "previous": [],
+                    "timestamp": 1749739199
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Aceite facial micelar desmaquillante y limpiador Deliplus Facial Clean",
+            "previous": [],
+            "timestamp": 1749739199
+        },
+        "id": {
+            "value": "8822",
+            "previous": [],
+            "timestamp": 1749739199
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739199
+        },
+        "packaging": {
+            "value": "Bote",
+            "previous": [],
+            "timestamp": 1749739199
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1749739199
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739199
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739199
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739199
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739199
+            },
+            "unit_size": {
+                "value": 0.15,
+                "previous": [],
+                "timestamp": 1749739199
+            },
+            "bulk_price": {
+                "value": "25.00",
+                "previous": [],
+                "timestamp": 1749739199
+            },
+            "unit_price": {
+                "value": "3.75",
+                "previous": [],
+                "timestamp": 1749739199
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739199
+            },
+            "size_format": {
+                "value": "l",
+                "previous": [],
+                "timestamp": 1749739199
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739199
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739199
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739199
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739199
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739199
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1749739199
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739199
+            },
+            "reference_price": {
+                "value": "2.500",
+                "previous": [],
+                "timestamp": 1749739199
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739199
+            },
+            "reference_format": {
+                "value": "100 ml",
+                "previous": [],
+                "timestamp": 1749739199
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739199
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739199
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739199
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/8822\/aceite-facial-micelar-desmaquillante-limpiador-deliplus-facial-clean-bote",
+            "previous": [],
+            "timestamp": 1749739199
+        },
+        "slug": {
+            "value": "aceite-facial-micelar-desmaquillante-limpiador-deliplus-facial-clean-bote",
+            "previous": [],
+            "timestamp": 1749739199
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739199
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/559f8daf9b995761c93d501972df5b80.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739199
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739199
+        }
+    },
+    "stats": {
+        "created_at": 1749739199,
+        "updated_at": 1749739199,
+        "updates": 1
+    }
+}

@@ -20,7 +20,7 @@
                     "timestamp": 1742983359
                 },
                 "name": {
-                    "value": "Cacao, café e infusiones",
+                    "value": "Cacao, caf\u00e9 e infusiones",
                     "previous": [],
                     "timestamp": 1742983359
                 },
@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Café con leche en cápsula Tassimo",
+            "value": "Caf\u00e9 con leche en c\u00e1psula Tassimo",
             "previous": [],
             "timestamp": 1742983359
         },
@@ -78,7 +78,7 @@
                 "timestamp": 1742983359
             },
             "unit_name": {
-                "value": "cápsulas",
+                "value": "c\u00e1psulas",
                 "previous": [],
                 "timestamp": 1742983359
             },
@@ -174,7 +174,7 @@
             "timestamp": 1742983359
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/11871/cafe-con-leche-capsula-tassimo-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/11871\/cafe-con-leche-capsula-tassimo-paquete",
             "previous": [],
             "timestamp": 1742983359
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983359
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/58ab2625f5a94ce3a1b056a0ef4bb0d4.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/58ab2625f5a94ce3a1b056a0ef4bb0d4.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983359
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983359,
-        "updated_at": 1743023192,
-        "updates": 2
+        "updated_at": 1749739086,
+        "updates": 3
     }
 }

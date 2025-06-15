@@ -161,6 +161,11 @@
                 "value": 1,
                 "previous": [],
                 "timestamp": 1742983497
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1749739295
             }
         },
         "published": {
@@ -169,7 +174,7 @@
             "timestamp": 1742983497
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/23525/perfilador-cejas-long-lasting-deliplus-03-oscuro-con-cepillo",
+            "value": "https:\/\/tienda.mercadona.es\/product\/23525\/perfilador-cejas-long-lasting-deliplus-03-oscuro-con-cepillo",
             "previous": [],
             "timestamp": 1742983497
         },
@@ -184,7 +189,7 @@
             "timestamp": 1742983497
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/2d62746986cca2a779b36b576c3f2126.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/2d62746986cca2a779b36b576c3f2126.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983497
         },
@@ -196,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983497,
-        "updated_at": 1743023349,
-        "updates": 2
+        "updated_at": 1749739295,
+        "updates": 3
     }
 }

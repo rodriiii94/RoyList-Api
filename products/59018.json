@@ -20,7 +20,7 @@
                     "timestamp": 1742983391
                 },
                 "name": {
-                    "value": "Charcutería y quesos",
+                    "value": "Charcuter\u00eda y quesos",
                     "previous": [],
                     "timestamp": 1742983391
                 },
@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Mini taquitos de jamón Incarlopsa",
+            "value": "Mini taquitos de jam\u00f3n Incarlopsa",
             "previous": [],
             "timestamp": 1742983391
         },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983391
             },
             "bulk_price": {
-                "value": "14.17",
-                "previous": [],
-                "timestamp": 1742983391
+                "value": "14.72",
+                "previous": [
+                    {
+                        "value": "14.17",
+                        "timestamp": 1742983391
+                    }
+                ],
+                "timestamp": 1749739130
             },
             "unit_price": {
-                "value": "2.55",
-                "previous": [],
-                "timestamp": 1742983391
+                "value": "2.65",
+                "previous": [
+                    {
+                        "value": "2.55",
+                        "timestamp": 1742983391
+                    }
+                ],
+                "timestamp": 1749739130
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983391
             },
             "reference_price": {
-                "value": "14.167",
-                "previous": [],
-                "timestamp": 1742983391
+                "value": "14.723",
+                "previous": [
+                    {
+                        "value": "14.167",
+                        "timestamp": 1742983391
+                    }
+                ],
+                "timestamp": 1749739130
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983391
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/59018/mini-taquitos-jamon-incarlopsa-pack-2",
+            "value": "https:\/\/tienda.mercadona.es\/product\/59018\/mini-taquitos-jamon-incarlopsa-pack-2",
             "previous": [],
             "timestamp": 1742983391
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983391
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/b4834b1af541b2550cf34f323bb66e45.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/b4834b1af541b2550cf34f323bb66e45.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983391
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983391,
-        "updated_at": 1743023228,
-        "updates": 2
+        "updated_at": 1749739130,
+        "updates": 3
     }
 }

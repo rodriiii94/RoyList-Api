@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Mostaza clásica Hacendado",
+            "value": "Mostaza cl\u00e1sica Hacendado",
             "previous": [],
             "timestamp": 1742983308
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983308
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/23410/mostaza-clasica-hacendado-bote",
+            "value": "https:\/\/tienda.mercadona.es\/product\/23410\/mostaza-clasica-hacendado-bote",
             "previous": [],
             "timestamp": 1742983308
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983308
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/8a0749aa163298f9b2b036de495a1b05.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/8a0749aa163298f9b2b036de495a1b05.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983308
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983308,
-        "updated_at": 1743023131,
-        "updates": 2
+        "updated_at": 1749739009,
+        "updates": 3
     }
 }

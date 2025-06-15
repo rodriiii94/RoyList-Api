@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Lechuga corazón romana",
+            "value": "Lechuga coraz\u00f3n romana",
             "previous": [],
             "timestamp": 1742983457
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983457
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/69122/lechuga-corazon-romana-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/69122\/lechuga-corazon-romana-paquete",
             "previous": [],
             "timestamp": 1742983457
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983457
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/ecea548419831d3cfa93562fbe38f8f6.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/ecea548419831d3cfa93562fbe38f8f6.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983457
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983457,
-        "updated_at": 1743023305,
-        "updates": 2
+        "updated_at": 1749739235,
+        "updates": 3
     }
 }

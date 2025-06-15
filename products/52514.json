@@ -83,19 +83,34 @@
                 "timestamp": 1742983366
             },
             "unit_size": {
-                "value": 0.465,
-                "previous": [],
-                "timestamp": 1742983366
+                "value": 0.55,
+                "previous": [
+                    {
+                        "value": 0.465,
+                        "timestamp": 1742983366
+                    }
+                ],
+                "timestamp": 1749739097
             },
             "bulk_price": {
-                "value": "8.50",
-                "previous": [],
-                "timestamp": 1742983366
+                "value": "8.80",
+                "previous": [
+                    {
+                        "value": "8.50",
+                        "timestamp": 1742983366
+                    }
+                ],
+                "timestamp": 1749739097
             },
             "unit_price": {
-                "value": "3.95",
-                "previous": [],
-                "timestamp": 1742983366
+                "value": "4.84",
+                "previous": [
+                    {
+                        "value": "3.95",
+                        "timestamp": 1742983366
+                    }
+                ],
+                "timestamp": 1749739097
             },
             "approx_size": {
                 "value": true,
@@ -143,9 +158,14 @@
                 "timestamp": 1742983366
             },
             "reference_price": {
-                "value": "8.500",
-                "previous": [],
-                "timestamp": 1742983366
+                "value": "8.800",
+                "previous": [
+                    {
+                        "value": "8.500",
+                        "timestamp": 1742983366
+                    }
+                ],
+                "timestamp": 1749739097
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +194,7 @@
             "timestamp": 1742983366
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/52514/solomillos-pollo-marinados-empanados-sin-gluten-bandeja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/52514\/solomillos-pollo-marinados-empanados-sin-gluten-bandeja",
             "previous": [],
             "timestamp": 1742983366
         },
@@ -189,7 +209,7 @@
             "timestamp": 1742983366
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/4c58150f6907b1ac3043b361b4cf8f27.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/4c58150f6907b1ac3043b361b4cf8f27.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983366
         },
@@ -201,7 +221,7 @@
     },
     "stats": {
         "created_at": 1742983366,
-        "updated_at": 1743023213,
-        "updates": 4
+        "updated_at": 1749739111,
+        "updates": 6
     }
 }

@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Lasaña de espinacas y requesón Hacendado",
+            "value": "Lasa\u00f1a de espinacas y reques\u00f3n Hacendado",
             "previous": [],
             "timestamp": 1742983533
         },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983533
             },
             "bulk_price": {
-                "value": "8.57",
-                "previous": [],
-                "timestamp": 1742983533
+                "value": "8.29",
+                "previous": [
+                    {
+                        "value": "8.57",
+                        "timestamp": 1742983533
+                    }
+                ],
+                "timestamp": 1749739347
             },
             "unit_price": {
-                "value": "3.00",
-                "previous": [],
-                "timestamp": 1742983533
+                "value": "2.90",
+                "previous": [
+                    {
+                        "value": "3.00",
+                        "timestamp": 1742983533
+                    }
+                ],
+                "timestamp": 1749739347
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983533
             },
             "reference_price": {
-                "value": "8.572",
-                "previous": [],
-                "timestamp": 1742983533
+                "value": "8.286",
+                "previous": [
+                    {
+                        "value": "8.572",
+                        "timestamp": 1742983533
+                    }
+                ],
+                "timestamp": 1749739347
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983533
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/4491/lasana-espinacas-requeson-hacendado-bandeja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/4491\/lasana-espinacas-requeson-hacendado-bandeja",
             "previous": [],
             "timestamp": 1742983533
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983533
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/46eb1de56c250372c7ac5661a1c553ce.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/46eb1de56c250372c7ac5661a1c553ce.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983533
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983533,
-        "updated_at": 1743023387,
-        "updates": 2
+        "updated_at": 1749739347,
+        "updates": 3
     }
 }

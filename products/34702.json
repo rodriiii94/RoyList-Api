@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Sazonador para paella con azafrán Hacendado",
+            "value": "Sazonador para paella con azafr\u00e1n Hacendado",
             "previous": [],
             "timestamp": 1742983306
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983306
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/34702/sazonador-paella-con-azafran-hacendado-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/34702\/sazonador-paella-con-azafran-hacendado-caja",
             "previous": [],
             "timestamp": 1742983306
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983306
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/f2cdac44f287c5a2b6d89b51d091ad3e.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983306
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/ee39fe8069bfe773fea6cc75249cdeb5.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/f2cdac44f287c5a2b6d89b51d091ad3e.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983306
+                }
+            ],
+            "timestamp": 1749739007
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983306,
-        "updated_at": 1743023130,
-        "updates": 2
+        "updated_at": 1749739007,
+        "updates": 3
     }
 }

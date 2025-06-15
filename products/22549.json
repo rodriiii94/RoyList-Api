@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Pizza Calzone con jamón cocido y queso Hacendado",
+            "value": "Pizza Calzone con jam\u00f3n cocido y queso Hacendado",
             "previous": [],
             "timestamp": 1742983532
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983532
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/22549/pizza-calzone-con-jamon-cocido-queso-hacendado-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/22549\/pizza-calzone-con-jamon-cocido-queso-hacendado-caja",
             "previous": [],
             "timestamp": 1742983532
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983532
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/ff33bd0dfe1be89c4ed1579ad8fc6b6c.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/ff33bd0dfe1be89c4ed1579ad8fc6b6c.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983532
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983532,
-        "updated_at": 1743023385,
-        "updates": 2
+        "updated_at": 1749739345,
+        "updates": 3
     }
 }

@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Gel de higiene íntima Deliplus",
+            "value": "Gel de higiene \u00edntima Deliplus",
             "previous": [],
             "timestamp": 1742983444
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983444
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/44912/gel-higiene-intima-deliplus-bote",
+            "value": "https:\/\/tienda.mercadona.es\/product\/44912\/gel-higiene-intima-deliplus-bote",
             "previous": [],
             "timestamp": 1742983444
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983444
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/b97579f3329bac86c9b7caa4caf31deb.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/b97579f3329bac86c9b7caa4caf31deb.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983444
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983444,
-        "updated_at": 1743023290,
-        "updates": 2
+        "updated_at": 1749739215,
+        "updates": 3
     }
 }

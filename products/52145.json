@@ -174,7 +174,7 @@
             "timestamp": 1742983511
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/52145/snack-barritas-perro-adulto-ternera-cordero-compy-pack-8",
+            "value": "https:\/\/tienda.mercadona.es\/product\/52145\/snack-barritas-perro-adulto-ternera-cordero-compy-pack-8",
             "previous": [],
             "timestamp": 1742983511
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983511
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/b91f4f4ceb4d8c3745b893750a572951.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/b91f4f4ceb4d8c3745b893750a572951.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983511
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983511,
-        "updated_at": 1743023363,
-        "updates": 2
+        "updated_at": 1749739316,
+        "updates": 3
     }
 }

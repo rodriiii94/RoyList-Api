@@ -88,14 +88,24 @@
                 "timestamp": 1742983549
             },
             "bulk_price": {
-                "value": "1.98",
-                "previous": [],
-                "timestamp": 1742983549
+                "value": "2.08",
+                "previous": [
+                    {
+                        "value": "1.98",
+                        "timestamp": 1742983549
+                    }
+                ],
+                "timestamp": 1749739368
             },
             "unit_price": {
-                "value": "0.95",
-                "previous": [],
-                "timestamp": 1742983549
+                "value": "1.00",
+                "previous": [
+                    {
+                        "value": "0.95",
+                        "timestamp": 1742983549
+                    }
+                ],
+                "timestamp": 1749739368
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983549
             },
             "reference_price": {
-                "value": "1.980",
-                "previous": [],
-                "timestamp": 1742983549
+                "value": "2.084",
+                "previous": [
+                    {
+                        "value": "1.980",
+                        "timestamp": 1742983549
+                    }
+                ],
+                "timestamp": 1749739368
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983549
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/60569/yogur-sabor-galleta-danone-pack-4",
+            "value": "https:\/\/tienda.mercadona.es\/product\/60569\/yogur-sabor-galleta-danone-pack-4",
             "previous": [],
             "timestamp": 1742983549
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983549
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/1080267701c438d7c6683dd74182f4c0.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/1080267701c438d7c6683dd74182f4c0.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983549
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983549,
-        "updated_at": 1743023402,
-        "updates": 2
+        "updated_at": 1749739368,
+        "updates": 3
     }
 }

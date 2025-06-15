@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Sándwich atún y huevo Hacendado",
+            "value": "S\u00e1ndwich at\u00fan y huevo Hacendado",
             "previous": [],
             "timestamp": 1742983536
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983536
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/4106/sandwich-atun-huevo-hacendado-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/4106\/sandwich-atun-huevo-hacendado-paquete",
             "previous": [],
             "timestamp": 1742983536
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983536
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/5a628e2fd6d8afd4f493baacf43a4b12.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/5a628e2fd6d8afd4f493baacf43a4b12.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983536
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983536,
-        "updated_at": 1743023389,
-        "updates": 2
+        "updated_at": 1749739352,
+        "updates": 3
     }
 }

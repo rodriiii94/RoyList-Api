@@ -174,7 +174,7 @@
             "timestamp": 1742983530
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/13234/surtido-sushi-bento-mix-contiene-ensalada-alga-wakame-2-nigiris-salmon-3-makis-salmon-1-wrap-salmon-cortado-salsa-ponzu-bandeja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/13234\/surtido-sushi-bento-mix-contiene-ensalada-alga-wakame-2-nigiris-salmon-3-makis-salmon-1-wrap-salmon-cortado-salsa-ponzu-bandeja",
             "previous": [],
             "timestamp": 1742983530
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983530
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/33dd4ed0bd6aa6d454326d9f8d1dd31b.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/33dd4ed0bd6aa6d454326d9f8d1dd31b.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983530
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983530,
-        "updated_at": 1743023383,
-        "updates": 2
+        "updated_at": 1749739342,
+        "updates": 3
     }
 }

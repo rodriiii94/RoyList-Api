@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Ñoras Hacendado",
+            "value": "\u00d1oras Hacendado",
             "previous": [],
             "timestamp": 1742983306
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983306
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/34113/noras-hacendado-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/34113\/noras-hacendado-paquete",
             "previous": [],
             "timestamp": 1742983306
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983306
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/4b8bb2de7c473819516a8213b9594653.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/4b8bb2de7c473819516a8213b9594653.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983306
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983306,
-        "updated_at": 1743023130,
-        "updates": 2
+        "updated_at": 1749739007,
+        "updates": 3
     }
 }

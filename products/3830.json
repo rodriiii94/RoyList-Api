@@ -83,29 +83,42 @@
                 "timestamp": 1742983455
             },
             "unit_size": {
-                "value": 0.26,
+                "value": 0.2,
                 "previous": [
                     {
                         "value": 0.27,
                         "timestamp": 1742983455
+                    },
+                    {
+                        "value": 0.26,
+                        "timestamp": 1743023302
                     }
                 ],
-                "timestamp": 1743023302
+                "timestamp": 1749739232
             },
             "bulk_price": {
-                "value": "5.10",
-                "previous": [],
-                "timestamp": 1742983455
+                "value": "4.90",
+                "previous": [
+                    {
+                        "value": "5.10",
+                        "timestamp": 1742983455
+                    }
+                ],
+                "timestamp": 1749739232
             },
             "unit_price": {
-                "value": "1.33",
+                "value": "0.98",
                 "previous": [
                     {
                         "value": "1.38",
                         "timestamp": 1742983455
+                    },
+                    {
+                        "value": "1.33",
+                        "timestamp": 1743023302
                     }
                 ],
-                "timestamp": 1743023302
+                "timestamp": 1749739232
             },
             "approx_size": {
                 "value": true,
@@ -153,9 +166,14 @@
                 "timestamp": 1742983455
             },
             "reference_price": {
-                "value": "5.100",
-                "previous": [],
-                "timestamp": 1742983455
+                "value": "4.900",
+                "previous": [
+                    {
+                        "value": "5.100",
+                        "timestamp": 1742983455
+                    }
+                ],
+                "timestamp": 1749739232
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -184,7 +202,7 @@
             "timestamp": 1742983455
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/3830/aguacate-pieza",
+            "value": "https:\/\/tienda.mercadona.es\/product\/3830\/aguacate-pieza",
             "previous": [],
             "timestamp": 1742983455
         },
@@ -199,9 +217,14 @@
             "timestamp": 1742983455
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/5bdb23b103ea75a34562a3bdf877024b.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983455
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/b1dee7e254871996d81c69a656fa4304.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/5bdb23b103ea75a34562a3bdf877024b.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983455
+                }
+            ],
+            "timestamp": 1749739232
         },
         "unavailable_from": {
             "value": null,
@@ -211,7 +234,7 @@
     },
     "stats": {
         "created_at": 1742983455,
-        "updated_at": 1743023302,
-        "updates": 2
+        "updated_at": 1749739232,
+        "updates": 3
     }
 }

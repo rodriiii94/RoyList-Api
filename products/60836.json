@@ -174,7 +174,7 @@
             "timestamp": 1742983432
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/60836/lote-corporal-hombre-axe-dark-temptation-contiene-desodorante-body-spray-150-ml-gel-ducha-250-ml-after-shave-100-ml-mini-desodorante-body-spray-35-ml-neceser",
+            "value": "https:\/\/tienda.mercadona.es\/product\/60836\/lote-corporal-hombre-axe-dark-temptation-contiene-desodorante-body-spray-150-ml-gel-ducha-250-ml-after-shave-100-ml-mini-desodorante-body-spray-35-ml-neceser",
             "previous": [],
             "timestamp": 1742983432
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983432
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/7467d58c0074db473cb9d2f5603e868b.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983432
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/a8830cb87732f6d02d934f35c9c61848.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/7467d58c0074db473cb9d2f5603e868b.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983432
+                }
+            ],
+            "timestamp": 1749739192
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983432,
-        "updated_at": 1743023295,
-        "updates": 4
+        "updated_at": 1749739222,
+        "updates": 6
     }
 }

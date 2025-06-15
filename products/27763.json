@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Refresco lima limón 7 Up",
+            "value": "Refresco lima lim\u00f3n 7 Up",
             "previous": [],
             "timestamp": 1742983315
         },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983315
             },
             "bulk_price": {
-                "value": "0.80",
-                "previous": [],
-                "timestamp": 1742983315
+                "value": "0.65",
+                "previous": [
+                    {
+                        "value": "0.80",
+                        "timestamp": 1742983315
+                    }
+                ],
+                "timestamp": 1749739021
             },
             "unit_price": {
-                "value": "1.59",
-                "previous": [],
-                "timestamp": 1742983315
+                "value": "1.29",
+                "previous": [
+                    {
+                        "value": "1.59",
+                        "timestamp": 1742983315
+                    }
+                ],
+                "timestamp": 1749739021
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983315
             },
             "reference_price": {
-                "value": "0.795",
-                "previous": [],
-                "timestamp": 1742983315
+                "value": "0.645",
+                "previous": [
+                    {
+                        "value": "0.795",
+                        "timestamp": 1742983315
+                    }
+                ],
+                "timestamp": 1749739021
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -158,7 +173,7 @@
                 "timestamp": 1742983315
             },
             "previous_unit_price": {
-                "value": null,
+                "value": "        1.59",
                 "previous": [],
                 "timestamp": 1742983315
             },
@@ -174,7 +189,7 @@
             "timestamp": 1742983315
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/27763/refresco-lima-limon-7-up-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/27763\/refresco-lima-limon-7-up-botella",
             "previous": [],
             "timestamp": 1742983315
         },
@@ -189,9 +204,14 @@
             "timestamp": 1742983315
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/30e1332748fe9423c54bc49d66442d90.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983315
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/df6411b1d28aeb9f2e0e6b0517323272.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/30e1332748fe9423c54bc49d66442d90.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983315
+                }
+            ],
+            "timestamp": 1749739021
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +221,7 @@
     },
     "stats": {
         "created_at": 1742983315,
-        "updated_at": 1743023141,
-        "updates": 2
+        "updated_at": 1749739021,
+        "updates": 3
     }
 }

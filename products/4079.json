@@ -88,14 +88,24 @@
                 "timestamp": 1742983374
             },
             "bulk_price": {
-                "value": "7.92",
-                "previous": [],
-                "timestamp": 1742983374
+                "value": "8.33",
+                "previous": [
+                    {
+                        "value": "7.92",
+                        "timestamp": 1742983374
+                    }
+                ],
+                "timestamp": 1749739106
             },
             "unit_price": {
-                "value": "1.90",
-                "previous": [],
-                "timestamp": 1742983374
+                "value": "2.00",
+                "previous": [
+                    {
+                        "value": "1.90",
+                        "timestamp": 1742983374
+                    }
+                ],
+                "timestamp": 1749739106
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983374
             },
             "reference_price": {
-                "value": "7.917",
-                "previous": [],
-                "timestamp": 1742983374
+                "value": "8.334",
+                "previous": [
+                    {
+                        "value": "7.917",
+                        "timestamp": 1742983374
+                    }
+                ],
+                "timestamp": 1749739106
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983374
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/4079/burger-crunchy-chicken-bandeja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/4079\/burger-crunchy-chicken-bandeja",
             "previous": [],
             "timestamp": 1742983374
         },
@@ -189,9 +204,14 @@
             "timestamp": 1742983374
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/9fdf535c406d2b19c50ecb5a65fc942c.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983374
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/a1b701643745d1931f2b2b4190e76635.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/9fdf535c406d2b19c50ecb5a65fc942c.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983374
+                }
+            ],
+            "timestamp": 1749739106
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +221,7 @@
     },
     "stats": {
         "created_at": 1742983374,
-        "updated_at": 1743023210,
-        "updates": 2
+        "updated_at": 1749739106,
+        "updates": 3
     }
 }

@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Bebida de avellana y arroz sin azúcares añadidos Hacendado",
+            "value": "Bebida de avellana y arroz sin az\u00facares a\u00f1adidos Hacendado",
             "previous": [],
             "timestamp": 1742983463
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983463
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/13848/bebida-avellana-arroz-sin-azucares-anadidos-hacendado-brick",
+            "value": "https:\/\/tienda.mercadona.es\/product\/13848\/bebida-avellana-arroz-sin-azucares-anadidos-hacendado-brick",
             "previous": [],
             "timestamp": 1742983463
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983463
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/48f3b41650de1c5aab91011aceddc8d4.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/48f3b41650de1c5aab91011aceddc8d4.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983463
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983463,
-        "updated_at": 1743023312,
-        "updates": 2
+        "updated_at": 1749739247,
+        "updates": 3
     }
 }

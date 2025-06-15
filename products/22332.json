@@ -20,7 +20,7 @@
                     "timestamp": 1742983385
                 },
                 "name": {
-                    "value": "Charcutería y quesos",
+                    "value": "Charcuter\u00eda y quesos",
                     "previous": [],
                     "timestamp": 1742983385
                 },
@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Pechuguita de pollo 99% La Carloteña asada al horno lonchas",
+            "value": "Pechuguita de pollo 99% La Carlote\u00f1a asada al horno lonchas",
             "previous": [],
             "timestamp": 1742983385
         },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983385
             },
             "bulk_price": {
-                "value": "20.00",
-                "previous": [],
-                "timestamp": 1742983385
+                "value": "20.80",
+                "previous": [
+                    {
+                        "value": "20.00",
+                        "timestamp": 1742983385
+                    }
+                ],
+                "timestamp": 1749739121
             },
             "unit_price": {
-                "value": "2.50",
-                "previous": [],
-                "timestamp": 1742983385
+                "value": "2.60",
+                "previous": [
+                    {
+                        "value": "2.50",
+                        "timestamp": 1742983385
+                    }
+                ],
+                "timestamp": 1749739121
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983385
             },
             "reference_price": {
-                "value": "20.000",
-                "previous": [],
-                "timestamp": 1742983385
+                "value": "20.800",
+                "previous": [
+                    {
+                        "value": "20.000",
+                        "timestamp": 1742983385
+                    }
+                ],
+                "timestamp": 1749739121
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983385
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/22332/pechuguita-pollo-asada-carlotena-lonchas-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/22332\/pechuguita-pollo-asada-carlotena-lonchas-paquete",
             "previous": [],
             "timestamp": 1742983385
         },
@@ -189,9 +204,14 @@
             "timestamp": 1742983385
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/17b5d2176c1e95d3825e73f3855130b0.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983385
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/1e13c330e4bce89f5a37d8e709c976a0.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/17b5d2176c1e95d3825e73f3855130b0.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983385
+                }
+            ],
+            "timestamp": 1749739121
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +221,7 @@
     },
     "stats": {
         "created_at": 1742983385,
-        "updated_at": 1743023221,
-        "updates": 2
+        "updated_at": 1749739121,
+        "updates": 3
     }
 }

@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Refresco de limón Hacendado zero azúcar fresh gas",
+            "value": "Refresco de lim\u00f3n Hacendado zero az\u00facar fresh gas",
             "previous": [],
             "timestamp": 1742983315
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983315
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/29045/refresco-limon-hacendado-zero-azucar-fresh-gas-pack-6",
+            "value": "https:\/\/tienda.mercadona.es\/product\/29045\/refresco-limon-hacendado-zero-azucar-fresh-gas-pack-6",
             "previous": [],
             "timestamp": 1742983315
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983315
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/89127452a2d67c5499cb76e532db6a29.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/89127452a2d67c5499cb76e532db6a29.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983315
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983315,
-        "updated_at": 1743023141,
-        "updates": 2
+        "updated_at": 1749739021,
+        "updates": 3
     }
 }

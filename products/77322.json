@@ -174,7 +174,7 @@
             "timestamp": 1742983453
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/77322/alcohol-romero-deliplus-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/77322\/alcohol-romero-deliplus-botella",
             "previous": [],
             "timestamp": 1742983453
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983453
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/2ae841d94c0e84fe909dba81145e9c7c.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983453
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/7272122046b746f7abf0442703ed19ee.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/2ae841d94c0e84fe909dba81145e9c7c.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983453
+                }
+            ],
+            "timestamp": 1749739229
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983453,
-        "updated_at": 1743023300,
-        "updates": 2
+        "updated_at": 1749739229,
+        "updates": 3
     }
 }

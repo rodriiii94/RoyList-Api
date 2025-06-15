@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Laca de uñas alto brillo Deliplus 20 rosa magnético",
+            "value": "Laca de u\u00f1as alto brillo Deliplus 20 rosa magn\u00e9tico",
             "previous": [],
             "timestamp": 1742983446
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983446
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/42295/laca-unas-alto-brillo-deliplus-20-rosa-magnetico",
+            "value": "https:\/\/tienda.mercadona.es\/product\/42295\/laca-unas-alto-brillo-deliplus-20-rosa-magnetico",
             "previous": [],
             "timestamp": 1742983446
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983446
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/e708fb4876d624cc75691e57b4fe4fdd.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/e708fb4876d624cc75691e57b4fe4fdd.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983446
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983446,
-        "updated_at": 1743023292,
-        "updates": 2
+        "updated_at": 1749739217,
+        "updates": 3
     }
 }

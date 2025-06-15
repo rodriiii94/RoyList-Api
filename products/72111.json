@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Insecticida ácaros Bosque Verde especial tejidos",
+            "value": "Insecticida \u00e1caros Bosque Verde especial tejidos",
             "previous": [],
             "timestamp": 1742983470
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983470
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/72111/insecticida-acaros-bosque-verde-especial-tejidos-spray",
+            "value": "https:\/\/tienda.mercadona.es\/product\/72111\/insecticida-acaros-bosque-verde-especial-tejidos-spray",
             "previous": [],
             "timestamp": 1742983470
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983470
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/0e52599f80ab6571abb2af7009fdc2fc.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983470
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/318b8081a07fdc640796c45559eb85c3.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/0e52599f80ab6571abb2af7009fdc2fc.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983470
+                }
+            ],
+            "timestamp": 1749739257
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983470,
-        "updated_at": 1743023320,
-        "updates": 2
+        "updated_at": 1749739257,
+        "updates": 3
     }
 }

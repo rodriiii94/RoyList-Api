@@ -174,7 +174,7 @@
             "timestamp": 1742983372
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/6040/longaniza-magro-fresca-bandeja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/6040\/longaniza-magro-fresca-bandeja",
             "previous": [],
             "timestamp": 1742983372
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983372
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/af08926e546939dbda3956876555ec39.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983372
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/70ceb64625d07518a3de661bd97c19f4.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/af08926e546939dbda3956876555ec39.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983372
+                }
+            ],
+            "timestamp": 1749739104
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983372,
-        "updated_at": 1743023208,
-        "updates": 2
+        "updated_at": 1749739104,
+        "updates": 3
     }
 }

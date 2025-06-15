@@ -20,7 +20,7 @@
                     "timestamp": 1742983337
                 },
                 "name": {
-                    "value": "Bebé",
+                    "value": "Beb\u00e9",
                     "previous": [],
                     "timestamp": 1742983337
                 },
@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Papilla plátano, mandarina y pera +4 meses Hacendado +4 meses",
+            "value": "Papilla pl\u00e1tano, mandarina y pera +4 meses Hacendado +4 meses",
             "previous": [],
             "timestamp": 1742983337
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983337
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/22186/papilla-platano-mandarina-pera-4-meses-hacendado-pack-4",
+            "value": "https:\/\/tienda.mercadona.es\/product\/22186\/papilla-platano-mandarina-pera-4-meses-hacendado-pack-4",
             "previous": [],
             "timestamp": 1742983337
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983337
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/ccced23db722d4720524ce67a9d9c3e4.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983337
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/534b56ee5696ab1ff3f51742b06338c6.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/ccced23db722d4720524ce67a9d9c3e4.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983337
+                }
+            ],
+            "timestamp": 1749739056
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983337,
-        "updated_at": 1743023167,
-        "updates": 2
+        "updated_at": 1749739056,
+        "updates": 3
     }
 }

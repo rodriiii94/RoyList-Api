@@ -196,7 +196,7 @@
             "timestamp": 1742983324
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/22279/arroz-cocido-redondo-sabroz-brillante-pack-2",
+            "value": "https:\/\/tienda.mercadona.es\/product\/22279\/arroz-cocido-redondo-sabroz-brillante-pack-2",
             "previous": [],
             "timestamp": 1742983324
         },
@@ -211,7 +211,7 @@
             "timestamp": 1742983324
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/e75c6572f0f1cbe01e929e05e07a365c.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/e75c6572f0f1cbe01e929e05e07a365c.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983324
         },
@@ -223,7 +223,7 @@
     },
     "stats": {
         "created_at": 1742983324,
-        "updated_at": 1743023387,
-        "updates": 4
+        "updated_at": 1749739347,
+        "updates": 6
     }
 }

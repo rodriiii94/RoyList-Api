@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Toallitas íntimas cuidado diario Deliplus",
+            "value": "Toallitas \u00edntimas cuidado diario Deliplus",
             "previous": [],
             "timestamp": 1742983444
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983444
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/73988/toallitas-intimas-cuidado-diario-deliplus-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/73988\/toallitas-intimas-cuidado-diario-deliplus-paquete",
             "previous": [],
             "timestamp": 1742983444
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983444
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/116507b89748e549a313bae1b40579b4.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/116507b89748e549a313bae1b40579b4.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983444
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983444,
-        "updated_at": 1743023290,
-        "updates": 2
+        "updated_at": 1749739215,
+        "updates": 3
     }
 }

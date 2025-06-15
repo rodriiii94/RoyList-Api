@@ -37,9 +37,14 @@
             }
         ],
         "display_name": {
-            "value": "Neceser corazones mediano con asa",
-            "previous": [],
-            "timestamp": 1742983448
+            "value": "Neceser corazones mediano Uahuu con asa",
+            "previous": [
+                {
+                    "value": "Neceser corazones mediano con asa",
+                    "timestamp": 1742983448
+                }
+            ],
+            "timestamp": 1749739221
         },
         "id": {
             "value": "12059",
@@ -174,7 +179,7 @@
             "timestamp": 1742983448
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/12059/neceser-corazones-mediano-con-asa-210-x-140-x-70-mm",
+            "value": "https:\/\/tienda.mercadona.es\/product\/12059\/neceser-corazones-mediano-con-asa-210-x-140-x-70-mm",
             "previous": [],
             "timestamp": 1742983448
         },
@@ -189,7 +194,7 @@
             "timestamp": 1742983448
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/d3051f8d1d310e149b20e67282c655e1.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/d3051f8d1d310e149b20e67282c655e1.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983448
         },
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983448,
-        "updated_at": 1743023295,
-        "updates": 2
+        "updated_at": 1749739221,
+        "updates": 3
     }
 }

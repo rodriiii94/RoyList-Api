@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Sérum Anticaída Fortificante Deliplus",
+            "value": "S\u00e9rum Antica\u00edda Fortificante Deliplus",
             "previous": [],
             "timestamp": 1742983425
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983425
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/11586/serum-anticaida-fortificante-deliplus-con-ginseng-biotina-cafeina-bote",
+            "value": "https:\/\/tienda.mercadona.es\/product\/11586\/serum-anticaida-fortificante-deliplus-con-ginseng-biotina-cafeina-bote",
             "previous": [],
             "timestamp": 1742983425
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983425
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/b192d59d5e25ddb6f64d46b2caaffa72.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/b192d59d5e25ddb6f64d46b2caaffa72.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983425
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983425,
-        "updated_at": 1743023266,
-        "updates": 2
+        "updated_at": 1749739180,
+        "updates": 3
     }
 }

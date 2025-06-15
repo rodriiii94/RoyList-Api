@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Eau de parfum hombre Como tú Eternal",
+            "value": "Eau de parfum hombre Como t\u00fa Eternal",
             "previous": [],
             "timestamp": 1742983448
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983448
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/9941/eau-parfum-hombre-eternal-frasco",
+            "value": "https:\/\/tienda.mercadona.es\/product\/9941\/eau-parfum-hombre-eternal-frasco",
             "previous": [],
             "timestamp": 1742983448
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983448
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/0bd75f7dbab42dba3af3379ecdf37d9a.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/0bd75f7dbab42dba3af3379ecdf37d9a.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983448
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983448,
-        "updated_at": 1743023295,
-        "updates": 2
+        "updated_at": 1749739222,
+        "updates": 3
     }
 }

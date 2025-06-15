@@ -174,7 +174,7 @@
             "timestamp": 1742983444
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/86353/compresa-con-alas-super-evax-cotton-like-fresh-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/86353\/compresa-con-alas-super-evax-cotton-like-fresh-paquete",
             "previous": [],
             "timestamp": 1742983444
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983444
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/31ec244e7a2e0fade95bbc60db2b9584.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/31ec244e7a2e0fade95bbc60db2b9584.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983444
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983444,
-        "updated_at": 1743023290,
-        "updates": 2
+        "updated_at": 1749739213,
+        "updates": 3
     }
 }

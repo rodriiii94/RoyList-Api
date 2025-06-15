@@ -59,7 +59,7 @@
             }
         ],
         "display_name": {
-            "value": "Toallitas Dermo higiene corporal Deliplus tamaño gigantes",
+            "value": "Toallitas Dermo higiene corporal Deliplus tama\u00f1o gigantes",
             "previous": [],
             "timestamp": 1742983434
         },
@@ -196,7 +196,7 @@
             "timestamp": 1742983434
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/47828/toallitas-dermo-higiene-corporal-deliplus-tamano-gigantes-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/47828\/toallitas-dermo-higiene-corporal-deliplus-tamano-gigantes-paquete",
             "previous": [],
             "timestamp": 1742983434
         },
@@ -211,7 +211,7 @@
             "timestamp": 1742983434
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/fc04ecfb53badda995548b003b341c69.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/fc04ecfb53badda995548b003b341c69.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983434
         },
@@ -223,7 +223,7 @@
     },
     "stats": {
         "created_at": 1742983434,
-        "updated_at": 1743023337,
-        "updates": 4
+        "updated_at": 1749739279,
+        "updates": 6
     }
 }

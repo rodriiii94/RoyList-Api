@@ -59,7 +59,7 @@
             }
         ],
         "display_name": {
-            "value": "Mejillón de Chile entero cocido Hacendado ultracongelado",
+            "value": "Mejill\u00f3n de Chile entero cocido Hacendado ultracongelado",
             "previous": [],
             "timestamp": 1742983405
         },
@@ -196,7 +196,7 @@
             "timestamp": 1742983405
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/62401/mejillon-chile-entero-cocido-hacendado-ultracongelado-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/62401\/mejillon-chile-entero-cocido-hacendado-ultracongelado-caja",
             "previous": [],
             "timestamp": 1742983405
         },
@@ -211,9 +211,14 @@
             "timestamp": 1742983405
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/066939b7e4b192400e16d7403aa72ba4.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983405
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/b4e4b2663ea1d17228e8500f39b911d3.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/066939b7e4b192400e16d7403aa72ba4.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983405
+                }
+            ],
+            "timestamp": 1749739152
         },
         "unavailable_from": {
             "value": null,
@@ -223,7 +228,7 @@
     },
     "stats": {
         "created_at": 1742983405,
-        "updated_at": 1743023353,
-        "updates": 4
+        "updated_at": 1749739300,
+        "updates": 6
     }
 }

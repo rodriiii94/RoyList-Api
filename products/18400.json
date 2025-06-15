@@ -88,14 +88,24 @@
                 "timestamp": 1742983507
             },
             "bulk_price": {
-                "value": "29.76",
-                "previous": [],
-                "timestamp": 1742983507
+                "value": "28.57",
+                "previous": [
+                    {
+                        "value": "29.76",
+                        "timestamp": 1742983507
+                    }
+                ],
+                "timestamp": 1749739310
             },
             "unit_price": {
-                "value": "1.25",
-                "previous": [],
-                "timestamp": 1742983507
+                "value": "1.20",
+                "previous": [
+                    {
+                        "value": "1.25",
+                        "timestamp": 1742983507
+                    }
+                ],
+                "timestamp": 1749739310
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983507
             },
             "reference_price": {
-                "value": "43.104",
-                "previous": [],
-                "timestamp": 1742983507
+                "value": "41.380",
+                "previous": [
+                    {
+                        "value": "43.104",
+                        "timestamp": 1742983507
+                    }
+                ],
+                "timestamp": 1749739310
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983507
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/18400/filetes-anchoa-aceite-oliva-hacendado-lata",
+            "value": "https:\/\/tienda.mercadona.es\/product\/18400\/filetes-anchoa-aceite-oliva-hacendado-lata",
             "previous": [],
             "timestamp": 1742983507
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983507
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/8171455f30ce725f844a35ee92b06850.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/8171455f30ce725f844a35ee92b06850.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983507
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983507,
-        "updated_at": 1743023359,
-        "updates": 2
+        "updated_at": 1749739310,
+        "updates": 3
     }
 }

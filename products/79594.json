@@ -174,7 +174,7 @@
             "timestamp": 1742983452
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/79594/comprimidos-efervescentes-magnesio-deliplus-300-mg-sabor-naranja-vitaminas-b1-b6-b12-tubo",
+            "value": "https:\/\/tienda.mercadona.es\/product\/79594\/comprimidos-efervescentes-magnesio-deliplus-300-mg-sabor-naranja-vitaminas-b1-b6-b12-tubo",
             "previous": [],
             "timestamp": 1742983452
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983452
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/baaf70fb06ddd10e54e167a919e8fd2c.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/baaf70fb06ddd10e54e167a919e8fd2c.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983452
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983452,
-        "updated_at": 1743023298,
-        "updates": 2
+        "updated_at": 1749739227,
+        "updates": 3
     }
 }

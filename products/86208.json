@@ -37,9 +37,14 @@
             }
         ],
         "display_name": {
-            "value": "Cubo de basura reciclaje 50L o 30L + 10L + 10L Bosque Verde 44.5 x 44.5 x 37 cm",
-            "previous": [],
-            "timestamp": 1742983489
+            "value": "Cubo de basura reciclaje 50L o 30L + 10L + 10L Bosque Verde 44,5 x 44,5 x 37 cm",
+            "previous": [
+                {
+                    "value": "Cubo de basura reciclaje 50L o 30L + 10L + 10L Bosque Verde 44.5 x 44.5 x 37 cm",
+                    "timestamp": 1742983489
+                }
+            ],
+            "timestamp": 1749739283
         },
         "id": {
             "value": "86208",
@@ -174,7 +179,7 @@
             "timestamp": 1742983489
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/86208/cubo-basura-reciclaje-50l-30l-10l-10l-bosque-verde-445-x-445-x-37-cm-separar",
+            "value": "https:\/\/tienda.mercadona.es\/product\/86208\/cubo-basura-reciclaje-50l-30l-10l-10l-bosque-verde-445-x-445-x-37-cm-separar",
             "previous": [],
             "timestamp": 1742983489
         },
@@ -189,7 +194,7 @@
             "timestamp": 1742983489
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/719242ecb73b0ad20cb6289886afce81.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/719242ecb73b0ad20cb6289886afce81.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983489
         },
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983489,
-        "updated_at": 1743023341,
-        "updates": 2
+        "updated_at": 1749739283,
+        "updates": 3
     }
 }

@@ -88,14 +88,24 @@
                 "timestamp": 1742983364
             },
             "bulk_price": {
-                "value": "11.12",
-                "previous": [],
-                "timestamp": 1742983364
+                "value": "11.20",
+                "previous": [
+                    {
+                        "value": "11.12",
+                        "timestamp": 1742983364
+                    }
+                ],
+                "timestamp": 1749739094
             },
             "unit_price": {
-                "value": "2.78",
-                "previous": [],
-                "timestamp": 1742983364
+                "value": "2.80",
+                "previous": [
+                    {
+                        "value": "2.78",
+                        "timestamp": 1742983364
+                    }
+                ],
+                "timestamp": 1749739094
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983364
             },
             "reference_price": {
-                "value": "11.120",
-                "previous": [],
-                "timestamp": 1742983364
+                "value": "11.200",
+                "previous": [
+                    {
+                        "value": "11.120",
+                        "timestamp": 1742983364
+                    }
+                ],
+                "timestamp": 1749739094
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983364
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/59154/chorizo-asturiano-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/59154\/chorizo-asturiano-paquete",
             "previous": [],
             "timestamp": 1742983364
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983364
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/e3d5d0a71e1aeb4f384910f2c8aebeda.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/e3d5d0a71e1aeb4f384910f2c8aebeda.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983364
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983364,
-        "updated_at": 1743023200,
-        "updates": 2
+        "updated_at": 1749739094,
+        "updates": 3
     }
 }

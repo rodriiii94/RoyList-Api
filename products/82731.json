@@ -20,7 +20,7 @@
                     "timestamp": 1742983516
                 },
                 "name": {
-                    "value": "Panadería y pastelería",
+                    "value": "Panader\u00eda y pasteler\u00eda",
                     "previous": [],
                     "timestamp": 1742983516
                 },
@@ -174,7 +174,7 @@
             "timestamp": 1742983516
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/82731/magdalenas-cacao-hacendado-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/82731\/magdalenas-cacao-hacendado-paquete",
             "previous": [],
             "timestamp": 1742983516
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983516
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/b79a0bc39f0b3aeb894799ea40216295.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/b79a0bc39f0b3aeb894799ea40216295.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983516
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983516,
-        "updated_at": 1743023368,
-        "updates": 2
+        "updated_at": 1749739323,
+        "updates": 3
     }
 }

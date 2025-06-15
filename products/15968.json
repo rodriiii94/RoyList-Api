@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Vasos grandes de plástico Bosque Verde reutilizables",
+            "value": "Vasos grandes de pl\u00e1stico Bosque Verde reutilizables",
             "previous": [],
             "timestamp": 1742983484
         },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983484
             },
             "bulk_price": {
-                "value": "0.16",
-                "previous": [],
-                "timestamp": 1742983484
+                "value": "0.17",
+                "previous": [
+                    {
+                        "value": "0.16",
+                        "timestamp": 1742983484
+                    }
+                ],
+                "timestamp": 1749739276
             },
             "unit_price": {
-                "value": "1.55",
-                "previous": [],
-                "timestamp": 1742983484
+                "value": "1.65",
+                "previous": [
+                    {
+                        "value": "1.55",
+                        "timestamp": 1742983484
+                    }
+                ],
+                "timestamp": 1749739276
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983484
             },
             "reference_price": {
-                "value": "0.155",
-                "previous": [],
-                "timestamp": 1742983484
+                "value": "0.165",
+                "previous": [
+                    {
+                        "value": "0.155",
+                        "timestamp": 1742983484
+                    }
+                ],
+                "timestamp": 1749739276
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983484
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/15968/vasos-grandes-plastico-bosque-verde-reutilizables-multiusos-550-ml-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/15968\/vasos-grandes-plastico-bosque-verde-reutilizables-multiusos-550-ml-paquete",
             "previous": [],
             "timestamp": 1742983484
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983484
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/2e160ea1eb91c926dfdef9b5142379c9.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/2e160ea1eb91c926dfdef9b5142379c9.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983484
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983484,
-        "updated_at": 1743023335,
-        "updates": 2
+        "updated_at": 1749739276,
+        "updates": 3
     }
 }

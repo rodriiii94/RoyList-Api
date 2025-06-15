@@ -59,7 +59,7 @@
             }
         ],
         "display_name": {
-            "value": "Puntilla de la Índia Hacendado congelada",
+            "value": "Puntilla de la \u00cdndia Hacendado congelada",
             "previous": [],
             "timestamp": 1742983407
         },
@@ -196,7 +196,7 @@
             "timestamp": 1742983407
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/24291/chipiron-puntilla-hacendado-congelado-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/24291\/chipiron-puntilla-hacendado-congelado-paquete",
             "previous": [],
             "timestamp": 1742983407
         },
@@ -211,7 +211,7 @@
             "timestamp": 1742983407
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/9762e7bed976db8bd302dd0c16188db8.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/9762e7bed976db8bd302dd0c16188db8.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983407
         },
@@ -223,7 +223,7 @@
     },
     "stats": {
         "created_at": 1742983407,
-        "updated_at": 1743023355,
-        "updates": 4
+        "updated_at": 1749739304,
+        "updates": 6
     }
 }

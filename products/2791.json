@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Filetes pechuga de pollo certificado alimentado con un 50% de maíz",
+            "value": "Filetes pechuga de pollo certificado alimentado con un 50% de ma\u00edz",
             "previous": [],
             "timestamp": 1742983366
         },
@@ -83,19 +83,34 @@
                 "timestamp": 1742983366
             },
             "unit_size": {
-                "value": 0.5,
-                "previous": [],
-                "timestamp": 1742983366
+                "value": 0.59,
+                "previous": [
+                    {
+                        "value": 0.5,
+                        "timestamp": 1742983366
+                    }
+                ],
+                "timestamp": 1749739096
             },
             "bulk_price": {
-                "value": "8.70",
-                "previous": [],
-                "timestamp": 1742983366
+                "value": "9.00",
+                "previous": [
+                    {
+                        "value": "8.70",
+                        "timestamp": 1742983366
+                    }
+                ],
+                "timestamp": 1749739096
             },
             "unit_price": {
-                "value": "4.35",
-                "previous": [],
-                "timestamp": 1742983366
+                "value": "5.31",
+                "previous": [
+                    {
+                        "value": "4.35",
+                        "timestamp": 1742983366
+                    }
+                ],
+                "timestamp": 1749739096
             },
             "approx_size": {
                 "value": true,
@@ -143,9 +158,14 @@
                 "timestamp": 1742983366
             },
             "reference_price": {
-                "value": "8.700",
-                "previous": [],
-                "timestamp": 1742983366
+                "value": "9.000",
+                "previous": [
+                    {
+                        "value": "8.700",
+                        "timestamp": 1742983366
+                    }
+                ],
+                "timestamp": 1749739096
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +194,7 @@
             "timestamp": 1742983366
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/2791/filetes-pechuga-pollo-certificado-alimentado-con-50-maiz-bandeja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/2791\/filetes-pechuga-pollo-certificado-alimentado-con-50-maiz-bandeja",
             "previous": [],
             "timestamp": 1742983366
         },
@@ -189,9 +209,14 @@
             "timestamp": 1742983366
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/ad186149facf8f38477b633678af4dfa.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983366
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/ae77ba27e9fc690c2025870a21e710aa.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/ad186149facf8f38477b633678af4dfa.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983366
+                }
+            ],
+            "timestamp": 1749739096
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +226,7 @@
     },
     "stats": {
         "created_at": 1742983366,
-        "updated_at": 1743023201,
-        "updates": 2
+        "updated_at": 1749739096,
+        "updates": 3
     }
 }

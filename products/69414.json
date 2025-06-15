@@ -174,7 +174,7 @@
             "timestamp": 1742983459
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/69414/tomates-cherry-rama-dulcita-bandeja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/69414\/tomates-cherry-rama-dulcita-bandeja",
             "previous": [],
             "timestamp": 1742983459
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983459
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/2ab1d29071350f27f27b9b3b08129da4.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/2ab1d29071350f27f27b9b3b08129da4.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983459
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983459,
-        "updated_at": 1743023307,
-        "updates": 2
+        "updated_at": 1749739238,
+        "updates": 3
     }
 }

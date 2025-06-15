@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739296
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739296
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 22,
+                    "previous": [],
+                    "timestamp": 1749739296
+                },
+                "name": {
+                    "value": "Maquillaje",
+                    "previous": [],
+                    "timestamp": 1749739296
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739296
+                },
+                "order": {
+                    "value": 421,
+                    "previous": [],
+                    "timestamp": 1749739296
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Paleta sombras de ojos Deliplus 11 verdes",
+            "previous": [],
+            "timestamp": 1749739296
+        },
+        "id": {
+            "value": "12091",
+            "previous": [],
+            "timestamp": 1749739296
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739296
+        },
+        "packaging": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739296
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1749739296
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739296
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739296
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739296
+            },
+            "unit_name": {
+                "value": "ud.",
+                "previous": [],
+                "timestamp": 1749739296
+            },
+            "unit_size": {
+                "value": 0.004,
+                "previous": [],
+                "timestamp": 1749739296
+            },
+            "bulk_price": {
+                "value": "4.00",
+                "previous": [],
+                "timestamp": 1749739296
+            },
+            "unit_price": {
+                "value": "4.00",
+                "previous": [],
+                "timestamp": 1749739296
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739296
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1749739296
+            },
+            "total_units": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739296
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739296
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739296
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739296
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739296
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1749739296
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739296
+            },
+            "reference_price": {
+                "value": "4.000",
+                "previous": [],
+                "timestamp": 1749739296
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739296
+            },
+            "reference_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1749739296
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739296
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739296
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739296
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/12091\/paleta-sombras-ojos-deliplus-11-verdes",
+            "previous": [],
+            "timestamp": 1749739296
+        },
+        "slug": {
+            "value": "paleta-sombras-ojos-deliplus-11-verdes",
+            "previous": [],
+            "timestamp": 1749739296
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739296
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/7d898b32875c34f3f02eaca3a6324f16.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739296
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739296
+        }
+    },
+    "stats": {
+        "created_at": 1749739296,
+        "updated_at": 1749739296,
+        "updates": 1
+    }
+}

@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739209
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739209
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 20,
+                    "previous": [],
+                    "timestamp": 1749739209
+                },
+                "name": {
+                    "value": "Cuidado facial y corporal",
+                    "previous": [],
+                    "timestamp": 1749739209
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739209
+                },
+                "order": {
+                    "value": 241,
+                    "previous": [],
+                    "timestamp": 1749739209
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Dent\u00edfrico Pro-Expert Oral-B sabor menta especiada",
+            "previous": [],
+            "timestamp": 1749739209
+        },
+        "id": {
+            "value": "13913",
+            "previous": [],
+            "timestamp": 1749739209
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739209
+        },
+        "packaging": {
+            "value": "Tubo",
+            "previous": [],
+            "timestamp": 1749739209
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1749739209
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739209
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739209
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739209
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739209
+            },
+            "unit_size": {
+                "value": 0.075,
+                "previous": [],
+                "timestamp": 1749739209
+            },
+            "bulk_price": {
+                "value": "35.33",
+                "previous": [],
+                "timestamp": 1749739209
+            },
+            "unit_price": {
+                "value": "2.65",
+                "previous": [],
+                "timestamp": 1749739209
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739209
+            },
+            "size_format": {
+                "value": "l",
+                "previous": [],
+                "timestamp": 1749739209
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739209
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739209
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739209
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739209
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739209
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1749739209
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739209
+            },
+            "reference_price": {
+                "value": "3.534",
+                "previous": [],
+                "timestamp": 1749739209
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739209
+            },
+            "reference_format": {
+                "value": "100 ml",
+                "previous": [],
+                "timestamp": 1749739209
+            },
+            "previous_unit_price": {
+                "value": "        2.95",
+                "previous": [],
+                "timestamp": 1749739209
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739209
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739209
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/13913\/dentifrico-pro-expert-oral-b-sabor-menta-especiada-tubo",
+            "previous": [],
+            "timestamp": 1749739209
+        },
+        "slug": {
+            "value": "dentifrico-pro-expert-oral-b-sabor-menta-especiada-tubo",
+            "previous": [],
+            "timestamp": 1749739209
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739209
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/4694ce4c429d9c43caf15531b4be598a.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739209
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739209
+        }
+    },
+    "stats": {
+        "created_at": 1749739209,
+        "updated_at": 1749739209,
+        "updates": 1
+    }
+}

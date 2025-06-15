@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Pizza jamón y queso familiar Hacendado",
+            "value": "Pizza jam\u00f3n y queso familiar Hacendado",
             "previous": [],
             "timestamp": 1742983531
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983531
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/63627/pizza-jamon-queso-familiar-hacendado",
+            "value": "https:\/\/tienda.mercadona.es\/product\/63627\/pizza-jamon-queso-familiar-hacendado",
             "previous": [],
             "timestamp": 1742983531
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983531
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/9171debfdd811cd2bc2b50c63b66227a.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983531
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/6579fe6841b618c237ae839c4fc34adb.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/9171debfdd811cd2bc2b50c63b66227a.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983531
+                }
+            ],
+            "timestamp": 1749739344
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983531,
-        "updated_at": 1743023384,
-        "updates": 2
+        "updated_at": 1749739344,
+        "updates": 3
     }
 }

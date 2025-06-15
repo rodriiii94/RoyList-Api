@@ -88,14 +88,24 @@
                 "timestamp": 1742983539
             },
             "bulk_price": {
-                "value": "1.83",
-                "previous": [],
-                "timestamp": 1742983539
+                "value": "1.75",
+                "previous": [
+                    {
+                        "value": "1.83",
+                        "timestamp": 1742983539
+                    }
+                ],
+                "timestamp": 1749739355
             },
             "unit_price": {
-                "value": "1.10",
-                "previous": [],
-                "timestamp": 1742983539
+                "value": "1.05",
+                "previous": [
+                    {
+                        "value": "1.10",
+                        "timestamp": 1742983539
+                    }
+                ],
+                "timestamp": 1749739355
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983539
             },
             "reference_price": {
-                "value": "1.834",
-                "previous": [],
-                "timestamp": 1742983539
+                "value": "1.750",
+                "previous": [
+                    {
+                        "value": "1.834",
+                        "timestamp": 1742983539
+                    }
+                ],
+                "timestamp": 1749739355
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -158,7 +173,7 @@
                 "timestamp": 1742983539
             },
             "previous_unit_price": {
-                "value": null,
+                "value": "        1.10",
                 "previous": [],
                 "timestamp": 1742983539
             },
@@ -174,7 +189,7 @@
             "timestamp": 1742983539
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/68106/flan-vainilla-con-caramelo-hacendado-pack-6",
+            "value": "https:\/\/tienda.mercadona.es\/product\/68106\/flan-vainilla-con-caramelo-hacendado-pack-6",
             "previous": [],
             "timestamp": 1742983539
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983539
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/a12e4b298aeaaed778b1effd7c8b844e.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/a12e4b298aeaaed778b1effd7c8b844e.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983539
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983539,
-        "updated_at": 1743023392,
-        "updates": 2
+        "updated_at": 1749739355,
+        "updates": 3
     }
 }

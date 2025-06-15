@@ -174,7 +174,7 @@
             "timestamp": 1742983437
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/78071/pinza-cejas-deliplus-oblicua-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/78071\/pinza-cejas-deliplus-oblicua-paquete",
             "previous": [],
             "timestamp": 1742983437
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983437
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/0dace6c79819ffcc0ca3b699cc7993ce.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/0dace6c79819ffcc0ca3b699cc7993ce.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983437
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983437,
-        "updated_at": 1743023282,
-        "updates": 2
+        "updated_at": 1749739202,
+        "updates": 3
     }
 }

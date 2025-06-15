@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Bebida láctea de fresa y plátano Hacendado",
+            "value": "Bebida l\u00e1ctea de fresa y pl\u00e1tano Hacendado",
             "previous": [],
             "timestamp": 1742983547
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983547
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/20613/bebida-lactea-fresa-platano-hacendado-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/20613\/bebida-lactea-fresa-platano-hacendado-botella",
             "previous": [],
             "timestamp": 1742983547
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983547
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/a4a866cae37a8bd6b92746f8a36c8be3.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/a4a866cae37a8bd6b92746f8a36c8be3.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983547
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983547,
-        "updated_at": 1743023400,
-        "updates": 2
+        "updated_at": 1749739365,
+        "updates": 3
     }
 }

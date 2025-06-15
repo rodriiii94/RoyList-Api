@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Coloración permanente Garnier 1.0 ultra negro",
+            "value": "Coloraci\u00f3n permanente Garnier 1.0 ultra negro",
             "previous": [],
             "timestamp": 1742983428
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983428
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/77783/coloracion-permanente-garnier-10-ultra-negro-color-sensation-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/77783\/coloracion-permanente-garnier-10-ultra-negro-color-sensation-caja",
             "previous": [],
             "timestamp": 1742983428
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983428
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/f96268ca586e6d6a00fbbae8c2ec6c4c.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983428
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/e626d2b659afc347692fda12d93f7022.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/f96268ca586e6d6a00fbbae8c2ec6c4c.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983428
+                }
+            ],
+            "timestamp": 1749739185
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983428,
-        "updated_at": 1743023270,
-        "updates": 2
+        "updated_at": 1749739185,
+        "updates": 3
     }
 }

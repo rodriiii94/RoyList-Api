@@ -174,7 +174,7 @@
             "timestamp": 1742983309
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/17362/salsa-teriyaki-hacendado-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/17362\/salsa-teriyaki-hacendado-botella",
             "previous": [],
             "timestamp": 1742983309
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983309
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/bafb7fe4f0059d3dacd28356f8dabf10.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/bafb7fe4f0059d3dacd28356f8dabf10.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983309
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983309,
-        "updated_at": 1743023133,
-        "updates": 2
+        "updated_at": 1749739011,
+        "updates": 3
     }
 }

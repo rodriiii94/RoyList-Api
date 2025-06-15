@@ -174,7 +174,7 @@
             "timestamp": 1742983320
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/52734/aceitunas-negras-hacendado-sin-hueso-bote",
+            "value": "https:\/\/tienda.mercadona.es\/product\/52734\/aceitunas-negras-hacendado-sin-hueso-bote",
             "previous": [],
             "timestamp": 1742983320
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983320
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/11d2dfa20dda9724c8c02aec99b8865c.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/11d2dfa20dda9724c8c02aec99b8865c.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983320
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983320,
-        "updated_at": 1743023146,
-        "updates": 2
+        "updated_at": 1749739028,
+        "updates": 3
     }
 }

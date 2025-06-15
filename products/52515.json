@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Desodorante stick Deo Bambú Deliplus antimanchas",
+            "value": "Desodorante stick Deo Bamb\u00fa Deliplus antimanchas",
             "previous": [],
             "timestamp": 1742983439
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983439
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/52515/desodorante-stick-deo-bambu-deliplus-antimanchas-0-aluminio-alcohol",
+            "value": "https:\/\/tienda.mercadona.es\/product\/52515\/desodorante-stick-deo-bambu-deliplus-antimanchas-0-aluminio-alcohol",
             "previous": [],
             "timestamp": 1742983439
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983439
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/97ee826a4ac32b7b76cccc5700bb2560.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/97ee826a4ac32b7b76cccc5700bb2560.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983439
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983439,
-        "updated_at": 1743023283,
-        "updates": 2
+        "updated_at": 1749739204,
+        "updates": 3
     }
 }

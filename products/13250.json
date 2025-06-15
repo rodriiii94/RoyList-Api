@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739342
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739342
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 16,
+                    "previous": [],
+                    "timestamp": 1749739342
+                },
+                "name": {
+                    "value": "Pizzas y platos preparados",
+                    "previous": [],
+                    "timestamp": 1749739342
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739342
+                },
+                "order": {
+                    "value": 596,
+                    "previous": [],
+                    "timestamp": 1749739342
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Ensaladilla de marisco Listo para Comer",
+            "previous": [],
+            "timestamp": 1749739342
+        },
+        "id": {
+            "value": "13250",
+            "previous": [],
+            "timestamp": 1749739342
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739342
+        },
+        "packaging": {
+            "value": "Bol",
+            "previous": [],
+            "timestamp": 1749739342
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1749739342
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739342
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739342
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739342
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739342
+            },
+            "unit_size": {
+                "value": 0.25,
+                "previous": [],
+                "timestamp": 1749739342
+            },
+            "bulk_price": {
+                "value": "4.00",
+                "previous": [],
+                "timestamp": 1749739342
+            },
+            "unit_price": {
+                "value": "4.00",
+                "previous": [],
+                "timestamp": 1749739342
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739342
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1749739342
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739342
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739342
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739342
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739342
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739342
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1749739342
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739342
+            },
+            "reference_price": {
+                "value": "4.000",
+                "previous": [],
+                "timestamp": 1749739342
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739342
+            },
+            "reference_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1749739342
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739342
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739342
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739342
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/13250\/ensaladilla-marisco-listo-comer-compuesta-mayonesa-boca-mar-langostino-merluza-huevo-hilado-bol",
+            "previous": [],
+            "timestamp": 1749739342
+        },
+        "slug": {
+            "value": "ensaladilla-marisco-listo-comer-compuesta-mayonesa-boca-mar-langostino-merluza-huevo-hilado-bol",
+            "previous": [],
+            "timestamp": 1749739342
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739342
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/81bb1807278bb4d6a825fe4d8c38e973.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739342
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739342
+        }
+    },
+    "stats": {
+        "created_at": 1749739342,
+        "updated_at": 1749739351,
+        "updates": 2
+    }
+}

@@ -20,7 +20,7 @@
                     "timestamp": 1742983389
                 },
                 "name": {
-                    "value": "Charcutería y quesos",
+                    "value": "Charcuter\u00eda y quesos",
                     "previous": [],
                     "timestamp": 1742983389
                 },
@@ -83,9 +83,14 @@
                 "timestamp": 1742983389
             },
             "unit_size": {
-                "value": 0.4,
-                "previous": [],
-                "timestamp": 1742983389
+                "value": 0.35,
+                "previous": [
+                    {
+                        "value": 0.4,
+                        "timestamp": 1742983389
+                    }
+                ],
+                "timestamp": 1749739128
             },
             "bulk_price": {
                 "value": "17.50",
@@ -93,9 +98,14 @@
                 "timestamp": 1742983389
             },
             "unit_price": {
-                "value": "7.00",
-                "previous": [],
-                "timestamp": 1742983389
+                "value": "6.13",
+                "previous": [
+                    {
+                        "value": "7.00",
+                        "timestamp": 1742983389
+                    }
+                ],
+                "timestamp": 1749739128
             },
             "approx_size": {
                 "value": true,
@@ -174,7 +184,7 @@
             "timestamp": 1742983389
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/54053/lomo-hacendado-pieza",
+            "value": "https:\/\/tienda.mercadona.es\/product\/54053\/lomo-hacendado-pieza",
             "previous": [],
             "timestamp": 1742983389
         },
@@ -189,7 +199,7 @@
             "timestamp": 1742983389
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/0a8d5c34aad7f30cbc1b65d10811df2b.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/0a8d5c34aad7f30cbc1b65d10811df2b.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983389
         },
@@ -201,7 +211,7 @@
     },
     "stats": {
         "created_at": 1742983389,
-        "updated_at": 1743023227,
-        "updates": 2
+        "updated_at": 1749739128,
+        "updates": 3
     }
 }

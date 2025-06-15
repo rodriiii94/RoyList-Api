@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Ensalada jamón",
+            "value": "Ensalada jam\u00f3n",
             "previous": [],
             "timestamp": 1742983457
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983457
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/69884/ensalada-jamon-compuesta-jamon-curado-queso-curado-picatostes-con-tomate-oregano-aceite-sal-vinagre-incluye-tenedor-bol",
+            "value": "https:\/\/tienda.mercadona.es\/product\/69884\/ensalada-jamon-compuesta-jamon-curado-queso-curado-picatostes-con-tomate-oregano-aceite-sal-vinagre-incluye-tenedor-bol",
             "previous": [],
             "timestamp": 1742983457
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983457
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/3f2c6b36e407ead39b820152904c1caf.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983457
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/2a4da1af34dd617349b6d22d03319e04.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/3f2c6b36e407ead39b820152904c1caf.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983457
+                }
+            ],
+            "timestamp": 1749739236
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983457,
-        "updated_at": 1743023305,
-        "updates": 2
+        "updated_at": 1749739236,
+        "updates": 3
     }
 }

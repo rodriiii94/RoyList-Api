@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739148
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739148
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 17,
+                    "previous": [],
+                    "timestamp": 1749739148
+                },
+                "name": {
+                    "value": "Congelados",
+                    "previous": [],
+                    "timestamp": 1749739148
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739148
+                },
+                "order": {
+                    "value": 213,
+                    "previous": [],
+                    "timestamp": 1749739148
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Helado sorbete de mango Hacendado",
+            "previous": [],
+            "timestamp": 1749739148
+        },
+        "id": {
+            "value": "64220",
+            "previous": [],
+            "timestamp": 1749739148
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739148
+        },
+        "packaging": {
+            "value": "Caja",
+            "previous": [],
+            "timestamp": 1749739148
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1749739148
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739148
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739148
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739148
+            },
+            "unit_name": {
+                "value": "ud.",
+                "previous": [],
+                "timestamp": 1749739148
+            },
+            "unit_size": {
+                "value": 0.75,
+                "previous": [],
+                "timestamp": 1749739148
+            },
+            "bulk_price": {
+                "value": "3.07",
+                "previous": [],
+                "timestamp": 1749739148
+            },
+            "unit_price": {
+                "value": "2.30",
+                "previous": [],
+                "timestamp": 1749739148
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739148
+            },
+            "size_format": {
+                "value": "l",
+                "previous": [],
+                "timestamp": 1749739148
+            },
+            "total_units": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1749739148
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739148
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739148
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739148
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739148
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1749739148
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739148
+            },
+            "reference_price": {
+                "value": "3.067",
+                "previous": [],
+                "timestamp": 1749739148
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739148
+            },
+            "reference_format": {
+                "value": "L",
+                "previous": [],
+                "timestamp": 1749739148
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739148
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739148
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739148
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/64220\/helado-sorbete-mango-hacendado-caja",
+            "previous": [],
+            "timestamp": 1749739148
+        },
+        "slug": {
+            "value": "helado-sorbete-mango-hacendado-caja",
+            "previous": [],
+            "timestamp": 1749739148
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739148
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/b721082a0adb95471999014c1c348be2.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739148
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739148
+        }
+    },
+    "stats": {
+        "created_at": 1749739148,
+        "updated_at": 1749739148,
+        "updates": 1
+    }
+}

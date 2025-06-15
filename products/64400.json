@@ -174,7 +174,7 @@
             "timestamp": 1742983402
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/64400/helado-chocolate-hacendado-con-trocitos-sabor-chocolate-tarrina",
+            "value": "https:\/\/tienda.mercadona.es\/product\/64400\/helado-chocolate-hacendado-con-trocitos-sabor-chocolate-tarrina",
             "previous": [],
             "timestamp": 1742983402
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983402
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/c925fd2475696a943c57c4cee0e75e4a.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983402
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/99bd1a90433c1400501702c7285f3485.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/c925fd2475696a943c57c4cee0e75e4a.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983402
+                }
+            ],
+            "timestamp": 1749739148
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983402,
-        "updated_at": 1743023241,
-        "updates": 2
+        "updated_at": 1749739148,
+        "updates": 3
     }
 }

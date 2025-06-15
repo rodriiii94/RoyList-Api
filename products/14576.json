@@ -174,7 +174,7 @@
             "timestamp": 1742983381
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/14576/barquillos-rellenos-sabor-nata-hacendado-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/14576\/barquillos-rellenos-sabor-nata-hacendado-paquete",
             "previous": [],
             "timestamp": 1742983381
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983381
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/657237a00e02650cc2f8cbbf9d04ae47.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/657237a00e02650cc2f8cbbf9d04ae47.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983381
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983381,
-        "updated_at": 1743023218,
-        "updates": 2
+        "updated_at": 1749739116,
+        "updates": 3
     }
 }

@@ -20,7 +20,7 @@
                     "timestamp": 1742983523
                 },
                 "name": {
-                    "value": "Panadería y pastelería",
+                    "value": "Panader\u00eda y pasteler\u00eda",
                     "previous": [],
                     "timestamp": 1742983523
                 },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983523
             },
             "bulk_price": {
-                "value": "1.98",
-                "previous": [],
-                "timestamp": 1742983523
+                "value": "2.00",
+                "previous": [
+                    {
+                        "value": "1.98",
+                        "timestamp": 1742983523
+                    }
+                ],
+                "timestamp": 1749739334
             },
             "unit_price": {
-                "value": "0.99",
-                "previous": [],
-                "timestamp": 1742983523
+                "value": "1.00",
+                "previous": [
+                    {
+                        "value": "0.99",
+                        "timestamp": 1742983523
+                    }
+                ],
+                "timestamp": 1749739334
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983523
             },
             "reference_price": {
-                "value": "1.980",
-                "previous": [],
-                "timestamp": 1742983523
+                "value": "2.000",
+                "previous": [
+                    {
+                        "value": "1.980",
+                        "timestamp": 1742983523
+                    }
+                ],
+                "timestamp": 1749739334
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983523
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/82352/pan-rallado-casero-hacendado-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/82352\/pan-rallado-casero-hacendado-paquete",
             "previous": [],
             "timestamp": 1742983523
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983523
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/7d68ff5676a8158bdcb746652bb3a8f7.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/7d68ff5676a8158bdcb746652bb3a8f7.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983523
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983523,
-        "updated_at": 1743023376,
-        "updates": 2
+        "updated_at": 1749739334,
+        "updates": 3
     }
 }

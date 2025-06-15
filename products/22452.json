@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739146
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739146
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 17,
+                    "previous": [],
+                    "timestamp": 1749739146
+                },
+                "name": {
+                    "value": "Congelados",
+                    "previous": [],
+                    "timestamp": 1749739146
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739146
+                },
+                "order": {
+                    "value": 213,
+                    "previous": [],
+                    "timestamp": 1749739146
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Helado mini Boom Hacendado con cobertura blanda de pasta de avellana y galleta troceada",
+            "previous": [],
+            "timestamp": 1749739146
+        },
+        "id": {
+            "value": "22452",
+            "previous": [],
+            "timestamp": 1749739146
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739146
+        },
+        "packaging": {
+            "value": "Caja",
+            "previous": [],
+            "timestamp": 1749739146
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1749739146
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739146
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739146
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739146
+            },
+            "unit_name": {
+                "value": "ud.",
+                "previous": [],
+                "timestamp": 1749739146
+            },
+            "unit_size": {
+                "value": 0.48,
+                "previous": [],
+                "timestamp": 1749739146
+            },
+            "bulk_price": {
+                "value": "6.04",
+                "previous": [],
+                "timestamp": 1749739146
+            },
+            "unit_price": {
+                "value": "2.90",
+                "previous": [],
+                "timestamp": 1749739146
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739146
+            },
+            "size_format": {
+                "value": "l",
+                "previous": [],
+                "timestamp": 1749739146
+            },
+            "total_units": {
+                "value": 8,
+                "previous": [],
+                "timestamp": 1749739146
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739146
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739146
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739146
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739146
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1749739146
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739146
+            },
+            "reference_price": {
+                "value": "6.042",
+                "previous": [],
+                "timestamp": 1749739146
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739146
+            },
+            "reference_format": {
+                "value": "L",
+                "previous": [],
+                "timestamp": 1749739146
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739146
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739146
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739146
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/22452\/helado-mini-boom-hacendado-con-cobertura-blanda-pasta-avellana-galleta-troceada-caja",
+            "previous": [],
+            "timestamp": 1749739146
+        },
+        "slug": {
+            "value": "helado-mini-boom-hacendado-con-cobertura-blanda-pasta-avellana-galleta-troceada-caja",
+            "previous": [],
+            "timestamp": 1749739146
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739146
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/8a9c31d7621831473903883df1ed4d2c.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739146
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739146
+        }
+    },
+    "stats": {
+        "created_at": 1749739146,
+        "updated_at": 1749739146,
+        "updates": 1
+    }
+}

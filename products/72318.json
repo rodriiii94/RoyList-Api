@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Insecticida líquido Bosque Verde",
+            "value": "Insecticida l\u00edquido Bosque Verde",
             "previous": [],
             "timestamp": 1742983470
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983470
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/72318/insecticida-liquido-bosque-verde-con-pistola-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/72318\/insecticida-liquido-bosque-verde-con-pistola-botella",
             "previous": [],
             "timestamp": 1742983470
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983470
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/ff52991ffe25f56c73badb4ffc5cc255.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/ff52991ffe25f56c73badb4ffc5cc255.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983470
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983470,
-        "updated_at": 1743023320,
-        "updates": 2
+        "updated_at": 1749739257,
+        "updates": 3
     }
 }

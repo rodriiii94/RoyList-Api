@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Laca de uñas alto brillo Deliplus 15 perla rosada",
+            "value": "Laca de u\u00f1as alto brillo Deliplus 15 perla rosada",
             "previous": [],
             "timestamp": 1742983446
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983446
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/42293/laca-unas-alto-brillo-deliplus-15-perla-rosada",
+            "value": "https:\/\/tienda.mercadona.es\/product\/42293\/laca-unas-alto-brillo-deliplus-15-perla-rosada",
             "previous": [],
             "timestamp": 1742983446
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983446
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/58a219847325a3e616931b1226754d3a.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/58a219847325a3e616931b1226754d3a.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983446
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983446,
-        "updated_at": 1743023292,
-        "updates": 2
+        "updated_at": 1749739217,
+        "updates": 3
     }
 }

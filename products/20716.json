@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Mantequilla sin sal añadida Hacendado",
+            "value": "Mantequilla sin sal a\u00f1adida Hacendado",
             "previous": [],
             "timestamp": 1742983465
         },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983465
             },
             "bulk_price": {
-                "value": "9.20",
-                "previous": [],
-                "timestamp": 1742983465
+                "value": "9.00",
+                "previous": [
+                    {
+                        "value": "9.20",
+                        "timestamp": 1742983465
+                    }
+                ],
+                "timestamp": 1749739249
             },
             "unit_price": {
-                "value": "2.30",
-                "previous": [],
-                "timestamp": 1742983465
+                "value": "2.25",
+                "previous": [
+                    {
+                        "value": "2.30",
+                        "timestamp": 1742983465
+                    }
+                ],
+                "timestamp": 1749739249
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983465
             },
             "reference_price": {
-                "value": "9.200",
-                "previous": [],
-                "timestamp": 1742983465
+                "value": "9.000",
+                "previous": [
+                    {
+                        "value": "9.200",
+                        "timestamp": 1742983465
+                    }
+                ],
+                "timestamp": 1749739249
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983465
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/20716/mantequilla-sin-sal-anadida-hacendado-pastilla",
+            "value": "https:\/\/tienda.mercadona.es\/product\/20716\/mantequilla-sin-sal-anadida-hacendado-pastilla",
             "previous": [],
             "timestamp": 1742983465
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983465
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/48232d267bc61b1c1f2d4c7a192fa37f.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/48232d267bc61b1c1f2d4c7a192fa37f.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983465
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983465,
-        "updated_at": 1743023314,
-        "updates": 2
+        "updated_at": 1749739249,
+        "updates": 3
     }
 }

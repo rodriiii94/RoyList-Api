@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Crema protección solar facial Deliplus FPS 50+",
+            "value": "Crema protecci\u00f3n solar facial Deliplus FPS 50+",
             "previous": [],
             "timestamp": 1742983450
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983450
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/60613/crema-proteccion-solar-facial-deliplus-fps-50-resistente-agua-bote",
+            "value": "https:\/\/tienda.mercadona.es\/product\/60613\/crema-proteccion-solar-facial-deliplus-fps-50-resistente-agua-bote",
             "previous": [],
             "timestamp": 1742983450
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983450
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/e4799d4a1bfb2e2cbe85a344d9707abb.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/e4799d4a1bfb2e2cbe85a344d9707abb.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983450
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983450,
-        "updated_at": 1743023297,
-        "updates": 2
+        "updated_at": 1749739224,
+        "updates": 3
     }
 }

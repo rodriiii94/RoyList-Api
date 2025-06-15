@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739028
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739028
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 15,
+                    "previous": [],
+                    "timestamp": 1749739028
+                },
+                "name": {
+                    "value": "Aperitivos",
+                    "previous": [],
+                    "timestamp": 1749739028
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739028
+                },
+                "order": {
+                    "value": 9,
+                    "previous": [],
+                    "timestamp": 1749739028
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Aceitunas verdes rellenas de pepinillo Hacendado",
+            "previous": [],
+            "timestamp": 1749739028
+        },
+        "id": {
+            "value": "11946",
+            "previous": [],
+            "timestamp": 1749739028
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739028
+        },
+        "packaging": {
+            "value": "Tarro",
+            "previous": [],
+            "timestamp": 1749739028
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1749739028
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739028
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739028
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739028
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739028
+            },
+            "unit_size": {
+                "value": 0.315,
+                "previous": [],
+                "timestamp": 1749739028
+            },
+            "bulk_price": {
+                "value": "9.37",
+                "previous": [],
+                "timestamp": 1749739028
+            },
+            "unit_price": {
+                "value": "2.95",
+                "previous": [],
+                "timestamp": 1749739028
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739028
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1749739028
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739028
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739028
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739028
+            },
+            "drained_weight": {
+                "value": 0.15,
+                "previous": [],
+                "timestamp": 1749739028
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739028
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1749739028
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739028
+            },
+            "reference_price": {
+                "value": "19.667",
+                "previous": [],
+                "timestamp": 1749739028
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739028
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1749739028
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739028
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739028
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739028
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/11946\/aceitunas-verdes-rellenas-pepinillo-hacendado-tarro",
+            "previous": [],
+            "timestamp": 1749739028
+        },
+        "slug": {
+            "value": "aceitunas-verdes-rellenas-pepinillo-hacendado-tarro",
+            "previous": [],
+            "timestamp": 1749739028
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739028
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/57d19890e92a963400c1972a9adc7f54.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739028
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739028
+        }
+    },
+    "stats": {
+        "created_at": 1749739028,
+        "updated_at": 1749739028,
+        "updates": 1
+    }
+}

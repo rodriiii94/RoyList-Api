@@ -174,7 +174,7 @@
             "timestamp": 1742983314
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/27559/refresco-coca-cola-zero-zero-lata",
+            "value": "https:\/\/tienda.mercadona.es\/product\/27559\/refresco-coca-cola-zero-zero-lata",
             "previous": [],
             "timestamp": 1742983314
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983314
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/82275be98562ea0c11c2e3b903655c63.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/82275be98562ea0c11c2e3b903655c63.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983314
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983314,
-        "updated_at": 1743023139,
-        "updates": 4
+        "updated_at": 1749739019,
+        "updates": 6
     }
 }

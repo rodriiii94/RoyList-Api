@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Champú Plex Repair Deliplus cabello muy dañado",
+            "value": "Champ\u00fa Plex Repair Deliplus cabello muy da\u00f1ado",
             "previous": [],
             "timestamp": 1742983426
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983426
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/67794/champu-plex-repair-deliplus-cabello-muy-danado-con-argan-jojoba-bote",
+            "value": "https:\/\/tienda.mercadona.es\/product\/67794\/champu-plex-repair-deliplus-cabello-muy-danado-con-argan-jojoba-bote",
             "previous": [],
             "timestamp": 1742983426
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983426
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/8086f6603c71e0bf816055f34327ef9d.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/8086f6603c71e0bf816055f34327ef9d.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983426
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983426,
-        "updated_at": 1743023268,
-        "updates": 2
+        "updated_at": 1749739182,
+        "updates": 3
     }
 }

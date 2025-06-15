@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Zamburiñas en salsa de vieira Hacendado",
+            "value": "Zamburi\u00f1as en salsa de vieira Hacendado",
             "previous": [],
             "timestamp": 1742983417
         },
@@ -83,9 +83,14 @@
                 "timestamp": 1742983417
             },
             "unit_size": {
-                "value": 0.11,
-                "previous": [],
-                "timestamp": 1742983417
+                "value": 0.111,
+                "previous": [
+                    {
+                        "value": 0.11,
+                        "timestamp": 1742983417
+                    }
+                ],
+                "timestamp": 1749739168
             },
             "bulk_price": {
                 "value": "17.57",
@@ -174,7 +179,7 @@
             "timestamp": 1742983417
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/23531/zamburinas-salsa-vieira-hacendado-lata",
+            "value": "https:\/\/tienda.mercadona.es\/product\/23531\/zamburinas-salsa-vieira-hacendado-lata",
             "previous": [],
             "timestamp": 1742983417
         },
@@ -189,7 +194,7 @@
             "timestamp": 1742983417
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/b499b9f38e5e9adf2fafea74191fb9f4.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/b499b9f38e5e9adf2fafea74191fb9f4.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983417
         },
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983417,
-        "updated_at": 1743023257,
-        "updates": 2
+        "updated_at": 1749739168,
+        "updates": 3
     }
 }

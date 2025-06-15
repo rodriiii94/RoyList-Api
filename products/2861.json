@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Filetes hígado de vacuno",
+            "value": "Filetes h\u00edgado de vacuno",
             "previous": [],
             "timestamp": 1742983376
         },
@@ -83,9 +83,14 @@
                 "timestamp": 1742983376
             },
             "unit_size": {
-                "value": 0.6,
-                "previous": [],
-                "timestamp": 1742983376
+                "value": 0.5,
+                "previous": [
+                    {
+                        "value": 0.6,
+                        "timestamp": 1742983376
+                    }
+                ],
+                "timestamp": 1749739108
             },
             "bulk_price": {
                 "value": "9.70",
@@ -93,9 +98,14 @@
                 "timestamp": 1742983376
             },
             "unit_price": {
-                "value": "5.82",
-                "previous": [],
-                "timestamp": 1742983376
+                "value": "4.85",
+                "previous": [
+                    {
+                        "value": "5.82",
+                        "timestamp": 1742983376
+                    }
+                ],
+                "timestamp": 1749739108
             },
             "approx_size": {
                 "value": true,
@@ -174,7 +184,7 @@
             "timestamp": 1742983376
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/2861/filetes-higado-vacuno-anojo-bandeja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/2861\/filetes-higado-vacuno-anojo-bandeja",
             "previous": [],
             "timestamp": 1742983376
         },
@@ -189,7 +199,7 @@
             "timestamp": 1742983376
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/3c8227f04a6770f902737cb9d44caf09.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/3c8227f04a6770f902737cb9d44caf09.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983376
         },
@@ -201,7 +211,7 @@
     },
     "stats": {
         "created_at": 1742983376,
-        "updated_at": 1743023212,
-        "updates": 2
+        "updated_at": 1749739108,
+        "updates": 3
     }
 }

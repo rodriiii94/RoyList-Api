@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Cepillos interdentales Extrafinos cónicos Deliplus",
+            "value": "Cepillos interdentales Extrafinos c\u00f3nicos Deliplus",
             "previous": [],
             "timestamp": 1742983442
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983442
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/35714/cepillos-interdentales-extrafinos-conicos-deliplus-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/35714\/cepillos-interdentales-extrafinos-conicos-deliplus-paquete",
             "previous": [],
             "timestamp": 1742983442
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983442
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/3c12ccb5ee4a0535ea1aecae6a354050.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/3c12ccb5ee4a0535ea1aecae6a354050.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983442
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983442,
-        "updated_at": 1743023288,
-        "updates": 2
+        "updated_at": 1749739211,
+        "updates": 3
     }
 }

@@ -174,7 +174,7 @@
             "timestamp": 1742983467
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/40317/activador-quitamanchas-ropa-color-oxi-active-bosque-verde-polvo-con-oxigeno-activo-bote",
+            "value": "https:\/\/tienda.mercadona.es\/product\/40317\/activador-quitamanchas-ropa-color-oxi-active-bosque-verde-polvo-con-oxigeno-activo-bote",
             "previous": [],
             "timestamp": 1742983467
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983467
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/3b5368d409357212321a7c0e03cbc9c3.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/3b5368d409357212321a7c0e03cbc9c3.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983467
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983467,
-        "updated_at": 1743023317,
-        "updates": 2
+        "updated_at": 1749739252,
+        "updates": 3
     }
 }

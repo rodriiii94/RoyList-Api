@@ -174,7 +174,7 @@
             "timestamp": 1742983444
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/47010/compresa-incontinencia-tena-masculina-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/47010\/compresa-incontinencia-tena-masculina-caja",
             "previous": [],
             "timestamp": 1742983444
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983444
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/33372f1779091f0ad4068abb65b26a9f.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983444
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/f594a5c1b1919f475231fd249cc029e2.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/33372f1779091f0ad4068abb65b26a9f.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983444
+                }
+            ],
+            "timestamp": 1749739215
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983444,
-        "updated_at": 1743023290,
-        "updates": 2
+        "updated_at": 1749739215,
+        "updates": 3
     }
 }

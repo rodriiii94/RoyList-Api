@@ -88,14 +88,24 @@
                 "timestamp": 1742983479
             },
             "bulk_price": {
-                "value": "1.87",
-                "previous": [],
-                "timestamp": 1742983479
+                "value": "1.93",
+                "previous": [
+                    {
+                        "value": "1.87",
+                        "timestamp": 1742983479
+                    }
+                ],
+                "timestamp": 1749739269
             },
             "unit_price": {
-                "value": "1.40",
-                "previous": [],
-                "timestamp": 1742983479
+                "value": "1.45",
+                "previous": [
+                    {
+                        "value": "1.40",
+                        "timestamp": 1742983479
+                    }
+                ],
+                "timestamp": 1749739269
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983479
             },
             "reference_price": {
-                "value": "1.867",
-                "previous": [],
-                "timestamp": 1742983479
+                "value": "1.934",
+                "previous": [
+                    {
+                        "value": "1.867",
+                        "timestamp": 1742983479
+                    }
+                ],
+                "timestamp": 1749739269
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983479
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/43914/quitagrasas-bosque-verde-perfume-marsella-con-pistola-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/43914\/quitagrasas-bosque-verde-perfume-marsella-con-pistola-botella",
             "previous": [],
             "timestamp": 1742983479
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983479
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/8bb3bc5e755225dbb4d5691f1e797d2a.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/8bb3bc5e755225dbb4d5691f1e797d2a.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983479
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983479,
-        "updated_at": 1743023329,
-        "updates": 2
+        "updated_at": 1749739269,
+        "updates": 3
     }
 }

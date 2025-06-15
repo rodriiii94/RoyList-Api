@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Recambio mopa microfibra pequeño Bosque Verde",
+            "value": "Recambio mopa microfibra peque\u00f1o Bosque Verde",
             "previous": [],
             "timestamp": 1742983489
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983489
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/71054/recambio-mopa-microfibra-pequeno-bosque-verde-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/71054\/recambio-mopa-microfibra-pequeno-bosque-verde-paquete",
             "previous": [],
             "timestamp": 1742983489
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983489
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/300ece8725e384858516ccb2577d0d22.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/300ece8725e384858516ccb2577d0d22.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983489
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983489,
-        "updated_at": 1743023340,
-        "updates": 2
+        "updated_at": 1749739283,
+        "updates": 3
     }
 }

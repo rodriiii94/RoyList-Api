@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Pechugas enteras de pollo certificado alimentado con un 50% de maíz",
+            "value": "Pechugas enteras de pollo certificado alimentado con un 50% de ma\u00edz",
             "previous": [],
             "timestamp": 1742983366
         },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983366
             },
             "bulk_price": {
-                "value": "8.20",
-                "previous": [],
-                "timestamp": 1742983366
+                "value": "8.50",
+                "previous": [
+                    {
+                        "value": "8.20",
+                        "timestamp": 1742983366
+                    }
+                ],
+                "timestamp": 1749739096
             },
             "unit_price": {
-                "value": "4.51",
-                "previous": [],
-                "timestamp": 1742983366
+                "value": "4.68",
+                "previous": [
+                    {
+                        "value": "4.51",
+                        "timestamp": 1742983366
+                    }
+                ],
+                "timestamp": 1749739096
             },
             "approx_size": {
                 "value": true,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983366
             },
             "reference_price": {
-                "value": "8.200",
-                "previous": [],
-                "timestamp": 1742983366
+                "value": "8.500",
+                "previous": [
+                    {
+                        "value": "8.200",
+                        "timestamp": 1742983366
+                    }
+                ],
+                "timestamp": 1749739096
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983366
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/25460/pechugas-enteras-pollo-certificado-alimentado-con-50-maiz-bandeja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/25460\/pechugas-enteras-pollo-certificado-alimentado-con-50-maiz-bandeja",
             "previous": [],
             "timestamp": 1742983366
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983366
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/cba2170d25d8be96f747b1d66c3923ed.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/cba2170d25d8be96f747b1d66c3923ed.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983366
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983366,
-        "updated_at": 1743023202,
-        "updates": 2
+        "updated_at": 1749739096,
+        "updates": 3
     }
 }

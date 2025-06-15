@@ -174,7 +174,7 @@
             "timestamp": 1742983439
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/44400/desodorante-invisible-ice-fresh-rexona-men-antitranspirante-antimanchas-0-alcohol-spray",
+            "value": "https:\/\/tienda.mercadona.es\/product\/44400\/desodorante-invisible-ice-fresh-rexona-men-antitranspirante-antimanchas-0-alcohol-spray",
             "previous": [],
             "timestamp": 1742983439
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983439
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/6747ed9c2480a1a67309c130660fee1e.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/6747ed9c2480a1a67309c130660fee1e.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983439
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983439,
-        "updated_at": 1743023284,
-        "updates": 2
+        "updated_at": 1749739204,
+        "updates": 3
     }
 }

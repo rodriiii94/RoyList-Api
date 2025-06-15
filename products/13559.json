@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Alicate uñas Deliplus",
+            "value": "Alicate u\u00f1as Deliplus",
             "previous": [],
             "timestamp": 1742983446
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983446
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/13559/alicate-unas-deliplus-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/13559\/alicate-unas-deliplus-paquete",
             "previous": [],
             "timestamp": 1742983446
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983446
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/6508095b3b76b7afba712eac11ac53d1.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/6508095b3b76b7afba712eac11ac53d1.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983446
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983446,
-        "updated_at": 1743023292,
-        "updates": 2
+        "updated_at": 1749739218,
+        "updates": 3
     }
 }

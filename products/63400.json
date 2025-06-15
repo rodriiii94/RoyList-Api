@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Croquetas de jamón Hacendado ultracongeladas",
+            "value": "Croquetas de jam\u00f3n Hacendado ultracongeladas",
             "previous": [],
             "timestamp": 1742983410
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983410
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/63400/croquetas-jamon-hacendado-ultracongeladas-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/63400\/croquetas-jamon-hacendado-ultracongeladas-paquete",
             "previous": [],
             "timestamp": 1742983410
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983410
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/104ed9b0f719ad522b77b0036411682a.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/104ed9b0f719ad522b77b0036411682a.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983410
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983410,
-        "updated_at": 1743023250,
-        "updates": 2
+        "updated_at": 1749739158,
+        "updates": 3
     }
 }

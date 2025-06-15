@@ -174,7 +174,7 @@
             "timestamp": 1742983448
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/23893/eau-toilette-monogotas-vainilla-frasco",
+            "value": "https:\/\/tienda.mercadona.es\/product\/23893\/eau-toilette-monogotas-vainilla-frasco",
             "previous": [],
             "timestamp": 1742983448
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983448
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/18849d46c423d90710ab51ea4fabe448.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983448
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/399c8667cb8ed74499c2ab8426670d09.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/18849d46c423d90710ab51ea4fabe448.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983448
+                }
+            ],
+            "timestamp": 1749739220
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983448,
-        "updated_at": 1743023294,
-        "updates": 2
+        "updated_at": 1749739220,
+        "updates": 3
     }
 }

@@ -174,7 +174,7 @@
             "timestamp": 1742983542
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/52513/postre-soja-sabor-natural-con-coco-alpro-bote",
+            "value": "https:\/\/tienda.mercadona.es\/product\/52513\/postre-soja-sabor-natural-con-coco-alpro-bote",
             "previous": [],
             "timestamp": 1742983542
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983542
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/63d2e4c3b1355f5f30f64d832df92bfd.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/63d2e4c3b1355f5f30f64d832df92bfd.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983542
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983542,
-        "updated_at": 1743023396,
-        "updates": 2
+        "updated_at": 1749739359,
+        "updates": 3
     }
 }

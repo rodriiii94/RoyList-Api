@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Tratamiento para uñas gel brillo top coat Deliplus secado rápido",
+            "value": "Tratamiento para u\u00f1as gel brillo top coat Deliplus secado r\u00e1pido",
             "previous": [],
             "timestamp": 1742983446
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983446
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/42286/tratamiento-unas-gel-brillo-top-coat-deliplus-secado-rapido",
+            "value": "https:\/\/tienda.mercadona.es\/product\/42286\/tratamiento-unas-gel-brillo-top-coat-deliplus-secado-rapido",
             "previous": [],
             "timestamp": 1742983446
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983446
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/57567870fcd0bdffda94ada2140b2f78.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/57567870fcd0bdffda94ada2140b2f78.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983446
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983446,
-        "updated_at": 1743023292,
-        "updates": 2
+        "updated_at": 1749739216,
+        "updates": 3
     }
 }

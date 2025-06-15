@@ -20,7 +20,7 @@
                     "timestamp": 1742983515
                 },
                 "name": {
-                    "value": "Panadería y pastelería",
+                    "value": "Panader\u00eda y pasteler\u00eda",
                     "previous": [],
                     "timestamp": 1742983515
                 },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983515
             },
             "bulk_price": {
-                "value": "5.07",
-                "previous": [],
-                "timestamp": 1742983515
+                "value": "5.20",
+                "previous": [
+                    {
+                        "value": "5.07",
+                        "timestamp": 1742983515
+                    }
+                ],
+                "timestamp": 1749739322
             },
             "unit_price": {
-                "value": "1.90",
-                "previous": [],
-                "timestamp": 1742983515
+                "value": "1.95",
+                "previous": [
+                    {
+                        "value": "1.90",
+                        "timestamp": 1742983515
+                    }
+                ],
+                "timestamp": 1749739322
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983515
             },
             "reference_price": {
-                "value": "5.067",
-                "previous": [],
-                "timestamp": 1742983515
+                "value": "5.200",
+                "previous": [
+                    {
+                        "value": "5.067",
+                        "timestamp": 1742983515
+                    }
+                ],
+                "timestamp": 1749739322
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983515
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/82932/croissant-relleno-crema-cacao-hacendado-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/82932\/croissant-relleno-crema-cacao-hacendado-paquete",
             "previous": [],
             "timestamp": 1742983515
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983515
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/cc93709a5e1b83443f90f51845f6f30e.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/cc93709a5e1b83443f90f51845f6f30e.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983515
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983515,
-        "updated_at": 1743023368,
-        "updates": 2
+        "updated_at": 1749739322,
+        "updates": 3
     }
 }

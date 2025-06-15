@@ -88,14 +88,24 @@
                 "timestamp": 1742983305
             },
             "bulk_price": {
-                "value": "4.58",
-                "previous": [],
-                "timestamp": 1742983305
+                "value": "4.05",
+                "previous": [
+                    {
+                        "value": "4.58",
+                        "timestamp": 1742983305
+                    }
+                ],
+                "timestamp": 1749739003
             },
             "unit_price": {
-                "value": "13.75",
-                "previous": [],
-                "timestamp": 1742983305
+                "value": "12.15",
+                "previous": [
+                    {
+                        "value": "13.75",
+                        "timestamp": 1742983305
+                    }
+                ],
+                "timestamp": 1749739003
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983305
             },
             "reference_price": {
-                "value": "4.584",
-                "previous": [],
-                "timestamp": 1742983305
+                "value": "4.050",
+                "previous": [
+                    {
+                        "value": "4.584",
+                        "timestamp": 1742983305
+                    }
+                ],
+                "timestamp": 1749739003
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -158,9 +173,14 @@
                 "timestamp": 1742983305
             },
             "previous_unit_price": {
-                "value": "       14.95",
-                "previous": [],
-                "timestamp": 1742983305
+                "value": "       12.70",
+                "previous": [
+                    {
+                        "value": "       14.95",
+                        "timestamp": 1742983305
+                    }
+                ],
+                "timestamp": 1749739003
             },
             "increment_bunch_amount": {
                 "value": 1,
@@ -174,7 +194,7 @@
             "timestamp": 1742983305
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/4711/aceite-oliva-virgen-hacendado-garrafa",
+            "value": "https:\/\/tienda.mercadona.es\/product\/4711\/aceite-oliva-virgen-hacendado-garrafa",
             "previous": [],
             "timestamp": 1742983305
         },
@@ -189,7 +209,7 @@
             "timestamp": 1742983305
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/01d37a541419ec68db44bc2bf072e317.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/01d37a541419ec68db44bc2bf072e317.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983305
         },
@@ -201,7 +221,7 @@
     },
     "stats": {
         "created_at": 1742983305,
-        "updated_at": 1743023127,
-        "updates": 2
+        "updated_at": 1749739003,
+        "updates": 3
     }
 }

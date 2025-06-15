@@ -83,9 +83,14 @@
                 "timestamp": 1742983373
             },
             "unit_size": {
-                "value": 0.375,
-                "previous": [],
-                "timestamp": 1742983373
+                "value": 0.3,
+                "previous": [
+                    {
+                        "value": 0.375,
+                        "timestamp": 1742983373
+                    }
+                ],
+                "timestamp": 1749739104
             },
             "bulk_price": {
                 "value": "8.65",
@@ -93,9 +98,14 @@
                 "timestamp": 1742983373
             },
             "unit_price": {
-                "value": "3.24",
-                "previous": [],
-                "timestamp": 1742983373
+                "value": "2.60",
+                "previous": [
+                    {
+                        "value": "3.24",
+                        "timestamp": 1742983373
+                    }
+                ],
+                "timestamp": 1749739104
             },
             "approx_size": {
                 "value": true,
@@ -174,7 +184,7 @@
             "timestamp": 1742983373
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/6047/chorizo-picante-aperitivo-bandeja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/6047\/chorizo-picante-aperitivo-bandeja",
             "previous": [],
             "timestamp": 1742983373
         },
@@ -189,9 +199,14 @@
             "timestamp": 1742983373
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/2356608891b11757f720d5f36a116f9c.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983373
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/e48b3a83db7889d7cb4180188f10766b.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/2356608891b11757f720d5f36a116f9c.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983373
+                }
+            ],
+            "timestamp": 1749739104
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983373,
-        "updated_at": 1743023208,
-        "updates": 2
+        "updated_at": 1749739104,
+        "updates": 3
     }
 }

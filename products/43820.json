@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Limpiador Potente Bosque Verde cal y óxido",
+            "value": "Limpiador Potente Bosque Verde cal y \u00f3xido",
             "previous": [],
             "timestamp": 1742983477
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983477
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/43820/limpiador-potente-bosque-verde-cal-oxido-con-pistola-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/43820\/limpiador-potente-bosque-verde-cal-oxido-con-pistola-botella",
             "previous": [],
             "timestamp": 1742983477
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983477
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/113f28e5e64bd3f934bc4227fd5854e6.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/113f28e5e64bd3f934bc4227fd5854e6.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983477
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983477,
-        "updated_at": 1743023328,
-        "updates": 2
+        "updated_at": 1749739268,
+        "updates": 3
     }
 }

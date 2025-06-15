@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Pizza pollo y bacón Hacendado",
+            "value": "Pizza pollo y bac\u00f3n Hacendado",
             "previous": [],
             "timestamp": 1742983532
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983532
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/63645/pizza-pollo-bacon-hacendado",
+            "value": "https:\/\/tienda.mercadona.es\/product\/63645\/pizza-pollo-bacon-hacendado",
             "previous": [],
             "timestamp": 1742983532
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983532
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/2a7839ae291f4ab1af5af0b70129d6b2.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983532
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/a8dfc1b375a8f2cb8786fd80c20b6a11.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/2a7839ae291f4ab1af5af0b70129d6b2.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983532
+                }
+            ],
+            "timestamp": 1749739344
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983532,
-        "updated_at": 1743023385,
-        "updates": 2
+        "updated_at": 1749739344,
+        "updates": 3
     }
 }

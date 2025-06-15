@@ -20,7 +20,7 @@
                     "timestamp": 1742983386
                 },
                 "name": {
-                    "value": "Charcutería y quesos",
+                    "value": "Charcuter\u00eda y quesos",
                     "previous": [],
                     "timestamp": 1742983386
                 },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983386
             },
             "bulk_price": {
-                "value": "6.36",
-                "previous": [],
-                "timestamp": 1742983386
+                "value": "6.73",
+                "previous": [
+                    {
+                        "value": "6.36",
+                        "timestamp": 1742983386
+                    }
+                ],
+                "timestamp": 1749739123
             },
             "unit_price": {
-                "value": "1.75",
-                "previous": [],
-                "timestamp": 1742983386
+                "value": "1.85",
+                "previous": [
+                    {
+                        "value": "1.75",
+                        "timestamp": 1742983386
+                    }
+                ],
+                "timestamp": 1749739123
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983386
             },
             "reference_price": {
-                "value": "6.364",
-                "previous": [],
-                "timestamp": 1742983386
+                "value": "6.728",
+                "previous": [
+                    {
+                        "value": "6.364",
+                        "timestamp": 1742983386
+                    }
+                ],
+                "timestamp": 1749739123
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983386
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/53015/salchichas-cocidas-hot-dog-bocadillo-oscar-mayer-classic-pollo-cerdo-sabor-ahumado-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/53015\/salchichas-cocidas-hot-dog-bocadillo-oscar-mayer-classic-pollo-cerdo-sabor-ahumado-paquete",
             "previous": [],
             "timestamp": 1742983386
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983386
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/a6b6e3f0bd9a9ca915e2e3c248aceea7.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/a6b6e3f0bd9a9ca915e2e3c248aceea7.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983386
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983386,
-        "updated_at": 1743023223,
-        "updates": 2
+        "updated_at": 1749739123,
+        "updates": 3
     }
 }

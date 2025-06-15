@@ -20,7 +20,7 @@
                     "timestamp": 1742983385
                 },
                 "name": {
-                    "value": "Charcutería y quesos",
+                    "value": "Charcuter\u00eda y quesos",
                     "previous": [],
                     "timestamp": 1742983385
                 },
@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Jamón de pavo Hacendado",
+            "value": "Jam\u00f3n de pavo Hacendado",
             "previous": [],
             "timestamp": 1742983385
         },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983385
             },
             "bulk_price": {
-                "value": "4.92",
-                "previous": [],
-                "timestamp": 1742983385
+                "value": "5.40",
+                "previous": [
+                    {
+                        "value": "4.92",
+                        "timestamp": 1742983385
+                    }
+                ],
+                "timestamp": 1749739121
             },
             "unit_price": {
-                "value": "2.46",
-                "previous": [],
-                "timestamp": 1742983385
+                "value": "2.70",
+                "previous": [
+                    {
+                        "value": "2.46",
+                        "timestamp": 1742983385
+                    }
+                ],
+                "timestamp": 1749739121
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983385
             },
             "reference_price": {
-                "value": "4.920",
-                "previous": [],
-                "timestamp": 1742983385
+                "value": "5.400",
+                "previous": [
+                    {
+                        "value": "4.920",
+                        "timestamp": 1742983385
+                    }
+                ],
+                "timestamp": 1749739121
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983385
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/59218/jamon-pavo-hacendado-pieza",
+            "value": "https:\/\/tienda.mercadona.es\/product\/59218\/jamon-pavo-hacendado-pieza",
             "previous": [],
             "timestamp": 1742983385
         },
@@ -189,9 +204,14 @@
             "timestamp": 1742983385
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/51a0e447e5900424eab083e5e06be3f2.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983385
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/0a4b8f824e5ea4032abcee4e75a9092a.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/51a0e447e5900424eab083e5e06be3f2.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983385
+                }
+            ],
+            "timestamp": 1749739121
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +221,7 @@
     },
     "stats": {
         "created_at": 1742983385,
-        "updated_at": 1743023221,
-        "updates": 2
+        "updated_at": 1749739121,
+        "updates": 3
     }
 }

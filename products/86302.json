@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Crema fijadora prótesis dentales Polident fijación fuerte",
+            "value": "Crema fijadora pr\u00f3tesis dentales Polident fijaci\u00f3n fuerte",
             "previous": [],
             "timestamp": 1742983442
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983442
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/86302/crema-fijadora-protesis-dentales-polident-fijacion-fuerte-tubo",
+            "value": "https:\/\/tienda.mercadona.es\/product\/86302\/crema-fijadora-protesis-dentales-polident-fijacion-fuerte-tubo",
             "previous": [],
             "timestamp": 1742983442
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983442
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/72441fcd2083cd2bdf4e724b8d817600.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/72441fcd2083cd2bdf4e724b8d817600.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983442
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983442,
-        "updated_at": 1743023288,
-        "updates": 2
+        "updated_at": 1749739211,
+        "updates": 3
     }
 }

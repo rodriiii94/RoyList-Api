@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Tónica zero calorías Schweppes",
+            "value": "T\u00f3nica zero calor\u00edas Schweppes",
             "previous": [],
             "timestamp": 1742983317
         },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983317
             },
             "bulk_price": {
-                "value": "2.97",
-                "previous": [],
-                "timestamp": 1742983317
+                "value": "1.97",
+                "previous": [
+                    {
+                        "value": "2.97",
+                        "timestamp": 1742983317
+                    }
+                ],
+                "timestamp": 1749739023
             },
             "unit_price": {
-                "value": "7.84",
-                "previous": [],
-                "timestamp": 1742983317
+                "value": "5.20",
+                "previous": [
+                    {
+                        "value": "7.84",
+                        "timestamp": 1742983317
+                    }
+                ],
+                "timestamp": 1749739023
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983317
             },
             "reference_price": {
-                "value": "2.970",
-                "previous": [],
-                "timestamp": 1742983317
+                "value": "1.970",
+                "previous": [
+                    {
+                        "value": "2.970",
+                        "timestamp": 1742983317
+                    }
+                ],
+                "timestamp": 1749739023
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983317
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/27487/tonica-zero-calorias-schweppes-pack-8",
+            "value": "https:\/\/tienda.mercadona.es\/product\/27487\/tonica-zero-calorias-schweppes-pack-8",
             "previous": [],
             "timestamp": 1742983317
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983317
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/bb5e9ae7f7d0fa725189fa1d0577bb54.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/bb5e9ae7f7d0fa725189fa1d0577bb54.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983317
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983317,
-        "updated_at": 1743023143,
-        "updates": 2
+        "updated_at": 1749739023,
+        "updates": 3
     }
 }

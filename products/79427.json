@@ -20,7 +20,7 @@
                     "timestamp": 1742983342
                 },
                 "name": {
-                    "value": "Bebé",
+                    "value": "Beb\u00e9",
                     "previous": [],
                     "timestamp": 1742983342
                 },
@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Toallitas bebé frescas & perfumadas Deliplus",
+            "value": "Toallitas beb\u00e9 frescas & perfumadas Deliplus",
             "previous": [],
             "timestamp": 1742983342
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983342
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/79427/toallitas-bebe-frescas-perfumadas-deliplus-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/79427\/toallitas-bebe-frescas-perfumadas-deliplus-paquete",
             "previous": [],
             "timestamp": 1742983342
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983342
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/1c9c7196bee06cad0b16f1db764526f4.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/1c9c7196bee06cad0b16f1db764526f4.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983342
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983342,
-        "updated_at": 1743023173,
-        "updates": 2
+        "updated_at": 1749739061,
+        "updates": 3
     }
 }

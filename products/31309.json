@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Claras de huevo líquidas pasteurizadas",
+            "value": "Claras de huevo l\u00edquidas pasteurizadas",
             "previous": [],
             "timestamp": 1742983461
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983461
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/31309/claras-huevo-liquidas-pasteurizadas-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/31309\/claras-huevo-liquidas-pasteurizadas-botella",
             "previous": [],
             "timestamp": 1742983461
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983461
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/b40abf149eb42080eb449e0bdc83bda0.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/b40abf149eb42080eb449e0bdc83bda0.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983461
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983461,
-        "updated_at": 1743023309,
-        "updates": 2
+        "updated_at": 1749739242,
+        "updates": 3
     }
 }

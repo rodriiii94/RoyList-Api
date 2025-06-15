@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Algodón mágico Aladdin",
+            "value": "Algod\u00f3n m\u00e1gico Aladdin",
             "previous": [],
             "timestamp": 1742983480
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983480
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/43705/algodon-magico-aladdin-bote",
+            "value": "https:\/\/tienda.mercadona.es\/product\/43705\/algodon-magico-aladdin-bote",
             "previous": [],
             "timestamp": 1742983480
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983480
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/0d27ff266805ca8a9e8333d668cfb7e3.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/0d27ff266805ca8a9e8333d668cfb7e3.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983480
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983480,
-        "updated_at": 1743023331,
-        "updates": 2
+        "updated_at": 1749739272,
+        "updates": 3
     }
 }

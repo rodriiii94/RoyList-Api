@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Gelatina sabores mango, maracuyá y piña Hacendado",
+            "value": "Gelatina sabores mango, maracuy\u00e1 y pi\u00f1a Hacendado",
             "previous": [],
             "timestamp": 1742983541
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983541
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/68271/gelatina-sabores-mango-maracuya-pina-hacendado-pack-6",
+            "value": "https:\/\/tienda.mercadona.es\/product\/68271\/gelatina-sabores-mango-maracuya-pina-hacendado-pack-6",
             "previous": [],
             "timestamp": 1742983541
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983541
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/4136cfb6f20d6ede0bef2827a6bb8422.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/4136cfb6f20d6ede0bef2827a6bb8422.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983541
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983541,
-        "updated_at": 1743023394,
-        "updates": 2
+        "updated_at": 1749739357,
+        "updates": 3
     }
 }

@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Yogur sabor limón Hacendado",
+            "value": "Yogur sabor lim\u00f3n Hacendado",
             "previous": [],
             "timestamp": 1742983549
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983549
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/20041/yogur-sabor-limon-hacendado-pack-4",
+            "value": "https:\/\/tienda.mercadona.es\/product\/20041\/yogur-sabor-limon-hacendado-pack-4",
             "previous": [],
             "timestamp": 1742983549
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983549
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/478aa865e76a8ffdcdd11c753d4571b1.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/478aa865e76a8ffdcdd11c753d4571b1.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983549
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983549,
-        "updated_at": 1743023402,
-        "updates": 2
+        "updated_at": 1749739368,
+        "updates": 3
     }
 }

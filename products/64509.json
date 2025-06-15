@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Sorbete con limón Hacendado",
+            "value": "Sorbete con lim\u00f3n Hacendado",
             "previous": [],
             "timestamp": 1742983402
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983402
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/64509/sorbete-con-limon-hacendado-tarrina",
+            "value": "https:\/\/tienda.mercadona.es\/product\/64509\/sorbete-con-limon-hacendado-tarrina",
             "previous": [],
             "timestamp": 1742983402
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983402
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/e4b13ac73f37502b4df2c6420fe121b1.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983402
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/63e1d780e3c7a051acb25f3e70b2d0a8.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/e4b13ac73f37502b4df2c6420fe121b1.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983402
+                }
+            ],
+            "timestamp": 1749739148
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983402,
-        "updated_at": 1743023241,
-        "updates": 2
+        "updated_at": 1749739148,
+        "updates": 3
     }
 }

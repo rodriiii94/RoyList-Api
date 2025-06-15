@@ -88,14 +88,24 @@
                 "timestamp": 1742983372
             },
             "bulk_price": {
-                "value": "7.10",
-                "previous": [],
-                "timestamp": 1742983372
+                "value": "7.50",
+                "previous": [
+                    {
+                        "value": "7.10",
+                        "timestamp": 1742983372
+                    }
+                ],
+                "timestamp": 1749739104
             },
             "unit_price": {
-                "value": "3.91",
-                "previous": [],
-                "timestamp": 1742983372
+                "value": "4.13",
+                "previous": [
+                    {
+                        "value": "3.91",
+                        "timestamp": 1742983372
+                    }
+                ],
+                "timestamp": 1749739104
             },
             "approx_size": {
                 "value": true,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983372
             },
             "reference_price": {
-                "value": "7.100",
-                "previous": [],
-                "timestamp": 1742983372
+                "value": "7.500",
+                "previous": [
+                    {
+                        "value": "7.100",
+                        "timestamp": 1742983372
+                    }
+                ],
+                "timestamp": 1749739104
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983372
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/6041/longaniza-fresca-pollo-bandeja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/6041\/longaniza-fresca-pollo-bandeja",
             "previous": [],
             "timestamp": 1742983372
         },
@@ -189,9 +204,14 @@
             "timestamp": 1742983372
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/8ed9882f9e03281a144eac4709654a97.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983372
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/a63d70aff3193168353182b4cc16184f.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/8ed9882f9e03281a144eac4709654a97.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983372
+                }
+            ],
+            "timestamp": 1749739104
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +221,7 @@
     },
     "stats": {
         "created_at": 1742983372,
-        "updated_at": 1743023208,
-        "updates": 2
+        "updated_at": 1749739104,
+        "updates": 3
     }
 }

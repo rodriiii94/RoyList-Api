@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Zumo de piña y uva Hacendado",
+            "value": "Zumo de pi\u00f1a y uva Hacendado",
             "previous": [],
             "timestamp": 1742983554
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983554
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/39129/zumo-pina-uva-hacendado-brick",
+            "value": "https:\/\/tienda.mercadona.es\/product\/39129\/zumo-pina-uva-hacendado-brick",
             "previous": [],
             "timestamp": 1742983554
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983554
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/5a04cb3d93fbdb5a803e6e14a4ff7b4d.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/5a04cb3d93fbdb5a803e6e14a4ff7b4d.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983554
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983554,
-        "updated_at": 1743023407,
-        "updates": 2
+        "updated_at": 1749739373,
+        "updates": 3
     }
 }

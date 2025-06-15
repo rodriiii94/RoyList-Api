@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Filete de salmón",
+            "value": "Filete de salm\u00f3n",
             "previous": [],
             "timestamp": 1742983505
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983505
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/87204/filete-salmon-bandeja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/87204\/filete-salmon-bandeja",
             "previous": [],
             "timestamp": 1742983505
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983505
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/b072fbeed617fa30e152c33cd8eb8fbb.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/b072fbeed617fa30e152c33cd8eb8fbb.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983505
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983505,
-        "updated_at": 1743023357,
-        "updates": 2
+        "updated_at": 1749739306,
+        "updates": 3
     }
 }

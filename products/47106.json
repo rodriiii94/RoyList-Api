@@ -20,7 +20,7 @@
                     "timestamp": 1742983340
                 },
                 "name": {
-                    "value": "Bebé",
+                    "value": "Beb\u00e9",
                     "previous": [],
                     "timestamp": 1742983340
                 },
@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Loción corporal infantil hidratante Deliplus",
+            "value": "Loci\u00f3n corporal infantil hidratante Deliplus",
             "previous": [],
             "timestamp": 1742983340
         },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983340
             },
             "bulk_price": {
-                "value": "7.75",
-                "previous": [],
-                "timestamp": 1742983340
+                "value": "6.58",
+                "previous": [
+                    {
+                        "value": "7.75",
+                        "timestamp": 1742983340
+                    }
+                ],
+                "timestamp": 1749739060
             },
             "unit_price": {
-                "value": "4.65",
-                "previous": [],
-                "timestamp": 1742983340
+                "value": "3.95",
+                "previous": [
+                    {
+                        "value": "4.65",
+                        "timestamp": 1742983340
+                    }
+                ],
+                "timestamp": 1749739060
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983340
             },
             "reference_price": {
-                "value": "0.775",
-                "previous": [],
-                "timestamp": 1742983340
+                "value": "0.659",
+                "previous": [
+                    {
+                        "value": "0.775",
+                        "timestamp": 1742983340
+                    }
+                ],
+                "timestamp": 1749739060
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -158,7 +173,7 @@
                 "timestamp": 1742983340
             },
             "previous_unit_price": {
-                "value": null,
+                "value": "        4.65",
                 "previous": [],
                 "timestamp": 1742983340
             },
@@ -174,7 +189,7 @@
             "timestamp": 1742983340
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/47106/locion-corporal-infantil-hidratante-deliplus-bote",
+            "value": "https:\/\/tienda.mercadona.es\/product\/47106\/locion-corporal-infantil-hidratante-deliplus-bote",
             "previous": [],
             "timestamp": 1742983340
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983340
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/722052b699f30fc261b7a06b339ad2cf.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/722052b699f30fc261b7a06b339ad2cf.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983340
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983340,
-        "updated_at": 1743023171,
-        "updates": 2
+        "updated_at": 1749739060,
+        "updates": 3
     }
 }

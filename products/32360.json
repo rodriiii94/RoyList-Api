@@ -20,7 +20,7 @@
                     "timestamp": 1742983517
                 },
                 "name": {
-                    "value": "Panadería y pastelería",
+                    "value": "Panader\u00eda y pasteler\u00eda",
                     "previous": [],
                     "timestamp": 1742983517
                 },
@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Gelatina neutra en láminas Hacendado",
+            "value": "Gelatina neutra en l\u00e1minas Hacendado",
             "previous": [],
             "timestamp": 1742983517
         },
@@ -78,7 +78,7 @@
                 "timestamp": 1742983517
             },
             "unit_name": {
-                "value": "láminas",
+                "value": "l\u00e1minas",
                 "previous": [],
                 "timestamp": 1742983517
             },
@@ -161,6 +161,11 @@
                 "value": 1,
                 "previous": [],
                 "timestamp": 1742983517
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1749739325
             }
         },
         "published": {
@@ -169,7 +174,7 @@
             "timestamp": 1742983517
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/32360/gelatina-neutra-laminas-hacendado-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/32360\/gelatina-neutra-laminas-hacendado-paquete",
             "previous": [],
             "timestamp": 1742983517
         },
@@ -184,7 +189,7 @@
             "timestamp": 1742983517
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/8e6418d2f4e459aa77f64f0fcd3a3f18.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/8e6418d2f4e459aa77f64f0fcd3a3f18.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983517
         },
@@ -196,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983517,
-        "updated_at": 1743023370,
-        "updates": 2
+        "updated_at": 1749739325,
+        "updates": 3
     }
 }

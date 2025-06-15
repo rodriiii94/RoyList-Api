@@ -196,7 +196,7 @@
             "timestamp": 1742983405
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/24712/langostino-crudo-ultracongelado-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/24712\/langostino-crudo-ultracongelado-caja",
             "previous": [],
             "timestamp": 1742983405
         },
@@ -211,9 +211,14 @@
             "timestamp": 1742983405
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/9d21dcd8c84f3c6ed5e4499e00df5c2f.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983405
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/0821a8775a46f29eb629405f682f61fb.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/9d21dcd8c84f3c6ed5e4499e00df5c2f.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983405
+                }
+            ],
+            "timestamp": 1749739152
         },
         "unavailable_from": {
             "value": null,
@@ -223,7 +228,7 @@
     },
     "stats": {
         "created_at": 1742983405,
-        "updated_at": 1743023352,
-        "updates": 4
+        "updated_at": 1749739300,
+        "updates": 6
     }
 }

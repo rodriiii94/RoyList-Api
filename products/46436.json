@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Eau de toilette mujer Prêt à Porter",
+            "value": "Eau de toilette mujer Pr\u00eat \u00e0 Porter",
             "previous": [],
             "timestamp": 1742983448
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983448
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/46436/eau-toilette-mujer-pret-a-porter-frasco",
+            "value": "https:\/\/tienda.mercadona.es\/product\/46436\/eau-toilette-mujer-pret-a-porter-frasco",
             "previous": [],
             "timestamp": 1742983448
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983448
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/5c6fbe8caf3e6de7dee91cf275502f8e.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/5c6fbe8caf3e6de7dee91cf275502f8e.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983448
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983448,
-        "updated_at": 1743023294,
-        "updates": 2
+        "updated_at": 1749739219,
+        "updates": 3
     }
 }

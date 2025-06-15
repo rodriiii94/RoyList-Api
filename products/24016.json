@@ -110,14 +110,24 @@
                 "timestamp": 1742983407
             },
             "bulk_price": {
-                "value": "15.07",
-                "previous": [],
-                "timestamp": 1742983407
+                "value": "16.27",
+                "previous": [
+                    {
+                        "value": "15.07",
+                        "timestamp": 1742983407
+                    }
+                ],
+                "timestamp": 1749739154
             },
             "unit_price": {
-                "value": "5.65",
-                "previous": [],
-                "timestamp": 1742983407
+                "value": "6.10",
+                "previous": [
+                    {
+                        "value": "5.65",
+                        "timestamp": 1742983407
+                    }
+                ],
+                "timestamp": 1749739154
             },
             "approx_size": {
                 "value": false,
@@ -165,9 +175,14 @@
                 "timestamp": 1742983407
             },
             "reference_price": {
-                "value": "15.067",
-                "previous": [],
-                "timestamp": 1742983407
+                "value": "16.267",
+                "previous": [
+                    {
+                        "value": "15.067",
+                        "timestamp": 1742983407
+                    }
+                ],
+                "timestamp": 1749739154
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -196,7 +211,7 @@
             "timestamp": 1742983407
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/24016/filetes-bacalao-maredeus-ultracongelado-punto-sal-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/24016\/filetes-bacalao-maredeus-ultracongelado-punto-sal-paquete",
             "previous": [],
             "timestamp": 1742983407
         },
@@ -211,7 +226,7 @@
             "timestamp": 1742983407
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/92f2af11cb0b8c2b0cbe9c4ff2ba0b5c.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/92f2af11cb0b8c2b0cbe9c4ff2ba0b5c.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983407
         },
@@ -223,7 +238,7 @@
     },
     "stats": {
         "created_at": 1742983407,
-        "updated_at": 1743023354,
-        "updates": 4
+        "updated_at": 1749739303,
+        "updates": 6
     }
 }

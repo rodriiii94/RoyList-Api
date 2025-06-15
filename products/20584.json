@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Yogur natural con azúcar de caña Hacendado",
+            "value": "Yogur natural con az\u00facar de ca\u00f1a Hacendado",
             "previous": [],
             "timestamp": 1742983549
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983549
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/20584/yogur-natural-con-azucar-cana-hacendado-pack-6",
+            "value": "https:\/\/tienda.mercadona.es\/product\/20584\/yogur-natural-con-azucar-cana-hacendado-pack-6",
             "previous": [],
             "timestamp": 1742983549
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983549
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/eec021408e0841f454d650882bc182c1.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/eec021408e0841f454d650882bc182c1.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983549
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983549,
-        "updated_at": 1743023402,
-        "updates": 2
+        "updated_at": 1749739367,
+        "updates": 3
     }
 }

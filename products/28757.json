@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Ron dominicano añejo Ron Barceló",
+            "value": "Ron dominicano a\u00f1ejo Ron Barcel\u00f3",
             "previous": [],
             "timestamp": 1742983346
         },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983346
             },
             "bulk_price": {
-                "value": "21.64",
-                "previous": [],
-                "timestamp": 1742983346
+                "value": "22.07",
+                "previous": [
+                    {
+                        "value": "21.64",
+                        "timestamp": 1742983346
+                    }
+                ],
+                "timestamp": 1749739070
             },
             "unit_price": {
-                "value": "15.15",
-                "previous": [],
-                "timestamp": 1742983346
+                "value": "15.45",
+                "previous": [
+                    {
+                        "value": "15.15",
+                        "timestamp": 1742983346
+                    }
+                ],
+                "timestamp": 1749739070
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983346
             },
             "reference_price": {
-                "value": "21.643",
-                "previous": [],
-                "timestamp": 1742983346
+                "value": "22.072",
+                "previous": [
+                    {
+                        "value": "21.643",
+                        "timestamp": 1742983346
+                    }
+                ],
+                "timestamp": 1749739070
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -158,7 +173,7 @@
                 "timestamp": 1742983346
             },
             "previous_unit_price": {
-                "value": null,
+                "value": "       15.75",
                 "previous": [],
                 "timestamp": 1742983346
             },
@@ -174,7 +189,7 @@
             "timestamp": 1742983346
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/28757/ron-dominicano-anejo-ron-barcelo-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/28757\/ron-dominicano-anejo-ron-barcelo-botella",
             "previous": [],
             "timestamp": 1742983346
         },
@@ -189,9 +204,14 @@
             "timestamp": 1742983346
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/3f52c2f29a7708685777f91e0c0f6d06.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983346
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/173328360545e9dd7886a059eace4cd3.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/3f52c2f29a7708685777f91e0c0f6d06.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983346
+                }
+            ],
+            "timestamp": 1749739070
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +221,7 @@
     },
     "stats": {
         "created_at": 1742983346,
-        "updated_at": 1743023179,
-        "updates": 2
+        "updated_at": 1749739070,
+        "updates": 3
     }
 }

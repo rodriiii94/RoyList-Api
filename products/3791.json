@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Alas partidas de pollo certificado alimentado con un 50% de maíz",
+            "value": "Alas partidas de pollo certificado alimentado con un 50% de ma\u00edz",
             "previous": [],
             "timestamp": 1742983366
         },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983366
             },
             "bulk_price": {
-                "value": "6.70",
-                "previous": [],
-                "timestamp": 1742983366
+                "value": "6.50",
+                "previous": [
+                    {
+                        "value": "6.70",
+                        "timestamp": 1742983366
+                    }
+                ],
+                "timestamp": 1749739096
             },
             "unit_price": {
-                "value": "3.95",
-                "previous": [],
-                "timestamp": 1742983366
+                "value": "3.83",
+                "previous": [
+                    {
+                        "value": "3.95",
+                        "timestamp": 1742983366
+                    }
+                ],
+                "timestamp": 1749739096
             },
             "approx_size": {
                 "value": true,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983366
             },
             "reference_price": {
-                "value": "6.700",
-                "previous": [],
-                "timestamp": 1742983366
+                "value": "6.500",
+                "previous": [
+                    {
+                        "value": "6.700",
+                        "timestamp": 1742983366
+                    }
+                ],
+                "timestamp": 1749739096
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983366
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/3791/alas-partidas-pollo-certificado-alimentado-con-50-maiz-bandeja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/3791\/alas-partidas-pollo-certificado-alimentado-con-50-maiz-bandeja",
             "previous": [],
             "timestamp": 1742983366
         },
@@ -189,9 +204,14 @@
             "timestamp": 1742983366
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/7adc73f78cab5f461a07f4d823f5b446.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983366
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/768a380267677a40a86102a185c169ac.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/7adc73f78cab5f461a07f4d823f5b446.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983366
+                }
+            ],
+            "timestamp": 1749739096
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +221,7 @@
     },
     "stats": {
         "created_at": 1742983366,
-        "updated_at": 1743023202,
-        "updates": 2
+        "updated_at": 1749739096,
+        "updates": 3
     }
 }

@@ -20,7 +20,7 @@
                     "timestamp": 1742983396
                 },
                 "name": {
-                    "value": "Charcutería y quesos",
+                    "value": "Charcuter\u00eda y quesos",
                     "previous": [],
                     "timestamp": 1742983396
                 },
@@ -174,7 +174,7 @@
             "timestamp": 1742983396
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/51126/queso-lonchas-mozzarella-vaca-hacendado-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/51126\/queso-lonchas-mozzarella-vaca-hacendado-paquete",
             "previous": [],
             "timestamp": 1742983396
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983396
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/cc8ba322baab8bae79465346b6183be2.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/cc8ba322baab8bae79465346b6183be2.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983396
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983396,
-        "updated_at": 1743023234,
-        "updates": 2
+        "updated_at": 1749739138,
+        "updates": 3
     }
 }

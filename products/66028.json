@@ -88,14 +88,24 @@
                 "timestamp": 1742983343
             },
             "bulk_price": {
-                "value": "2.56",
-                "previous": [],
-                "timestamp": 1742983343
+                "value": "2.28",
+                "previous": [
+                    {
+                        "value": "2.56",
+                        "timestamp": 1742983343
+                    }
+                ],
+                "timestamp": 1749739065
             },
             "unit_price": {
-                "value": "7.68",
-                "previous": [],
-                "timestamp": 1742983343
+                "value": "6.84",
+                "previous": [
+                    {
+                        "value": "7.68",
+                        "timestamp": 1742983343
+                    }
+                ],
+                "timestamp": 1749739065
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983343
             },
             "reference_price": {
-                "value": "2.560",
-                "previous": [],
-                "timestamp": 1742983343
+                "value": "2.280",
+                "previous": [
+                    {
+                        "value": "2.560",
+                        "timestamp": 1742983343
+                    }
+                ],
+                "timestamp": 1749739065
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -158,7 +173,7 @@
                 "timestamp": 1742983343
             },
             "previous_unit_price": {
-                "value": null,
+                "value": "        7.68",
                 "previous": [],
                 "timestamp": 1742983343
             },
@@ -174,7 +189,7 @@
             "timestamp": 1742983343
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/66028/cerveza-especial-mahou-pack-12",
+            "value": "https:\/\/tienda.mercadona.es\/product\/66028\/cerveza-especial-mahou-pack-12",
             "previous": [],
             "timestamp": 1742983343
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983343
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/05fa347782a29ca5ba398bc040f1f9aa.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/05fa347782a29ca5ba398bc040f1f9aa.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983343
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983343,
-        "updated_at": 1743023175,
-        "updates": 2
+        "updated_at": 1749739065,
+        "updates": 3
     }
 }

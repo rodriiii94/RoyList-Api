@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Spray oral Própolis Deliplus",
+            "value": "Spray oral Pr\u00f3polis Deliplus",
             "previous": [],
             "timestamp": 1742983451
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983451
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/22233/spray-oral-propolis-deliplus-contiene-equinacea-eucalipto-elaborado-base-especies-vegetales-liquen-islandia-spray",
+            "value": "https:\/\/tienda.mercadona.es\/product\/22233\/spray-oral-propolis-deliplus-contiene-equinacea-eucalipto-elaborado-base-especies-vegetales-liquen-islandia-spray",
             "previous": [],
             "timestamp": 1742983451
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983451
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/7b7a1b899876dc2ab66a488f0298037e.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/7b7a1b899876dc2ab66a488f0298037e.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983451
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983451,
-        "updated_at": 1743023298,
-        "updates": 2
+        "updated_at": 1749739227,
+        "updates": 3
     }
 }

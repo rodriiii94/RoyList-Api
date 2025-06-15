@@ -42,7 +42,7 @@
                     "timestamp": 1742983526
                 },
                 "name": {
-                    "value": "Panadería y pastelería",
+                    "value": "Panader\u00eda y pasteler\u00eda",
                     "previous": [],
                     "timestamp": 1742983526
                 },
@@ -110,14 +110,24 @@
                 "timestamp": 1742983412
             },
             "bulk_price": {
-                "value": "10.91",
-                "previous": [],
-                "timestamp": 1742983412
+                "value": "10.67",
+                "previous": [
+                    {
+                        "value": "10.91",
+                        "timestamp": 1742983412
+                    }
+                ],
+                "timestamp": 1749739161
             },
             "unit_price": {
-                "value": "9.00",
-                "previous": [],
-                "timestamp": 1742983412
+                "value": "8.80",
+                "previous": [
+                    {
+                        "value": "9.00",
+                        "timestamp": 1742983412
+                    }
+                ],
+                "timestamp": 1749739161
             },
             "approx_size": {
                 "value": false,
@@ -165,9 +175,14 @@
                 "timestamp": 1742983412
             },
             "reference_price": {
-                "value": "10.910",
-                "previous": [],
-                "timestamp": 1742983412
+                "value": "10.667",
+                "previous": [
+                    {
+                        "value": "10.910",
+                        "timestamp": 1742983412
+                    }
+                ],
+                "timestamp": 1749739161
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -196,7 +211,7 @@
             "timestamp": 1742983412
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/87692/tarta-abuela-hacendado-congelada-galleta-con-chocolate-nata",
+            "value": "https:\/\/tienda.mercadona.es\/product\/87692\/tarta-abuela-hacendado-congelada-galleta-con-chocolate-nata",
             "previous": [],
             "timestamp": 1742983412
         },
@@ -211,7 +226,7 @@
             "timestamp": 1742983412
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/42a52ea26c06caa02aa8a0d4ee4de0c6.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/42a52ea26c06caa02aa8a0d4ee4de0c6.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983412
         },
@@ -223,7 +238,7 @@
     },
     "stats": {
         "created_at": 1742983412,
-        "updated_at": 1743023379,
-        "updates": 4
+        "updated_at": 1749739338,
+        "updates": 6
     }
 }

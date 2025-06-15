@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Vinagre balsámico de Módena Hacendado",
+            "value": "Vinagre bals\u00e1mico de M\u00f3dena Hacendado",
             "previous": [],
             "timestamp": 1742983305
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983305
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/26496/vinagre-balsamico-modena-hacendado-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/26496\/vinagre-balsamico-modena-hacendado-botella",
             "previous": [],
             "timestamp": 1742983305
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983305
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/f65c196d0aae6388f9e6852c381f8da4.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/f65c196d0aae6388f9e6852c381f8da4.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983305
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983305,
-        "updated_at": 1743023127,
-        "updates": 2
+        "updated_at": 1749739004,
+        "updates": 3
     }
 }

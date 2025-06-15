@@ -20,7 +20,7 @@
                     "timestamp": 1742983332
                 },
                 "name": {
-                    "value": "Azúcar, caramelos y chocolate",
+                    "value": "Az\u00facar, caramelos y chocolate",
                     "previous": [],
                     "timestamp": 1742983332
                 },
@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Surtido bombones Senzza de chocolate con avellana, fondant, praliné y almendra",
+            "value": "Surtido bombones Senzza de chocolate con avellana, fondant, pralin\u00e9 y almendra",
             "previous": [],
             "timestamp": 1742983332
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983332
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/12238/surtido-bombones-senzza-chocolate-con-avellana-fondant-praline-almendra-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/12238\/surtido-bombones-senzza-chocolate-con-avellana-fondant-praline-almendra-paquete",
             "previous": [],
             "timestamp": 1742983332
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983332
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/bd05dfaf7e041eb3d814cc7604a45f39.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/bd05dfaf7e041eb3d814cc7604a45f39.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983332
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983332,
-        "updated_at": 1743023162,
-        "updates": 2
+        "updated_at": 1749739049,
+        "updates": 3
     }
 }

@@ -174,7 +174,7 @@
             "timestamp": 1742983495
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/52429/pintalabios-fluido-mate-deliplus-12-fucsia-larga-duracion",
+            "value": "https:\/\/tienda.mercadona.es\/product\/52429\/pintalabios-fluido-mate-deliplus-12-fucsia-larga-duracion",
             "previous": [],
             "timestamp": 1742983495
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983495
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/f07a426c4a35ae304aa49518a213be45.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/f07a426c4a35ae304aa49518a213be45.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983495
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983495,
-        "updated_at": 1743023347,
-        "updates": 2
+        "updated_at": 1749739293,
+        "updates": 3
     }
 }

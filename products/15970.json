@@ -174,7 +174,7 @@
             "timestamp": 1742983510
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/15970/comida-perro-adulto-compy-con-pollo-ternera-frutas-verduras-razas-pequenas-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/15970\/comida-perro-adulto-compy-con-pollo-ternera-frutas-verduras-razas-pequenas-paquete",
             "previous": [],
             "timestamp": 1742983510
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983510
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/0e4776f54c046ca9fc5d93d609179726.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/0e4776f54c046ca9fc5d93d609179726.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983510
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983510,
-        "updated_at": 1743023363,
-        "updates": 2
+        "updated_at": 1749739315,
+        "updates": 3
     }
 }

@@ -174,7 +174,7 @@
             "timestamp": 1742983435
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/76465/agua-facial-avena-deliplus-piel-sensible-spray",
+            "value": "https:\/\/tienda.mercadona.es\/product\/76465\/agua-facial-avena-deliplus-piel-sensible-spray",
             "previous": [],
             "timestamp": 1742983435
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983435
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/a21d1b9ceb7c2d8a2e0a8eaa15ce7d7a.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/a21d1b9ceb7c2d8a2e0a8eaa15ce7d7a.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983435
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983435,
-        "updated_at": 1743023279,
-        "updates": 2
+        "updated_at": 1749739198,
+        "updates": 3
     }
 }

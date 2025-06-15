@@ -161,6 +161,11 @@
                 "value": 1,
                 "previous": [],
                 "timestamp": 1742983490
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1749739285
             }
         },
         "published": {
@@ -169,7 +174,7 @@
             "timestamp": 1742983490
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/40254/maquillaje-fluido-long-lasting-deliplus-02-beige-claro-medio",
+            "value": "https:\/\/tienda.mercadona.es\/product\/40254\/maquillaje-fluido-long-lasting-deliplus-02-beige-claro-medio",
             "previous": [],
             "timestamp": 1742983490
         },
@@ -184,7 +189,7 @@
             "timestamp": 1742983490
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/3e6c0f9e2f440afc3e3bed27589e6cfb.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/3e6c0f9e2f440afc3e3bed27589e6cfb.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983490
         },
@@ -196,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983490,
-        "updated_at": 1743023342,
-        "updates": 2
+        "updated_at": 1749739285,
+        "updates": 3
     }
 }

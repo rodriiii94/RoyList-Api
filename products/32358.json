@@ -20,7 +20,7 @@
                     "timestamp": 1742983517
                 },
                 "name": {
-                    "value": "Panadería y pastelería",
+                    "value": "Panader\u00eda y pasteler\u00eda",
                     "previous": [],
                     "timestamp": 1742983517
                 },
@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Preparado en polvo cuajada azucarada Royal sabor lácteo",
+            "value": "Preparado en polvo cuajada azucarada Royal sabor l\u00e1cteo",
             "previous": [],
             "timestamp": 1742983517
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983517
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/32358/preparado-polvo-cuajada-azucarada-royal-sabor-lacteo-16-raciones-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/32358\/preparado-polvo-cuajada-azucarada-royal-sabor-lacteo-16-raciones-caja",
             "previous": [],
             "timestamp": 1742983517
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983517
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/366e7796b4b0f87cace8da0d5f61d521.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983517
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/c0cd591955bba66ca4ed6eb64cd55189.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/366e7796b4b0f87cace8da0d5f61d521.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983517
+                }
+            ],
+            "timestamp": 1749739325
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983517,
-        "updated_at": 1743023370,
-        "updates": 2
+        "updated_at": 1749739325,
+        "updates": 3
     }
 }

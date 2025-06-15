@@ -88,14 +88,24 @@
                 "timestamp": 1742983323
             },
             "bulk_price": {
-                "value": "15.76",
-                "previous": [],
-                "timestamp": 1742983323
+                "value": "12.06",
+                "previous": [
+                    {
+                        "value": "15.76",
+                        "timestamp": 1742983323
+                    }
+                ],
+                "timestamp": 1749739034
             },
             "unit_price": {
-                "value": "2.60",
-                "previous": [],
-                "timestamp": 1742983323
+                "value": "1.99",
+                "previous": [
+                    {
+                        "value": "2.60",
+                        "timestamp": 1742983323
+                    }
+                ],
+                "timestamp": 1749739034
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983323
             },
             "reference_price": {
-                "value": "15.758",
-                "previous": [],
-                "timestamp": 1742983323
+                "value": "12.061",
+                "previous": [
+                    {
+                        "value": "15.758",
+                        "timestamp": 1742983323
+                    }
+                ],
+                "timestamp": 1749739034
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -158,7 +173,7 @@
                 "timestamp": 1742983323
             },
             "previous_unit_price": {
-                "value": null,
+                "value": "        2.60",
                 "previous": [],
                 "timestamp": 1742983323
             },
@@ -174,7 +189,7 @@
             "timestamp": 1742983323
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/33556/aperitivo-patata-sabor-crema-agria-cebolla-pringles-bote",
+            "value": "https:\/\/tienda.mercadona.es\/product\/33556\/aperitivo-patata-sabor-crema-agria-cebolla-pringles-bote",
             "previous": [],
             "timestamp": 1742983323
         },
@@ -189,9 +204,14 @@
             "timestamp": 1742983323
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/bc45c8f05154bb7f3c7387f5457de89b.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983323
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/32106414094197c43e2e4c9dc853d237.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/bc45c8f05154bb7f3c7387f5457de89b.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983323
+                }
+            ],
+            "timestamp": 1749739034
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +221,7 @@
     },
     "stats": {
         "created_at": 1742983323,
-        "updated_at": 1743023150,
-        "updates": 2
+        "updated_at": 1749739034,
+        "updates": 3
     }
 }

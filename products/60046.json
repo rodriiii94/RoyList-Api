@@ -174,7 +174,7 @@
             "timestamp": 1742983437
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/60046/crema-decolorante-rostro-cuerpo-deliplus-piel-sensible-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/60046\/crema-decolorante-rostro-cuerpo-deliplus-piel-sensible-caja",
             "previous": [],
             "timestamp": 1742983437
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983437
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/e2405a03433b9cf317c029fc623bde03.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/e2405a03433b9cf317c029fc623bde03.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983437
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983437,
-        "updated_at": 1743023282,
-        "updates": 2
+        "updated_at": 1749739201,
+        "updates": 3
     }
 }

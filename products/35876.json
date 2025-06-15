@@ -174,7 +174,7 @@
             "timestamp": 1742983494
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/35876/perfilador-labios-long-lasting-deliplus-11-nude",
+            "value": "https:\/\/tienda.mercadona.es\/product\/35876\/perfilador-labios-long-lasting-deliplus-11-nude",
             "previous": [],
             "timestamp": 1742983494
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983494
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/17a67736904952ace727cffec5d61b8f.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/17a67736904952ace727cffec5d61b8f.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983494
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983494,
-        "updated_at": 1743023346,
-        "updates": 2
+        "updated_at": 1749739291,
+        "updates": 3
     }
 }

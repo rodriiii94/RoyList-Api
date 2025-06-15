@@ -174,7 +174,7 @@
             "timestamp": 1742983495
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/35608/pintalabios-fluido-mate-deliplus-11-rosa-medio-larga-duracion",
+            "value": "https:\/\/tienda.mercadona.es\/product\/35608\/pintalabios-fluido-mate-deliplus-11-rosa-medio-larga-duracion",
             "previous": [],
             "timestamp": 1742983495
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983495
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/e38957a47d7882414c585bb397b33cb1.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/e38957a47d7882414c585bb397b33cb1.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983495
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983495,
-        "updated_at": 1743023347,
-        "updates": 2
+        "updated_at": 1749739293,
+        "updates": 3
     }
 }

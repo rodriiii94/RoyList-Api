@@ -20,7 +20,7 @@
                     "timestamp": 1742983523
                 },
                 "name": {
-                    "value": "Panadería y pastelería",
+                    "value": "Panader\u00eda y pasteler\u00eda",
                     "previous": [],
                     "timestamp": 1742983523
                 },
@@ -174,7 +174,7 @@
             "timestamp": 1742983523
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/82839/tostadas-sin-gluten-hacendado-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/82839\/tostadas-sin-gluten-hacendado-caja",
             "previous": [],
             "timestamp": 1742983523
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983523
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/2c7ed82e0b63fca81e542ffffdc0cc3d.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/2c7ed82e0b63fca81e542ffffdc0cc3d.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983523
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983523,
-        "updated_at": 1743023376,
-        "updates": 2
+        "updated_at": 1749739334,
+        "updates": 3
     }
 }

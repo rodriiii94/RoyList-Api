@@ -20,7 +20,7 @@
                     "timestamp": 1742983517
                 },
                 "name": {
-                    "value": "Panadería y pastelería",
+                    "value": "Panader\u00eda y pasteler\u00eda",
                     "previous": [],
                     "timestamp": 1742983517
                 },
@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Impulsor gasificante repostería Hacendado para uso alimentario",
+            "value": "Impulsor gasificante reposter\u00eda Hacendado para uso alimentario",
             "previous": [],
             "timestamp": 1742983517
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983517
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/80293/impulsor-gasificante-hacendado-uso-alimentario-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/80293\/impulsor-gasificante-hacendado-uso-alimentario-caja",
             "previous": [],
             "timestamp": 1742983517
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983517
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/c7e429c5e340c5953cda7704dc9d2dd2.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/c7e429c5e340c5953cda7704dc9d2dd2.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983517
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983517,
-        "updated_at": 1743023370,
-        "updates": 2
+        "updated_at": 1749739325,
+        "updates": 3
     }
 }

@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Friegasuelos Insecticida Krisul líquido",
+            "value": "Friegasuelos Insecticida Krisul l\u00edquido",
             "previous": [],
             "timestamp": 1742983476
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983476
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/43070/friegasuelos-insecticida-krisul-liquido-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/43070\/friegasuelos-insecticida-krisul-liquido-botella",
             "previous": [],
             "timestamp": 1742983476
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983476
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/9bbae915b0b661e1ae9d0e605473ae27.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/9bbae915b0b661e1ae9d0e605473ae27.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983476
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983476,
-        "updated_at": 1743023326,
-        "updates": 2
+        "updated_at": 1749739265,
+        "updates": 3
     }
 }

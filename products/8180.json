@@ -20,7 +20,7 @@
                     "timestamp": 1742983396
                 },
                 "name": {
-                    "value": "Charcutería y quesos",
+                    "value": "Charcuter\u00eda y quesos",
                     "previous": [],
                     "timestamp": 1742983396
                 },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983396
             },
             "bulk_price": {
-                "value": "10.00",
-                "previous": [],
-                "timestamp": 1742983396
+                "value": "10.25",
+                "previous": [
+                    {
+                        "value": "10.00",
+                        "timestamp": 1742983396
+                    }
+                ],
+                "timestamp": 1749739138
             },
             "unit_price": {
-                "value": "2.00",
-                "previous": [],
-                "timestamp": 1742983396
+                "value": "2.05",
+                "previous": [
+                    {
+                        "value": "2.00",
+                        "timestamp": 1742983396
+                    }
+                ],
+                "timestamp": 1749739138
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983396
             },
             "reference_price": {
-                "value": "10.000",
-                "previous": [],
-                "timestamp": 1742983396
+                "value": "10.250",
+                "previous": [
+                    {
+                        "value": "10.000",
+                        "timestamp": 1742983396
+                    }
+                ],
+                "timestamp": 1749739138
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983396
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/8180/queso-lonchas-cheddar-vaca-hacendado-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/8180\/queso-lonchas-cheddar-vaca-hacendado-paquete",
             "previous": [],
             "timestamp": 1742983396
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983396
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/c7817f8a9f30b9b439897d8007825ca7.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/c7817f8a9f30b9b439897d8007825ca7.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983396
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983396,
-        "updated_at": 1743023234,
-        "updates": 2
+        "updated_at": 1749739138,
+        "updates": 3
     }
 }

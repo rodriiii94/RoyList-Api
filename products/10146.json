@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Bebida láctea Omega 3 Puleva con leche desnatada",
+            "value": "Bebida l\u00e1ctea Omega 3 Puleva con leche desnatada",
             "previous": [],
             "timestamp": 1742983463
         },
@@ -158,7 +158,7 @@
                 "timestamp": 1742983463
             },
             "previous_unit_price": {
-                "value": null,
+                "value": "       11.34",
                 "previous": [],
                 "timestamp": 1742983463
             },
@@ -174,7 +174,7 @@
             "timestamp": 1742983463
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/10146/bebida-lactea-omega-3-puleva-con-leche-desnatada-pack-6",
+            "value": "https:\/\/tienda.mercadona.es\/product\/10146\/bebida-lactea-omega-3-puleva-con-leche-desnatada-pack-6",
             "previous": [],
             "timestamp": 1742983463
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983463
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/7c9553aed202938385ddf8f174e0c805.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/7c9553aed202938385ddf8f174e0c805.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983463
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983463,
-        "updated_at": 1743023312,
-        "updates": 2
+        "updated_at": 1749739245,
+        "updates": 3
     }
 }

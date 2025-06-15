@@ -174,7 +174,7 @@
             "timestamp": 1742983531
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/63551/pizza-serrana-hacendado",
+            "value": "https:\/\/tienda.mercadona.es\/product\/63551\/pizza-serrana-hacendado",
             "previous": [],
             "timestamp": 1742983531
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983531
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/46cb0fc16ebe88e123f4946403a4a191.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/46cb0fc16ebe88e123f4946403a4a191.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983531
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983531,
-        "updated_at": 1743023385,
-        "updates": 2
+        "updated_at": 1749739344,
+        "updates": 3
     }
 }

@@ -88,14 +88,24 @@
                 "timestamp": 1742983314
             },
             "bulk_price": {
-                "value": "1.00",
-                "previous": [],
-                "timestamp": 1742983314
+                "value": "0.98",
+                "previous": [
+                    {
+                        "value": "1.00",
+                        "timestamp": 1742983314
+                    }
+                ],
+                "timestamp": 1749739018
             },
             "unit_price": {
-                "value": "4.00",
-                "previous": [],
-                "timestamp": 1742983314
+                "value": "3.90",
+                "previous": [
+                    {
+                        "value": "4.00",
+                        "timestamp": 1742983314
+                    }
+                ],
+                "timestamp": 1749739018
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983314
             },
             "reference_price": {
-                "value": "1.000",
-                "previous": [],
-                "timestamp": 1742983314
+                "value": "0.975",
+                "previous": [
+                    {
+                        "value": "1.000",
+                        "timestamp": 1742983314
+                    }
+                ],
+                "timestamp": 1749739018
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983314
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/27348/refresco-coca-cola-pack-2",
+            "value": "https:\/\/tienda.mercadona.es\/product\/27348\/refresco-coca-cola-pack-2",
             "previous": [],
             "timestamp": 1742983314
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983314
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/1c6c9390743b38ad5042c4428763a88c.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/1c6c9390743b38ad5042c4428763a88c.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983314
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983314,
-        "updated_at": 1743023139,
-        "updates": 2
+        "updated_at": 1749739018,
+        "updates": 3
     }
 }

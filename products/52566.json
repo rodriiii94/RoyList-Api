@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Eau de parfum mujer Soirée My Soul",
+            "value": "Eau de parfum mujer Soir\u00e9e My Soul",
             "previous": [],
             "timestamp": 1742983448
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983448
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/52566/eau-parfum-mujer-soiree-my-soul-for-her-frasco",
+            "value": "https:\/\/tienda.mercadona.es\/product\/52566\/eau-parfum-mujer-soiree-my-soul-for-her-frasco",
             "previous": [],
             "timestamp": 1742983448
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983448
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/c12de1d5508bc7840dacc47ab7baf542.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/c12de1d5508bc7840dacc47ab7baf542.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983448
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983448,
-        "updated_at": 1743023294,
-        "updates": 2
+        "updated_at": 1749739220,
+        "updates": 3
     }
 }

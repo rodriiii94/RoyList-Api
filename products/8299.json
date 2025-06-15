@@ -174,7 +174,7 @@
             "timestamp": 1742983494
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/8299/pintalabios-creamy-deliplus-218-granate-suave",
+            "value": "https:\/\/tienda.mercadona.es\/product\/8299\/pintalabios-creamy-deliplus-218-granate-suave",
             "previous": [],
             "timestamp": 1742983494
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983494
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/07e57bf01dc2836b675c637103ddb04c.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/07e57bf01dc2836b675c637103ddb04c.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983494
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983494,
-        "updated_at": 1743023346,
-        "updates": 2
+        "updated_at": 1749739291,
+        "updates": 3
     }
 }

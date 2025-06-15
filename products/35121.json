@@ -174,7 +174,7 @@
             "timestamp": 1742983434
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/35121/crema-manos-anti-manchas-deliplus-fps-20-despigmentante-bote",
+            "value": "https:\/\/tienda.mercadona.es\/product\/35121\/crema-manos-anti-manchas-deliplus-fps-20-despigmentante-bote",
             "previous": [],
             "timestamp": 1742983434
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983434
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/831a05e0e7849bbb57bd43e837a7e838.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/831a05e0e7849bbb57bd43e837a7e838.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983434
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983434,
-        "updated_at": 1743023277,
-        "updates": 2
+        "updated_at": 1749739196,
+        "updates": 3
     }
 }

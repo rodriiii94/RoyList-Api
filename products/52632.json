@@ -174,7 +174,7 @@
             "timestamp": 1742983555
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/52632/zumo-naranja-hacendado-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/52632\/zumo-naranja-hacendado-botella",
             "previous": [],
             "timestamp": 1742983555
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983555
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/2c88a68248960ecc2c85f3dabd1e22da.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/2c88a68248960ecc2c85f3dabd1e22da.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983555
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983555,
-        "updated_at": 1743023409,
-        "updates": 2
+        "updated_at": 1749739375,
+        "updates": 3
     }
 }

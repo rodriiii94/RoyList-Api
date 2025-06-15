@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Gelatina gato adulto selección de pescado Quartett",
+            "value": "Gelatina gato adulto selecci\u00f3n de pescado Quartett",
             "previous": [],
             "timestamp": 1742983508
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983508
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/35267/gelatina-gato-adulto-seleccion-pescado-quartett-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/35267\/gelatina-gato-adulto-seleccion-pescado-quartett-paquete",
             "previous": [],
             "timestamp": 1742983508
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983508
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/786e674060bdb8273f461d172e20f582.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/786e674060bdb8273f461d172e20f582.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983508
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983508,
-        "updated_at": 1743023361,
-        "updates": 2
+        "updated_at": 1749739312,
+        "updates": 3
     }
 }

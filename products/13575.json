@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Maquinilla depilación recargable Deliplus Body System 6 hojas",
+            "value": "Maquinilla depilaci\u00f3n recargable Deliplus Body System 6 hojas",
             "previous": [],
             "timestamp": 1742983437
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983437
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/13575/maquinilla-depilacion-recargable-deliplus-body-system-6-hojas-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/13575\/maquinilla-depilacion-recargable-deliplus-body-system-6-hojas-caja",
             "previous": [],
             "timestamp": 1742983437
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983437
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/d3730af05472742edfd8d956ca71dbf9.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/d3730af05472742edfd8d956ca71dbf9.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983437
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983437,
-        "updated_at": 1743023282,
-        "updates": 2
+        "updated_at": 1749739202,
+        "updates": 3
     }
 }

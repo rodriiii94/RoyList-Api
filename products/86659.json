@@ -174,7 +174,7 @@
             "timestamp": 1742983306
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/86659/sazonador-sabor-barbacoa-hacendado-carne",
+            "value": "https:\/\/tienda.mercadona.es\/product\/86659\/sazonador-sabor-barbacoa-hacendado-carne",
             "previous": [],
             "timestamp": 1742983306
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983306
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/43dc9ccbba36855392ce7b3e45f7988b.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983306
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/e8d632c554c1be1a560387bf2f53a2ad.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/43dc9ccbba36855392ce7b3e45f7988b.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983306
+                }
+            ],
+            "timestamp": 1749739007
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983306,
-        "updated_at": 1743023130,
-        "updates": 2
+        "updated_at": 1749739007,
+        "updates": 3
     }
 }

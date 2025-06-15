@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Mousse con lenguado y salmón gato adulto Delikuit",
+            "value": "Mousse con lenguado y salm\u00f3n gato adulto Delikuit",
             "previous": [],
             "timestamp": 1742983508
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983508
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/15985/mousse-con-lenguado-salmon-gato-adulto-delikuit-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/15985\/mousse-con-lenguado-salmon-gato-adulto-delikuit-caja",
             "previous": [],
             "timestamp": 1742983508
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983508
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/2a1d8163a2ee6807f01e607201d9cfbc.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983508
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/a8a3813be7fed348c745fbbb4c510d43.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/2a1d8163a2ee6807f01e607201d9cfbc.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983508
+                }
+            ],
+            "timestamp": 1749739312
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983508,
-        "updated_at": 1743023361,
-        "updates": 2
+        "updated_at": 1749739312,
+        "updates": 3
     }
 }

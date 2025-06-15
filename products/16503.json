@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Yemas de espárragos Hacendado",
+            "value": "Yemas de esp\u00e1rragos Hacendado",
             "previous": [],
             "timestamp": 1742983419
         },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983419
             },
             "bulk_price": {
-                "value": "8.39",
-                "previous": [],
-                "timestamp": 1742983419
+                "value": "10.48",
+                "previous": [
+                    {
+                        "value": "8.39",
+                        "timestamp": 1742983419
+                    }
+                ],
+                "timestamp": 1749739171
             },
             "unit_price": {
-                "value": "2.60",
-                "previous": [],
-                "timestamp": 1742983419
+                "value": "3.25",
+                "previous": [
+                    {
+                        "value": "2.60",
+                        "timestamp": 1742983419
+                    }
+                ],
+                "timestamp": 1749739171
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983419
             },
             "reference_price": {
-                "value": "13.000",
-                "previous": [],
-                "timestamp": 1742983419
+                "value": "16.250",
+                "previous": [
+                    {
+                        "value": "13.000",
+                        "timestamp": 1742983419
+                    }
+                ],
+                "timestamp": 1749739171
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983419
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/16503/yemas-esparragos-hacendado-pack-2",
+            "value": "https:\/\/tienda.mercadona.es\/product\/16503\/yemas-esparragos-hacendado-pack-2",
             "previous": [],
             "timestamp": 1742983419
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983419
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/110e89e762074642851a4d6c2e9683f1.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/110e89e762074642851a4d6c2e9683f1.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983419
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983419,
-        "updated_at": 1743023259,
-        "updates": 2
+        "updated_at": 1749739171,
+        "updates": 3
     }
 }

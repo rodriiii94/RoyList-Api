@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Loción corporal Calm Deliplus omega 3, 6, 9 y niacinamida",
+            "value": "Loci\u00f3n corporal Calm Deliplus omega 3, 6, 9 y niacinamida",
             "previous": [],
             "timestamp": 1742983433
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983433
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/86345/locion-corporal-calm-deliplus-omega-3-6-9-niacinamida-piel-sensible-atopica-bote",
+            "value": "https:\/\/tienda.mercadona.es\/product\/86345\/locion-corporal-calm-deliplus-omega-3-6-9-niacinamida-piel-sensible-atopica-bote",
             "previous": [],
             "timestamp": 1742983433
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983433
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/79e9fad27f73bed3b90d15bf4b433a2a.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/79e9fad27f73bed3b90d15bf4b433a2a.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983433
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983433,
-        "updated_at": 1743023276,
-        "updates": 2
+        "updated_at": 1749739195,
+        "updates": 3
     }
 }

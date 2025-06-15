@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Recipiente de Plástico Redondo 240 ml Bosque Verde",
+            "value": "Recipiente de Pl\u00e1stico Redondo 240 ml Bosque Verde",
             "previous": [],
             "timestamp": 1742983484
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983484
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/48005/recipiente-plastico-redondo-240-ml-bosque-verde-con-rosca-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/48005\/recipiente-plastico-redondo-240-ml-bosque-verde-con-rosca-paquete",
             "previous": [],
             "timestamp": 1742983484
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983484
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/b1500dd0255fc6256478034a98aad908.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/b1500dd0255fc6256478034a98aad908.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983484
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983484,
-        "updated_at": 1743023335,
-        "updates": 2
+        "updated_at": 1749739276,
+        "updates": 3
     }
 }

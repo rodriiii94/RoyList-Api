@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Pizza atún y bacón Hacendado",
+            "value": "Pizza at\u00fan y bac\u00f3n Hacendado",
             "previous": [],
             "timestamp": 1742983532
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983532
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/56647/pizza-atun-bacon-hacendado-pack-2",
+            "value": "https:\/\/tienda.mercadona.es\/product\/56647\/pizza-atun-bacon-hacendado-pack-2",
             "previous": [],
             "timestamp": 1742983532
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983532
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/2923d29f347e05adbbeae016a52623c2.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983532
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/a687ce7651e5fa8f96b33334ac50b2f4.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/2923d29f347e05adbbeae016a52623c2.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983532
+                }
+            ],
+            "timestamp": 1749739344
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983532,
-        "updated_at": 1743023385,
-        "updates": 2
+        "updated_at": 1749739344,
+        "updates": 3
     }
 }

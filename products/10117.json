@@ -83,14 +83,24 @@
                 "timestamp": 1742983465
             },
             "unit_size": {
-                "value": 0.2,
-                "previous": [],
-                "timestamp": 1742983465
+                "value": 0.197,
+                "previous": [
+                    {
+                        "value": 0.2,
+                        "timestamp": 1742983465
+                    }
+                ],
+                "timestamp": 1749739250
             },
             "bulk_price": {
-                "value": "6.00",
-                "previous": [],
-                "timestamp": 1742983465
+                "value": "6.09",
+                "previous": [
+                    {
+                        "value": "6.00",
+                        "timestamp": 1742983465
+                    }
+                ],
+                "timestamp": 1749739250
             },
             "unit_price": {
                 "value": "1.20",
@@ -103,9 +113,14 @@
                 "timestamp": 1742983465
             },
             "size_format": {
-                "value": "l",
-                "previous": [],
-                "timestamp": 1742983465
+                "value": "kg",
+                "previous": [
+                    {
+                        "value": "l",
+                        "timestamp": 1742983465
+                    }
+                ],
+                "timestamp": 1749739250
             },
             "total_units": {
                 "value": null,
@@ -143,9 +158,14 @@
                 "timestamp": 1742983465
             },
             "reference_price": {
-                "value": "6.000",
-                "previous": [],
-                "timestamp": 1742983465
+                "value": "6.092",
+                "previous": [
+                    {
+                        "value": "6.000",
+                        "timestamp": 1742983465
+                    }
+                ],
+                "timestamp": 1749739250
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -153,9 +173,14 @@
                 "timestamp": 1742983465
             },
             "reference_format": {
-                "value": "L",
-                "previous": [],
-                "timestamp": 1742983465
+                "value": "kg",
+                "previous": [
+                    {
+                        "value": "L",
+                        "timestamp": 1742983465
+                    }
+                ],
+                "timestamp": 1749739250
             },
             "previous_unit_price": {
                 "value": null,
@@ -174,7 +199,7 @@
             "timestamp": 1742983465
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/10117/nata-fresca-cocinar-hacendado-tarrina",
+            "value": "https:\/\/tienda.mercadona.es\/product\/10117\/nata-fresca-cocinar-hacendado-tarrina",
             "previous": [],
             "timestamp": 1742983465
         },
@@ -189,9 +214,14 @@
             "timestamp": 1742983465
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/0565ead144b9428d5b55dcd9b51ae70f.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983465
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/108f4b61a8ddeca7146ea3cf0622921d.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/0565ead144b9428d5b55dcd9b51ae70f.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983465
+                }
+            ],
+            "timestamp": 1749739250
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +231,7 @@
     },
     "stats": {
         "created_at": 1742983465,
-        "updated_at": 1743023315,
-        "updates": 2
+        "updated_at": 1749739250,
+        "updates": 3
     }
 }

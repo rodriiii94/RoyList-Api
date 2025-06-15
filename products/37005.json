@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Vino tinto sin sulfitos añadidos Davida D.O. Navarra",
+            "value": "Vino tinto sin sulfitos a\u00f1adidos Davida D.O. Navarra",
             "previous": [],
             "timestamp": 1742983355
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983355
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/37005/vino-tinto-sin-sulfitos-anadidos-davida-do-navarra-vegano-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/37005\/vino-tinto-sin-sulfitos-anadidos-davida-do-navarra-vegano-botella",
             "previous": [],
             "timestamp": 1742983355
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983355
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/f2e301c6e83b6ce46f0ef23daf24e355.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/f2e301c6e83b6ce46f0ef23daf24e355.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983355
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983355,
-        "updated_at": 1743023189,
-        "updates": 2
+        "updated_at": 1749739081,
+        "updates": 3
     }
 }

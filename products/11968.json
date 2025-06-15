@@ -174,7 +174,7 @@
             "timestamp": 1742983351
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/11968/vino-blanco-chardonnay-mar-uvas-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/11968\/vino-blanco-chardonnay-mar-uvas-botella",
             "previous": [],
             "timestamp": 1742983351
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983351
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/667a2dfbdb059e356af8e6d6d54e65b5.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983351
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/f1e59246877a78d155fa552e54a07cf4.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/667a2dfbdb059e356af8e6d6d54e65b5.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983351
+                }
+            ],
+            "timestamp": 1749739076
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983351,
-        "updated_at": 1743023184,
-        "updates": 2
+        "updated_at": 1749739076,
+        "updates": 3
     }
 }

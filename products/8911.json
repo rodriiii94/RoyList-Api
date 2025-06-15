@@ -20,7 +20,7 @@
                     "timestamp": 1742983357
                 },
                 "name": {
-                    "value": "Cacao, café e infusiones",
+                    "value": "Cacao, caf\u00e9 e infusiones",
                     "previous": [],
                     "timestamp": 1742983357
                 },
@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Cacao soluble instantáneo Hacendado",
+            "value": "Cacao soluble instant\u00e1neo Hacendado",
             "previous": [],
             "timestamp": 1742983357
         },
@@ -158,9 +158,14 @@
                 "timestamp": 1742983357
             },
             "previous_unit_price": {
-                "value": "        4.20",
-                "previous": [],
-                "timestamp": 1742983357
+                "value": null,
+                "previous": [
+                    {
+                        "value": "        4.20",
+                        "timestamp": 1742983357
+                    }
+                ],
+                "timestamp": 1749739083
             },
             "increment_bunch_amount": {
                 "value": 1,
@@ -174,7 +179,7 @@
             "timestamp": 1742983357
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/8911/cacao-soluble-instantaneo-hacendado-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/8911\/cacao-soluble-instantaneo-hacendado-caja",
             "previous": [],
             "timestamp": 1742983357
         },
@@ -189,7 +194,7 @@
             "timestamp": 1742983357
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/1e1ff45672b1ea564048428bcdb34f20.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/1e1ff45672b1ea564048428bcdb34f20.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983357
         },
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983357,
-        "updated_at": 1743023191,
-        "updates": 2
+        "updated_at": 1749739083,
+        "updates": 3
     }
 }

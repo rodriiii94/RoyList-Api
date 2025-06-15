@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739076
+            },
+            "requires_age_check": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739076
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 19,
+                    "previous": [],
+                    "timestamp": 1749739076
+                },
+                "name": {
+                    "value": "Bodega",
+                    "previous": [],
+                    "timestamp": 1749739076
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739076
+                },
+                "order": {
+                    "value": 15,
+                    "previous": [],
+                    "timestamp": 1749739076
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Vino Pedro Xim\u00e9nez Olivar D.O Jerez",
+            "previous": [],
+            "timestamp": 1749739076
+        },
+        "id": {
+            "value": "12883",
+            "previous": [],
+            "timestamp": 1749739076
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739076
+        },
+        "packaging": {
+            "value": "Botella",
+            "previous": [],
+            "timestamp": 1749739076
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1749739076
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739076
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739076
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739076
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739076
+            },
+            "unit_size": {
+                "value": 0.75,
+                "previous": [],
+                "timestamp": 1749739076
+            },
+            "bulk_price": {
+                "value": "8.27",
+                "previous": [],
+                "timestamp": 1749739076
+            },
+            "unit_price": {
+                "value": "6.20",
+                "previous": [],
+                "timestamp": 1749739076
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739076
+            },
+            "size_format": {
+                "value": "l",
+                "previous": [],
+                "timestamp": 1749739076
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739076
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739076
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739076
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739076
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739076
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1749739076
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739076
+            },
+            "reference_price": {
+                "value": "8.267",
+                "previous": [],
+                "timestamp": 1749739076
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739076
+            },
+            "reference_format": {
+                "value": "L",
+                "previous": [],
+                "timestamp": 1749739076
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739076
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739076
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739076
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/12883\/vino-pedro-ximenez-olivar-do-jerez-botella",
+            "previous": [],
+            "timestamp": 1749739076
+        },
+        "slug": {
+            "value": "vino-pedro-ximenez-olivar-do-jerez-botella",
+            "previous": [],
+            "timestamp": 1749739076
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739076
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/97daafea21cef05f2932f3850f8909ce.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739076
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739076
+        }
+    },
+    "stats": {
+        "created_at": 1749739076,
+        "updated_at": 1749739076,
+        "updates": 1
+    }
+}

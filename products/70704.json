@@ -174,7 +174,7 @@
             "timestamp": 1742983508
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/70704/bocaditos-gelatina-gato-adulto-delikuit-contiene-4-con-ternera-higado-verduras-4-con-pato-pollo-verduras-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/70704\/bocaditos-gelatina-gato-adulto-delikuit-contiene-4-con-ternera-higado-verduras-4-con-pato-pollo-verduras-caja",
             "previous": [],
             "timestamp": 1742983508
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983508
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/5182eda869d4213d3b345404391fed09.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/5182eda869d4213d3b345404391fed09.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983508
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983508,
-        "updated_at": 1743023361,
-        "updates": 2
+        "updated_at": 1749739312,
+        "updates": 3
     }
 }

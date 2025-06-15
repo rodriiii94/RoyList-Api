@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Medio salmón",
+            "value": "Medio salm\u00f3n",
             "previous": [],
             "timestamp": 1742983505
         },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983505
             },
             "bulk_price": {
-                "value": "18.95",
-                "previous": [],
-                "timestamp": 1742983505
+                "value": "20.95",
+                "previous": [
+                    {
+                        "value": "18.95",
+                        "timestamp": 1742983505
+                    }
+                ],
+                "timestamp": 1749739306
             },
             "unit_price": {
-                "value": "16.11",
-                "previous": [],
-                "timestamp": 1742983505
+                "value": "17.81",
+                "previous": [
+                    {
+                        "value": "16.11",
+                        "timestamp": 1742983505
+                    }
+                ],
+                "timestamp": 1749739306
             },
             "approx_size": {
                 "value": true,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983505
             },
             "reference_price": {
-                "value": "18.950",
-                "previous": [],
-                "timestamp": 1742983505
+                "value": "20.950",
+                "previous": [
+                    {
+                        "value": "18.950",
+                        "timestamp": 1742983505
+                    }
+                ],
+                "timestamp": 1749739306
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983505
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/87208/medio-salmon-bandeja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/87208\/medio-salmon-bandeja",
             "previous": [],
             "timestamp": 1742983505
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983505
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/da236aaa8e3f4a760d95f063ec5a1638.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/da236aaa8e3f4a760d95f063ec5a1638.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983505
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983505,
-        "updated_at": 1743023357,
-        "updates": 2
+        "updated_at": 1749739306,
+        "updates": 3
     }
 }

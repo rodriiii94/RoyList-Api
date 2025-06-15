@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Laca cabello Elnett fijación fuerte",
+            "value": "Laca cabello Elnett fijaci\u00f3n fuerte",
             "previous": [],
             "timestamp": 1742983430
         },
@@ -169,7 +169,7 @@
             "timestamp": 1742983430
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/75230/laca-cabello-elnett-fijacion-fuerte-loreal-spray",
+            "value": "https:\/\/tienda.mercadona.es\/product\/75230\/laca-cabello-elnett-fijacion-fuerte-loreal-spray",
             "previous": [],
             "timestamp": 1742983430
         },
@@ -184,7 +184,7 @@
             "timestamp": 1742983430
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/ba41eb1acee152ed2b2f43969a99928d.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/ba41eb1acee152ed2b2f43969a99928d.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983430
         },
@@ -196,7 +196,7 @@
     },
     "stats": {
         "created_at": 1742983430,
-        "updated_at": 1743023273,
-        "updates": 2
+        "updated_at": 1749739190,
+        "updates": 3
     }
 }

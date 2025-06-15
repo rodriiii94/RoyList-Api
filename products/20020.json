@@ -174,7 +174,7 @@
             "timestamp": 1742983321
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/20020/ciruelas-desecadas-sin-hueso-fundo-sofruco-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/20020\/ciruelas-desecadas-sin-hueso-fundo-sofruco-paquete",
             "previous": [],
             "timestamp": 1742983321
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983321
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/3b376050844f84d1800214627597bea5.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/3b376050844f84d1800214627597bea5.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983321
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983321,
-        "updated_at": 1743023149,
-        "updates": 2
+        "updated_at": 1749739032,
+        "updates": 3
     }
 }

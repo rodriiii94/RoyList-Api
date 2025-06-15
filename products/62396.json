@@ -59,7 +59,7 @@
             }
         ],
         "display_name": {
-            "value": "Carne de mejillón de Chile cocido Hacendado ultracongelado",
+            "value": "Carne de mejill\u00f3n de Chile cocido Hacendado ultracongelado",
             "previous": [],
             "timestamp": 1742983405
         },
@@ -196,7 +196,7 @@
             "timestamp": 1742983405
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/62396/carne-mejillon-chile-cocido-hacendado-ultracongelado-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/62396\/carne-mejillon-chile-cocido-hacendado-ultracongelado-paquete",
             "previous": [],
             "timestamp": 1742983405
         },
@@ -211,7 +211,7 @@
             "timestamp": 1742983405
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/0166a818db1acd99b8a10c4338f2f09e.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/0166a818db1acd99b8a10c4338f2f09e.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983405
         },
@@ -223,7 +223,7 @@
     },
     "stats": {
         "created_at": 1742983405,
-        "updated_at": 1743023353,
-        "updates": 4
+        "updated_at": 1749739300,
+        "updates": 6
     }
 }

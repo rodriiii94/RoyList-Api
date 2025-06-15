@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "1/4 Sandía baja en semillas",
+            "value": "1\/4 Sand\u00eda baja en semillas",
             "previous": [],
             "timestamp": 1742983455
         },
@@ -52,7 +52,7 @@
             "timestamp": 1742983455
         },
         "packaging": {
-            "value": "1/4 Pieza",
+            "value": "1\/4 Pieza",
             "previous": [],
             "timestamp": 1742983455
         },
@@ -83,29 +83,42 @@
                 "timestamp": 1742983455
             },
             "unit_size": {
-                "value": 1.88,
+                "value": 1.66,
                 "previous": [
                     {
                         "value": 1.89,
                         "timestamp": 1742983455
+                    },
+                    {
+                        "value": 1.88,
+                        "timestamp": 1743023302
                     }
                 ],
-                "timestamp": 1743023302
+                "timestamp": 1749739232
             },
             "bulk_price": {
-                "value": "2.55",
-                "previous": [],
-                "timestamp": 1742983455
+                "value": "1.75",
+                "previous": [
+                    {
+                        "value": "2.55",
+                        "timestamp": 1742983455
+                    }
+                ],
+                "timestamp": 1749739232
             },
             "unit_price": {
-                "value": "4.79",
+                "value": "2.91",
                 "previous": [
                     {
                         "value": "4.82",
                         "timestamp": 1742983455
+                    },
+                    {
+                        "value": "4.79",
+                        "timestamp": 1743023302
                     }
                 ],
-                "timestamp": 1743023302
+                "timestamp": 1749739232
             },
             "approx_size": {
                 "value": true,
@@ -153,9 +166,14 @@
                 "timestamp": 1742983455
             },
             "reference_price": {
-                "value": "2.550",
-                "previous": [],
-                "timestamp": 1742983455
+                "value": "1.750",
+                "previous": [
+                    {
+                        "value": "2.550",
+                        "timestamp": 1742983455
+                    }
+                ],
+                "timestamp": 1749739232
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -184,7 +202,7 @@
             "timestamp": 1742983455
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/3505.2/14-sandia-baja-semillas-14-pieza",
+            "value": "https:\/\/tienda.mercadona.es\/product\/3505.2\/14-sandia-baja-semillas-14-pieza",
             "previous": [],
             "timestamp": 1742983455
         },
@@ -199,7 +217,7 @@
             "timestamp": 1742983455
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/691e1274d514dac5d35bd5c952f8c1f6.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/691e1274d514dac5d35bd5c952f8c1f6.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983455
         },
@@ -211,7 +229,7 @@
     },
     "stats": {
         "created_at": 1742983455,
-        "updated_at": 1743023302,
-        "updates": 2
+        "updated_at": 1749739232,
+        "updates": 3
     }
 }

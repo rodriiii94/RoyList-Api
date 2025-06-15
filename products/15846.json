@@ -174,7 +174,7 @@
             "timestamp": 1742983346
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/15846/vermouth-blanco-maronti-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/15846\/vermouth-blanco-maronti-botella",
             "previous": [],
             "timestamp": 1742983346
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983346
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/9cb0f52fc3dd3d1fbfc50d8f70de223f.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983346
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/c6f3576e74aec77b28e21b28d671c1ed.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/9cb0f52fc3dd3d1fbfc50d8f70de223f.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983346
+                }
+            ],
+            "timestamp": 1749739069
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983346,
-        "updated_at": 1743023178,
-        "updates": 2
+        "updated_at": 1749739069,
+        "updates": 3
     }
 }

@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Cápsulas Spirulina + vitamina B12 Deliplus",
+            "value": "C\u00e1psulas Spirulina + vitamina B12 Deliplus",
             "previous": [],
             "timestamp": 1742983451
         },
@@ -78,7 +78,7 @@
                 "timestamp": 1742983451
             },
             "unit_name": {
-                "value": "cápsulas",
+                "value": "c\u00e1psulas",
                 "previous": [],
                 "timestamp": 1742983451
             },
@@ -174,7 +174,7 @@
             "timestamp": 1742983451
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/35991/capsulas-spirulina-vitamina-b12-deliplus-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/35991\/capsulas-spirulina-vitamina-b12-deliplus-caja",
             "previous": [],
             "timestamp": 1742983451
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983451
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/261f87d422a623b7ee129f0674fa4b27.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/261f87d422a623b7ee129f0674fa4b27.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983451
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983451,
-        "updated_at": 1743023298,
-        "updates": 2
+        "updated_at": 1749739227,
+        "updates": 3
     }
 }

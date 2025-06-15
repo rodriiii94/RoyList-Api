@@ -20,7 +20,7 @@
                     "timestamp": 1742983332
                 },
                 "name": {
-                    "value": "Azúcar, caramelos y chocolate",
+                    "value": "Az\u00facar, caramelos y chocolate",
                     "previous": [],
                     "timestamp": 1742983332
                 },
@@ -37,9 +37,14 @@
             }
         ],
         "display_name": {
-            "value": "Huevos de chocolate Hacendado dibujo",
-            "previous": [],
-            "timestamp": 1742983332
+            "value": "Huevos sorpresa de chocolate Hacendado dibujo",
+            "previous": [
+                {
+                    "value": "Huevos de chocolate Hacendado dibujo",
+                    "timestamp": 1742983332
+                }
+            ],
+            "timestamp": 1749739049
         },
         "id": {
             "value": "12362",
@@ -52,9 +57,14 @@
             "timestamp": 1742983332
         },
         "packaging": {
-            "value": "Pack-3",
-            "previous": [],
-            "timestamp": 1742983332
+            "value": null,
+            "previous": [
+                {
+                    "value": "Pack-3",
+                    "timestamp": 1742983332
+                }
+            ],
+            "timestamp": 1749739049
         },
         "price_instructions": {
             "iva": {
@@ -88,14 +98,24 @@
                 "timestamp": 1742983332
             },
             "bulk_price": {
-                "value": "30.00",
-                "previous": [],
-                "timestamp": 1742983332
+                "value": "31.67",
+                "previous": [
+                    {
+                        "value": "30.00",
+                        "timestamp": 1742983332
+                    }
+                ],
+                "timestamp": 1749739049
             },
             "unit_price": {
-                "value": "1.80",
-                "previous": [],
-                "timestamp": 1742983332
+                "value": "1.90",
+                "previous": [
+                    {
+                        "value": "1.80",
+                        "timestamp": 1742983332
+                    }
+                ],
+                "timestamp": 1749739049
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +163,14 @@
                 "timestamp": 1742983332
             },
             "reference_price": {
-                "value": "30.000",
-                "previous": [],
-                "timestamp": 1742983332
+                "value": "31.667",
+                "previous": [
+                    {
+                        "value": "30.000",
+                        "timestamp": 1742983332
+                    }
+                ],
+                "timestamp": 1749739049
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +199,7 @@
             "timestamp": 1742983332
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/12362/huevos-chocolate-hacendado-dibujo-con-sorpresa-pack-3",
+            "value": "https:\/\/tienda.mercadona.es\/product\/12362\/huevos-chocolate-hacendado-dibujo-con-sorpresa-pack-3",
             "previous": [],
             "timestamp": 1742983332
         },
@@ -189,9 +214,14 @@
             "timestamp": 1742983332
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/9e7d65f48f24672983069d0064bf044c.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983332
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/3b2d84b81c9f3493b3e0759129955fcc.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/9e7d65f48f24672983069d0064bf044c.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983332
+                }
+            ],
+            "timestamp": 1749739049
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +231,7 @@
     },
     "stats": {
         "created_at": 1742983332,
-        "updated_at": 1743023162,
-        "updates": 2
+        "updated_at": 1749739049,
+        "updates": 3
     }
 }

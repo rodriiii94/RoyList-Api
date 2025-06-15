@@ -88,14 +88,24 @@
                 "timestamp": 1742983533
             },
             "bulk_price": {
-                "value": "8.93",
-                "previous": [],
-                "timestamp": 1742983533
+                "value": "8.57",
+                "previous": [
+                    {
+                        "value": "8.93",
+                        "timestamp": 1742983533
+                    }
+                ],
+                "timestamp": 1749739347
             },
             "unit_price": {
-                "value": "2.50",
-                "previous": [],
-                "timestamp": 1742983533
+                "value": "2.40",
+                "previous": [
+                    {
+                        "value": "2.50",
+                        "timestamp": 1742983533
+                    }
+                ],
+                "timestamp": 1749739347
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983533
             },
             "reference_price": {
-                "value": "8.929",
-                "previous": [],
-                "timestamp": 1742983533
+                "value": "8.572",
+                "previous": [
+                    {
+                        "value": "8.929",
+                        "timestamp": 1742983533
+                    }
+                ],
+                "timestamp": 1749739347
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983533
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/52507/macarrones-con-queso-hacendado-bandeja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/52507\/macarrones-con-queso-hacendado-bandeja",
             "previous": [],
             "timestamp": 1742983533
         },
@@ -189,9 +204,14 @@
             "timestamp": 1742983533
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/f94ab0a47ae74cb4b05cd2d01601d694.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983533
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/1fc35a03d89ac27b952742d435960ee0.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/f94ab0a47ae74cb4b05cd2d01601d694.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983533
+                }
+            ],
+            "timestamp": 1749739347
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +221,7 @@
     },
     "stats": {
         "created_at": 1742983533,
-        "updated_at": 1743023387,
-        "updates": 2
+        "updated_at": 1749739347,
+        "updates": 3
     }
 }

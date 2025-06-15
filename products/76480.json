@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Bálsamo oriental efecto calor Deliplus con vitamina E",
+            "value": "B\u00e1lsamo oriental efecto calor Deliplus con vitamina E",
             "previous": [],
             "timestamp": 1742983453
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983453
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/76480/balsamo-oriental-efecto-calor-deliplus-con-vitamina",
+            "value": "https:\/\/tienda.mercadona.es\/product\/76480\/balsamo-oriental-efecto-calor-deliplus-con-vitamina",
             "previous": [],
             "timestamp": 1742983453
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983453
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/c6a33c1f0891fa1b6e42464130c9cfd9.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/c6a33c1f0891fa1b6e42464130c9cfd9.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983453
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983453,
-        "updated_at": 1743023300,
-        "updates": 2
+        "updated_at": 1749739229,
+        "updates": 3
     }
 }

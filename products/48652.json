@@ -174,7 +174,7 @@
             "timestamp": 1742983489
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/48652/recogedor-antivuelco-con-palo-bosque-verde",
+            "value": "https:\/\/tienda.mercadona.es\/product\/48652\/recogedor-antivuelco-con-palo-bosque-verde",
             "previous": [],
             "timestamp": 1742983489
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983489
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/0ab3e2ff9714c2aac646c4ac98fde3cd.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/0ab3e2ff9714c2aac646c4ac98fde3cd.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983489
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983489,
-        "updated_at": 1743023340,
-        "updates": 2
+        "updated_at": 1749739283,
+        "updates": 3
     }
 }

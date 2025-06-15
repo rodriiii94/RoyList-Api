@@ -83,19 +83,34 @@
                 "timestamp": 1742983366
             },
             "unit_size": {
-                "value": 0.8,
-                "previous": [],
-                "timestamp": 1742983366
+                "value": 0.75,
+                "previous": [
+                    {
+                        "value": 0.8,
+                        "timestamp": 1742983366
+                    }
+                ],
+                "timestamp": 1749739096
             },
             "bulk_price": {
-                "value": "3.30",
-                "previous": [],
-                "timestamp": 1742983366
+                "value": "3.15",
+                "previous": [
+                    {
+                        "value": "3.30",
+                        "timestamp": 1742983366
+                    }
+                ],
+                "timestamp": 1749739096
             },
             "unit_price": {
-                "value": "2.64",
-                "previous": [],
-                "timestamp": 1742983366
+                "value": "2.36",
+                "previous": [
+                    {
+                        "value": "2.64",
+                        "timestamp": 1742983366
+                    }
+                ],
+                "timestamp": 1749739096
             },
             "approx_size": {
                 "value": true,
@@ -143,9 +158,14 @@
                 "timestamp": 1742983366
             },
             "reference_price": {
-                "value": "3.300",
-                "previous": [],
-                "timestamp": 1742983366
+                "value": "3.150",
+                "previous": [
+                    {
+                        "value": "3.300",
+                        "timestamp": 1742983366
+                    }
+                ],
+                "timestamp": 1749739096
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +194,7 @@
             "timestamp": 1742983366
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/3727/cuartos-traseros-pollo-bandeja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/3727\/cuartos-traseros-pollo-bandeja",
             "previous": [],
             "timestamp": 1742983366
         },
@@ -189,7 +209,7 @@
             "timestamp": 1742983366
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/ae6a2794c2ce2774a62e9af4e577fe73.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/ae6a2794c2ce2774a62e9af4e577fe73.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983366
         },
@@ -201,7 +221,7 @@
     },
     "stats": {
         "created_at": 1742983366,
-        "updated_at": 1743023201,
-        "updates": 2
+        "updated_at": 1749739096,
+        "updates": 3
     }
 }

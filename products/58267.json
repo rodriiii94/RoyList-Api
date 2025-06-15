@@ -20,7 +20,7 @@
                     "timestamp": 1742983389
                 },
                 "name": {
-                    "value": "Charcutería y quesos",
+                    "value": "Charcuter\u00eda y quesos",
                     "previous": [],
                     "timestamp": 1742983389
                 },
@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Salchichón de cebo ibérico cortado a máquina",
+            "value": "Salchich\u00f3n de cebo ib\u00e9rico cortado a m\u00e1quina",
             "previous": [],
             "timestamp": 1742983389
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983389
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/58267/salchichon-cebo-iberico-cortado-maquina-envasado-vacio-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/58267\/salchichon-cebo-iberico-cortado-maquina-envasado-vacio-paquete",
             "previous": [],
             "timestamp": 1742983389
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983389
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/85d79ed9618f2d1128d08afc33614661.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/85d79ed9618f2d1128d08afc33614661.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983389
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983389,
-        "updated_at": 1743023226,
-        "updates": 2
+        "updated_at": 1749739127,
+        "updates": 3
     }
 }

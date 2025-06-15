@@ -174,7 +174,7 @@
             "timestamp": 1742983444
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/23800/tampones-super-tampax-compak-con-aplicador-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/23800\/tampones-super-tampax-compak-con-aplicador-caja",
             "previous": [],
             "timestamp": 1742983444
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983444
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/b4201ddd723d2c1e4db2d4e0c5086964.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983444
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/bbfb608e676d03b2020b0c85f81f9f7e.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/b4201ddd723d2c1e4db2d4e0c5086964.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983444
+                }
+            ],
+            "timestamp": 1749739214
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983444,
-        "updated_at": 1743023290,
-        "updates": 2
+        "updated_at": 1749739214,
+        "updates": 3
     }
 }

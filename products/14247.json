@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739049
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739049
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 9,
+                    "previous": [],
+                    "timestamp": 1749739049
+                },
+                "name": {
+                    "value": "Az\u00facar, caramelos y chocolate",
+                    "previous": [],
+                    "timestamp": 1749739049
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739049
+                },
+                "order": {
+                    "value": 11,
+                    "previous": [],
+                    "timestamp": 1749739049
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Barritas crujientes Hacendado recubiertas de coco",
+            "previous": [],
+            "timestamp": 1749739049
+        },
+        "id": {
+            "value": "14247",
+            "previous": [],
+            "timestamp": 1749739049
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739049
+        },
+        "packaging": {
+            "value": "Paquete",
+            "previous": [],
+            "timestamp": 1749739049
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1749739049
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739049
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739049
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739049
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739049
+            },
+            "unit_size": {
+                "value": 0.11,
+                "previous": [],
+                "timestamp": 1749739049
+            },
+            "bulk_price": {
+                "value": "16.36",
+                "previous": [],
+                "timestamp": 1749739049
+            },
+            "unit_price": {
+                "value": "1.80",
+                "previous": [],
+                "timestamp": 1749739049
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739049
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1749739049
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739049
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739049
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739049
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739049
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739049
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1749739049
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739049
+            },
+            "reference_price": {
+                "value": "16.364",
+                "previous": [],
+                "timestamp": 1749739049
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739049
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1749739049
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739049
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739049
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739049
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/14247\/barritas-crujientes-hacendado-recubiertas-coco-paquete",
+            "previous": [],
+            "timestamp": 1749739049
+        },
+        "slug": {
+            "value": "barritas-crujientes-hacendado-recubiertas-coco-paquete",
+            "previous": [],
+            "timestamp": 1749739049
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739049
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/8d1a7d9054c414dde648f07721bcb60d.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739049
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739049
+        }
+    },
+    "stats": {
+        "created_at": 1749739049,
+        "updated_at": 1749739049,
+        "updates": 1
+    }
+}

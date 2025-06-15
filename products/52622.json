@@ -37,9 +37,14 @@
             }
         ],
         "display_name": {
-            "value": "Aceitunas verdes sin hueso Picadedos Hacendado aliñadas",
-            "previous": [],
-            "timestamp": 1742983320
+            "value": "Aceitunas verdes Picadedos sin hueso Hacendado ali\u00f1adas",
+            "previous": [
+                {
+                    "value": "Aceitunas verdes sin hueso Picadedos Hacendado ali\u00f1adas",
+                    "timestamp": 1742983320
+                }
+            ],
+            "timestamp": 1749739028
         },
         "id": {
             "value": "52622",
@@ -174,7 +179,7 @@
             "timestamp": 1742983320
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/52622/aceitunas-picadedos-hacendado-alinadas-sin-hueso-tarro",
+            "value": "https:\/\/tienda.mercadona.es\/product\/52622\/aceitunas-picadedos-hacendado-alinadas-sin-hueso-tarro",
             "previous": [],
             "timestamp": 1742983320
         },
@@ -189,9 +194,14 @@
             "timestamp": 1742983320
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/2042bcd3fab4c73fbcdac3c40d70c36f.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983320
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/e9d310928ad02dee44fce5133dd68cf9.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/2042bcd3fab4c73fbcdac3c40d70c36f.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983320
+                }
+            ],
+            "timestamp": 1749739028
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +211,7 @@
     },
     "stats": {
         "created_at": 1742983320,
-        "updated_at": 1743023146,
-        "updates": 2
+        "updated_at": 1749739028,
+        "updates": 3
     }
 }

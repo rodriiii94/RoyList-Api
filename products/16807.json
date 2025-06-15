@@ -174,7 +174,7 @@
             "timestamp": 1742983380
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/16807/avena-molida-hacendado-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/16807\/avena-molida-hacendado-paquete",
             "previous": [],
             "timestamp": 1742983380
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983380
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/ac09f887690d869a4c7d0ac036a412c6.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/ac09f887690d869a4c7d0ac036a412c6.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983380
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983380,
-        "updated_at": 1743023215,
-        "updates": 2
+        "updated_at": 1749739113,
+        "updates": 3
     }
 }

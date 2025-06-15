@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739032
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739032
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 15,
+                    "previous": [],
+                    "timestamp": 1749739032
+                },
+                "name": {
+                    "value": "Aperitivos",
+                    "previous": [],
+                    "timestamp": 1749739032
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739032
+                },
+                "order": {
+                    "value": 9,
+                    "previous": [],
+                    "timestamp": 1749739032
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Pasas moscatel sin semillas Hacendado",
+            "previous": [],
+            "timestamp": 1749739032
+        },
+        "id": {
+            "value": "23003",
+            "previous": [],
+            "timestamp": 1749739032
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739032
+        },
+        "packaging": {
+            "value": "Paquete",
+            "previous": [],
+            "timestamp": 1749739032
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 4,
+                "previous": [],
+                "timestamp": 1749739032
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739032
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739032
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739032
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739032
+            },
+            "unit_size": {
+                "value": 0.25,
+                "previous": [],
+                "timestamp": 1749739032
+            },
+            "bulk_price": {
+                "value": "8.80",
+                "previous": [],
+                "timestamp": 1749739032
+            },
+            "unit_price": {
+                "value": "2.20",
+                "previous": [],
+                "timestamp": 1749739032
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739032
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1749739032
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739032
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739032
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739032
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739032
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739032
+            },
+            "tax_percentage": {
+                "value": "4.000",
+                "previous": [],
+                "timestamp": 1749739032
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739032
+            },
+            "reference_price": {
+                "value": "8.800",
+                "previous": [],
+                "timestamp": 1749739032
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739032
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1749739032
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739032
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739032
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739032
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/23003\/pasas-moscatel-sin-semillas-hacendado-paquete",
+            "previous": [],
+            "timestamp": 1749739032
+        },
+        "slug": {
+            "value": "pasas-moscatel-sin-semillas-hacendado-paquete",
+            "previous": [],
+            "timestamp": 1749739032
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739032
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/43cb5b2b51525f9a1ca7ed04c2fd5d5e.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739032
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739032
+        }
+    },
+    "stats": {
+        "created_at": 1749739032,
+        "updated_at": 1749739032,
+        "updates": 1
+    }
+}

@@ -20,7 +20,7 @@
                     "timestamp": 1742983389
                 },
                 "name": {
-                    "value": "Charcutería y quesos",
+                    "value": "Charcuter\u00eda y quesos",
                     "previous": [],
                     "timestamp": 1742983389
                 },
@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Chorizo de bellota ibérico cortado a máquina",
+            "value": "Chorizo de bellota ib\u00e9rico cortado a m\u00e1quina",
             "previous": [],
             "timestamp": 1742983389
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983389
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/58271/chorizo-bellota-iberico-cortado-maquina-envasado-vacio-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/58271\/chorizo-bellota-iberico-cortado-maquina-envasado-vacio-paquete",
             "previous": [],
             "timestamp": 1742983389
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983389
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/7fa26055a72de04ac0ad047d3c592817.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/7fa26055a72de04ac0ad047d3c592817.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983389
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983389,
-        "updated_at": 1743023227,
-        "updates": 2
+        "updated_at": 1749739128,
+        "updates": 3
     }
 }

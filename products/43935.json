@@ -174,7 +174,7 @@
             "timestamp": 1742983479
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/43935/toallitas-limpiadoras-desengrasantes-cocina-bosque-verde-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/43935\/toallitas-limpiadoras-desengrasantes-cocina-bosque-verde-paquete",
             "previous": [],
             "timestamp": 1742983479
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983479
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/429883f9dc188dcca4118f3c0ba8649e.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/429883f9dc188dcca4118f3c0ba8649e.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983479
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983479,
-        "updated_at": 1743023330,
-        "updates": 2
+        "updated_at": 1749739269,
+        "updates": 3
     }
 }

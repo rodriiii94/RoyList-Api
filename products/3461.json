@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Entrecot de vacuno añojo fino para barbacoa o plancha",
+            "value": "Entrecot de vacuno a\u00f1ojo fino para barbacoa o plancha",
             "previous": [],
             "timestamp": 1742983376
         },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983376
             },
             "bulk_price": {
-                "value": "24.50",
-                "previous": [],
-                "timestamp": 1742983376
+                "value": "25.20",
+                "previous": [
+                    {
+                        "value": "24.50",
+                        "timestamp": 1742983376
+                    }
+                ],
+                "timestamp": 1749739108
             },
             "unit_price": {
-                "value": "12.25",
-                "previous": [],
-                "timestamp": 1742983376
+                "value": "12.60",
+                "previous": [
+                    {
+                        "value": "12.25",
+                        "timestamp": 1742983376
+                    }
+                ],
+                "timestamp": 1749739108
             },
             "approx_size": {
                 "value": true,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983376
             },
             "reference_price": {
-                "value": "24.500",
-                "previous": [],
-                "timestamp": 1742983376
+                "value": "25.200",
+                "previous": [
+                    {
+                        "value": "24.500",
+                        "timestamp": 1742983376
+                    }
+                ],
+                "timestamp": 1749739108
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983376
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/3461/entrecot-vacuno-anojo-fino-barbacoa-plancha-bandeja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/3461\/entrecot-vacuno-anojo-fino-barbacoa-plancha-bandeja",
             "previous": [],
             "timestamp": 1742983376
         },
@@ -189,9 +204,14 @@
             "timestamp": 1742983376
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/83aa458a7e3a65aa3de8b22600a7654d.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983376
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/5a568d9fd194cb1ba043a1a8cc30329a.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/83aa458a7e3a65aa3de8b22600a7654d.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983376
+                }
+            ],
+            "timestamp": 1749739108
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +221,7 @@
     },
     "stats": {
         "created_at": 1742983376,
-        "updated_at": 1743023212,
-        "updates": 2
+        "updated_at": 1749739108,
+        "updates": 3
     }
 }

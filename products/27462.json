@@ -88,14 +88,24 @@
                 "timestamp": 1742983314
             },
             "bulk_price": {
-                "value": "1.05",
-                "previous": [],
-                "timestamp": 1742983314
+                "value": "1.00",
+                "previous": [
+                    {
+                        "value": "1.05",
+                        "timestamp": 1742983314
+                    }
+                ],
+                "timestamp": 1749739019
             },
             "unit_price": {
-                "value": "2.10",
-                "previous": [],
-                "timestamp": 1742983314
+                "value": "1.99",
+                "previous": [
+                    {
+                        "value": "2.10",
+                        "timestamp": 1742983314
+                    }
+                ],
+                "timestamp": 1749739019
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983314
             },
             "reference_price": {
-                "value": "1.050",
-                "previous": [],
-                "timestamp": 1742983314
+                "value": "0.995",
+                "previous": [
+                    {
+                        "value": "1.050",
+                        "timestamp": 1742983314
+                    }
+                ],
+                "timestamp": 1749739019
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983314
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/27462/refresco-coca-cola-zero-zero-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/27462\/refresco-coca-cola-zero-zero-botella",
             "previous": [],
             "timestamp": 1742983314
         },
@@ -189,9 +204,14 @@
             "timestamp": 1742983314
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/e98f09c4b1a41e7aea37944cef5eeee3.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983314
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/86edea71e17ba57570a432abccad8a11.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/e98f09c4b1a41e7aea37944cef5eeee3.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983314
+                }
+            ],
+            "timestamp": 1749739019
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +221,7 @@
     },
     "stats": {
         "created_at": 1742983314,
-        "updated_at": 1743023139,
-        "updates": 4
+        "updated_at": 1749739019,
+        "updates": 6
     }
 }

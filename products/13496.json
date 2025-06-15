@@ -196,7 +196,7 @@
             "timestamp": 1742983378
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/13496/croquetas-cocido-hacendado-ultracongeladas-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/13496\/croquetas-cocido-hacendado-ultracongeladas-paquete",
             "previous": [],
             "timestamp": 1742983378
         },
@@ -211,7 +211,7 @@
             "timestamp": 1742983378
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/1528c21f212a7b7eb203724cba48cfe9.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/1528c21f212a7b7eb203724cba48cfe9.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983378
         },
@@ -223,7 +223,7 @@
     },
     "stats": {
         "created_at": 1742983378,
-        "updated_at": 1743023250,
-        "updates": 4
+        "updated_at": 1749739158,
+        "updates": 6
     }
 }

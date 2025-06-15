@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Eau de parfum mujer Como tú Cerise",
+            "value": "Eau de parfum mujer Como t\u00fa Cerise",
             "previous": [],
             "timestamp": 1742983448
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983448
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/9940/eau-parfum-mujer-cerise-frasco",
+            "value": "https:\/\/tienda.mercadona.es\/product\/9940\/eau-parfum-mujer-cerise-frasco",
             "previous": [],
             "timestamp": 1742983448
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983448
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/c157603f9a45111a892214f5e622ba9e.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/c157603f9a45111a892214f5e622ba9e.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983448
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983448,
-        "updated_at": 1743023294,
-        "updates": 2
+        "updated_at": 1749739221,
+        "updates": 3
     }
 }

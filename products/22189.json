@@ -20,7 +20,7 @@
                     "timestamp": 1742983337
                 },
                 "name": {
-                    "value": "Bebé",
+                    "value": "Beb\u00e9",
                     "previous": [],
                     "timestamp": 1742983337
                 },
@@ -174,7 +174,7 @@
             "timestamp": 1742983337
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/22189/papilla-fruta-variada-4-meses-hacendado-pack-4",
+            "value": "https:\/\/tienda.mercadona.es\/product\/22189\/papilla-fruta-variada-4-meses-hacendado-pack-4",
             "previous": [],
             "timestamp": 1742983337
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983337
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/eb03a3c9f7c1ab348b97eb361a18b4f1.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/eb03a3c9f7c1ab348b97eb361a18b4f1.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983337
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983337,
-        "updated_at": 1743023167,
-        "updates": 2
+        "updated_at": 1749739056,
+        "updates": 3
     }
 }

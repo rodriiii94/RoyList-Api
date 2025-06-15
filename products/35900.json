@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Salteado de gambas, espárragos verdes, ajos tiernos, champiñón y cebolla Hacendado ultracongelado",
+            "value": "Salteado de gambas, esp\u00e1rragos verdes, ajos tiernos, champi\u00f1\u00f3n y cebolla Hacendado ultracongelado",
             "previous": [],
             "timestamp": 1742983413
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983413
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/35900/salteado-gambas-esparragos-verdes-ajos-tiernos-champinon-cebolla-hacendado-ultracongelado-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/35900\/salteado-gambas-esparragos-verdes-ajos-tiernos-champinon-cebolla-hacendado-ultracongelado-paquete",
             "previous": [],
             "timestamp": 1742983413
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983413
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/d5f7891ff5a0e9d8f33b6f0091c4b11a.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/d5f7891ff5a0e9d8f33b6f0091c4b11a.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983413
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983413,
-        "updated_at": 1743023254,
-        "updates": 2
+        "updated_at": 1749739163,
+        "updates": 3
     }
 }

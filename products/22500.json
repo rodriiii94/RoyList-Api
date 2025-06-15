@@ -88,14 +88,24 @@
                 "timestamp": 1742983355
             },
             "bulk_price": {
-                "value": "5.47",
-                "previous": [],
-                "timestamp": 1742983355
+                "value": "5.60",
+                "previous": [
+                    {
+                        "value": "5.47",
+                        "timestamp": 1742983355
+                    }
+                ],
+                "timestamp": 1749739081
             },
             "unit_price": {
-                "value": "4.10",
-                "previous": [],
-                "timestamp": 1742983355
+                "value": "4.20",
+                "previous": [
+                    {
+                        "value": "4.10",
+                        "timestamp": 1742983355
+                    }
+                ],
+                "timestamp": 1749739081
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983355
             },
             "reference_price": {
-                "value": "5.467",
-                "previous": [],
-                "timestamp": 1742983355
+                "value": "5.600",
+                "previous": [
+                    {
+                        "value": "5.467",
+                        "timestamp": 1742983355
+                    }
+                ],
+                "timestamp": 1749739081
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983355
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/22500/vino-tinto-do-ribera-duero-atardecer-roble-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/22500\/vino-tinto-do-ribera-duero-atardecer-roble-botella",
             "previous": [],
             "timestamp": 1742983355
         },
@@ -189,9 +204,14 @@
             "timestamp": 1742983355
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/a6fbf5d5cb25b88fb875fb623773a519.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983355
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/a17ade145ff41229316801875b1dc928.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/a6fbf5d5cb25b88fb875fb623773a519.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983355
+                }
+            ],
+            "timestamp": 1749739081
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +221,7 @@
     },
     "stats": {
         "created_at": 1742983355,
-        "updated_at": 1743023189,
-        "updates": 2
+        "updated_at": 1749739081,
+        "updates": 3
     }
 }

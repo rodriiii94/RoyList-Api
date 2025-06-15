@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Discos impregnados ácido salicílico Deliplus Oil Free purificantes y seborreguladores",
+            "value": "Discos impregnados \u00e1cido salic\u00edlico Deliplus Oil Free purificantes y seborreguladores",
             "previous": [],
             "timestamp": 1742983435
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983435
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/52531/discos-impregnados-acido-salicilico-deliplus-oil-free-purificantes-seborreguladores-piel-grasa-acneica-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/52531\/discos-impregnados-acido-salicilico-deliplus-oil-free-purificantes-seborreguladores-piel-grasa-acneica-caja",
             "previous": [],
             "timestamp": 1742983435
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983435
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/4f67a645cde569ccbbe880eef18f6958.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/4f67a645cde569ccbbe880eef18f6958.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983435
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983435,
-        "updated_at": 1743023279,
-        "updates": 2
+        "updated_at": 1749739198,
+        "updates": 3
     }
 }

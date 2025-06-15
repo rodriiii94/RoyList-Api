@@ -59,7 +59,7 @@
             }
         ],
         "display_name": {
-            "value": "Camarón boreal cocido y pelado Royal Greenland ultracongelado",
+            "value": "Camar\u00f3n boreal cocido y pelado Royal Greenland ultracongelado",
             "previous": [],
             "timestamp": 1742983405
         },
@@ -196,7 +196,7 @@
             "timestamp": 1742983405
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/24267/camaron-boreal-cocido-pelado-royal-greenland-ultracongelado-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/24267\/camaron-boreal-cocido-pelado-royal-greenland-ultracongelado-paquete",
             "previous": [],
             "timestamp": 1742983405
         },
@@ -211,9 +211,14 @@
             "timestamp": 1742983405
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/6de919fc7cd0c3ac41f013bcb88aadb0.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983405
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/2ac4f940765eb3fb780fb7df6d99d9f3.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/6de919fc7cd0c3ac41f013bcb88aadb0.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983405
+                }
+            ],
+            "timestamp": 1749739152
         },
         "unavailable_from": {
             "value": null,
@@ -223,7 +228,7 @@
     },
     "stats": {
         "created_at": 1742983405,
-        "updated_at": 1743023353,
-        "updates": 4
+        "updated_at": 1749739300,
+        "updates": 6
     }
 }

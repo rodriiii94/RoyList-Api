@@ -88,14 +88,24 @@
                 "timestamp": 1742983308
             },
             "bulk_price": {
-                "value": "4.50",
-                "previous": [],
-                "timestamp": 1742983308
+                "value": "4.70",
+                "previous": [
+                    {
+                        "value": "4.50",
+                        "timestamp": 1742983308
+                    }
+                ],
+                "timestamp": 1749739008
             },
             "unit_price": {
-                "value": "2.25",
-                "previous": [],
-                "timestamp": 1742983308
+                "value": "2.35",
+                "previous": [
+                    {
+                        "value": "2.25",
+                        "timestamp": 1742983308
+                    }
+                ],
+                "timestamp": 1749739008
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983308
             },
             "reference_price": {
-                "value": "4.500",
-                "previous": [],
-                "timestamp": 1742983308
+                "value": "4.700",
+                "previous": [
+                    {
+                        "value": "4.500",
+                        "timestamp": 1742983308
+                    }
+                ],
+                "timestamp": 1749739008
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983308
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/17038/mayonesa-ybarra-bote",
+            "value": "https:\/\/tienda.mercadona.es\/product\/17038\/mayonesa-ybarra-bote",
             "previous": [],
             "timestamp": 1742983308
         },
@@ -189,9 +204,14 @@
             "timestamp": 1742983308
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/ecbf906af9e6f18ab8e50510fc737bf7.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983308
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/28fb52ec1b742fc1db06e020c0a3aa0f.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/ecbf906af9e6f18ab8e50510fc737bf7.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983308
+                }
+            ],
+            "timestamp": 1749739008
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +221,7 @@
     },
     "stats": {
         "created_at": 1742983308,
-        "updated_at": 1743023131,
-        "updates": 2
+        "updated_at": 1749739008,
+        "updates": 3
     }
 }

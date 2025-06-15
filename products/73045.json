@@ -174,7 +174,7 @@
             "timestamp": 1742983432
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/73045/maquinillas-afeitar-desechables-gillette-blue-plus-2-hojas-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/73045\/maquinillas-afeitar-desechables-gillette-blue-plus-2-hojas-paquete",
             "previous": [],
             "timestamp": 1742983432
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983432
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/64b16f7cc4953da2b7bfc01e03cbf05b.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/64b16f7cc4953da2b7bfc01e03cbf05b.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983432
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983432,
-        "updated_at": 1743023275,
-        "updates": 2
+        "updated_at": 1749739192,
+        "updates": 3
     }
 }

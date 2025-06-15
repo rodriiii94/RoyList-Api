@@ -174,7 +174,7 @@
             "timestamp": 1742983533
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/60621/arroz-verduras-hacendado-bandeja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/60621\/arroz-verduras-hacendado-bandeja",
             "previous": [],
             "timestamp": 1742983533
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983533
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/7e91e7d028535afd2424c85ca673c4d3.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/7e91e7d028535afd2424c85ca673c4d3.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983533
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983533,
-        "updated_at": 1743023387,
-        "updates": 2
+        "updated_at": 1749739347,
+        "updates": 3
     }
 }

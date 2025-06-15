@@ -174,7 +174,7 @@
             "timestamp": 1742983374
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/10467/mini-burgers-pollo-bandeja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/10467\/mini-burgers-pollo-bandeja",
             "previous": [],
             "timestamp": 1742983374
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983374
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/b10b96bfdb67caf048317479a994efb7.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/b10b96bfdb67caf048317479a994efb7.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983374
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983374,
-        "updated_at": 1743023210,
-        "updates": 2
+        "updated_at": 1749739106,
+        "updates": 3
     }
 }

@@ -20,7 +20,7 @@
                     "timestamp": 1742983394
                 },
                 "name": {
-                    "value": "Charcutería y quesos",
+                    "value": "Charcuter\u00eda y quesos",
                     "previous": [],
                     "timestamp": 1742983394
                 },
@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Queso curado mezcla Hacendado cortado en cuñitas",
+            "value": "Queso curado mezcla Hacendado cortado en cu\u00f1itas",
             "previous": [],
             "timestamp": 1742983394
         },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983394
             },
             "bulk_price": {
-                "value": "14.93",
-                "previous": [],
-                "timestamp": 1742983394
+                "value": "14.40",
+                "previous": [
+                    {
+                        "value": "14.93",
+                        "timestamp": 1742983394
+                    }
+                ],
+                "timestamp": 1749739134
             },
             "unit_price": {
-                "value": "4.93",
-                "previous": [],
-                "timestamp": 1742983394
+                "value": "4.75",
+                "previous": [
+                    {
+                        "value": "4.93",
+                        "timestamp": 1742983394
+                    }
+                ],
+                "timestamp": 1749739134
             },
             "approx_size": {
                 "value": true,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983394
             },
             "reference_price": {
-                "value": "14.930",
-                "previous": [],
-                "timestamp": 1742983394
+                "value": "14.400",
+                "previous": [
+                    {
+                        "value": "14.930",
+                        "timestamp": 1742983394
+                    }
+                ],
+                "timestamp": 1749739134
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983394
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/50966/queso-curado-mezcla-hacendado-cortado-cunitas-pieza",
+            "value": "https:\/\/tienda.mercadona.es\/product\/50966\/queso-curado-mezcla-hacendado-cortado-cunitas-pieza",
             "previous": [],
             "timestamp": 1742983394
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983394
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/15740b8ab86fbefccc7e7126441f12e1.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/15740b8ab86fbefccc7e7126441f12e1.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983394
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983394,
-        "updated_at": 1743023232,
-        "updates": 2
+        "updated_at": 1749739134,
+        "updates": 3
     }
 }

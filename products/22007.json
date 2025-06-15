@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Bocaditos en gelatina gato júnior Delikuit con pollo y pavo",
+            "value": "Bocaditos en gelatina gato j\u00fanior Delikuit con pollo y pavo",
             "previous": [],
             "timestamp": 1742983508
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983508
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/22007/bocaditos-gelatina-gato-junior-delikuit-con-pollo-pavo-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/22007\/bocaditos-gelatina-gato-junior-delikuit-con-pollo-pavo-paquete",
             "previous": [],
             "timestamp": 1742983508
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983508
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/cff6be7f5e3bb601884d53db9e25f823.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/cff6be7f5e3bb601884d53db9e25f823.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983508
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983508,
-        "updated_at": 1743023361,
-        "updates": 2
+        "updated_at": 1749739312,
+        "updates": 3
     }
 }

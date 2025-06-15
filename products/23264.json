@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Puré de patatas Hacendado en copos",
+            "value": "Pur\u00e9 de patatas Hacendado en copos",
             "previous": [],
             "timestamp": 1742983420
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983420
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/23264/pure-patatas-hacendado-copos-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/23264\/pure-patatas-hacendado-copos-caja",
             "previous": [],
             "timestamp": 1742983420
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983420
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/b31074900825756bc327dc1b207ffc6e.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/b31074900825756bc327dc1b207ffc6e.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983420
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983420,
-        "updated_at": 1743023261,
-        "updates": 2
+        "updated_at": 1749739173,
+        "updates": 3
     }
 }

@@ -88,14 +88,24 @@
                 "timestamp": 1742983534
             },
             "bulk_price": {
-                "value": "5.32",
-                "previous": [],
-                "timestamp": 1742983534
+                "value": "5.53",
+                "previous": [
+                    {
+                        "value": "5.32",
+                        "timestamp": 1742983534
+                    }
+                ],
+                "timestamp": 1749739349
             },
             "unit_price": {
-                "value": "2.50",
-                "previous": [],
-                "timestamp": 1742983534
+                "value": "2.60",
+                "previous": [
+                    {
+                        "value": "2.50",
+                        "timestamp": 1742983534
+                    }
+                ],
+                "timestamp": 1749739349
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983534
             },
             "reference_price": {
-                "value": "5.320",
-                "previous": [],
-                "timestamp": 1742983534
+                "value": "5.532",
+                "previous": [
+                    {
+                        "value": "5.320",
+                        "timestamp": 1742983534
+                    }
+                ],
+                "timestamp": 1749739349
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983534
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/11670/patatas-bravas-con-allioli-salsa-picante-hacendado-bandeja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/11670\/patatas-bravas-con-allioli-salsa-picante-hacendado-bandeja",
             "previous": [],
             "timestamp": 1742983534
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983534
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/056909a7135c2afefc8b00e80e9bc762.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/056909a7135c2afefc8b00e80e9bc762.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983534
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983534,
-        "updated_at": 1743023388,
-        "updates": 2
+        "updated_at": 1749739349,
+        "updates": 3
     }
 }

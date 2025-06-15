@@ -174,7 +174,7 @@
             "timestamp": 1742983492
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/52976/polvo-compacto-24h-long-lasting-deliplus-04-dorado-oscuro",
+            "value": "https:\/\/tienda.mercadona.es\/product\/52976\/polvo-compacto-24h-long-lasting-deliplus-04-dorado-oscuro",
             "previous": [],
             "timestamp": 1742983492
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983492
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/4d9bb5205fb50aec40f7e7545e1e774b.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/4d9bb5205fb50aec40f7e7545e1e774b.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983492
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983492,
-        "updated_at": 1743023345,
-        "updates": 2
+        "updated_at": 1749739289,
+        "updates": 3
     }
 }

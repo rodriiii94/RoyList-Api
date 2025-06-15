@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Media piña",
+            "value": "Media pi\u00f1a",
             "previous": [],
             "timestamp": 1742983455
         },
@@ -52,7 +52,7 @@
             "timestamp": 1742983455
         },
         "packaging": {
-            "value": "1/2 Pieza",
+            "value": "1\/2 Pieza",
             "previous": [],
             "timestamp": 1742983455
         },
@@ -83,19 +83,34 @@
                 "timestamp": 1742983455
             },
             "unit_size": {
-                "value": 1,
-                "previous": [],
-                "timestamp": 1742983455
+                "value": 0.97,
+                "previous": [
+                    {
+                        "value": 1,
+                        "timestamp": 1742983455
+                    }
+                ],
+                "timestamp": 1749739233
             },
             "bulk_price": {
-                "value": "2.45",
-                "previous": [],
-                "timestamp": 1742983455
+                "value": "2.95",
+                "previous": [
+                    {
+                        "value": "2.45",
+                        "timestamp": 1742983455
+                    }
+                ],
+                "timestamp": 1749739233
             },
             "unit_price": {
-                "value": "2.45",
-                "previous": [],
-                "timestamp": 1742983455
+                "value": "2.86",
+                "previous": [
+                    {
+                        "value": "2.45",
+                        "timestamp": 1742983455
+                    }
+                ],
+                "timestamp": 1749739233
             },
             "approx_size": {
                 "value": true,
@@ -143,9 +158,14 @@
                 "timestamp": 1742983455
             },
             "reference_price": {
-                "value": "2.450",
-                "previous": [],
-                "timestamp": 1742983455
+                "value": "2.950",
+                "previous": [
+                    {
+                        "value": "2.450",
+                        "timestamp": 1742983455
+                    }
+                ],
+                "timestamp": 1749739233
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +194,7 @@
             "timestamp": 1742983455
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/3291/media-pina-12-pieza",
+            "value": "https:\/\/tienda.mercadona.es\/product\/3291\/media-pina-12-pieza",
             "previous": [],
             "timestamp": 1742983455
         },
@@ -189,9 +209,14 @@
             "timestamp": 1742983455
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/168886f48936ec2b8f5acdde158f47ef.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983455
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/402b1367a1c8b766faec73e2c93f7078.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/168886f48936ec2b8f5acdde158f47ef.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983455
+                }
+            ],
+            "timestamp": 1749739233
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +226,7 @@
     },
     "stats": {
         "created_at": 1742983455,
-        "updated_at": 1743023302,
-        "updates": 2
+        "updated_at": 1749739233,
+        "updates": 3
     }
 }

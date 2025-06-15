@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739114
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739114
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 7,
+                    "previous": [],
+                    "timestamp": 1749739114
+                },
+                "name": {
+                    "value": "Cereales y galletas",
+                    "previous": [],
+                    "timestamp": 1749739114
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739114
+                },
+                "order": {
+                    "value": 18,
+                    "previous": [],
+                    "timestamp": 1749739114
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Barritas de cereales con galleta animada Hacendado",
+            "previous": [],
+            "timestamp": 1749739114
+        },
+        "id": {
+            "value": "13052",
+            "previous": [],
+            "timestamp": 1749739114
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739114
+        },
+        "packaging": {
+            "value": "Caja",
+            "previous": [],
+            "timestamp": 1749739114
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1749739114
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739114
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739114
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739114
+            },
+            "unit_name": {
+                "value": "barritas",
+                "previous": [],
+                "timestamp": 1749739114
+            },
+            "unit_size": {
+                "value": 0.12,
+                "previous": [],
+                "timestamp": 1749739114
+            },
+            "bulk_price": {
+                "value": "12.92",
+                "previous": [],
+                "timestamp": 1749739114
+            },
+            "unit_price": {
+                "value": "1.55",
+                "previous": [],
+                "timestamp": 1749739114
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739114
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1749739114
+            },
+            "total_units": {
+                "value": 6,
+                "previous": [],
+                "timestamp": 1749739114
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739114
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739114
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739114
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739114
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1749739114
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739114
+            },
+            "reference_price": {
+                "value": "12.917",
+                "previous": [],
+                "timestamp": 1749739114
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739114
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1749739114
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739114
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739114
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739114
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/13052\/barritas-cereales-con-galleta-animada-hacendado-caja",
+            "previous": [],
+            "timestamp": 1749739114
+        },
+        "slug": {
+            "value": "barritas-cereales-con-galleta-animada-hacendado-caja",
+            "previous": [],
+            "timestamp": 1749739114
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739114
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/572eb122793b6357ead9d4d0155a1425.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739114
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739114
+        }
+    },
+    "stats": {
+        "created_at": 1749739114,
+        "updated_at": 1749739114,
+        "updates": 1
+    }
+}

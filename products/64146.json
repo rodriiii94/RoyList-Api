@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Helado sándwich de nata Hacendado",
+            "value": "Helado s\u00e1ndwich de nata Hacendado",
             "previous": [],
             "timestamp": 1742983402
         },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983402
             },
             "bulk_price": {
-                "value": "2.88",
-                "previous": [],
-                "timestamp": 1742983402
+                "value": "2.31",
+                "previous": [
+                    {
+                        "value": "2.88",
+                        "timestamp": 1742983402
+                    }
+                ],
+                "timestamp": 1749739146
             },
             "unit_price": {
-                "value": "2.30",
-                "previous": [],
-                "timestamp": 1742983402
+                "value": "1.85",
+                "previous": [
+                    {
+                        "value": "2.30",
+                        "timestamp": 1742983402
+                    }
+                ],
+                "timestamp": 1749739146
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983402
             },
             "reference_price": {
-                "value": "2.875",
-                "previous": [],
-                "timestamp": 1742983402
+                "value": "2.313",
+                "previous": [
+                    {
+                        "value": "2.875",
+                        "timestamp": 1742983402
+                    }
+                ],
+                "timestamp": 1749739146
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983402
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/64146/helado-sandwich-nata-hacendado-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/64146\/helado-sandwich-nata-hacendado-caja",
             "previous": [],
             "timestamp": 1742983402
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983402
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/14f0fc14c8c6141927d4d4d4e158d934.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/14f0fc14c8c6141927d4d4d4e158d934.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983402
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983402,
-        "updated_at": 1743023241,
-        "updates": 2
+        "updated_at": 1749739146,
+        "updates": 3
     }
 }

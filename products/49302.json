@@ -174,7 +174,7 @@
             "timestamp": 1742983484
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/49302/velote-rojo-roura",
+            "value": "https:\/\/tienda.mercadona.es\/product\/49302\/velote-rojo-roura",
             "previous": [],
             "timestamp": 1742983484
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983484
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/f123a96cbe9e788afd8dceab3cce4b00.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983484
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/c58826d2ca70f1b6829257b29d9fbf1b.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/f123a96cbe9e788afd8dceab3cce4b00.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983484
+                }
+            ],
+            "timestamp": 1749739277
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983484,
-        "updated_at": 1743023335,
-        "updates": 2
+        "updated_at": 1749739277,
+        "updates": 3
     }
 }

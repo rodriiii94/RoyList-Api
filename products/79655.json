@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Sticks Jalea Real y Própolis Deliplus",
+            "value": "Sticks Jalea Real y Pr\u00f3polis Deliplus",
             "previous": [],
             "timestamp": 1742983451
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983451
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/79655/sticks-jalea-real-propolis-deliplus-contiene-manuka-hiedra-hinojo-vitamina-c-elaborado-base-miel-aceite-esencial-manuka-extractos-vegetales-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/79655\/sticks-jalea-real-propolis-deliplus-contiene-manuka-hiedra-hinojo-vitamina-c-elaborado-base-miel-aceite-esencial-manuka-extractos-vegetales-caja",
             "previous": [],
             "timestamp": 1742983451
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983451
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/0408925318c8ac301c1e74a66f4db061.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/0408925318c8ac301c1e74a66f4db061.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983451
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983451,
-        "updated_at": 1743023298,
-        "updates": 2
+        "updated_at": 1749739227,
+        "updates": 3
     }
 }

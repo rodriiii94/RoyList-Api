@@ -20,7 +20,7 @@
                     "timestamp": 1742983519
                 },
                 "name": {
-                    "value": "Panadería y pastelería",
+                    "value": "Panader\u00eda y pasteler\u00eda",
                     "previous": [],
                     "timestamp": 1742983519
                 },
@@ -174,7 +174,7 @@
             "timestamp": 1742983519
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/83194.1/barra-pan-chapata",
+            "value": "https:\/\/tienda.mercadona.es\/product\/83194.1\/barra-pan-chapata",
             "previous": [],
             "timestamp": 1742983519
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983519
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/c83581087d3ecd8a275c8dd611f6ae6c.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983519
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/fe9006de85078d41058347ce99507302.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/c83581087d3ecd8a275c8dd611f6ae6c.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983519
+                }
+            ],
+            "timestamp": 1749739328
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983519,
-        "updated_at": 1743023372,
-        "updates": 2
+        "updated_at": 1749739328,
+        "updates": 3
     }
 }

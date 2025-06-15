@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739025
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739025
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 18,
+                    "previous": [],
+                    "timestamp": 1749739025
+                },
+                "name": {
+                    "value": "Agua y refrescos",
+                    "previous": [],
+                    "timestamp": 1749739025
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739025
+                },
+                "order": {
+                    "value": 8,
+                    "previous": [],
+                    "timestamp": 1749739025
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Refresco t\u00e9 verde sabor maracuy\u00e1 y mango Hacendado zero",
+            "previous": [],
+            "timestamp": 1749739025
+        },
+        "id": {
+            "value": "13945",
+            "previous": [],
+            "timestamp": 1749739025
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739025
+        },
+        "packaging": {
+            "value": "Botella",
+            "previous": [],
+            "timestamp": 1749739025
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1749739025
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739025
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739025
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739025
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739025
+            },
+            "unit_size": {
+                "value": 1.5,
+                "previous": [],
+                "timestamp": 1749739025
+            },
+            "bulk_price": {
+                "value": "0.67",
+                "previous": [],
+                "timestamp": 1749739025
+            },
+            "unit_price": {
+                "value": "1.00",
+                "previous": [],
+                "timestamp": 1749739025
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739025
+            },
+            "size_format": {
+                "value": "l",
+                "previous": [],
+                "timestamp": 1749739025
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739025
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739025
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739025
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739025
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739025
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1749739025
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739025
+            },
+            "reference_price": {
+                "value": "0.667",
+                "previous": [],
+                "timestamp": 1749739025
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739025
+            },
+            "reference_format": {
+                "value": "L",
+                "previous": [],
+                "timestamp": 1749739025
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739025
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739025
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739025
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/13945\/refresco-te-verde-sabor-maracuya-mango-hacendado-zero-botella",
+            "previous": [],
+            "timestamp": 1749739025
+        },
+        "slug": {
+            "value": "refresco-te-verde-sabor-maracuya-mango-hacendado-zero-botella",
+            "previous": [],
+            "timestamp": 1749739025
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739025
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/9c3a163c8adf3f23ce205d57437282dd.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739025
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739025
+        }
+    },
+    "stats": {
+        "created_at": 1749739025,
+        "updated_at": 1749739025,
+        "updates": 1
+    }
+}

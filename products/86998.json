@@ -20,7 +20,7 @@
                     "timestamp": 1742983517
                 },
                 "name": {
-                    "value": "Panadería y pastelería",
+                    "value": "Panader\u00eda y pasteler\u00eda",
                     "previous": [],
                     "timestamp": 1742983517
                 },
@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Levadura de panadería Hacendado",
+            "value": "Levadura de panader\u00eda Hacendado",
             "previous": [],
             "timestamp": 1742983517
         },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983517
             },
             "bulk_price": {
-                "value": "21.43",
-                "previous": [],
-                "timestamp": 1742983517
+                "value": "22.14",
+                "previous": [
+                    {
+                        "value": "21.43",
+                        "timestamp": 1742983517
+                    }
+                ],
+                "timestamp": 1749739326
             },
             "unit_price": {
-                "value": "1.50",
-                "previous": [],
-                "timestamp": 1742983517
+                "value": "1.55",
+                "previous": [
+                    {
+                        "value": "1.50",
+                        "timestamp": 1742983517
+                    }
+                ],
+                "timestamp": 1749739326
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983517
             },
             "reference_price": {
-                "value": "21.429",
-                "previous": [],
-                "timestamp": 1742983517
+                "value": "22.143",
+                "previous": [
+                    {
+                        "value": "21.429",
+                        "timestamp": 1742983517
+                    }
+                ],
+                "timestamp": 1749739326
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983517
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/86998/levadura-panaderia-hacendado-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/86998\/levadura-panaderia-hacendado-paquete",
             "previous": [],
             "timestamp": 1742983517
         },
@@ -189,9 +204,14 @@
             "timestamp": 1742983517
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/58ae416533e5f3e739245109e604fb25.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983517
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/1d5f5c153bdb7d00e9647f338f4f3d6b.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/58ae416533e5f3e739245109e604fb25.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983517
+                }
+            ],
+            "timestamp": 1749739326
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +221,7 @@
     },
     "stats": {
         "created_at": 1742983517,
-        "updated_at": 1743023370,
-        "updates": 2
+        "updated_at": 1749739326,
+        "updates": 3
     }
 }

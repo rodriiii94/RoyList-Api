@@ -174,7 +174,7 @@
             "timestamp": 1742983412
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/63528/crepes-hacendado-ultracongelados-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/63528\/crepes-hacendado-ultracongelados-caja",
             "previous": [],
             "timestamp": 1742983412
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983412
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/8a51ae979a0f74737d2dba7ac8e88e95.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/8a51ae979a0f74737d2dba7ac8e88e95.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983412
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983412,
-        "updated_at": 1743023252,
-        "updates": 2
+        "updated_at": 1749739161,
+        "updates": 3
     }
 }

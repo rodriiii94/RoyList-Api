@@ -196,7 +196,7 @@
             "timestamp": 1742983407
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/24383/rodaja-tintorera-sin-piel-hacendado-ultracongelada-pieza",
+            "value": "https:\/\/tienda.mercadona.es\/product\/24383\/rodaja-tintorera-sin-piel-hacendado-ultracongelada-pieza",
             "previous": [],
             "timestamp": 1742983407
         },
@@ -211,9 +211,14 @@
             "timestamp": 1742983407
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/ee59402045273af088c9a7943b347fae.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983407
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/24a794f1dafba6d1f269ba7c5f52f86e.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/ee59402045273af088c9a7943b347fae.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983407
+                }
+            ],
+            "timestamp": 1749739154
         },
         "unavailable_from": {
             "value": null,
@@ -223,7 +228,7 @@
     },
     "stats": {
         "created_at": 1742983407,
-        "updated_at": 1743023354,
-        "updates": 4
+        "updated_at": 1749739303,
+        "updates": 6
     }
 }

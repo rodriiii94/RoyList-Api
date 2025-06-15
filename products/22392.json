@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Agua mineral pequeña Fuente Dehesa tapón infantil",
+            "value": "Agua mineral peque\u00f1a Fuente Dehesa tap\u00f3n infantil",
             "previous": [],
             "timestamp": 1742983311
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983311
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/22392/agua-mineral-pequena-fuente-dehesa-tapon-infantil-mineralizacion-muy-debil-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/22392\/agua-mineral-pequena-fuente-dehesa-tapon-infantil-mineralizacion-muy-debil-botella",
             "previous": [],
             "timestamp": 1742983311
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983311
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/1eae819707ebff4c177413d6bfa7d9e6.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/1eae819707ebff4c177413d6bfa7d9e6.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983311
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983311,
-        "updated_at": 1743023135,
-        "updates": 2
+        "updated_at": 1749739013,
+        "updates": 3
     }
 }

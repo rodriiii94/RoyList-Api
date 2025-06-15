@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Eau de toilette mujer Capítulo Floral",
+            "value": "Eau de toilette mujer Cap\u00edtulo Floral",
             "previous": [],
             "timestamp": 1742983448
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983448
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/78510/eau-toilette-mujer-capitulo-floral-frasco",
+            "value": "https:\/\/tienda.mercadona.es\/product\/78510\/eau-toilette-mujer-capitulo-floral-frasco",
             "previous": [],
             "timestamp": 1742983448
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983448
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/4167052ee0bff96d5c464cf45fae0d41.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/4167052ee0bff96d5c464cf45fae0d41.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983448
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983448,
-        "updated_at": 1743023294,
-        "updates": 2
+        "updated_at": 1749739220,
+        "updates": 3
     }
 }

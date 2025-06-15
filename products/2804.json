@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Solomillo de vacuno añojo para plancha",
+            "value": "Solomillo de vacuno a\u00f1ojo para plancha",
             "previous": [],
             "timestamp": 1742983376
         },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983376
             },
             "bulk_price": {
-                "value": "39.50",
-                "previous": [],
-                "timestamp": 1742983376
+                "value": "40.20",
+                "previous": [
+                    {
+                        "value": "39.50",
+                        "timestamp": 1742983376
+                    }
+                ],
+                "timestamp": 1749739108
             },
             "unit_price": {
-                "value": "11.85",
-                "previous": [],
-                "timestamp": 1742983376
+                "value": "12.06",
+                "previous": [
+                    {
+                        "value": "11.85",
+                        "timestamp": 1742983376
+                    }
+                ],
+                "timestamp": 1749739108
             },
             "approx_size": {
                 "value": true,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983376
             },
             "reference_price": {
-                "value": "39.500",
-                "previous": [],
-                "timestamp": 1742983376
+                "value": "40.200",
+                "previous": [
+                    {
+                        "value": "39.500",
+                        "timestamp": 1742983376
+                    }
+                ],
+                "timestamp": 1749739108
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983376
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/2804/solomillo-vacuno-anojo-plancha-bandeja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/2804\/solomillo-vacuno-anojo-plancha-bandeja",
             "previous": [],
             "timestamp": 1742983376
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983376
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/74569f878eb52f154e798bf22d87d23b.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/74569f878eb52f154e798bf22d87d23b.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983376
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983376,
-        "updated_at": 1743023211,
-        "updates": 2
+        "updated_at": 1749739108,
+        "updates": 3
     }
 }

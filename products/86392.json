@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Fruta + leche mediterráneo Hacendado sin azúcares añadidos",
+            "value": "Fruta + leche mediterr\u00e1neo Hacendado sin az\u00facares a\u00f1adidos",
             "previous": [],
             "timestamp": 1742983552
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983552
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/86392/fruta-leche-mediterraneo-hacendado-sin-azucares-anadidos",
+            "value": "https:\/\/tienda.mercadona.es\/product\/86392\/fruta-leche-mediterraneo-hacendado-sin-azucares-anadidos",
             "previous": [],
             "timestamp": 1742983552
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983552
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/64078fb5c7ae05a03cee837f3f3b1173.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/64078fb5c7ae05a03cee837f3f3b1173.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983552
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983552,
-        "updated_at": 1743023405,
-        "updates": 2
+        "updated_at": 1749739371,
+        "updates": 3
     }
 }

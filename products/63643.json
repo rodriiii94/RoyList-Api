@@ -196,7 +196,7 @@
             "timestamp": 1742983408
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/63643/pizza-americana-rellena-cheddar-hacendado-ultracongelada",
+            "value": "https:\/\/tienda.mercadona.es\/product\/63643\/pizza-americana-rellena-cheddar-hacendado-ultracongelada",
             "previous": [],
             "timestamp": 1742983408
         },
@@ -211,9 +211,14 @@
             "timestamp": 1742983408
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/3e75bf3823ef18c85237a6310eeeb6b5.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983408
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/2933e2ae754108494879a6553215be70.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/3e75bf3823ef18c85237a6310eeeb6b5.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983408
+                }
+            ],
+            "timestamp": 1749739157
         },
         "unavailable_from": {
             "value": null,
@@ -223,7 +228,7 @@
     },
     "stats": {
         "created_at": 1742983408,
-        "updated_at": 1743023385,
-        "updates": 4
+        "updated_at": 1749739345,
+        "updates": 6
     }
 }

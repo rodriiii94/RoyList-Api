@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Champú protección y brillo Deliplus todo tipo de cabello",
+            "value": "Champ\u00fa protecci\u00f3n y brillo Deliplus todo tipo de cabello",
             "previous": [],
             "timestamp": 1742983426
         },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983426
             },
             "bulk_price": {
-                "value": "1.60",
-                "previous": [],
-                "timestamp": 1742983426
+                "value": "1.50",
+                "previous": [
+                    {
+                        "value": "1.60",
+                        "timestamp": 1742983426
+                    }
+                ],
+                "timestamp": 1749739181
             },
             "unit_price": {
-                "value": "1.60",
-                "previous": [],
-                "timestamp": 1742983426
+                "value": "1.50",
+                "previous": [
+                    {
+                        "value": "1.60",
+                        "timestamp": 1742983426
+                    }
+                ],
+                "timestamp": 1749739181
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983426
             },
             "reference_price": {
-                "value": "0.160",
-                "previous": [],
-                "timestamp": 1742983426
+                "value": "0.150",
+                "previous": [
+                    {
+                        "value": "0.160",
+                        "timestamp": 1742983426
+                    }
+                ],
+                "timestamp": 1749739181
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983426
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/35419/champu-proteccion-brillo-deliplus-tipo-cabello-con-extracto-frutas-naturales-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/35419\/champu-proteccion-brillo-deliplus-tipo-cabello-con-extracto-frutas-naturales-botella",
             "previous": [],
             "timestamp": 1742983426
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983426
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/8dfdea77b0a536b8c8fbb7111a0076cd.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/8dfdea77b0a536b8c8fbb7111a0076cd.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983426
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983426,
-        "updated_at": 1743023268,
-        "updates": 2
+        "updated_at": 1749739181,
+        "updates": 3
     }
 }

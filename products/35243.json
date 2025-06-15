@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Pañal adulto talla M de 70-130 cm Deliplus",
+            "value": "Pa\u00f1al adulto talla M de 70-130 cm Deliplus",
             "previous": [],
             "timestamp": 1742983444
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983444
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/35243/panal-adulto-talla-m-70-130-cm-deliplus-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/35243\/panal-adulto-talla-m-70-130-cm-deliplus-paquete",
             "previous": [],
             "timestamp": 1742983444
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983444
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/5a1b88d1fa3b4de06b531fba9a1438b6.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/5a1b88d1fa3b4de06b531fba9a1438b6.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983444
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983444,
-        "updated_at": 1743023290,
-        "updates": 2
+        "updated_at": 1749739215,
+        "updates": 3
     }
 }

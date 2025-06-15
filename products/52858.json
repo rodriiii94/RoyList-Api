@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Salsa de tomate Boloñesa Hacendado",
+            "value": "Salsa de tomate Bolo\u00f1esa Hacendado",
             "previous": [],
             "timestamp": 1742983309
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983309
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/52858/salsa-tomate-bolonesa-hacendado-tarro",
+            "value": "https:\/\/tienda.mercadona.es\/product\/52858\/salsa-tomate-bolonesa-hacendado-tarro",
             "previous": [],
             "timestamp": 1742983309
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983309
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/e8f655a95e13a7a2b905f67aa7203182.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983309
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/b43441a6206b27f5f6c6d2c5d9a5068b.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/e8f655a95e13a7a2b905f67aa7203182.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983309
+                }
+            ],
+            "timestamp": 1749739011
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983309,
-        "updated_at": 1743023133,
-        "updates": 2
+        "updated_at": 1749739011,
+        "updates": 3
     }
 }

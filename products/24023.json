@@ -110,14 +110,24 @@
                 "timestamp": 1742983407
             },
             "bulk_price": {
-                "value": "12.83",
-                "previous": [],
-                "timestamp": 1742983407
+                "value": "14.67",
+                "previous": [
+                    {
+                        "value": "12.83",
+                        "timestamp": 1742983407
+                    }
+                ],
+                "timestamp": 1749739155
             },
             "unit_price": {
-                "value": "3.85",
-                "previous": [],
-                "timestamp": 1742983407
+                "value": "4.40",
+                "previous": [
+                    {
+                        "value": "3.85",
+                        "timestamp": 1742983407
+                    }
+                ],
+                "timestamp": 1749739155
             },
             "approx_size": {
                 "value": false,
@@ -165,9 +175,14 @@
                 "timestamp": 1742983407
             },
             "reference_price": {
-                "value": "12.834",
-                "previous": [],
-                "timestamp": 1742983407
+                "value": "14.667",
+                "previous": [
+                    {
+                        "value": "12.834",
+                        "timestamp": 1742983407
+                    }
+                ],
+                "timestamp": 1749739155
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -196,7 +211,7 @@
             "timestamp": 1742983407
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/24023/migas-bacalao-sin-espinas-sin-piel-maredeus-ultra-congeladas-punto-sal-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/24023\/migas-bacalao-sin-espinas-sin-piel-maredeus-ultra-congeladas-punto-sal-paquete",
             "previous": [],
             "timestamp": 1742983407
         },
@@ -211,7 +226,7 @@
             "timestamp": 1742983407
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/4df996fce1de2f2fd46cb8ef14a1a2a2.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/4df996fce1de2f2fd46cb8ef14a1a2a2.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983407
         },
@@ -223,7 +238,7 @@
     },
     "stats": {
         "created_at": 1742983407,
-        "updated_at": 1743023355,
-        "updates": 4
+        "updated_at": 1749739303,
+        "updates": 6
     }
 }

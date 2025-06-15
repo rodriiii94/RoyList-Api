@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Bebida láctea de fresa L-casei",
+            "value": "Bebida l\u00e1ctea de fresa L-casei",
             "previous": [],
             "timestamp": 1742983547
         },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983547
             },
             "bulk_price": {
-                "value": "1.85",
-                "previous": [],
-                "timestamp": 1742983547
+                "value": "1.88",
+                "previous": [
+                    {
+                        "value": "1.85",
+                        "timestamp": 1742983547
+                    }
+                ],
+                "timestamp": 1749739365
             },
             "unit_price": {
-                "value": "2.22",
-                "previous": [],
-                "timestamp": 1742983547
+                "value": "2.25",
+                "previous": [
+                    {
+                        "value": "2.22",
+                        "timestamp": 1742983547
+                    }
+                ],
+                "timestamp": 1749739365
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983547
             },
             "reference_price": {
-                "value": "1.850",
-                "previous": [],
-                "timestamp": 1742983547
+                "value": "1.875",
+                "previous": [
+                    {
+                        "value": "1.850",
+                        "timestamp": 1742983547
+                    }
+                ],
+                "timestamp": 1749739365
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983547
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/20627/bebida-lactea-fresa-l-casei-hacendado-pack-12",
+            "value": "https:\/\/tienda.mercadona.es\/product\/20627\/bebida-lactea-fresa-l-casei-hacendado-pack-12",
             "previous": [],
             "timestamp": 1742983547
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983547
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/9c7d08f4cd907634b37b06930d54c849.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/9c7d08f4cd907634b37b06930d54c849.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983547
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983547,
-        "updated_at": 1743023400,
-        "updates": 2
+        "updated_at": 1749739365,
+        "updates": 3
     }
 }

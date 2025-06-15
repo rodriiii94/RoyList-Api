@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739225
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739225
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 20,
+                    "previous": [],
+                    "timestamp": 1749739225
+                },
+                "name": {
+                    "value": "Cuidado facial y corporal",
+                    "previous": [],
+                    "timestamp": 1749739225
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739225
+                },
+                "order": {
+                    "value": 241,
+                    "previous": [],
+                    "timestamp": 1749739225
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Aceite solar protector Delial FPS 30",
+            "previous": [],
+            "timestamp": 1749739225
+        },
+        "id": {
+            "value": "12930",
+            "previous": [],
+            "timestamp": 1749739225
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739225
+        },
+        "packaging": {
+            "value": "Spray",
+            "previous": [],
+            "timestamp": 1749739225
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1749739225
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739225
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739225
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739225
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739225
+            },
+            "unit_size": {
+                "value": 0.15,
+                "previous": [],
+                "timestamp": 1749739225
+            },
+            "bulk_price": {
+                "value": "73.33",
+                "previous": [],
+                "timestamp": 1749739225
+            },
+            "unit_price": {
+                "value": "11.00",
+                "previous": [],
+                "timestamp": 1749739225
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739225
+            },
+            "size_format": {
+                "value": "l",
+                "previous": [],
+                "timestamp": 1749739225
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739225
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739225
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739225
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739225
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739225
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1749739225
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739225
+            },
+            "reference_price": {
+                "value": "7.334",
+                "previous": [],
+                "timestamp": 1749739225
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739225
+            },
+            "reference_format": {
+                "value": "100 ml",
+                "previous": [],
+                "timestamp": 1749739225
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739225
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739225
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739225
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/12930\/aceite-solar-protector-delial-fps-30-bronze-resistente-agua-spray",
+            "previous": [],
+            "timestamp": 1749739225
+        },
+        "slug": {
+            "value": "aceite-solar-protector-delial-fps-30-bronze-resistente-agua-spray",
+            "previous": [],
+            "timestamp": 1749739225
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739225
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/2cf9488ff6f6fc964c11195074f201fd.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739225
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739225
+        }
+    },
+    "stats": {
+        "created_at": 1749739225,
+        "updated_at": 1749739225,
+        "updates": 1
+    }
+}

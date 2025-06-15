@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Vino blanco afrutado El Mandamás The Guv'Nor",
+            "value": "Vino blanco afrutado El Mandam\u00e1s The Guv'Nor",
             "previous": [],
             "timestamp": 1742983351
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983351
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/35925/vino-blanco-afrutado-mandamas-the-guvnor-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/35925\/vino-blanco-afrutado-mandamas-the-guvnor-botella",
             "previous": [],
             "timestamp": 1742983351
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983351
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/ba027a604b77ceb913670e98e730a866.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/ba027a604b77ceb913670e98e730a866.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983351
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983351,
-        "updated_at": 1743023184,
-        "updates": 2
+        "updated_at": 1749739076,
+        "updates": 3
     }
 }

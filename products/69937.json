@@ -83,19 +83,34 @@
                 "timestamp": 1742983459
             },
             "unit_size": {
-                "value": 0.23,
-                "previous": [],
-                "timestamp": 1742983459
+                "value": 0.24,
+                "previous": [
+                    {
+                        "value": 0.23,
+                        "timestamp": 1742983459
+                    }
+                ],
+                "timestamp": 1749739238
             },
             "bulk_price": {
-                "value": "2.29",
-                "previous": [],
-                "timestamp": 1742983459
+                "value": "1.99",
+                "previous": [
+                    {
+                        "value": "2.29",
+                        "timestamp": 1742983459
+                    }
+                ],
+                "timestamp": 1749739238
             },
             "unit_price": {
-                "value": "0.53",
-                "previous": [],
-                "timestamp": 1742983459
+                "value": "0.48",
+                "previous": [
+                    {
+                        "value": "0.53",
+                        "timestamp": 1742983459
+                    }
+                ],
+                "timestamp": 1749739238
             },
             "approx_size": {
                 "value": true,
@@ -143,9 +158,14 @@
                 "timestamp": 1742983459
             },
             "reference_price": {
-                "value": "2.290",
-                "previous": [],
-                "timestamp": 1742983459
+                "value": "1.990",
+                "previous": [
+                    {
+                        "value": "2.290",
+                        "timestamp": 1742983459
+                    }
+                ],
+                "timestamp": 1749739238
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +194,7 @@
             "timestamp": 1742983459
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/69937/tomate-ensalada-pieza",
+            "value": "https:\/\/tienda.mercadona.es\/product\/69937\/tomate-ensalada-pieza",
             "previous": [],
             "timestamp": 1742983459
         },
@@ -189,7 +209,7 @@
             "timestamp": 1742983459
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/ccb2b42ba2bb6a7b692dac6101074709.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/ccb2b42ba2bb6a7b692dac6101074709.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983459
         },
@@ -201,7 +221,7 @@
     },
     "stats": {
         "created_at": 1742983459,
-        "updated_at": 1743023307,
-        "updates": 2
+        "updated_at": 1749739238,
+        "updates": 3
     }
 }

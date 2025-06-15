@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Bebida energética original Burn",
+            "value": "Bebida energ\u00e9tica original Burn",
             "previous": [],
             "timestamp": 1742983312
         },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983312
             },
             "bulk_price": {
-                "value": "2.50",
-                "previous": [],
-                "timestamp": 1742983312
+                "value": "2.00",
+                "previous": [
+                    {
+                        "value": "2.50",
+                        "timestamp": 1742983312
+                    }
+                ],
+                "timestamp": 1749739016
             },
             "unit_price": {
-                "value": "1.25",
-                "previous": [],
-                "timestamp": 1742983312
+                "value": "1.00",
+                "previous": [
+                    {
+                        "value": "1.25",
+                        "timestamp": 1742983312
+                    }
+                ],
+                "timestamp": 1749739016
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983312
             },
             "reference_price": {
-                "value": "2.500",
-                "previous": [],
-                "timestamp": 1742983312
+                "value": "2.000",
+                "previous": [
+                    {
+                        "value": "2.500",
+                        "timestamp": 1742983312
+                    }
+                ],
+                "timestamp": 1749739016
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -158,7 +173,7 @@
                 "timestamp": 1742983312
             },
             "previous_unit_price": {
-                "value": null,
+                "value": "        1.25",
                 "previous": [],
                 "timestamp": 1742983312
             },
@@ -174,7 +189,7 @@
             "timestamp": 1742983312
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/27913/bebida-energetica-original-burn-lata",
+            "value": "https:\/\/tienda.mercadona.es\/product\/27913\/bebida-energetica-original-burn-lata",
             "previous": [],
             "timestamp": 1742983312
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983312
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/4188130793f74d4be7a5ae905eb90994.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/4188130793f74d4be7a5ae905eb90994.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983312
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983312,
-        "updated_at": 1743023137,
-        "updates": 2
+        "updated_at": 1749739016,
+        "updates": 3
     }
 }

@@ -1,0 +1,229 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739161
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739161
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 17,
+                    "previous": [],
+                    "timestamp": 1749739161
+                },
+                "name": {
+                    "value": "Congelados",
+                    "previous": [],
+                    "timestamp": 1749739161
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739161
+                },
+                "order": {
+                    "value": 213,
+                    "previous": [],
+                    "timestamp": 1749739161
+                }
+            },
+            {
+                "id": {
+                    "value": 5,
+                    "previous": [],
+                    "timestamp": 1749739338
+                },
+                "name": {
+                    "value": "Panader\u00eda y pasteler\u00eda",
+                    "previous": [],
+                    "timestamp": 1749739338
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739338
+                },
+                "order": {
+                    "value": 514,
+                    "previous": [],
+                    "timestamp": 1749739338
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Tarta infantil bal\u00f3n de f\u00fatbol Hacendado congelada",
+            "previous": [],
+            "timestamp": 1749739161
+        },
+        "id": {
+            "value": "6082",
+            "previous": [],
+            "timestamp": 1749739161
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739161
+        },
+        "packaging": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739161
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1749739161
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739161
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739161
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739161
+            },
+            "unit_name": {
+                "value": "raciones",
+                "previous": [],
+                "timestamp": 1749739161
+            },
+            "unit_size": {
+                "value": 1.4,
+                "previous": [],
+                "timestamp": 1749739161
+            },
+            "bulk_price": {
+                "value": "9.86",
+                "previous": [],
+                "timestamp": 1749739161
+            },
+            "unit_price": {
+                "value": "13.80",
+                "previous": [],
+                "timestamp": 1749739161
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739161
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1749739161
+            },
+            "total_units": {
+                "value": 20,
+                "previous": [],
+                "timestamp": 1749739161
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739161
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739161
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739161
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739161
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1749739161
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739161
+            },
+            "reference_price": {
+                "value": "9.858",
+                "previous": [],
+                "timestamp": 1749739161
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739161
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1749739161
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739161
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739161
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739161
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/6082\/tarta-infantil-dc-comics-hacendado-congelada",
+            "previous": [],
+            "timestamp": 1749739161
+        },
+        "slug": {
+            "value": "tarta-infantil-dc-comics-hacendado-congelada",
+            "previous": [],
+            "timestamp": 1749739161
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739161
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/4169efeaa28fe10a101bc859020aa448.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739161
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739161
+        }
+    },
+    "stats": {
+        "created_at": 1749739161,
+        "updated_at": 1749739338,
+        "updates": 2
+    }
+}

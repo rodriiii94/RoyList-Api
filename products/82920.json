@@ -20,7 +20,7 @@
                     "timestamp": 1742983515
                 },
                 "name": {
-                    "value": "Panadería y pastelería",
+                    "value": "Panader\u00eda y pasteler\u00eda",
                     "previous": [],
                     "timestamp": 1742983515
                 },
@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Tortas de aceite Inés Rosales sin azúcar",
+            "value": "Tortas de aceite In\u00e9s Rosales sin az\u00facar",
             "previous": [],
             "timestamp": 1742983515
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983515
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/82920/tortas-aceite-ines-rosales-sin-azucar-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/82920\/tortas-aceite-ines-rosales-sin-azucar-paquete",
             "previous": [],
             "timestamp": 1742983515
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983515
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/e3b8dced93aa8bba139818095046b1dc.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/e3b8dced93aa8bba139818095046b1dc.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983515
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983515,
-        "updated_at": 1743023368,
-        "updates": 2
+        "updated_at": 1749739323,
+        "updates": 3
     }
 }

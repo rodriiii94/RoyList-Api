@@ -52,7 +52,7 @@
             "timestamp": 1742983459
         },
         "packaging": {
-            "value": "1/2 Pieza",
+            "value": "1\/2 Pieza",
             "previous": [],
             "timestamp": 1742983459
         },
@@ -83,19 +83,34 @@
                 "timestamp": 1742983459
             },
             "unit_size": {
-                "value": 0.5,
-                "previous": [],
-                "timestamp": 1742983459
+                "value": 0.68,
+                "previous": [
+                    {
+                        "value": 0.5,
+                        "timestamp": 1742983459
+                    }
+                ],
+                "timestamp": 1749739240
             },
             "bulk_price": {
-                "value": "2.30",
-                "previous": [],
-                "timestamp": 1742983459
+                "value": "2.65",
+                "previous": [
+                    {
+                        "value": "2.30",
+                        "timestamp": 1742983459
+                    }
+                ],
+                "timestamp": 1749739240
             },
             "unit_price": {
-                "value": "1.15",
-                "previous": [],
-                "timestamp": 1742983459
+                "value": "1.80",
+                "previous": [
+                    {
+                        "value": "1.15",
+                        "timestamp": 1742983459
+                    }
+                ],
+                "timestamp": 1749739240
             },
             "approx_size": {
                 "value": true,
@@ -143,9 +158,14 @@
                 "timestamp": 1742983459
             },
             "reference_price": {
-                "value": "2.300",
-                "previous": [],
-                "timestamp": 1742983459
+                "value": "2.650",
+                "previous": [
+                    {
+                        "value": "2.300",
+                        "timestamp": 1742983459
+                    }
+                ],
+                "timestamp": 1749739240
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +194,7 @@
             "timestamp": 1742983459
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/69853/media-calabaza-cacahuete-12-pieza",
+            "value": "https:\/\/tienda.mercadona.es\/product\/69853\/media-calabaza-cacahuete-12-pieza",
             "previous": [],
             "timestamp": 1742983459
         },
@@ -189,7 +209,7 @@
             "timestamp": 1742983459
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/dd206aa330fd0e0772f418126500fdd2.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/dd206aa330fd0e0772f418126500fdd2.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983459
         },
@@ -201,7 +221,7 @@
     },
     "stats": {
         "created_at": 1742983459,
-        "updated_at": 1743023308,
-        "updates": 2
+        "updated_at": 1749739240,
+        "updates": 3
     }
 }

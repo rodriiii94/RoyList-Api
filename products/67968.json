@@ -20,7 +20,7 @@
                     "timestamp": 1742983334
                 },
                 "name": {
-                    "value": "Azúcar, caramelos y chocolate",
+                    "value": "Az\u00facar, caramelos y chocolate",
                     "previous": [],
                     "timestamp": 1742983334
                 },
@@ -174,7 +174,7 @@
             "timestamp": 1742983334
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/67968/golosinas-rega-red-mix-hacendado-sabor-fresa-nata-tutti-frutti-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/67968\/golosinas-rega-red-mix-hacendado-sabor-fresa-nata-tutti-frutti-paquete",
             "previous": [],
             "timestamp": 1742983334
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983334
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/b71bbd76c00dbb489eed6f802ffe853d.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/b71bbd76c00dbb489eed6f802ffe853d.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983334
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983334,
-        "updated_at": 1743023164,
-        "updates": 2
+        "updated_at": 1749739052,
+        "updates": 3
     }
 }

@@ -88,14 +88,24 @@
                 "timestamp": 1742983448
             },
             "bulk_price": {
-                "value": "140.00",
-                "previous": [],
-                "timestamp": 1742983448
+                "value": "120.00",
+                "previous": [
+                    {
+                        "value": "140.00",
+                        "timestamp": 1742983448
+                    }
+                ],
+                "timestamp": 1749739222
             },
             "unit_price": {
-                "value": "14.00",
-                "previous": [],
-                "timestamp": 1742983448
+                "value": "12.00",
+                "previous": [
+                    {
+                        "value": "14.00",
+                        "timestamp": 1742983448
+                    }
+                ],
+                "timestamp": 1749739222
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983448
             },
             "reference_price": {
-                "value": "14.000",
-                "previous": [],
-                "timestamp": 1742983448
+                "value": "12.000",
+                "previous": [
+                    {
+                        "value": "14.000",
+                        "timestamp": 1742983448
+                    }
+                ],
+                "timestamp": 1749739222
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983448
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/9939/eau-parfum-hombre-my-soul-vert-frasco",
+            "value": "https:\/\/tienda.mercadona.es\/product\/9939\/eau-parfum-hombre-my-soul-vert-frasco",
             "previous": [],
             "timestamp": 1742983448
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983448
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/afac34e54276aee0476fa1ad1550647e.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/afac34e54276aee0476fa1ad1550647e.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983448
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983448,
-        "updated_at": 1743023295,
-        "updates": 2
+        "updated_at": 1749739222,
+        "updates": 3
     }
 }

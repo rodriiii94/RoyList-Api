@@ -196,7 +196,7 @@
             "timestamp": 1742983434
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/60560/toallitas-refrescantes-deliplus-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/60560\/toallitas-refrescantes-deliplus-paquete",
             "previous": [],
             "timestamp": 1742983434
         },
@@ -211,7 +211,7 @@
             "timestamp": 1742983434
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/6a41b4a39861787c46212837d5068648.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/6a41b4a39861787c46212837d5068648.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983434
         },
@@ -223,7 +223,7 @@
     },
     "stats": {
         "created_at": 1742983434,
-        "updated_at": 1743023337,
-        "updates": 4
+        "updated_at": 1749739279,
+        "updates": 6
     }
 }

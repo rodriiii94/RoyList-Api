@@ -52,7 +52,7 @@
             "timestamp": 1742983343
         },
         "packaging": {
-            "value": "Botellín",
+            "value": "Botell\u00edn",
             "previous": [],
             "timestamp": 1742983343
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983343
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/22524/cerveza-especial-mahou-botellin",
+            "value": "https:\/\/tienda.mercadona.es\/product\/22524\/cerveza-especial-mahou-botellin",
             "previous": [],
             "timestamp": 1742983343
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983343
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/778b80e21b7ccdfaf22b378831b94d90.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/778b80e21b7ccdfaf22b378831b94d90.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983343
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983343,
-        "updated_at": 1743023175,
-        "updates": 2
+        "updated_at": 1749739065,
+        "updates": 3
     }
 }

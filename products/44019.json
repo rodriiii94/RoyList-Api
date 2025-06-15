@@ -174,7 +174,7 @@
             "timestamp": 1742983476
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/44019/multiusos-desinfectante-antibacterias-bosque-verde-sin-lejia-con-pistola-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/44019\/multiusos-desinfectante-antibacterias-bosque-verde-sin-lejia-con-pistola-botella",
             "previous": [],
             "timestamp": 1742983476
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983476
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/d41d4613ade2dde055147ce6a8efe206.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/d41d4613ade2dde055147ce6a8efe206.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983476
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983476,
-        "updated_at": 1743023331,
-        "updates": 4
+        "updated_at": 1749739271,
+        "updates": 6
     }
 }

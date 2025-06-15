@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739372
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739372
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 10,
+                    "previous": [],
+                    "timestamp": 1749739372
+                },
+                "name": {
+                    "value": "Zumos",
+                    "previous": [],
+                    "timestamp": 1749739372
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739372
+                },
+                "order": {
+                    "value": 792,
+                    "previous": [],
+                    "timestamp": 1749739372
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Smoothie mango y coco Hacendado",
+            "previous": [],
+            "timestamp": 1749739372
+        },
+        "id": {
+            "value": "12909",
+            "previous": [],
+            "timestamp": 1749739372
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739372
+        },
+        "packaging": {
+            "value": "Botella",
+            "previous": [],
+            "timestamp": 1749739372
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1749739372
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739372
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739372
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739372
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739372
+            },
+            "unit_size": {
+                "value": 0.25,
+                "previous": [],
+                "timestamp": 1749739372
+            },
+            "bulk_price": {
+                "value": "6.40",
+                "previous": [],
+                "timestamp": 1749739372
+            },
+            "unit_price": {
+                "value": "1.60",
+                "previous": [],
+                "timestamp": 1749739372
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739372
+            },
+            "size_format": {
+                "value": "l",
+                "previous": [],
+                "timestamp": 1749739372
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739372
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739372
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739372
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739372
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739372
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1749739372
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739372
+            },
+            "reference_price": {
+                "value": "6.400",
+                "previous": [],
+                "timestamp": 1749739372
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739372
+            },
+            "reference_format": {
+                "value": "L",
+                "previous": [],
+                "timestamp": 1749739372
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739372
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739372
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739372
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/12909\/smoothie-mango-coco-hacendado-botella",
+            "previous": [],
+            "timestamp": 1749739372
+        },
+        "slug": {
+            "value": "smoothie-mango-coco-hacendado-botella",
+            "previous": [],
+            "timestamp": 1749739372
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739372
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/500800906ef3039094c3ff2bf3a41401.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739372
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739372
+        }
+    },
+    "stats": {
+        "created_at": 1749739372,
+        "updated_at": 1749739372,
+        "updates": 1
+    }
+}

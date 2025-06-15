@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Detergente ropa Colonia Hipoalergénico Bosque Verde líquido",
+            "value": "Detergente ropa Colonia Hipoalerg\u00e9nico Bosque Verde l\u00edquido",
             "previous": [],
             "timestamp": 1742983467
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983467
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/86399/detergente-ropa-colonia-hipoalergenico-bosque-verde-liquido-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/86399\/detergente-ropa-colonia-hipoalergenico-bosque-verde-liquido-botella",
             "previous": [],
             "timestamp": 1742983467
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983467
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/d8d69f071387be7f553362f46163dfda.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/d8d69f071387be7f553362f46163dfda.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983467
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983467,
-        "updated_at": 1743023316,
-        "updates": 2
+        "updated_at": 1749739252,
+        "updates": 3
     }
 }

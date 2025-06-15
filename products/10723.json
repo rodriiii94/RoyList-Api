@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Bebida láctea crecimiento y desarrollo Puleva Max",
+            "value": "Bebida l\u00e1ctea crecimiento y desarrollo Puleva Max",
             "previous": [],
             "timestamp": 1742983463
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983463
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/10723/bebida-lactea-crecimiento-desarrollo-puleva-max-3-anos-brick",
+            "value": "https:\/\/tienda.mercadona.es\/product\/10723\/bebida-lactea-crecimiento-desarrollo-puleva-max-3-anos-brick",
             "previous": [],
             "timestamp": 1742983463
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983463
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/63a31f1eab7450bc05d98750db05312d.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/63a31f1eab7450bc05d98750db05312d.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983463
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983463,
-        "updated_at": 1743023313,
-        "updates": 2
+        "updated_at": 1749739247,
+        "updates": 3
     }
 }

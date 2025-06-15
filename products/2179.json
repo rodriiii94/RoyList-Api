@@ -174,7 +174,7 @@
             "timestamp": 1742983378
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/2179/callos-preparados-ternera-rogusa-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/2179\/callos-preparados-ternera-rogusa-paquete",
             "previous": [],
             "timestamp": 1742983378
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983378
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/e43ddf8d8525da176a7ceb8cff174a5b.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/e43ddf8d8525da176a7ceb8cff174a5b.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983378
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983378,
-        "updated_at": 1743023213,
-        "updates": 2
+        "updated_at": 1749739111,
+        "updates": 3
     }
 }

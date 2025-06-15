@@ -174,7 +174,7 @@
             "timestamp": 1742983459
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/69930/tomates-cherry-pera-kumato-bandeja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/69930\/tomates-cherry-pera-kumato-bandeja",
             "previous": [],
             "timestamp": 1742983459
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983459
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/69f9cf39f96f74f38ba11746e3d87fdd.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983459
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/e32742ccdb83ff850cb8acbe09145369.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/69f9cf39f96f74f38ba11746e3d87fdd.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983459
+                }
+            ],
+            "timestamp": 1749739238
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983459,
-        "updated_at": 1743023307,
-        "updates": 2
+        "updated_at": 1749739238,
+        "updates": 3
     }
 }

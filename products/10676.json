@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Leche +Proteínas desnatada Hacendado",
+            "value": "Leche +Prote\u00ednas desnatada Hacendado",
             "previous": [],
             "timestamp": 1742983463
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983463
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/10676/leche-proteinas-desnatada-hacendado-pack-6",
+            "value": "https:\/\/tienda.mercadona.es\/product\/10676\/leche-proteinas-desnatada-hacendado-pack-6",
             "previous": [],
             "timestamp": 1742983463
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983463
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/d470211a0604c39ba3ff5f5d6ee734ed.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/d470211a0604c39ba3ff5f5d6ee734ed.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983463
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983463,
-        "updated_at": 1743023312,
-        "updates": 2
+        "updated_at": 1749739245,
+        "updates": 3
     }
 }

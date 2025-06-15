@@ -174,7 +174,7 @@
             "timestamp": 1742983495
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/12822/aceite-labial-lip-oil-glow-bloom-deliplus-01-naranja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/12822\/aceite-labial-lip-oil-glow-bloom-deliplus-01-naranja",
             "previous": [],
             "timestamp": 1742983495
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983495
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/cd287b3b67ffb3b2dacb815e16be16d1.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/cd287b3b67ffb3b2dacb815e16be16d1.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983495
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983495,
-        "updated_at": 1743023347,
-        "updates": 2
+        "updated_at": 1749739292,
+        "updates": 3
     }
 }

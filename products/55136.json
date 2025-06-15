@@ -20,7 +20,7 @@
                     "timestamp": 1742983385
                 },
                 "name": {
-                    "value": "Charcutería y quesos",
+                    "value": "Charcuter\u00eda y quesos",
                     "previous": [],
                     "timestamp": 1742983385
                 },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983385
             },
             "bulk_price": {
-                "value": "16.00",
-                "previous": [],
-                "timestamp": 1742983385
+                "value": "17.87",
+                "previous": [
+                    {
+                        "value": "16.00",
+                        "timestamp": 1742983385
+                    }
+                ],
+                "timestamp": 1749739121
             },
             "unit_price": {
-                "value": "3.76",
-                "previous": [],
-                "timestamp": 1742983385
+                "value": "4.20",
+                "previous": [
+                    {
+                        "value": "3.76",
+                        "timestamp": 1742983385
+                    }
+                ],
+                "timestamp": 1749739121
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983385
             },
             "reference_price": {
-                "value": "16.000",
-                "previous": [],
-                "timestamp": 1742983385
+                "value": "17.873",
+                "previous": [
+                    {
+                        "value": "16.000",
+                        "timestamp": 1742983385
+                    }
+                ],
+                "timestamp": 1749739121
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983385
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/55136/longaniza-pavo-imperial-extra-hacendado-pieza",
+            "value": "https:\/\/tienda.mercadona.es\/product\/55136\/longaniza-pavo-imperial-extra-hacendado-pieza",
             "previous": [],
             "timestamp": 1742983385
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983385
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/4093763502649349ae957fce8993e19c.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/4093763502649349ae957fce8993e19c.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983385
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983385,
-        "updated_at": 1743023226,
-        "updates": 4
+        "updated_at": 1749739127,
+        "updates": 6
     }
 }

@@ -83,14 +83,18 @@
                 "timestamp": 1742983459
             },
             "unit_size": {
-                "value": 1.8,
+                "value": 1.73,
                 "previous": [
                     {
                         "value": 1.72,
                         "timestamp": 1742983459
+                    },
+                    {
+                        "value": 1.8,
+                        "timestamp": 1743023307
                     }
                 ],
-                "timestamp": 1743023307
+                "timestamp": 1749739239
             },
             "bulk_price": {
                 "value": "1.77",
@@ -98,14 +102,18 @@
                 "timestamp": 1742983459
             },
             "unit_price": {
-                "value": "3.19",
+                "value": "3.06",
                 "previous": [
                     {
                         "value": "3.04",
                         "timestamp": 1742983459
+                    },
+                    {
+                        "value": "3.19",
+                        "timestamp": 1743023307
                     }
                 ],
-                "timestamp": 1743023307
+                "timestamp": 1749739239
             },
             "approx_size": {
                 "value": true,
@@ -184,7 +192,7 @@
             "timestamp": 1742983459
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/69236/repollo-liso-pieza",
+            "value": "https:\/\/tienda.mercadona.es\/product\/69236\/repollo-liso-pieza",
             "previous": [],
             "timestamp": 1742983459
         },
@@ -199,7 +207,7 @@
             "timestamp": 1742983459
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/f2e1b04912d5ae3c7481b56cc200411d.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/f2e1b04912d5ae3c7481b56cc200411d.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983459
         },
@@ -211,7 +219,7 @@
     },
     "stats": {
         "created_at": 1742983459,
-        "updated_at": 1743023307,
-        "updates": 2
+        "updated_at": 1749739239,
+        "updates": 3
     }
 }

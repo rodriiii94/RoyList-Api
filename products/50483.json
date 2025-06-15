@@ -20,7 +20,7 @@
                     "timestamp": 1742983394
                 },
                 "name": {
-                    "value": "Charcutería y quesos",
+                    "value": "Charcuter\u00eda y quesos",
                     "previous": [],
                     "timestamp": 1742983394
                 },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983394
             },
             "bulk_price": {
-                "value": "8.97",
-                "previous": [],
-                "timestamp": 1742983394
+                "value": "9.01",
+                "previous": [
+                    {
+                        "value": "8.97",
+                        "timestamp": 1742983394
+                    }
+                ],
+                "timestamp": 1749739136
             },
             "unit_price": {
-                "value": "4.08",
-                "previous": [],
-                "timestamp": 1742983394
+                "value": "4.10",
+                "previous": [
+                    {
+                        "value": "4.08",
+                        "timestamp": 1742983394
+                    }
+                ],
+                "timestamp": 1749739136
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983394
             },
             "reference_price": {
-                "value": "8.968",
-                "previous": [],
-                "timestamp": 1742983394
+                "value": "9.011",
+                "previous": [
+                    {
+                        "value": "8.968",
+                        "timestamp": 1742983394
+                    }
+                ],
+                "timestamp": 1749739136
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983394
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/50483/queso-tierno-bola-edam-vaca-holland-corona-pieza",
+            "value": "https:\/\/tienda.mercadona.es\/product\/50483\/queso-tierno-bola-edam-vaca-holland-corona-pieza",
             "previous": [],
             "timestamp": 1742983394
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983394
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/c0a573a5531aa0148e69817a4fb19640.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/c0a573a5531aa0148e69817a4fb19640.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983394
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983394,
-        "updated_at": 1743023233,
-        "updates": 2
+        "updated_at": 1749739136,
+        "updates": 3
     }
 }

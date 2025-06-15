@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Limpiador Baños desinfectante Bosque Verde",
+            "value": "Limpiador Ba\u00f1os desinfectante Bosque Verde",
             "previous": [],
             "timestamp": 1742983477
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983477
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/43089/limpiador-banos-desinfectante-bosque-verde-con-pistola-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/43089\/limpiador-banos-desinfectante-bosque-verde-con-pistola-botella",
             "previous": [],
             "timestamp": 1742983477
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983477
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/b4b18859a96a502bfb64ae6a10ed42cd.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/b4b18859a96a502bfb64ae6a10ed42cd.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983477
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983477,
-        "updated_at": 1743023328,
-        "updates": 2
+        "updated_at": 1749739267,
+        "updates": 3
     }
 }

@@ -196,7 +196,7 @@
             "timestamp": 1742983408
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/22649/pizza-masa-fina-barbacoa-hacendado-ultracongelada",
+            "value": "https:\/\/tienda.mercadona.es\/product\/22649\/pizza-masa-fina-barbacoa-hacendado-ultracongelada",
             "previous": [],
             "timestamp": 1742983408
         },
@@ -211,7 +211,7 @@
             "timestamp": 1742983408
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/afd5ac8ed9b228136fbef4cf2067df15.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/afd5ac8ed9b228136fbef4cf2067df15.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983408
         },
@@ -223,7 +223,7 @@
     },
     "stats": {
         "created_at": 1742983408,
-        "updated_at": 1743023385,
-        "updates": 4
+        "updated_at": 1749739345,
+        "updates": 6
     }
 }

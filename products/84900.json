@@ -20,7 +20,7 @@
                     "timestamp": 1742983514
                 },
                 "name": {
-                    "value": "Panadería y pastelería",
+                    "value": "Panader\u00eda y pasteler\u00eda",
                     "previous": [],
                     "timestamp": 1742983514
                 },
@@ -174,7 +174,7 @@
             "timestamp": 1742983514
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/84900/magdalenas-con-pepitas-chocolate-bolsa",
+            "value": "https:\/\/tienda.mercadona.es\/product\/84900\/magdalenas-con-pepitas-chocolate-bolsa",
             "previous": [],
             "timestamp": 1742983514
         },
@@ -189,10 +189,10 @@
             "timestamp": 1742983514
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/e7187511950a54f85a431e56d25c7fd4.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/e7187511950a54f85a431e56d25c7fd4.jpg?fit=crop&h=300&w=300",
             "previous": [
                 {
-                    "value": "https://prod-mercadona.imgix.net/images/3c8bd5218ec2ebc5b1050917a6715327.jpg?fit=crop&h=300&w=300",
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/3c8bd5218ec2ebc5b1050917a6715327.jpg?fit=crop&h=300&w=300",
                     "timestamp": 1742983514
                 }
             ],
@@ -206,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983514,
-        "updated_at": 1743023366,
-        "updates": 2
+        "updated_at": 1749739320,
+        "updates": 3
     }
 }

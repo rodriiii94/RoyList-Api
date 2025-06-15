@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739261
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739261
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 26,
+                    "previous": [],
+                    "timestamp": 1749739261
+                },
+                "name": {
+                    "value": "Limpieza y hogar",
+                    "previous": [],
+                    "timestamp": 1749739261
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739261
+                },
+                "order": {
+                    "value": 374,
+                    "previous": [],
+                    "timestamp": 1749739261
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Eliminador de turbidez en saquitos para piscina",
+            "previous": [],
+            "timestamp": 1749739261
+        },
+        "id": {
+            "value": "80302",
+            "previous": [],
+            "timestamp": 1749739261
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739261
+        },
+        "packaging": {
+            "value": "Caja",
+            "previous": [],
+            "timestamp": 1749739261
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1749739261
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739261
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739261
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739261
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739261
+            },
+            "unit_size": {
+                "value": 0.12,
+                "previous": [],
+                "timestamp": 1749739261
+            },
+            "bulk_price": {
+                "value": "25.00",
+                "previous": [],
+                "timestamp": 1749739261
+            },
+            "unit_price": {
+                "value": "3.00",
+                "previous": [],
+                "timestamp": 1749739261
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739261
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1749739261
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739261
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739261
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739261
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739261
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739261
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1749739261
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739261
+            },
+            "reference_price": {
+                "value": "25.000",
+                "previous": [],
+                "timestamp": 1749739261
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739261
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1749739261
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739261
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739261
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739261
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/80302\/eliminador-turbidez-saquitos-piscina-caja",
+            "previous": [],
+            "timestamp": 1749739261
+        },
+        "slug": {
+            "value": "eliminador-turbidez-saquitos-piscina-caja",
+            "previous": [],
+            "timestamp": 1749739261
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739261
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/727aded7f990fad7844bbf299ec7b24a.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739261
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739261
+        }
+    },
+    "stats": {
+        "created_at": 1749739261,
+        "updated_at": 1749739261,
+        "updates": 1
+    }
+}

@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Vino tinto D.O Méntrida Mimbral reserva",
+            "value": "Vino tinto D.O M\u00e9ntrida Mimbral reserva",
             "previous": [],
             "timestamp": 1742983355
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983355
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/37166/vino-tinto-do-mentrida-mimbral-reserva-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/37166\/vino-tinto-do-mentrida-mimbral-reserva-botella",
             "previous": [],
             "timestamp": 1742983355
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983355
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/ecbf8f82d3861b56a3715c54e5c61084.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/ecbf8f82d3861b56a3715c54e5c61084.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983355
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983355,
-        "updated_at": 1743023189,
-        "updates": 2
+        "updated_at": 1749739081,
+        "updates": 3
     }
 }

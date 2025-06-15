@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Melocotón en almíbar Hacendado",
+            "value": "Melocot\u00f3n en alm\u00edbar Hacendado",
             "previous": [],
             "timestamp": 1742983419
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983419
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/60918/melocoton-almibar-hacendado-bote",
+            "value": "https:\/\/tienda.mercadona.es\/product\/60918\/melocoton-almibar-hacendado-bote",
             "previous": [],
             "timestamp": 1742983419
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983419
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/5dd673ae914d64f6f0e0d860b63f94af.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/5dd673ae914d64f6f0e0d860b63f94af.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983419
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983419,
-        "updated_at": 1743023259,
-        "updates": 2
+        "updated_at": 1749739171,
+        "updates": 3
     }
 }

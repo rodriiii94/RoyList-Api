@@ -20,7 +20,7 @@
                     "timestamp": 1742983394
                 },
                 "name": {
-                    "value": "Charcutería y quesos",
+                    "value": "Charcuter\u00eda y quesos",
                     "previous": [],
                     "timestamp": 1742983394
                 },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983394
             },
             "bulk_price": {
-                "value": "15.64",
-                "previous": [],
-                "timestamp": 1742983394
+                "value": "16.00",
+                "previous": [
+                    {
+                        "value": "15.64",
+                        "timestamp": 1742983394
+                    }
+                ],
+                "timestamp": 1749739135
             },
             "unit_price": {
-                "value": "3.91",
-                "previous": [],
-                "timestamp": 1742983394
+                "value": "4.00",
+                "previous": [
+                    {
+                        "value": "3.91",
+                        "timestamp": 1742983394
+                    }
+                ],
+                "timestamp": 1749739135
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983394
             },
             "reference_price": {
-                "value": "15.640",
-                "previous": [],
-                "timestamp": 1742983394
+                "value": "16.000",
+                "previous": [
+                    {
+                        "value": "15.640",
+                        "timestamp": 1742983394
+                    }
+                ],
+                "timestamp": 1749739135
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983394
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/50533/queso-viejo-gouda-hacendado-pieza",
+            "value": "https:\/\/tienda.mercadona.es\/product\/50533\/queso-viejo-gouda-hacendado-pieza",
             "previous": [],
             "timestamp": 1742983394
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983394
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/cd4f401a1b110354308cdc88299849de.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/cd4f401a1b110354308cdc88299849de.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983394
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983394,
-        "updated_at": 1743023232,
-        "updates": 2
+        "updated_at": 1749739135,
+        "updates": 3
     }
 }

@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Zumo de clementina selección Hacendado",
+            "value": "Zumo de clementina selecci\u00f3n Hacendado",
             "previous": [],
             "timestamp": 1742983555
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983555
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/39924/zumo-clementina-seleccion-hacendado-brick",
+            "value": "https:\/\/tienda.mercadona.es\/product\/39924\/zumo-clementina-seleccion-hacendado-brick",
             "previous": [],
             "timestamp": 1742983555
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983555
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/3b1c95fc31cf7f1e03e72745d3667271.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/3b1c95fc31cf7f1e03e72745d3667271.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983555
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983555,
-        "updated_at": 1743023409,
-        "updates": 2
+        "updated_at": 1749739375,
+        "updates": 3
     }
 }

@@ -88,14 +88,24 @@
                 "timestamp": 1742983415
             },
             "bulk_price": {
-                "value": "20.56",
-                "previous": [],
-                "timestamp": 1742983415
+                "value": "20.00",
+                "previous": [
+                    {
+                        "value": "20.56",
+                        "timestamp": 1742983415
+                    }
+                ],
+                "timestamp": 1749739166
             },
             "unit_price": {
-                "value": "1.85",
-                "previous": [],
-                "timestamp": 1742983415
+                "value": "1.80",
+                "previous": [
+                    {
+                        "value": "1.85",
+                        "timestamp": 1742983415
+                    }
+                ],
+                "timestamp": 1749739166
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983415
             },
             "reference_price": {
-                "value": "28.462",
-                "previous": [],
-                "timestamp": 1742983415
+                "value": "27.693",
+                "previous": [
+                    {
+                        "value": "28.462",
+                        "timestamp": 1742983415
+                    }
+                ],
+                "timestamp": 1749739166
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -158,7 +173,7 @@
                 "timestamp": 1742983415
             },
             "previous_unit_price": {
-                "value": null,
+                "value": "        1.85",
                 "previous": [],
                 "timestamp": 1742983415
             },
@@ -174,7 +189,7 @@
             "timestamp": 1742983415
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/18114/filetes-melva-canutera-con-pimientos-piquillo-hacendado-aceite-oliva-lata",
+            "value": "https:\/\/tienda.mercadona.es\/product\/18114\/filetes-melva-canutera-con-pimientos-piquillo-hacendado-aceite-oliva-lata",
             "previous": [],
             "timestamp": 1742983415
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983415
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/445a01e2f758999022716b69d4adb597.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/445a01e2f758999022716b69d4adb597.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983415
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983415,
-        "updated_at": 1743023256,
-        "updates": 2
+        "updated_at": 1749739166,
+        "updates": 3
     }
 }

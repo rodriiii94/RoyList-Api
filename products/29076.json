@@ -88,14 +88,24 @@
                 "timestamp": 1742983315
             },
             "bulk_price": {
-                "value": "0.48",
-                "previous": [],
-                "timestamp": 1742983315
+                "value": "0.45",
+                "previous": [
+                    {
+                        "value": "0.48",
+                        "timestamp": 1742983315
+                    }
+                ],
+                "timestamp": 1749739022
             },
             "unit_price": {
-                "value": "0.95",
-                "previous": [],
-                "timestamp": 1742983315
+                "value": "0.90",
+                "previous": [
+                    {
+                        "value": "0.95",
+                        "timestamp": 1742983315
+                    }
+                ],
+                "timestamp": 1749739022
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983315
             },
             "reference_price": {
-                "value": "0.475",
-                "previous": [],
-                "timestamp": 1742983315
+                "value": "0.450",
+                "previous": [
+                    {
+                        "value": "0.475",
+                        "timestamp": 1742983315
+                    }
+                ],
+                "timestamp": 1749739022
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983315
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/29076/refresco-naranja-hacendado-zero-fresh-gas-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/29076\/refresco-naranja-hacendado-zero-fresh-gas-botella",
             "previous": [],
             "timestamp": 1742983315
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983315
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/4e889ab6cb03550a75326a177931b794.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/4e889ab6cb03550a75326a177931b794.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983315
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983315,
-        "updated_at": 1743023141,
-        "updates": 2
+        "updated_at": 1749739022,
+        "updates": 3
     }
 }

@@ -174,7 +174,7 @@
             "timestamp": 1742983494
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/35872/perfilador-labios-long-lasting-deliplus-07-rojo",
+            "value": "https:\/\/tienda.mercadona.es\/product\/35872\/perfilador-labios-long-lasting-deliplus-07-rojo",
             "previous": [],
             "timestamp": 1742983494
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983494
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/9e621b9bdf4c29a0dbf8a89823b1ca57.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/9e621b9bdf4c29a0dbf8a89823b1ca57.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983494
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983494,
-        "updated_at": 1743023346,
-        "updates": 2
+        "updated_at": 1749739291,
+        "updates": 3
     }
 }

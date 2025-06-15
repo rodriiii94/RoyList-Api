@@ -110,14 +110,24 @@
                 "timestamp": 1742983327
             },
             "bulk_price": {
-                "value": "15.00",
-                "previous": [],
-                "timestamp": 1742983327
+                "value": "13.75",
+                "previous": [
+                    {
+                        "value": "15.00",
+                        "timestamp": 1742983327
+                    }
+                ],
+                "timestamp": 1749739042
             },
             "unit_price": {
-                "value": "1.20",
-                "previous": [],
-                "timestamp": 1742983327
+                "value": "1.10",
+                "previous": [
+                    {
+                        "value": "1.20",
+                        "timestamp": 1742983327
+                    }
+                ],
+                "timestamp": 1749739042
             },
             "approx_size": {
                 "value": false,
@@ -165,9 +175,14 @@
                 "timestamp": 1742983327
             },
             "reference_price": {
-                "value": "15.000",
-                "previous": [],
-                "timestamp": 1742983327
+                "value": "13.750",
+                "previous": [
+                    {
+                        "value": "15.000",
+                        "timestamp": 1742983327
+                    }
+                ],
+                "timestamp": 1749739042
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -196,7 +211,7 @@
             "timestamp": 1742983327
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/8727/fideos-orientales-yakisoba-sabor-soja-hacendado-vaso",
+            "value": "https:\/\/tienda.mercadona.es\/product\/8727\/fideos-orientales-yakisoba-sabor-soja-hacendado-vaso",
             "previous": [],
             "timestamp": 1742983327
         },
@@ -211,7 +226,7 @@
             "timestamp": 1742983327
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/28f4ae33a3283adac91dfd56813e3094.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/28f4ae33a3283adac91dfd56813e3094.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983327
         },
@@ -223,7 +238,7 @@
     },
     "stats": {
         "created_at": 1742983327,
-        "updated_at": 1743023387,
-        "updates": 4
+        "updated_at": 1749739348,
+        "updates": 6
     }
 }

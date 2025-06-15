@@ -20,7 +20,7 @@
                     "timestamp": 1742983340
                 },
                 "name": {
-                    "value": "Bebé",
+                    "value": "Beb\u00e9",
                     "previous": [],
                     "timestamp": 1742983340
                 },
@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Champú infantil Deliplus",
+            "value": "Champ\u00fa infantil Deliplus",
             "previous": [],
             "timestamp": 1742983340
         },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983340
             },
             "bulk_price": {
-                "value": "5.92",
-                "previous": [],
-                "timestamp": 1742983340
+                "value": "4.92",
+                "previous": [
+                    {
+                        "value": "5.92",
+                        "timestamp": 1742983340
+                    }
+                ],
+                "timestamp": 1749739059
             },
             "unit_price": {
-                "value": "3.55",
-                "previous": [],
-                "timestamp": 1742983340
+                "value": "2.95",
+                "previous": [
+                    {
+                        "value": "3.55",
+                        "timestamp": 1742983340
+                    }
+                ],
+                "timestamp": 1749739059
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983340
             },
             "reference_price": {
-                "value": "0.592",
-                "previous": [],
-                "timestamp": 1742983340
+                "value": "0.492",
+                "previous": [
+                    {
+                        "value": "0.592",
+                        "timestamp": 1742983340
+                    }
+                ],
+                "timestamp": 1749739059
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -158,7 +173,7 @@
                 "timestamp": 1742983340
             },
             "previous_unit_price": {
-                "value": null,
+                "value": "        3.55",
                 "previous": [],
                 "timestamp": 1742983340
             },
@@ -174,7 +189,7 @@
             "timestamp": 1742983340
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/46643/champu-infantil-deliplus-con-manzanilla-tila-bote",
+            "value": "https:\/\/tienda.mercadona.es\/product\/46643\/champu-infantil-deliplus-con-manzanilla-tila-bote",
             "previous": [],
             "timestamp": 1742983340
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983340
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/e318d5f91204abdca8b32e4d8394912a.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/e318d5f91204abdca8b32e4d8394912a.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983340
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983340,
-        "updated_at": 1743023171,
-        "updates": 2
+        "updated_at": 1749739059,
+        "updates": 3
     }
 }

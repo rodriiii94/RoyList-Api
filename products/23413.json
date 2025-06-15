@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739262
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739262
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 26,
+                    "previous": [],
+                    "timestamp": 1749739262
+                },
+                "name": {
+                    "value": "Limpieza y hogar",
+                    "previous": [],
+                    "timestamp": 1749739262
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739262
+                },
+                "order": {
+                    "value": 374,
+                    "previous": [],
+                    "timestamp": 1749739262
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Cloro disoluci\u00f3n lenta tabletas para piscina",
+            "previous": [],
+            "timestamp": 1749739262
+        },
+        "id": {
+            "value": "23413",
+            "previous": [],
+            "timestamp": 1749739262
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739262
+        },
+        "packaging": {
+            "value": "Bote",
+            "previous": [],
+            "timestamp": 1749739262
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1749739262
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739262
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739262
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739262
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739262
+            },
+            "unit_size": {
+                "value": 5,
+                "previous": [],
+                "timestamp": 1749739262
+            },
+            "bulk_price": {
+                "value": "5.66",
+                "previous": [],
+                "timestamp": 1749739262
+            },
+            "unit_price": {
+                "value": "28.30",
+                "previous": [],
+                "timestamp": 1749739262
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739262
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1749739262
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739262
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739262
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739262
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739262
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739262
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1749739262
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739262
+            },
+            "reference_price": {
+                "value": "5.660",
+                "previous": [],
+                "timestamp": 1749739262
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739262
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1749739262
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739262
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739262
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739262
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/23413\/cloro-disolucion-lenta-tabletas-piscina-bote",
+            "previous": [],
+            "timestamp": 1749739262
+        },
+        "slug": {
+            "value": "cloro-disolucion-lenta-tabletas-piscina-bote",
+            "previous": [],
+            "timestamp": 1749739262
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739262
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/8d2f6c5abc4f8c83d9df79fb47ec2c28.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739262
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739262
+        }
+    },
+    "stats": {
+        "created_at": 1749739262,
+        "updated_at": 1749739262,
+        "updates": 1
+    }
+}

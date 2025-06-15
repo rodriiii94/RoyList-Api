@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739081
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739081
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 19,
+                    "previous": [],
+                    "timestamp": 1749739081
+                },
+                "name": {
+                    "value": "Bodega",
+                    "previous": [],
+                    "timestamp": 1749739081
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739081
+                },
+                "order": {
+                    "value": 15,
+                    "previous": [],
+                    "timestamp": 1749739081
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Vino tinto D.O Gran Dama de Toro Fari\u00f1a",
+            "previous": [],
+            "timestamp": 1749739081
+        },
+        "id": {
+            "value": "11583",
+            "previous": [],
+            "timestamp": 1749739081
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739081
+        },
+        "packaging": {
+            "value": "Botella",
+            "previous": [],
+            "timestamp": 1749739081
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1749739081
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739081
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739081
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739081
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739081
+            },
+            "unit_size": {
+                "value": 0.75,
+                "previous": [],
+                "timestamp": 1749739081
+            },
+            "bulk_price": {
+                "value": "9.13",
+                "previous": [],
+                "timestamp": 1749739081
+            },
+            "unit_price": {
+                "value": "6.85",
+                "previous": [],
+                "timestamp": 1749739081
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739081
+            },
+            "size_format": {
+                "value": "l",
+                "previous": [],
+                "timestamp": 1749739081
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739081
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739081
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739081
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739081
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739081
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1749739081
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739081
+            },
+            "reference_price": {
+                "value": "9.134",
+                "previous": [],
+                "timestamp": 1749739081
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739081
+            },
+            "reference_format": {
+                "value": "L",
+                "previous": [],
+                "timestamp": 1749739081
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739081
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739081
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739081
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/11583\/vino-tinto-do-dama-toro-farina-botella",
+            "previous": [],
+            "timestamp": 1749739081
+        },
+        "slug": {
+            "value": "vino-tinto-do-dama-toro-farina-botella",
+            "previous": [],
+            "timestamp": 1749739081
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739081
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/b058bb999f090ea1b344ccebde865635.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739081
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739081
+        }
+    },
+    "stats": {
+        "created_at": 1749739081,
+        "updated_at": 1749739081,
+        "updates": 1
+    }
+}

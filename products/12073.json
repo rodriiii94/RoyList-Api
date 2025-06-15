@@ -20,7 +20,7 @@
                     "timestamp": 1743023227
                 },
                 "name": {
-                    "value": "Charcutería y quesos",
+                    "value": "Charcuter\u00eda y quesos",
                     "previous": [],
                     "timestamp": 1743023227
                 },
@@ -174,7 +174,7 @@
             "timestamp": 1743023227
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/12073/chorizo-pamplona-extra-hacendado-lonchas",
+            "value": "https:\/\/tienda.mercadona.es\/product\/12073\/chorizo-pamplona-extra-hacendado-lonchas",
             "previous": [],
             "timestamp": 1743023227
         },
@@ -189,7 +189,7 @@
             "timestamp": 1743023227
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/0c970bbd9ecdc4e0216f49729fbda2a2.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/0c970bbd9ecdc4e0216f49729fbda2a2.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1743023227
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1743023227,
-        "updated_at": 1743023227,
-        "updates": 1
+        "updated_at": 1749739128,
+        "updates": 2
     }
 }

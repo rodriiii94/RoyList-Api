@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739175
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739175
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 14,
+                    "previous": [],
+                    "timestamp": 1749739175
+                },
+                "name": {
+                    "value": "Conservas, caldos y cremas",
+                    "previous": [],
+                    "timestamp": 1749739175
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739175
+                },
+                "order": {
+                    "value": 215,
+                    "previous": [],
+                    "timestamp": 1749739175
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Sopa de pollo Hacendado con fideos finos",
+            "previous": [],
+            "timestamp": 1749739175
+        },
+        "id": {
+            "value": "11646",
+            "previous": [],
+            "timestamp": 1749739175
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739175
+        },
+        "packaging": {
+            "value": "Sobre",
+            "previous": [],
+            "timestamp": 1749739175
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1749739175
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739175
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739175
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739175
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739175
+            },
+            "unit_size": {
+                "value": 0.072,
+                "previous": [],
+                "timestamp": 1749739175
+            },
+            "bulk_price": {
+                "value": "6.94",
+                "previous": [],
+                "timestamp": 1749739175
+            },
+            "unit_price": {
+                "value": "0.50",
+                "previous": [],
+                "timestamp": 1749739175
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739175
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1749739175
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739175
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739175
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739175
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739175
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739175
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1749739175
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739175
+            },
+            "reference_price": {
+                "value": "6.945",
+                "previous": [],
+                "timestamp": 1749739175
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739175
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1749739175
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739175
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739175
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739175
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/11646\/sopa-pollo-hacendado-con-fideos-finos",
+            "previous": [],
+            "timestamp": 1749739175
+        },
+        "slug": {
+            "value": "sopa-pollo-hacendado-con-fideos-finos",
+            "previous": [],
+            "timestamp": 1749739175
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739175
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/60c431546bca2064d0ff18750c32e37c.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739175
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739175
+        }
+    },
+    "stats": {
+        "created_at": 1749739175,
+        "updated_at": 1749739175,
+        "updates": 1
+    }
+}

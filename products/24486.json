@@ -196,7 +196,7 @@
             "timestamp": 1742983405
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/24486/langostino-crudo-pelado-hacendado-ultracongelado-bandeja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/24486\/langostino-crudo-pelado-hacendado-ultracongelado-bandeja",
             "previous": [],
             "timestamp": 1742983405
         },
@@ -211,7 +211,7 @@
             "timestamp": 1742983405
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/f1d0ac68049e49c543f0f63afb6d08b0.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/f1d0ac68049e49c543f0f63afb6d08b0.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983405
         },
@@ -223,7 +223,7 @@
     },
     "stats": {
         "created_at": 1742983405,
-        "updated_at": 1743023353,
-        "updates": 4
+        "updated_at": 1749739300,
+        "updates": 6
     }
 }

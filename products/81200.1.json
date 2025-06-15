@@ -83,19 +83,34 @@
                 "timestamp": 1742983505
             },
             "unit_size": {
-                "value": 0.45,
-                "previous": [],
-                "timestamp": 1742983505
+                "value": 0.58,
+                "previous": [
+                    {
+                        "value": 0.45,
+                        "timestamp": 1742983505
+                    }
+                ],
+                "timestamp": 1749739307
             },
             "bulk_price": {
-                "value": "6.95",
-                "previous": [],
-                "timestamp": 1742983505
+                "value": "8.95",
+                "previous": [
+                    {
+                        "value": "6.95",
+                        "timestamp": 1742983505
+                    }
+                ],
+                "timestamp": 1749739307
             },
             "unit_price": {
-                "value": "3.13",
-                "previous": [],
-                "timestamp": 1742983505
+                "value": "5.19",
+                "previous": [
+                    {
+                        "value": "3.13",
+                        "timestamp": 1742983505
+                    }
+                ],
+                "timestamp": 1749739307
             },
             "approx_size": {
                 "value": true,
@@ -143,9 +158,14 @@
                 "timestamp": 1742983505
             },
             "reference_price": {
-                "value": "6.950",
-                "previous": [],
-                "timestamp": 1742983505
+                "value": "8.950",
+                "previous": [
+                    {
+                        "value": "6.950",
+                        "timestamp": 1742983505
+                    }
+                ],
+                "timestamp": 1749739307
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +194,7 @@
             "timestamp": 1742983505
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/81200.1/trucha-abierta-libro-con-cabeza-pieza",
+            "value": "https:\/\/tienda.mercadona.es\/product\/81200.1\/trucha-abierta-libro-con-cabeza-pieza",
             "previous": [],
             "timestamp": 1742983505
         },
@@ -189,7 +209,7 @@
             "timestamp": 1742983505
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/661d69880016e9ebeb58a4f23465e397.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/661d69880016e9ebeb58a4f23465e397.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983505
         },
@@ -201,7 +221,7 @@
     },
     "stats": {
         "created_at": 1742983505,
-        "updated_at": 1743023357,
-        "updates": 2
+        "updated_at": 1749739307,
+        "updates": 3
     }
 }

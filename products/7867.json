@@ -88,14 +88,24 @@
                 "timestamp": 1742983422
             },
             "bulk_price": {
-                "value": "5.42",
-                "previous": [],
-                "timestamp": 1742983422
+                "value": "5.83",
+                "previous": [
+                    {
+                        "value": "5.42",
+                        "timestamp": 1742983422
+                    }
+                ],
+                "timestamp": 1749739175
             },
             "unit_price": {
-                "value": "1.30",
-                "previous": [],
-                "timestamp": 1742983422
+                "value": "1.40",
+                "previous": [
+                    {
+                        "value": "1.30",
+                        "timestamp": 1742983422
+                    }
+                ],
+                "timestamp": 1749739175
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983422
             },
             "reference_price": {
-                "value": "5.417",
-                "previous": [],
-                "timestamp": 1742983422
+                "value": "5.834",
+                "previous": [
+                    {
+                        "value": "5.417",
+                        "timestamp": 1742983422
+                    }
+                ],
+                "timestamp": 1749739175
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983422
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/7867/caldo-pollo-hacendado-pastillas-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/7867\/caldo-pollo-hacendado-pastillas-caja",
             "previous": [],
             "timestamp": 1742983422
         },
@@ -189,9 +204,14 @@
             "timestamp": 1742983422
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/eca379cc99e66a3430e9b40fcc4e1c1b.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983422
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/7655d0341839cc875249fc04810d7e4a.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/eca379cc99e66a3430e9b40fcc4e1c1b.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983422
+                }
+            ],
+            "timestamp": 1749739175
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +221,7 @@
     },
     "stats": {
         "created_at": 1742983422,
-        "updated_at": 1743023263,
-        "updates": 2
+        "updated_at": 1749739175,
+        "updates": 3
     }
 }

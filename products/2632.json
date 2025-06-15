@@ -88,14 +88,24 @@
                 "timestamp": 1742983376
             },
             "bulk_price": {
-                "value": "35.91",
-                "previous": [],
-                "timestamp": 1742983376
+                "value": "37.27",
+                "previous": [
+                    {
+                        "value": "35.91",
+                        "timestamp": 1742983376
+                    }
+                ],
+                "timestamp": 1749739108
             },
             "unit_price": {
-                "value": "3.95",
-                "previous": [],
-                "timestamp": 1742983376
+                "value": "4.10",
+                "previous": [
+                    {
+                        "value": "3.95",
+                        "timestamp": 1742983376
+                    }
+                ],
+                "timestamp": 1749739108
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983376
             },
             "reference_price": {
-                "value": "35.910",
-                "previous": [],
-                "timestamp": 1742983376
+                "value": "37.273",
+                "previous": [
+                    {
+                        "value": "35.910",
+                        "timestamp": 1742983376
+                    }
+                ],
+                "timestamp": 1749739108
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983376
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/2632/carpaccio-vacuno-bandeja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/2632\/carpaccio-vacuno-bandeja",
             "previous": [],
             "timestamp": 1742983376
         },
@@ -189,9 +204,14 @@
             "timestamp": 1742983376
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/8de0c941f2475a401b777b063194ee41.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983376
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/6f939ea547a9a0b2196b70955666a858.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/8de0c941f2475a401b777b063194ee41.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983376
+                }
+            ],
+            "timestamp": 1749739108
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +221,7 @@
     },
     "stats": {
         "created_at": 1742983376,
-        "updated_at": 1743023211,
-        "updates": 2
+        "updated_at": 1749739108,
+        "updates": 3
     }
 }

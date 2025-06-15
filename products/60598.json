@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Eau de parfum hombre Él",
+            "value": "Eau de parfum hombre \u00c9l",
             "previous": [],
             "timestamp": 1742983448
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983448
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/60598/eau-parfum-hombre-frasco",
+            "value": "https:\/\/tienda.mercadona.es\/product\/60598\/eau-parfum-hombre-frasco",
             "previous": [],
             "timestamp": 1742983448
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983448
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/45e7a001b11bfe1633ed8aa1c959a02c.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/45e7a001b11bfe1633ed8aa1c959a02c.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983448
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983448,
-        "updated_at": 1743023295,
-        "updates": 2
+        "updated_at": 1749739221,
+        "updates": 3
     }
 }

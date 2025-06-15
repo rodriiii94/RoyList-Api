@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Refresco lima limón Sprite",
+            "value": "Refresco lima lim\u00f3n Sprite",
             "previous": [],
             "timestamp": 1742983315
         },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983315
             },
             "bulk_price": {
-                "value": "1.52",
-                "previous": [],
-                "timestamp": 1742983315
+                "value": "1.85",
+                "previous": [
+                    {
+                        "value": "1.52",
+                        "timestamp": 1742983315
+                    }
+                ],
+                "timestamp": 1749739021
             },
             "unit_price": {
-                "value": "4.00",
-                "previous": [],
-                "timestamp": 1742983315
+                "value": "4.88",
+                "previous": [
+                    {
+                        "value": "4.00",
+                        "timestamp": 1742983315
+                    }
+                ],
+                "timestamp": 1749739021
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983315
             },
             "reference_price": {
-                "value": "1.516",
-                "previous": [],
-                "timestamp": 1742983315
+                "value": "1.849",
+                "previous": [
+                    {
+                        "value": "1.516",
+                        "timestamp": 1742983315
+                    }
+                ],
+                "timestamp": 1749739021
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -158,9 +173,14 @@
                 "timestamp": 1742983315
             },
             "previous_unit_price": {
-                "value": "        4.88",
-                "previous": [],
-                "timestamp": 1742983315
+                "value": null,
+                "previous": [
+                    {
+                        "value": "        4.88",
+                        "timestamp": 1742983315
+                    }
+                ],
+                "timestamp": 1749739021
             },
             "increment_bunch_amount": {
                 "value": 1,
@@ -174,7 +194,7 @@
             "timestamp": 1742983315
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/28176/refresco-lima-limon-sprite-pack-8",
+            "value": "https:\/\/tienda.mercadona.es\/product\/28176\/refresco-lima-limon-sprite-pack-8",
             "previous": [],
             "timestamp": 1742983315
         },
@@ -189,7 +209,7 @@
             "timestamp": 1742983315
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/dfe01e412ce4a845e24973442583443f.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/dfe01e412ce4a845e24973442583443f.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983315
         },
@@ -201,7 +221,7 @@
     },
     "stats": {
         "created_at": 1742983315,
-        "updated_at": 1743023141,
-        "updates": 2
+        "updated_at": 1749739021,
+        "updates": 3
     }
 }

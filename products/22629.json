@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Champú Curl Perfect Deliplus cabello rizado",
+            "value": "Champ\u00fa Curl Perfect Deliplus cabello rizado",
             "previous": [],
             "timestamp": 1742983426
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983426
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/22629/champu-curl-perfect-deliplus-cabello-rizado-apto-metodo-curly-bote",
+            "value": "https:\/\/tienda.mercadona.es\/product\/22629\/champu-curl-perfect-deliplus-cabello-rizado-apto-metodo-curly-bote",
             "previous": [],
             "timestamp": 1742983426
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983426
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/8aea9238d8b602b366990e648a3d9353.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/8aea9238d8b602b366990e648a3d9353.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983426
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983426,
-        "updated_at": 1743023268,
-        "updates": 2
+        "updated_at": 1749739182,
+        "updates": 3
     }
 }

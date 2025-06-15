@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Cera cabello Mate Deliplus fijación 4",
+            "value": "Cera cabello Mate Deliplus fijaci\u00f3n 4",
             "previous": [],
             "timestamp": 1742983430
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983430
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/52673/cera-cabello-mate-deliplus-fijacion-4-profix-bote",
+            "value": "https:\/\/tienda.mercadona.es\/product\/52673\/cera-cabello-mate-deliplus-fijacion-4-profix-bote",
             "previous": [],
             "timestamp": 1742983430
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983430
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/d3622a4ef7c0df6fd3bcd1f88a48c01c.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/d3622a4ef7c0df6fd3bcd1f88a48c01c.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983430
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983430,
-        "updated_at": 1743023273,
-        "updates": 2
+        "updated_at": 1749739190,
+        "updates": 3
     }
 }

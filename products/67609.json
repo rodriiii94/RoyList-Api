@@ -88,14 +88,24 @@
                 "timestamp": 1742983325
             },
             "bulk_price": {
-                "value": "2.90",
-                "previous": [],
-                "timestamp": 1742983325
+                "value": "3.20",
+                "previous": [
+                    {
+                        "value": "2.90",
+                        "timestamp": 1742983325
+                    }
+                ],
+                "timestamp": 1749739038
             },
             "unit_price": {
-                "value": "2.90",
-                "previous": [],
-                "timestamp": 1742983325
+                "value": "3.20",
+                "previous": [
+                    {
+                        "value": "2.90",
+                        "timestamp": 1742983325
+                    }
+                ],
+                "timestamp": 1749739038
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983325
             },
             "reference_price": {
-                "value": "2.900",
-                "previous": [],
-                "timestamp": 1742983325
+                "value": "3.200",
+                "previous": [
+                    {
+                        "value": "2.900",
+                        "timestamp": 1742983325
+                    }
+                ],
+                "timestamp": 1749739038
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983325
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/67609/alubia-roja-hacendado-categoria-extra-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/67609\/alubia-roja-hacendado-categoria-extra-paquete",
             "previous": [],
             "timestamp": 1742983325
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983325
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/8c49c980ac9e79805780099ac5d7bb89.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/8c49c980ac9e79805780099ac5d7bb89.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983325
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983325,
-        "updated_at": 1743023154,
-        "updates": 2
+        "updated_at": 1749739038,
+        "updates": 3
     }
 }

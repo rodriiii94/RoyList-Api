@@ -174,7 +174,7 @@
             "timestamp": 1742983399
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/35541/arroz-negro-hacendado-ultracongelado-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/35541\/arroz-negro-hacendado-ultracongelado-paquete",
             "previous": [],
             "timestamp": 1742983399
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983399
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/7b5bd7702a50d53f687b35dc616ac1f9.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983399
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/255fb51913b4b5d85a32e55bd6c88baf.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/7b5bd7702a50d53f687b35dc616ac1f9.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983399
+                }
+            ],
+            "timestamp": 1749739143
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983399,
-        "updated_at": 1743023238,
-        "updates": 2
+        "updated_at": 1749739143,
+        "updates": 3
     }
 }

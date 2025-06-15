@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Smoothie fresa, plátano y manzana Hacendado",
+            "value": "Smoothie fresa, pl\u00e1tano y manzana Hacendado",
             "previous": [],
             "timestamp": 1742983552
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983552
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/39980/smoothie-fresa-platano-manzana-hacendado-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/39980\/smoothie-fresa-platano-manzana-hacendado-botella",
             "previous": [],
             "timestamp": 1742983552
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983552
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/583cfa5d92ab55464bb96b08768f65bc.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/583cfa5d92ab55464bb96b08768f65bc.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983552
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983552,
-        "updated_at": 1743023406,
-        "updates": 2
+        "updated_at": 1749739372,
+        "updates": 3
     }
 }

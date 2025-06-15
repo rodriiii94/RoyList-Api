@@ -174,7 +174,7 @@
             "timestamp": 1742983539
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/68149/flan-huevo-hacendado-pack-4",
+            "value": "https:\/\/tienda.mercadona.es\/product\/68149\/flan-huevo-hacendado-pack-4",
             "previous": [],
             "timestamp": 1742983539
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983539
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/98f04d6420e913d98a93a0668b90afc3.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983539
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/da868591f2d6f50f7e0bfec0b28940e7.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/98f04d6420e913d98a93a0668b90afc3.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983539
+                }
+            ],
+            "timestamp": 1749739355
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983539,
-        "updated_at": 1743023392,
-        "updates": 2
+        "updated_at": 1749739355,
+        "updates": 3
     }
 }

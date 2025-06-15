@@ -83,9 +83,14 @@
                 "timestamp": 1742983368
             },
             "unit_size": {
-                "value": 0.82,
-                "previous": [],
-                "timestamp": 1742983368
+                "value": 0.89,
+                "previous": [
+                    {
+                        "value": 0.82,
+                        "timestamp": 1742983368
+                    }
+                ],
+                "timestamp": 1749739099
             },
             "bulk_price": {
                 "value": "5.60",
@@ -93,9 +98,14 @@
                 "timestamp": 1742983368
             },
             "unit_price": {
-                "value": "4.59",
-                "previous": [],
-                "timestamp": 1742983368
+                "value": "4.98",
+                "previous": [
+                    {
+                        "value": "4.59",
+                        "timestamp": 1742983368
+                    }
+                ],
+                "timestamp": 1749739099
             },
             "approx_size": {
                 "value": true,
@@ -174,7 +184,7 @@
             "timestamp": 1742983368
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/9977/costileja-cerdo-congelada-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/9977\/costileja-cerdo-congelada-paquete",
             "previous": [],
             "timestamp": 1742983368
         },
@@ -189,7 +199,7 @@
             "timestamp": 1742983368
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/7f90473a3694fc75008284dd5c778f52.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/7f90473a3694fc75008284dd5c778f52.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983368
         },
@@ -201,7 +211,7 @@
     },
     "stats": {
         "created_at": 1742983368,
-        "updated_at": 1743023203,
-        "updates": 2
+        "updated_at": 1749739099,
+        "updates": 3
     }
 }

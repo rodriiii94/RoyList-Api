@@ -174,7 +174,7 @@
             "timestamp": 1742983450
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/23434/stick-protector-solar-facial-zonas-sensibles-deliplus-fps-50-resistente-agua-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/23434\/stick-protector-solar-facial-zonas-sensibles-deliplus-fps-50-resistente-agua-paquete",
             "previous": [],
             "timestamp": 1742983450
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983450
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/4fec5186e8c1141b1852ec7b6fc009c4.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/4fec5186e8c1141b1852ec7b6fc009c4.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983450
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983450,
-        "updated_at": 1743023297,
-        "updates": 2
+        "updated_at": 1749739224,
+        "updates": 3
     }
 }

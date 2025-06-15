@@ -88,14 +88,24 @@
                 "timestamp": 1742983355
             },
             "bulk_price": {
-                "value": "3.07",
-                "previous": [],
-                "timestamp": 1742983355
+                "value": "3.40",
+                "previous": [
+                    {
+                        "value": "3.07",
+                        "timestamp": 1742983355
+                    }
+                ],
+                "timestamp": 1749739081
             },
             "unit_price": {
-                "value": "2.30",
-                "previous": [],
-                "timestamp": 1742983355
+                "value": "2.55",
+                "previous": [
+                    {
+                        "value": "2.30",
+                        "timestamp": 1742983355
+                    }
+                ],
+                "timestamp": 1749739081
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983355
             },
             "reference_price": {
-                "value": "3.067",
-                "previous": [],
-                "timestamp": 1742983355
+                "value": "3.400",
+                "previous": [
+                    {
+                        "value": "3.067",
+                        "timestamp": 1742983355
+                    }
+                ],
+                "timestamp": 1749739081
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983355
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/67112/vino-tinto-do-rioja-comportillo-cosecha-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/67112\/vino-tinto-do-rioja-comportillo-cosecha-botella",
             "previous": [],
             "timestamp": 1742983355
         },
@@ -189,9 +204,14 @@
             "timestamp": 1742983355
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/ba558c4d67c34557a830de300ac2acbb.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983355
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/e375c9ded31c96b36d39690e1e45d52c.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/ba558c4d67c34557a830de300ac2acbb.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983355
+                }
+            ],
+            "timestamp": 1749739081
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +221,7 @@
     },
     "stats": {
         "created_at": 1742983355,
-        "updated_at": 1743023189,
-        "updates": 2
+        "updated_at": 1749739081,
+        "updates": 3
     }
 }

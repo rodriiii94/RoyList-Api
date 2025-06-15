@@ -58,9 +58,14 @@
         },
         "price_instructions": {
             "iva": {
-                "value": 10,
-                "previous": [],
-                "timestamp": 1742983532
+                "value": 4,
+                "previous": [
+                    {
+                        "value": 10,
+                        "timestamp": 1742983532
+                    }
+                ],
+                "timestamp": 1749739345
             },
             "is_new": {
                 "value": false,
@@ -88,14 +93,24 @@
                 "timestamp": 1742983532
             },
             "bulk_price": {
-                "value": "4.62",
-                "previous": [],
-                "timestamp": 1742983532
+                "value": "4.33",
+                "previous": [
+                    {
+                        "value": "4.62",
+                        "timestamp": 1742983532
+                    }
+                ],
+                "timestamp": 1749739345
             },
             "unit_price": {
-                "value": "2.40",
-                "previous": [],
-                "timestamp": 1742983532
+                "value": "2.25",
+                "previous": [
+                    {
+                        "value": "2.40",
+                        "timestamp": 1742983532
+                    }
+                ],
+                "timestamp": 1749739345
             },
             "approx_size": {
                 "value": false,
@@ -133,9 +148,14 @@
                 "timestamp": 1742983532
             },
             "tax_percentage": {
-                "value": "10.000",
-                "previous": [],
-                "timestamp": 1742983532
+                "value": "4.000",
+                "previous": [
+                    {
+                        "value": "10.000",
+                        "timestamp": 1742983532
+                    }
+                ],
+                "timestamp": 1749739345
             },
             "price_decreased": {
                 "value": false,
@@ -143,9 +163,14 @@
                 "timestamp": 1742983532
             },
             "reference_price": {
-                "value": "4.616",
-                "previous": [],
-                "timestamp": 1742983532
+                "value": "4.327",
+                "previous": [
+                    {
+                        "value": "4.616",
+                        "timestamp": 1742983532
+                    }
+                ],
+                "timestamp": 1749739345
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +199,7 @@
             "timestamp": 1742983532
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/63460/masa-fresca-pizza-hacendado-pack-2",
+            "value": "https:\/\/tienda.mercadona.es\/product\/63460\/masa-fresca-pizza-hacendado-pack-2",
             "previous": [],
             "timestamp": 1742983532
         },
@@ -189,7 +214,7 @@
             "timestamp": 1742983532
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/c1b6929237708639f3b4a131090e2f3f.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/c1b6929237708639f3b4a131090e2f3f.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983532
         },
@@ -201,7 +226,7 @@
     },
     "stats": {
         "created_at": 1742983532,
-        "updated_at": 1743023385,
-        "updates": 2
+        "updated_at": 1749739345,
+        "updates": 3
     }
 }

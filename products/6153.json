@@ -88,14 +88,24 @@
                 "timestamp": 1742983327
             },
             "bulk_price": {
-                "value": "4.84",
-                "previous": [],
-                "timestamp": 1742983327
+                "value": "4.80",
+                "previous": [
+                    {
+                        "value": "4.84",
+                        "timestamp": 1742983327
+                    }
+                ],
+                "timestamp": 1749739041
             },
             "unit_price": {
-                "value": "1.21",
-                "previous": [],
-                "timestamp": 1742983327
+                "value": "1.20",
+                "previous": [
+                    {
+                        "value": "1.21",
+                        "timestamp": 1742983327
+                    }
+                ],
+                "timestamp": 1749739041
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983327
             },
             "reference_price": {
-                "value": "4.840",
-                "previous": [],
-                "timestamp": 1742983327
+                "value": "4.800",
+                "previous": [
+                    {
+                        "value": "4.840",
+                        "timestamp": 1742983327
+                    }
+                ],
+                "timestamp": 1749739041
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983327
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/6153/pasta-fresca-tagliatelle-huevo-hacendado-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/6153\/pasta-fresca-tagliatelle-huevo-hacendado-paquete",
             "previous": [],
             "timestamp": 1742983327
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983327
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/7becef7fb81d8c8a41da7b5e135ba73b.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/7becef7fb81d8c8a41da7b5e135ba73b.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983327
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983327,
-        "updated_at": 1743023156,
-        "updates": 2
+        "updated_at": 1749739041,
+        "updates": 3
     }
 }

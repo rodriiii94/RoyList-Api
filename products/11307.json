@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Refresco té sabor limón Hacendado para diluir",
+            "value": "Refresco t\u00e9 sabor lim\u00f3n Hacendado para diluir",
             "previous": [],
             "timestamp": 1742983318
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983318
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/11307/refresco-te-sabor-limon-hacendado-diluir-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/11307\/refresco-te-sabor-limon-hacendado-diluir-caja",
             "previous": [],
             "timestamp": 1742983318
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983318
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/473f2617f6e8af822ed6272868ba9f8b.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/473f2617f6e8af822ed6272868ba9f8b.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983318
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983318,
-        "updated_at": 1743023144,
-        "updates": 2
+        "updated_at": 1749739025,
+        "updates": 3
     }
 }

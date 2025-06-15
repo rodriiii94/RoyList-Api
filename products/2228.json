@@ -105,9 +105,14 @@
                 "timestamp": 1742983367
             },
             "unit_size": {
-                "value": 0.8,
-                "previous": [],
-                "timestamp": 1742983367
+                "value": 0.89,
+                "previous": [
+                    {
+                        "value": 0.8,
+                        "timestamp": 1742983367
+                    }
+                ],
+                "timestamp": 1749739098
             },
             "bulk_price": {
                 "value": "7.80",
@@ -115,9 +120,14 @@
                 "timestamp": 1742983367
             },
             "unit_price": {
-                "value": "6.24",
-                "previous": [],
-                "timestamp": 1742983367
+                "value": "6.94",
+                "previous": [
+                    {
+                        "value": "6.24",
+                        "timestamp": 1742983367
+                    }
+                ],
+                "timestamp": 1749739098
             },
             "approx_size": {
                 "value": true,
@@ -196,7 +206,7 @@
             "timestamp": 1742983367
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/2228/solomillo-cerdo-marinado-congelado-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/2228\/solomillo-cerdo-marinado-congelado-paquete",
             "previous": [],
             "timestamp": 1742983367
         },
@@ -211,7 +221,7 @@
             "timestamp": 1742983367
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/72c56d09663789656e07eb71e457b3fe.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/72c56d09663789656e07eb71e457b3fe.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983367
         },
@@ -223,7 +233,7 @@
     },
     "stats": {
         "created_at": 1742983367,
-        "updated_at": 1743023240,
-        "updates": 4
+        "updated_at": 1749739145,
+        "updates": 6
     }
 }

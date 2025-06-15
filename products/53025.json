@@ -174,7 +174,7 @@
             "timestamp": 1742983370
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/53025/panceta-adobada-torrezno-pieza",
+            "value": "https:\/\/tienda.mercadona.es\/product\/53025\/panceta-adobada-torrezno-pieza",
             "previous": [],
             "timestamp": 1742983370
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983370
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/ddfa60f4777ef6f63a5809b249b0dbfd.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/ddfa60f4777ef6f63a5809b249b0dbfd.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983370
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983370,
-        "updated_at": 1743023213,
-        "updates": 4
+        "updated_at": 1749739111,
+        "updates": 6
     }
 }

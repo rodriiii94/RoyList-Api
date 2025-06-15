@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Desinfectante Tejidos y Lavadora Bosque Verde sin lejía",
+            "value": "Desinfectante Tejidos y Lavadora Bosque Verde sin lej\u00eda",
             "previous": [],
             "timestamp": 1742983467
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983467
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/40567/desinfectante-tejidos-lavadora-bosque-verde-sin-lejia-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/40567\/desinfectante-tejidos-lavadora-bosque-verde-sin-lejia-botella",
             "previous": [],
             "timestamp": 1742983467
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983467
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/e12b22b9d1d9c4b77dc2741d17a92166.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/e12b22b9d1d9c4b77dc2741d17a92166.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983467
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983467,
-        "updated_at": 1743023316,
-        "updates": 2
+        "updated_at": 1749739252,
+        "updates": 3
     }
 }

@@ -174,7 +174,7 @@
             "timestamp": 1742983489
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/13648/limpiacristales-con-mango-bosque-verde",
+            "value": "https:\/\/tienda.mercadona.es\/product\/13648\/limpiacristales-con-mango-bosque-verde",
             "previous": [],
             "timestamp": 1742983489
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983489
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/fefdecba390808437b1984c073e8cd98.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/fefdecba390808437b1984c073e8cd98.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983489
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983489,
-        "updated_at": 1743023341,
-        "updates": 2
+        "updated_at": 1749739283,
+        "updates": 3
     }
 }

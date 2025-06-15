@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739147
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739147
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 17,
+                    "previous": [],
+                    "timestamp": 1749739147
+                },
+                "name": {
+                    "value": "Congelados",
+                    "previous": [],
+                    "timestamp": 1749739147
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739147
+                },
+                "order": {
+                    "value": 213,
+                    "previous": [],
+                    "timestamp": 1749739147
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Granizado de lim\u00f3n Hacendado sin az\u00facares a\u00f1adidos",
+            "previous": [],
+            "timestamp": 1749739147
+        },
+        "id": {
+            "value": "64127",
+            "previous": [],
+            "timestamp": 1749739147
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739147
+        },
+        "packaging": {
+            "value": "Pack-6",
+            "previous": [],
+            "timestamp": 1749739147
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1749739147
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739147
+            },
+            "is_pack": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739147
+            },
+            "pack_size": {
+                "value": 0.2,
+                "previous": [],
+                "timestamp": 1749739147
+            },
+            "unit_name": {
+                "value": "ud.",
+                "previous": [],
+                "timestamp": 1749739147
+            },
+            "unit_size": {
+                "value": 1.2,
+                "previous": [],
+                "timestamp": 1749739147
+            },
+            "bulk_price": {
+                "value": "2.33",
+                "previous": [],
+                "timestamp": 1749739147
+            },
+            "unit_price": {
+                "value": "2.80",
+                "previous": [],
+                "timestamp": 1749739147
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739147
+            },
+            "size_format": {
+                "value": "l",
+                "previous": [],
+                "timestamp": 1749739147
+            },
+            "total_units": {
+                "value": 6,
+                "previous": [],
+                "timestamp": 1749739147
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739147
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739147
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739147
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739147
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1749739147
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739147
+            },
+            "reference_price": {
+                "value": "2.334",
+                "previous": [],
+                "timestamp": 1749739147
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739147
+            },
+            "reference_format": {
+                "value": "L",
+                "previous": [],
+                "timestamp": 1749739147
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739147
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739147
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739147
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/64127\/granizado-limon-hacendado-sin-azucares-anadidos-pack-6",
+            "previous": [],
+            "timestamp": 1749739147
+        },
+        "slug": {
+            "value": "granizado-limon-hacendado-sin-azucares-anadidos-pack-6",
+            "previous": [],
+            "timestamp": 1749739147
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739147
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/9bd2e63972c7469628064f595ce4fbfe.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739147
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739147
+        }
+    },
+    "stats": {
+        "created_at": 1749739147,
+        "updated_at": 1749739147,
+        "updates": 1
+    }
+}

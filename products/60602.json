@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Bebida energética zero Watermelon Energy drink",
+            "value": "Bebida energ\u00e9tica zero Watermelon Energy drink",
             "previous": [],
             "timestamp": 1742983312
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983312
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/60602/bebida-energetica-zero-watermelon-energy-drink-lata",
+            "value": "https:\/\/tienda.mercadona.es\/product\/60602\/bebida-energetica-zero-watermelon-energy-drink-lata",
             "previous": [],
             "timestamp": 1742983312
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983312
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/4a98a43ccc9b0e4802ed4809d0c693e3.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/4a98a43ccc9b0e4802ed4809d0c693e3.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983312
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983312,
-        "updated_at": 1743023137,
-        "updates": 2
+        "updated_at": 1749739017,
+        "updates": 3
     }
 }

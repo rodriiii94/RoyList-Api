@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Esponja de baño doble acción suave masaje Deliplus",
+            "value": "Esponja de ba\u00f1o doble acci\u00f3n suave masaje Deliplus",
             "previous": [],
             "timestamp": 1742983440
         },
@@ -161,6 +161,11 @@
                 "value": 1,
                 "previous": [],
                 "timestamp": 1742983440
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1749739208
             }
         },
         "published": {
@@ -169,7 +174,7 @@
             "timestamp": 1742983440
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/45711/esponja-bano-doble-accion-suave-masaje-deliplus-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/45711\/esponja-bano-doble-accion-suave-masaje-deliplus-paquete",
             "previous": [],
             "timestamp": 1742983440
         },
@@ -184,7 +189,7 @@
             "timestamp": 1742983440
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/6b844f9295f16f788a8883df7ad1e366.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/6b844f9295f16f788a8883df7ad1e366.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983440
         },
@@ -196,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983440,
-        "updated_at": 1743023286,
-        "updates": 2
+        "updated_at": 1749739208,
+        "updates": 3
     }
 }

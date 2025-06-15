@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Bebida isotónica limón Aquarius zero azúcar",
+            "value": "Bebida isot\u00f3nica lim\u00f3n Aquarius zero az\u00facar",
             "previous": [],
             "timestamp": 1742983312
         },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983312
             },
             "bulk_price": {
-                "value": "1.30",
-                "previous": [],
-                "timestamp": 1742983312
+                "value": "1.33",
+                "previous": [
+                    {
+                        "value": "1.30",
+                        "timestamp": 1742983312
+                    }
+                ],
+                "timestamp": 1749739016
             },
             "unit_price": {
-                "value": "1.95",
-                "previous": [],
-                "timestamp": 1742983312
+                "value": "1.99",
+                "previous": [
+                    {
+                        "value": "1.95",
+                        "timestamp": 1742983312
+                    }
+                ],
+                "timestamp": 1749739016
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983312
             },
             "reference_price": {
-                "value": "1.300",
-                "previous": [],
-                "timestamp": 1742983312
+                "value": "1.327",
+                "previous": [
+                    {
+                        "value": "1.300",
+                        "timestamp": 1742983312
+                    }
+                ],
+                "timestamp": 1749739016
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983312
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/29612/bebida-isotonica-limon-aquarius-zero-azucar-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/29612\/bebida-isotonica-limon-aquarius-zero-azucar-botella",
             "previous": [],
             "timestamp": 1742983312
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983312
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/72450daac660bb2e1050dc0f91c685b4.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/72450daac660bb2e1050dc0f91c685b4.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983312
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983312,
-        "updated_at": 1743023137,
-        "updates": 2
+        "updated_at": 1749739016,
+        "updates": 3
     }
 }

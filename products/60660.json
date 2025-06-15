@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Eau de parfum mujer Como Tú Extratime Likes",
+            "value": "Eau de parfum mujer Como T\u00fa Extratime Likes",
             "previous": [],
             "timestamp": 1742983448
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983448
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/60660/eau-parfum-mujer-extratime-likes-frasco",
+            "value": "https:\/\/tienda.mercadona.es\/product\/60660\/eau-parfum-mujer-extratime-likes-frasco",
             "previous": [],
             "timestamp": 1742983448
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983448
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/9e8c3cb2f2df28930752ebbc7ea261f7.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/9e8c3cb2f2df28930752ebbc7ea261f7.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983448
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983448,
-        "updated_at": 1743023294,
-        "updates": 2
+        "updated_at": 1749739220,
+        "updates": 3
     }
 }

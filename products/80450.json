@@ -174,7 +174,7 @@
             "timestamp": 1742983321
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/80450/cocktail-rumba-hacendado-compuesto-cacahuetes-maiz-frito-pipas-girasol-pipas-calabaza-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/80450\/cocktail-rumba-hacendado-compuesto-cacahuetes-maiz-frito-pipas-girasol-pipas-calabaza-paquete",
             "previous": [],
             "timestamp": 1742983321
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983321
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/7b14224053122b6cfca8e3286f9a50a9.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/7b14224053122b6cfca8e3286f9a50a9.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983321
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983321,
-        "updated_at": 1743023149,
-        "updates": 2
+        "updated_at": 1749739032,
+        "updates": 3
     }
 }

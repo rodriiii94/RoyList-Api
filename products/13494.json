@@ -174,7 +174,7 @@
             "timestamp": 1742983510
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/13494/huesos-cuero-con-pollo-zanahoria-compy-perro-adulto-razas-medianas-grandes-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/13494\/huesos-cuero-con-pollo-zanahoria-compy-perro-adulto-razas-medianas-grandes-paquete",
             "previous": [],
             "timestamp": 1742983510
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983510
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/f29862bc2c2f87459f3d760d0abfa29c.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/f29862bc2c2f87459f3d760d0abfa29c.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983510
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983510,
-        "updated_at": 1743023363,
-        "updates": 2
+        "updated_at": 1749739316,
+        "updates": 3
     }
 }

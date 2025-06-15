@@ -174,7 +174,7 @@
             "timestamp": 1742983552
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/10362/fruta-leche-tropical-bifrutas-pascual-pack-3",
+            "value": "https:\/\/tienda.mercadona.es\/product\/10362\/fruta-leche-tropical-bifrutas-pascual-pack-3",
             "previous": [],
             "timestamp": 1742983552
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983552
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/5e96bf7179c48a4d44f0e74348d5b3e3.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/5e96bf7179c48a4d44f0e74348d5b3e3.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983552
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983552,
-        "updated_at": 1743023405,
-        "updates": 2
+        "updated_at": 1749739371,
+        "updates": 3
     }
 }

@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Limpiamáquinas lavavajillas líquido Bosque Verde",
+            "value": "Limpiam\u00e1quinas lavavajillas l\u00edquido Bosque Verde",
             "previous": [],
             "timestamp": 1742983482
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983482
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/42318/limpiamaquinas-lavavajillas-liquido-bosque-verde-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/42318\/limpiamaquinas-lavavajillas-liquido-bosque-verde-botella",
             "previous": [],
             "timestamp": 1742983482
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983482
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/eae06924feb4b33c7a3645dc928ceebc.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/eae06924feb4b33c7a3645dc928ceebc.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983482
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983482,
-        "updated_at": 1743023333,
-        "updates": 2
+        "updated_at": 1749739274,
+        "updates": 3
     }
 }

@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Aceite de oliva virgen extra Hacendado Gran Selección",
+            "value": "Aceite de oliva virgen extra Hacendado Gran Selecci\u00f3n",
             "previous": [],
             "timestamp": 1742983305
         },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983305
             },
             "bulk_price": {
-                "value": "8.73",
-                "previous": [],
-                "timestamp": 1742983305
+                "value": "7.93",
+                "previous": [
+                    {
+                        "value": "8.73",
+                        "timestamp": 1742983305
+                    }
+                ],
+                "timestamp": 1749739003
             },
             "unit_price": {
-                "value": "6.55",
-                "previous": [],
-                "timestamp": 1742983305
+                "value": "5.95",
+                "previous": [
+                    {
+                        "value": "6.55",
+                        "timestamp": 1742983305
+                    }
+                ],
+                "timestamp": 1749739003
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983305
             },
             "reference_price": {
-                "value": "8.734",
-                "previous": [],
-                "timestamp": 1742983305
+                "value": "7.934",
+                "previous": [
+                    {
+                        "value": "8.734",
+                        "timestamp": 1742983305
+                    }
+                ],
+                "timestamp": 1749739003
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983305
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/4706/aceite-oliva-virgen-extra-hacendado-gran-seleccion-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/4706\/aceite-oliva-virgen-extra-hacendado-gran-seleccion-botella",
             "previous": [],
             "timestamp": 1742983305
         },
@@ -189,9 +204,14 @@
             "timestamp": 1742983305
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/ca971ebf519d62b535e1d0ad05ebd394.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983305
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/c60e6e09dc2037a291515d3b15af376c.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/ca971ebf519d62b535e1d0ad05ebd394.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983305
+                }
+            ],
+            "timestamp": 1749739003
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +221,7 @@
     },
     "stats": {
         "created_at": 1742983305,
-        "updated_at": 1743023127,
-        "updates": 2
+        "updated_at": 1749739003,
+        "updates": 3
     }
 }

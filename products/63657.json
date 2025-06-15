@@ -20,7 +20,7 @@
                     "timestamp": 1742983518
                 },
                 "name": {
-                    "value": "Panadería y pastelería",
+                    "value": "Panader\u00eda y pasteler\u00eda",
                     "previous": [],
                     "timestamp": 1742983518
                 },
@@ -174,7 +174,7 @@
             "timestamp": 1742983518
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/63657/masa-hojaldre-sin-gluten-hacendado-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/63657\/masa-hojaldre-sin-gluten-hacendado-paquete",
             "previous": [],
             "timestamp": 1742983518
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983518
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/ea237d03af34736621e3320dc8b15e7a.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/ea237d03af34736621e3320dc8b15e7a.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983518
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983518,
-        "updated_at": 1743023370,
-        "updates": 2
+        "updated_at": 1749739326,
+        "updates": 3
     }
 }

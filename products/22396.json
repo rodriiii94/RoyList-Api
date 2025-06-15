@@ -20,7 +20,7 @@
                     "timestamp": 1742983525
                 },
                 "name": {
-                    "value": "Panadería y pastelería",
+                    "value": "Panader\u00eda y pasteler\u00eda",
                     "previous": [],
                     "timestamp": 1742983525
                 },
@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Panes especiales con tomate y orégano Hacendado",
+            "value": "Panes especiales con tomate y or\u00e9gano Hacendado",
             "previous": [],
             "timestamp": 1742983525
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983525
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/22396/panes-especiales-con-tomate-oregano-hacendado-anitines-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/22396\/panes-especiales-con-tomate-oregano-hacendado-anitines-paquete",
             "previous": [],
             "timestamp": 1742983525
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983525
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/0d92b58d808b8569d896b359abfa934d.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/0d92b58d808b8569d896b359abfa934d.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983525
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983525,
-        "updated_at": 1743023378,
-        "updates": 2
+        "updated_at": 1749739336,
+        "updates": 3
     }
 }

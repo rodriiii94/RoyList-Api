@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Coloración permanente 5 castaño claro Deliplus",
+            "value": "Coloraci\u00f3n permanente 5 casta\u00f1o claro Deliplus",
             "previous": [],
             "timestamp": 1742983428
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983428
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/73196/coloracion-permanente-5-castano-claro-deliplus-colorcor-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/73196\/coloracion-permanente-5-castano-claro-deliplus-colorcor-caja",
             "previous": [],
             "timestamp": 1742983428
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983428
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/fa2475132a75e9157324aa6b45e565ce.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/fa2475132a75e9157324aa6b45e565ce.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983428
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983428,
-        "updated_at": 1743023270,
-        "updates": 2
+        "updated_at": 1749739185,
+        "updates": 3
     }
 }

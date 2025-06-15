@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Ron añejo La Recompensa",
+            "value": "Ron a\u00f1ejo La Recompensa",
             "previous": [],
             "timestamp": 1742983346
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983346
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/86232/ron-anejo-recompensa-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/86232\/ron-anejo-recompensa-botella",
             "previous": [],
             "timestamp": 1742983346
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983346
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/49984c6a2df07f15d81436bd91e50001.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/49984c6a2df07f15d81436bd91e50001.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983346
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983346,
-        "updated_at": 1743023179,
-        "updates": 2
+        "updated_at": 1749739070,
+        "updates": 3
     }
 }

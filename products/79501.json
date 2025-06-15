@@ -20,7 +20,7 @@
                     "timestamp": 1742983339
                 },
                 "name": {
-                    "value": "Bebé",
+                    "value": "Beb\u00e9",
                     "previous": [],
                     "timestamp": 1742983339
                 },
@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Limpiador bebé para biberones y tetinas Deliplus",
+            "value": "Limpiador beb\u00e9 para biberones y tetinas Deliplus",
             "previous": [],
             "timestamp": 1742983339
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983339
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/79501/limpiador-bebe-biberones-tetinas-deliplus-bote",
+            "value": "https:\/\/tienda.mercadona.es\/product\/79501\/limpiador-bebe-biberones-tetinas-deliplus-bote",
             "previous": [],
             "timestamp": 1742983339
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983339
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/2cb0eb4b8fb1ef3b778920eccd31ba6b.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/2cb0eb4b8fb1ef3b778920eccd31ba6b.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983339
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983339,
-        "updated_at": 1743023169,
-        "updates": 2
+        "updated_at": 1749739058,
+        "updates": 3
     }
 }

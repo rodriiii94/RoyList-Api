@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739230
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739230
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 23,
+                    "previous": [],
+                    "timestamp": 1749739230
+                },
+                "name": {
+                    "value": "Fitoterapia y parafarmacia",
+                    "previous": [],
+                    "timestamp": 1749739230
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739230
+                },
+                "order": {
+                    "value": 305,
+                    "previous": [],
+                    "timestamp": 1749739230
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Preservativos sensitive On",
+            "previous": [],
+            "timestamp": 1749739230
+        },
+        "id": {
+            "value": "11607",
+            "previous": [],
+            "timestamp": 1749739230
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739230
+        },
+        "packaging": {
+            "value": "Caja",
+            "previous": [],
+            "timestamp": 1749739230
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 4,
+                "previous": [],
+                "timestamp": 1749739230
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739230
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739230
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739230
+            },
+            "unit_name": {
+                "value": "ud.",
+                "previous": [],
+                "timestamp": 1749739230
+            },
+            "unit_size": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739230
+            },
+            "bulk_price": {
+                "value": "0.27",
+                "previous": [],
+                "timestamp": 1749739230
+            },
+            "unit_price": {
+                "value": "3.20",
+                "previous": [],
+                "timestamp": 1749739230
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739230
+            },
+            "size_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1749739230
+            },
+            "total_units": {
+                "value": 12,
+                "previous": [],
+                "timestamp": 1749739230
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739230
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739230
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739230
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739230
+            },
+            "tax_percentage": {
+                "value": "4.000",
+                "previous": [],
+                "timestamp": 1749739230
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739230
+            },
+            "reference_price": {
+                "value": "0.267",
+                "previous": [],
+                "timestamp": 1749739230
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739230
+            },
+            "reference_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1749739230
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739230
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739230
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739230
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/11607\/preservativos-sensitive-on-caja",
+            "previous": [],
+            "timestamp": 1749739230
+        },
+        "slug": {
+            "value": "preservativos-sensitive-on-caja",
+            "previous": [],
+            "timestamp": 1749739230
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739230
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/8d1bb4d41d0c7e377dcf342d91b62a2b.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739230
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739230
+        }
+    },
+    "stats": {
+        "created_at": 1749739230,
+        "updated_at": 1749739230,
+        "updates": 1
+    }
+}

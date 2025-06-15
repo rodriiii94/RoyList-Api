@@ -59,7 +59,7 @@
             }
         ],
         "display_name": {
-            "value": "Barrita con proteínas Enervit Sport sabor chocolate negro",
+            "value": "Barrita con prote\u00ednas Enervit Sport sabor chocolate negro",
             "previous": [],
             "timestamp": 1742983380
         },
@@ -196,7 +196,7 @@
             "timestamp": 1742983380
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/23670/barrita-con-proteinas-enervit-sport-sabor-chocolate-negro-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/23670\/barrita-con-proteinas-enervit-sport-sabor-chocolate-negro-caja",
             "previous": [],
             "timestamp": 1742983380
         },
@@ -211,7 +211,7 @@
             "timestamp": 1742983380
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/cc75c8f03909cdf07cd61354cc4275c4.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/cc75c8f03909cdf07cd61354cc4275c4.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983380
         },
@@ -223,7 +223,7 @@
     },
     "stats": {
         "created_at": 1742983380,
-        "updated_at": 1743023298,
-        "updates": 4
+        "updated_at": 1749739227,
+        "updates": 6
     }
 }

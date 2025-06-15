@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Agua de colonia S3 Mediterránea",
+            "value": "Agua de colonia S3 Mediterr\u00e1nea",
             "previous": [],
             "timestamp": 1742983448
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983448
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/11677/agua-colonia-s3-mediterranea-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/11677\/agua-colonia-s3-mediterranea-botella",
             "previous": [],
             "timestamp": 1742983448
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983448
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/8ecaee2c478908f1be3fa1cc2be255d8.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983448
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/f333248b75852d6513f084d13a5e8810.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/8ecaee2c478908f1be3fa1cc2be255d8.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983448
+                }
+            ],
+            "timestamp": 1749739221
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983448,
-        "updated_at": 1743023294,
-        "updates": 2
+        "updated_at": 1749739221,
+        "updates": 3
     }
 }

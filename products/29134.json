@@ -20,7 +20,7 @@
                     "timestamp": 1742983517
                 },
                 "name": {
-                    "value": "Panadería y pastelería",
+                    "value": "Panader\u00eda y pasteler\u00eda",
                     "previous": [],
                     "timestamp": 1742983517
                 },
@@ -174,7 +174,7 @@
             "timestamp": 1742983517
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/29134/harina-integral-trigo-hacendado-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/29134\/harina-integral-trigo-hacendado-paquete",
             "previous": [],
             "timestamp": 1742983517
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983517
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/65407365ba631151a7edc9aab9159765.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983517
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/810ed30517964c49fc51a8e728247be2.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/65407365ba631151a7edc9aab9159765.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983517
+                }
+            ],
+            "timestamp": 1749739325
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983517,
-        "updated_at": 1743023370,
-        "updates": 2
+        "updated_at": 1749739325,
+        "updates": 3
     }
 }

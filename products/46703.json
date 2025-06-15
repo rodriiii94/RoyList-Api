@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Pañuelos de papel Aloe Vera Bosque Verde",
+            "value": "Pa\u00f1uelos de papel Aloe Vera Bosque Verde",
             "previous": [],
             "timestamp": 1742983486
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983486
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/46703/panuelos-papel-aloe-vera-bosque-verde-4-capas-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/46703\/panuelos-papel-aloe-vera-bosque-verde-4-capas-paquete",
             "previous": [],
             "timestamp": 1742983486
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983486
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/7511317815798a118d92064761a95d4b.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/7511317815798a118d92064761a95d4b.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983486
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983486,
-        "updated_at": 1743023337,
-        "updates": 2
+        "updated_at": 1749739279,
+        "updates": 3
     }
 }

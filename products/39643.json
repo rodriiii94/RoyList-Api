@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Néctar de maracuyá Hacendado fruta de la pasión, mango, uva y manzana",
+            "value": "N\u00e9ctar de maracuy\u00e1 Hacendado fruta de la pasi\u00f3n, mango, uva y manzana",
             "previous": [],
             "timestamp": 1742983557
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983557
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/39643/nectar-maracuya-hacendado-fruta-pasion-mango-uva-manzana-brick",
+            "value": "https:\/\/tienda.mercadona.es\/product\/39643\/nectar-maracuya-hacendado-fruta-pasion-mango-uva-manzana-brick",
             "previous": [],
             "timestamp": 1742983557
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983557
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/05c074de3ddbb00df363cfb9b7d3c881.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/05c074de3ddbb00df363cfb9b7d3c881.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983557
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983557,
-        "updated_at": 1743023410,
-        "updates": 2
+        "updated_at": 1749739377,
+        "updates": 3
     }
 }

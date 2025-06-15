@@ -105,19 +105,34 @@
                 "timestamp": 1742983368
             },
             "unit_size": {
-                "value": 0.6,
-                "previous": [],
-                "timestamp": 1742983368
+                "value": 0.46,
+                "previous": [
+                    {
+                        "value": 0.6,
+                        "timestamp": 1742983368
+                    }
+                ],
+                "timestamp": 1749739099
             },
             "bulk_price": {
-                "value": "15.50",
-                "previous": [],
-                "timestamp": 1742983368
+                "value": "17.50",
+                "previous": [
+                    {
+                        "value": "15.50",
+                        "timestamp": 1742983368
+                    }
+                ],
+                "timestamp": 1749739099
             },
             "unit_price": {
-                "value": "9.30",
-                "previous": [],
-                "timestamp": 1742983368
+                "value": "8.05",
+                "previous": [
+                    {
+                        "value": "9.30",
+                        "timestamp": 1742983368
+                    }
+                ],
+                "timestamp": 1749739099
             },
             "approx_size": {
                 "value": true,
@@ -165,9 +180,14 @@
                 "timestamp": 1742983368
             },
             "reference_price": {
-                "value": "15.500",
-                "previous": [],
-                "timestamp": 1742983368
+                "value": "17.500",
+                "previous": [
+                    {
+                        "value": "15.500",
+                        "timestamp": 1742983368
+                    }
+                ],
+                "timestamp": 1749739099
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -196,7 +216,7 @@
             "timestamp": 1742983368
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/21101/carrillada-vacuno-congelado-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/21101\/carrillada-vacuno-congelado-paquete",
             "previous": [],
             "timestamp": 1742983368
         },
@@ -211,7 +231,7 @@
             "timestamp": 1742983368
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/c58c4c7651db7fdaf2fe8c0278a1e3d4.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/c58c4c7651db7fdaf2fe8c0278a1e3d4.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983368
         },
@@ -223,7 +243,7 @@
     },
     "stats": {
         "created_at": 1742983368,
-        "updated_at": 1743023240,
-        "updates": 4
+        "updated_at": 1749739145,
+        "updates": 6
     }
 }

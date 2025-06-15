@@ -20,7 +20,7 @@
                     "timestamp": 1742983360
                 },
                 "name": {
-                    "value": "Cacao, café e infusiones",
+                    "value": "Cacao, caf\u00e9 e infusiones",
                     "previous": [],
                     "timestamp": 1742983360
                 },
@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Café en grano Hacendado descafeinado natural",
+            "value": "Caf\u00e9 en grano Hacendado descafeinado natural",
             "previous": [],
             "timestamp": 1742983360
         },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983360
             },
             "bulk_price": {
-                "value": "10.95",
-                "previous": [],
-                "timestamp": 1742983360
+                "value": "13.00",
+                "previous": [
+                    {
+                        "value": "10.95",
+                        "timestamp": 1742983360
+                    }
+                ],
+                "timestamp": 1749739088
             },
             "unit_price": {
-                "value": "10.95",
-                "previous": [],
-                "timestamp": 1742983360
+                "value": "13.00",
+                "previous": [
+                    {
+                        "value": "10.95",
+                        "timestamp": 1742983360
+                    }
+                ],
+                "timestamp": 1749739088
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983360
             },
             "reference_price": {
-                "value": "10.950",
-                "previous": [],
-                "timestamp": 1742983360
+                "value": "13.000",
+                "previous": [
+                    {
+                        "value": "10.950",
+                        "timestamp": 1742983360
+                    }
+                ],
+                "timestamp": 1749739088
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983360
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/52491/cafe-grano-hacendado-descafeinado-natural-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/52491\/cafe-grano-hacendado-descafeinado-natural-paquete",
             "previous": [],
             "timestamp": 1742983360
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983360
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/9ff3c89451e6f63fd515fc1642c430b6.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/9ff3c89451e6f63fd515fc1642c430b6.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983360
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983360,
-        "updated_at": 1743023194,
-        "updates": 2
+        "updated_at": 1749739088,
+        "updates": 3
     }
 }

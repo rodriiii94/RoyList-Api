@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Maíz dulce en mazorca cocido",
+            "value": "Ma\u00edz dulce en mazorca cocido",
             "previous": [],
             "timestamp": 1742983459
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983459
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/69469/maiz-dulce-mazorca-cocido-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/69469\/maiz-dulce-mazorca-cocido-paquete",
             "previous": [],
             "timestamp": 1742983459
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983459
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/11dbe91d836159e981891cf040ed9ade.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/11dbe91d836159e981891cf040ed9ade.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983459
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983459,
-        "updated_at": 1743023308,
-        "updates": 2
+        "updated_at": 1749739240,
+        "updates": 3
     }
 }

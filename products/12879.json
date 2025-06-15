@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739188
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739188
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 21,
+                    "previous": [],
+                    "timestamp": 1749739188
+                },
+                "name": {
+                    "value": "Cuidado del cabello",
+                    "previous": [],
+                    "timestamp": 1749739188
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739188
+                },
+                "order": {
+                    "value": 238,
+                    "previous": [],
+                    "timestamp": 1749739188
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Tratamiento Matizador Antiamarillos Deliplus 0% amon\u00edaco y \u00e1cido hialur\u00f3nico",
+            "previous": [],
+            "timestamp": 1749739188
+        },
+        "id": {
+            "value": "12879",
+            "previous": [],
+            "timestamp": 1749739188
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739188
+        },
+        "packaging": {
+            "value": "Caja",
+            "previous": [],
+            "timestamp": 1749739188
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1749739188
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739188
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739188
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739188
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739188
+            },
+            "unit_size": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739188
+            },
+            "bulk_price": {
+                "value": "4.50",
+                "previous": [],
+                "timestamp": 1749739188
+            },
+            "unit_price": {
+                "value": "4.50",
+                "previous": [],
+                "timestamp": 1749739188
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739188
+            },
+            "size_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1749739188
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739188
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739188
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739188
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739188
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739188
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1749739188
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739188
+            },
+            "reference_price": {
+                "value": "4.500",
+                "previous": [],
+                "timestamp": 1749739188
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739188
+            },
+            "reference_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1749739188
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739188
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739188
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739188
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/12879\/tratamiento-matizador-antiamarillos-deliplus-0-amoniaco-acido-hialuronico-caja",
+            "previous": [],
+            "timestamp": 1749739188
+        },
+        "slug": {
+            "value": "tratamiento-matizador-antiamarillos-deliplus-0-amoniaco-acido-hialuronico-caja",
+            "previous": [],
+            "timestamp": 1749739188
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739188
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/fc56f62bbfa6a2a2a5fe569c900fddef.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739188
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739188
+        }
+    },
+    "stats": {
+        "created_at": 1749739188,
+        "updated_at": 1749739188,
+        "updates": 1
+    }
+}

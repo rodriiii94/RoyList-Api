@@ -174,7 +174,7 @@
             "timestamp": 1742983532
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/67947/pizza-formaggi-hacendado-4-quesos-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/67947\/pizza-formaggi-hacendado-4-quesos-caja",
             "previous": [],
             "timestamp": 1742983532
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983532
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/071c81bca64ccbc2519e2e26405cef71.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/071c81bca64ccbc2519e2e26405cef71.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983532
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983532,
-        "updated_at": 1743023385,
-        "updates": 2
+        "updated_at": 1749739345,
+        "updates": 3
     }
 }

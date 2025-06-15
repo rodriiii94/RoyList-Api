@@ -42,7 +42,7 @@
                     "timestamp": 1742983526
                 },
                 "name": {
-                    "value": "Panadería y pastelería",
+                    "value": "Panader\u00eda y pasteler\u00eda",
                     "previous": [],
                     "timestamp": 1742983526
                 },
@@ -196,7 +196,7 @@
             "timestamp": 1742983412
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/87616/trenza-hojaldre-mantequilla-hacendado-congelada-bandeja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/87616\/trenza-hojaldre-mantequilla-hacendado-congelada-bandeja",
             "previous": [],
             "timestamp": 1742983412
         },
@@ -211,9 +211,14 @@
             "timestamp": 1742983412
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/0a5d9d4d99f352248397890db24e317b.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983412
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/013775bc9301b5808eb9211164fde3de.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/0a5d9d4d99f352248397890db24e317b.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983412
+                }
+            ],
+            "timestamp": 1749739161
         },
         "unavailable_from": {
             "value": null,
@@ -223,7 +228,7 @@
     },
     "stats": {
         "created_at": 1742983412,
-        "updated_at": 1743023379,
-        "updates": 4
+        "updated_at": 1749739338,
+        "updates": 6
     }
 }

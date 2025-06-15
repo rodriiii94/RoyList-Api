@@ -174,7 +174,7 @@
             "timestamp": 1742983509
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/16859/snacks-gato-rellenos-con-pollo-malta-compy-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/16859\/snacks-gato-rellenos-con-pollo-malta-compy-paquete",
             "previous": [],
             "timestamp": 1742983509
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983509
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/57513fa5c8c08acf9d232890cb2b4473.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/57513fa5c8c08acf9d232890cb2b4473.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983509
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983509,
-        "updated_at": 1743023361,
-        "updates": 2
+        "updated_at": 1749739313,
+        "updates": 3
     }
 }

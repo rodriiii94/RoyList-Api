@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Molde de Aluminio Cuadrado 2,7L Alibérico",
+            "value": "Molde de Aluminio Cuadrado 2,7L Alib\u00e9rico",
             "previous": [],
             "timestamp": 1742983484
         },
@@ -161,6 +161,11 @@
                 "value": 1,
                 "previous": [],
                 "timestamp": 1742983484
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1749739275
             }
         },
         "published": {
@@ -169,7 +174,7 @@
             "timestamp": 1742983484
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/49867/molde-aluminio-cuadrado-27l-aliberico-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/49867\/molde-aluminio-cuadrado-27l-aliberico-paquete",
             "previous": [],
             "timestamp": 1742983484
         },
@@ -184,9 +189,14 @@
             "timestamp": 1742983484
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/1081aba3b9a1b271264b947ebc5236f9.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983484
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/5f0e4a9bc62d2f73ce377f3399895d79.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/1081aba3b9a1b271264b947ebc5236f9.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983484
+                }
+            ],
+            "timestamp": 1749739275
         },
         "unavailable_from": {
             "value": null,
@@ -196,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983484,
-        "updated_at": 1743023335,
-        "updates": 2
+        "updated_at": 1749739275,
+        "updates": 3
     }
 }

@@ -20,7 +20,7 @@
                     "timestamp": 1742983385
                 },
                 "name": {
-                    "value": "Charcutería y quesos",
+                    "value": "Charcuter\u00eda y quesos",
                     "previous": [],
                     "timestamp": 1742983385
                 },
@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Pollo 97% relleno La Carloteña asado al horno lonchas",
+            "value": "Pollo 97% relleno La Carlote\u00f1a asado al horno lonchas",
             "previous": [],
             "timestamp": 1742983385
         },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983385
             },
             "bulk_price": {
-                "value": "15.00",
-                "previous": [],
-                "timestamp": 1742983385
+                "value": "16.00",
+                "previous": [
+                    {
+                        "value": "15.00",
+                        "timestamp": 1742983385
+                    }
+                ],
+                "timestamp": 1749739121
             },
             "unit_price": {
-                "value": "2.25",
-                "previous": [],
-                "timestamp": 1742983385
+                "value": "2.40",
+                "previous": [
+                    {
+                        "value": "2.25",
+                        "timestamp": 1742983385
+                    }
+                ],
+                "timestamp": 1749739121
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983385
             },
             "reference_price": {
-                "value": "15.000",
-                "previous": [],
-                "timestamp": 1742983385
+                "value": "16.000",
+                "previous": [
+                    {
+                        "value": "15.000",
+                        "timestamp": 1742983385
+                    }
+                ],
+                "timestamp": 1749739121
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983385
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/56084/pollo-relleno-asado-horno-carlotena-lonchas-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/56084\/pollo-relleno-asado-horno-carlotena-lonchas-paquete",
             "previous": [],
             "timestamp": 1742983385
         },
@@ -189,9 +204,14 @@
             "timestamp": 1742983385
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/dc1a4aba2611b0f9cfaa3206f7db796d.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983385
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/c0a4ea8f1fe98e43e957b317ac9c3d07.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/dc1a4aba2611b0f9cfaa3206f7db796d.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983385
+                }
+            ],
+            "timestamp": 1749739121
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +221,7 @@
     },
     "stats": {
         "created_at": 1742983385,
-        "updated_at": 1743023221,
-        "updates": 2
+        "updated_at": 1749739121,
+        "updates": 3
     }
 }

@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Coloración permanente Garnier 6.0  rubio oscuro",
+            "value": "Coloraci\u00f3n permanente Garnier 6.0  rubio oscuro",
             "previous": [],
             "timestamp": 1742983428
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983428
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/77794/coloracion-permanente-garnier-60-rubio-oscuro-color-sensation-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/77794\/coloracion-permanente-garnier-60-rubio-oscuro-color-sensation-caja",
             "previous": [],
             "timestamp": 1742983428
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983428
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/284eb676b3ec46d3e23b0651760c7a5f.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983428
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/8599319f5c1adc45de3ee4bd0d412508.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/284eb676b3ec46d3e23b0651760c7a5f.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983428
+                }
+            ],
+            "timestamp": 1749739187
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983428,
-        "updated_at": 1743023271,
-        "updates": 2
+        "updated_at": 1749739187,
+        "updates": 3
     }
 }

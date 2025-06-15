@@ -88,14 +88,24 @@
                 "timestamp": 1742983346
             },
             "bulk_price": {
-                "value": "14.93",
-                "previous": [],
-                "timestamp": 1742983346
+                "value": "13.50",
+                "previous": [
+                    {
+                        "value": "14.93",
+                        "timestamp": 1742983346
+                    }
+                ],
+                "timestamp": 1749739070
             },
             "unit_price": {
-                "value": "10.45",
-                "previous": [],
-                "timestamp": 1742983346
+                "value": "9.45",
+                "previous": [
+                    {
+                        "value": "10.45",
+                        "timestamp": 1742983346
+                    }
+                ],
+                "timestamp": 1749739070
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983346
             },
             "reference_price": {
-                "value": "14.929",
-                "previous": [],
-                "timestamp": 1742983346
+                "value": "13.500",
+                "previous": [
+                    {
+                        "value": "14.929",
+                        "timestamp": 1742983346
+                    }
+                ],
+                "timestamp": 1749739070
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983346
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/28600/whisky-dyc-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/28600\/whisky-dyc-botella",
             "previous": [],
             "timestamp": 1742983346
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983346
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/9fb9cbb14a2a8576335981b6165db5c8.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/9fb9cbb14a2a8576335981b6165db5c8.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983346
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983346,
-        "updated_at": 1743023179,
-        "updates": 2
+        "updated_at": 1749739070,
+        "updates": 3
     }
 }

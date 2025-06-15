@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Pintalabios Creamy Deliplus 202 rosa cálido",
+            "value": "Pintalabios Creamy Deliplus 202 rosa c\u00e1lido",
             "previous": [],
             "timestamp": 1742983494
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983494
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/22530/pintalabios-creamy-deliplus-202-rosa-calido",
+            "value": "https:\/\/tienda.mercadona.es\/product\/22530\/pintalabios-creamy-deliplus-202-rosa-calido",
             "previous": [],
             "timestamp": 1742983494
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983494
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/7dc65c2bbd8b4d6c5d6e4701fec637c5.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/7dc65c2bbd8b4d6c5d6e4701fec637c5.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983494
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983494,
-        "updated_at": 1743023346,
-        "updates": 2
+        "updated_at": 1749739291,
+        "updates": 3
     }
 }

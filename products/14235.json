@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Galletas María sin gluten y sin lactosa Hacendado",
+            "value": "Galletas Mar\u00eda sin gluten y sin lactosa Hacendado",
             "previous": [],
             "timestamp": 1742983381
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983381
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/14235/galletas-maria-sin-gluten-sin-lactosa-hacendado-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/14235\/galletas-maria-sin-gluten-sin-lactosa-hacendado-paquete",
             "previous": [],
             "timestamp": 1742983381
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983381
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/941fce60c3e7d336beb85ca2d5fcd0a0.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/941fce60c3e7d336beb85ca2d5fcd0a0.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983381
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983381,
-        "updated_at": 1743023217,
-        "updates": 2
+        "updated_at": 1749739115,
+        "updates": 3
     }
 }

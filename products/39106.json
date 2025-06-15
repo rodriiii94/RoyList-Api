@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Bebida de piña Hacendado sin azúcares añadidos",
+            "value": "Bebida de pi\u00f1a Hacendado sin az\u00facares a\u00f1adidos",
             "previous": [],
             "timestamp": 1742983554
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983554
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/39106/bebida-pina-hacendado-sin-azucares-anadidos-pack-6",
+            "value": "https:\/\/tienda.mercadona.es\/product\/39106\/bebida-pina-hacendado-sin-azucares-anadidos-pack-6",
             "previous": [],
             "timestamp": 1742983554
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983554
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/c4b8436efbfe0dedd47159faebb58c13.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/c4b8436efbfe0dedd47159faebb58c13.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983554
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983554,
-        "updated_at": 1743023407,
-        "updates": 2
+        "updated_at": 1749739374,
+        "updates": 3
     }
 }

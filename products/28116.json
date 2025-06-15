@@ -59,7 +59,7 @@
             }
         ],
         "display_name": {
-            "value": "Gel energético con cafeína Enervit Sport sabor cítricos",
+            "value": "Gel energ\u00e9tico con cafe\u00edna Enervit Sport sabor c\u00edtricos",
             "previous": [],
             "timestamp": 1742983312
         },
@@ -196,7 +196,7 @@
             "timestamp": 1742983312
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/28116/gel-energetico-con-cafeina-enervit-sport-sabor-citricos-pack-3",
+            "value": "https:\/\/tienda.mercadona.es\/product\/28116\/gel-energetico-con-cafeina-enervit-sport-sabor-citricos-pack-3",
             "previous": [],
             "timestamp": 1742983312
         },
@@ -211,7 +211,7 @@
             "timestamp": 1742983312
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/43778722108beca2bd6aa7e0c89c7eb4.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/43778722108beca2bd6aa7e0c89c7eb4.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983312
         },
@@ -223,7 +223,7 @@
     },
     "stats": {
         "created_at": 1742983312,
-        "updated_at": 1743023298,
-        "updates": 4
+        "updated_at": 1749739227,
+        "updates": 6
     }
 }

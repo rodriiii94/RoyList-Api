@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Cápsulas vitamina C 10% Antiox Deliplus",
+            "value": "C\u00e1psulas vitamina C 10% Antiox Deliplus",
             "previous": [],
             "timestamp": 1742983436
         },
@@ -78,7 +78,7 @@
                 "timestamp": 1742983436
             },
             "unit_name": {
-                "value": "cápsulas",
+                "value": "c\u00e1psulas",
                 "previous": [],
                 "timestamp": 1742983436
             },
@@ -174,7 +174,7 @@
             "timestamp": 1742983436
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/7977/capsulas-vitamina-c-10-deliplus-antiox-revitaliza-ilumina-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/7977\/capsulas-vitamina-c-10-deliplus-antiox-revitaliza-ilumina-caja",
             "previous": [],
             "timestamp": 1742983436
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983436
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/593db9956475029ace5bc07546234077.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/593db9956475029ace5bc07546234077.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983436
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983436,
-        "updated_at": 1743023279,
-        "updates": 2
+        "updated_at": 1749739200,
+        "updates": 3
     }
 }

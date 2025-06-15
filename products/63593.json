@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Pizza jamón y queso Hacendado",
+            "value": "Pizza jam\u00f3n y queso Hacendado",
             "previous": [],
             "timestamp": 1742983531
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983531
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/63593/pizza-jamon-queso-hacendado-pack-2",
+            "value": "https:\/\/tienda.mercadona.es\/product\/63593\/pizza-jamon-queso-hacendado-pack-2",
             "previous": [],
             "timestamp": 1742983531
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983531
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/649b6d4a73cbaba356f2b6983e9a2dff.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983531
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/3b3ab898b90b8369c088193652cd5d92.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/649b6d4a73cbaba356f2b6983e9a2dff.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983531
+                }
+            ],
+            "timestamp": 1749739344
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983531,
-        "updated_at": 1743023385,
-        "updates": 2
+        "updated_at": 1749739344,
+        "updates": 3
     }
 }

@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Agua mineral grande Solán de Cabras",
+            "value": "Agua mineral grande Sol\u00e1n de Cabras",
             "previous": [],
             "timestamp": 1742983311
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983311
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/27327/agua-mineral-grande-solan-cabras-mineralizacion-debil-pack-6",
+            "value": "https:\/\/tienda.mercadona.es\/product\/27327\/agua-mineral-grande-solan-cabras-mineralizacion-debil-pack-6",
             "previous": [],
             "timestamp": 1742983311
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983311
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/f4fec39a0a59025b5b6713eeb2f248a2.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/f4fec39a0a59025b5b6713eeb2f248a2.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983311
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983311,
-        "updated_at": 1743023135,
-        "updates": 2
+        "updated_at": 1749739013,
+        "updates": 3
     }
 }

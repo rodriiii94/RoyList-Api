@@ -20,7 +20,7 @@
                     "timestamp": 1742983398
                 },
                 "name": {
-                    "value": "Charcutería y quesos",
+                    "value": "Charcuter\u00eda y quesos",
                     "previous": [],
                     "timestamp": 1742983398
                 },
@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Queso rulo con piña y almendra Liptana",
+            "value": "Queso rulo con pi\u00f1a y almendra Liptana",
             "previous": [],
             "timestamp": 1742983398
         },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983398
             },
             "bulk_price": {
-                "value": "14.50",
-                "previous": [],
-                "timestamp": 1742983398
+                "value": "15.00",
+                "previous": [
+                    {
+                        "value": "14.50",
+                        "timestamp": 1742983398
+                    }
+                ],
+                "timestamp": 1749739141
             },
             "unit_price": {
-                "value": "1.45",
-                "previous": [],
-                "timestamp": 1742983398
+                "value": "1.50",
+                "previous": [
+                    {
+                        "value": "1.45",
+                        "timestamp": 1742983398
+                    }
+                ],
+                "timestamp": 1749739141
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983398
             },
             "reference_price": {
-                "value": "14.500",
-                "previous": [],
-                "timestamp": 1742983398
+                "value": "15.000",
+                "previous": [
+                    {
+                        "value": "14.500",
+                        "timestamp": 1742983398
+                    }
+                ],
+                "timestamp": 1749739141
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983398
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/51619/queso-rulo-con-pina-almendra-liptana-bandeja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/51619\/queso-rulo-con-pina-almendra-liptana-bandeja",
             "previous": [],
             "timestamp": 1742983398
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983398
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/29f74b4eec7a17d711864fd9462bef29.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/29f74b4eec7a17d711864fd9462bef29.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983398
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983398,
-        "updated_at": 1743023236,
-        "updates": 2
+        "updated_at": 1749739141,
+        "updates": 3
     }
 }

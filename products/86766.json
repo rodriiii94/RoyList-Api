@@ -174,7 +174,7 @@
             "timestamp": 1742983419
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/86766/dulce-membrillo-taco-hacendado-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/86766\/dulce-membrillo-taco-hacendado-paquete",
             "previous": [],
             "timestamp": 1742983419
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983419
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/dff51969b57348732ae78b2764351c73.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/dff51969b57348732ae78b2764351c73.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983419
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983419,
-        "updated_at": 1743023259,
-        "updates": 2
+        "updated_at": 1749739171,
+        "updates": 3
     }
 }

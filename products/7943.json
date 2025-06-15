@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Acondicionador Liso Keratina TRESemmé cabello encrespado o dañado",
+            "value": "Acondicionador Liso Keratina TRESemm\u00e9 cabello encrespado o da\u00f1ado",
             "previous": [],
             "timestamp": 1742983425
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983425
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/7943/acondicionador-liso-keratina-tresemme-cabello-encrespado-danado-con-keratina-hidrolizada-aminoacidos-bote",
+            "value": "https:\/\/tienda.mercadona.es\/product\/7943\/acondicionador-liso-keratina-tresemme-cabello-encrespado-danado-con-keratina-hidrolizada-aminoacidos-bote",
             "previous": [],
             "timestamp": 1742983425
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983425
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/4efd8c97739e464f7d377d340b3e173a.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/4efd8c97739e464f7d377d340b3e173a.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983425
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983425,
-        "updated_at": 1743023266,
-        "updates": 2
+        "updated_at": 1749739179,
+        "updates": 3
     }
 }

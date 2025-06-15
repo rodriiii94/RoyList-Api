@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Bandeja de cartón rectangular Bosque Verde",
+            "value": "Bandeja de cart\u00f3n rectangular Bosque Verde",
             "previous": [],
             "timestamp": 1742983484
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983484
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/49632/bandeja-carton-rectangular-bosque-verde-desechable-25-x-34-cm-incluye-4-bandejas-4-blondas-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/49632\/bandeja-carton-rectangular-bosque-verde-desechable-25-x-34-cm-incluye-4-bandejas-4-blondas-paquete",
             "previous": [],
             "timestamp": 1742983484
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983484
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/57e3b601732ab5ee8c4b7401be0811d0.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/57e3b601732ab5ee8c4b7401be0811d0.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983484
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983484,
-        "updated_at": 1743023335,
-        "updates": 2
+        "updated_at": 1749739277,
+        "updates": 3
     }
 }

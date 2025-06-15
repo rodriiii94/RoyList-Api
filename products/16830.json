@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Detergente ropa Ariel líquido",
+            "value": "Detergente ropa Ariel l\u00edquido",
             "previous": [],
             "timestamp": 1742983467
         },
@@ -88,9 +88,14 @@
                 "timestamp": 1742983467
             },
             "bulk_price": {
-                "value": "0.27",
-                "previous": [],
-                "timestamp": 1742983467
+                "value": "6.09",
+                "previous": [
+                    {
+                        "value": "0.27",
+                        "timestamp": 1742983467
+                    }
+                ],
+                "timestamp": 1749739252
             },
             "unit_price": {
                 "value": "7.95",
@@ -174,7 +179,7 @@
             "timestamp": 1742983467
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/16830/detergente-ropa-total-ariel-liquido-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/16830\/detergente-ropa-total-ariel-liquido-botella",
             "previous": [],
             "timestamp": 1742983467
         },
@@ -189,7 +194,7 @@
             "timestamp": 1742983467
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/807ad8acba17ef4dbc9357f394425491.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/807ad8acba17ef4dbc9357f394425491.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983467
         },
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983467,
-        "updated_at": 1743023316,
-        "updates": 2
+        "updated_at": 1749739252,
+        "updates": 3
     }
 }

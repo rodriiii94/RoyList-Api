@@ -174,7 +174,7 @@
             "timestamp": 1742983379
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/9508/cereales-copos-trigo-chocodays-hacendado-con-chocolate-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/9508\/cereales-copos-trigo-chocodays-hacendado-con-chocolate-caja",
             "previous": [],
             "timestamp": 1742983379
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983379
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/b993cc6e84c05e720f2a69794c345ca2.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/b993cc6e84c05e720f2a69794c345ca2.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983379
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983379,
-        "updated_at": 1743023215,
-        "updates": 2
+        "updated_at": 1749739113,
+        "updates": 3
     }
 }

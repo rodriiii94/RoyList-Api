@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Filetes lomo de cerdo ibérico adobado",
+            "value": "Filetes lomo de cerdo ib\u00e9rico adobado",
             "previous": [],
             "timestamp": 1742983369
         },
@@ -83,9 +83,14 @@
                 "timestamp": 1742983369
             },
             "unit_size": {
-                "value": 0.22,
-                "previous": [],
-                "timestamp": 1742983369
+                "value": 0.29,
+                "previous": [
+                    {
+                        "value": 0.22,
+                        "timestamp": 1742983369
+                    }
+                ],
+                "timestamp": 1749739101
             },
             "bulk_price": {
                 "value": "21.90",
@@ -93,9 +98,14 @@
                 "timestamp": 1742983369
             },
             "unit_price": {
-                "value": "4.82",
-                "previous": [],
-                "timestamp": 1742983369
+                "value": "6.35",
+                "previous": [
+                    {
+                        "value": "4.82",
+                        "timestamp": 1742983369
+                    }
+                ],
+                "timestamp": 1749739101
             },
             "approx_size": {
                 "value": true,
@@ -174,7 +184,7 @@
             "timestamp": 1742983369
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/1886/lomo-cerdo-iberico-adobado-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/1886\/lomo-cerdo-iberico-adobado-paquete",
             "previous": [],
             "timestamp": 1742983369
         },
@@ -189,7 +199,7 @@
             "timestamp": 1742983369
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/b9aed3c99473113c266a4278a72120ea.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/b9aed3c99473113c266a4278a72120ea.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983369
         },
@@ -201,7 +211,7 @@
     },
     "stats": {
         "created_at": 1742983369,
-        "updated_at": 1743023213,
-        "updates": 4
+        "updated_at": 1749739111,
+        "updates": 6
     }
 }

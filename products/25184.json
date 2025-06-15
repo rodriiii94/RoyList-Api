@@ -110,14 +110,24 @@
                 "timestamp": 1742983367
             },
             "bulk_price": {
-                "value": "3.40",
-                "previous": [],
-                "timestamp": 1742983367
+                "value": "3.60",
+                "previous": [
+                    {
+                        "value": "3.40",
+                        "timestamp": 1742983367
+                    }
+                ],
+                "timestamp": 1749739098
             },
             "unit_price": {
-                "value": "3.40",
-                "previous": [],
-                "timestamp": 1742983367
+                "value": "3.60",
+                "previous": [
+                    {
+                        "value": "3.40",
+                        "timestamp": 1742983367
+                    }
+                ],
+                "timestamp": 1749739098
             },
             "approx_size": {
                 "value": false,
@@ -165,9 +175,14 @@
                 "timestamp": 1742983367
             },
             "reference_price": {
-                "value": "3.400",
-                "previous": [],
-                "timestamp": 1742983367
+                "value": "3.600",
+                "previous": [
+                    {
+                        "value": "3.400",
+                        "timestamp": 1742983367
+                    }
+                ],
+                "timestamp": 1749739098
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -180,9 +195,14 @@
                 "timestamp": 1742983367
             },
             "previous_unit_price": {
-                "value": "        3.70",
-                "previous": [],
-                "timestamp": 1742983367
+                "value": null,
+                "previous": [
+                    {
+                        "value": "        3.70",
+                        "timestamp": 1742983367
+                    }
+                ],
+                "timestamp": 1749739098
             },
             "increment_bunch_amount": {
                 "value": 1,
@@ -196,7 +216,7 @@
             "timestamp": 1742983367
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/25184/alas-pollo-congeladas-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/25184\/alas-pollo-congeladas-paquete",
             "previous": [],
             "timestamp": 1742983367
         },
@@ -211,7 +231,7 @@
             "timestamp": 1742983367
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/c57822e42dafc3bcab953b8755a6a40f.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/c57822e42dafc3bcab953b8755a6a40f.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983367
         },
@@ -223,7 +243,7 @@
     },
     "stats": {
         "created_at": 1742983367,
-        "updated_at": 1743023240,
-        "updates": 4
+        "updated_at": 1749739144,
+        "updates": 6
     }
 }

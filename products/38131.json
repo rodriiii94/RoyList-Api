@@ -174,7 +174,7 @@
             "timestamp": 1742983512
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/38131/alimento-completo-periquitos-granzoo-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/38131\/alimento-completo-periquitos-granzoo-paquete",
             "previous": [],
             "timestamp": 1742983512
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983512
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/56f2799b4a49b45c460e415561f017ba.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/56f2799b4a49b45c460e415561f017ba.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983512
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983512,
-        "updated_at": 1743023365,
-        "updates": 2
+        "updated_at": 1749739318,
+        "updates": 3
     }
 }

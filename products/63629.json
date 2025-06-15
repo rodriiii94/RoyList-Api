@@ -174,7 +174,7 @@
             "timestamp": 1742983531
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/63629/pizza-barbacoa-familiar-hacendado",
+            "value": "https:\/\/tienda.mercadona.es\/product\/63629\/pizza-barbacoa-familiar-hacendado",
             "previous": [],
             "timestamp": 1742983531
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983531
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/a9bb636bf7c4c7b6d118b24a2819da0a.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983531
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/92e18a06b6f91e10051849add2686143.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/a9bb636bf7c4c7b6d118b24a2819da0a.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983531
+                }
+            ],
+            "timestamp": 1749739344
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983531,
-        "updated_at": 1743023385,
-        "updates": 2
+        "updated_at": 1749739344,
+        "updates": 3
     }
 }

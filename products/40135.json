@@ -37,9 +37,14 @@
             }
         ],
         "display_name": {
-            "value": "Jabón blando natural Beltrán",
-            "previous": [],
-            "timestamp": 1742983467
+            "value": "Jab\u00f3n blando 100% natural Beltr\u00e1n quitamanchas",
+            "previous": [
+                {
+                    "value": "Jab\u00f3n blando natural Beltr\u00e1n",
+                    "timestamp": 1742983467
+                }
+            ],
+            "timestamp": 1749739252
         },
         "id": {
             "value": "40135",
@@ -174,7 +179,7 @@
             "timestamp": 1742983467
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/40135/jabon-blando-natural-beltran-bote",
+            "value": "https:\/\/tienda.mercadona.es\/product\/40135\/jabon-blando-natural-beltran-bote",
             "previous": [],
             "timestamp": 1742983467
         },
@@ -189,9 +194,14 @@
             "timestamp": 1742983467
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/1c0d0b3ba1e012d83ef64a7d3ec7943d.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983467
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/97c7d48aba7d278b20c1c76e7c31d8dc.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/1c0d0b3ba1e012d83ef64a7d3ec7943d.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983467
+                }
+            ],
+            "timestamp": 1749739252
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +211,7 @@
     },
     "stats": {
         "created_at": 1742983467,
-        "updated_at": 1743023317,
-        "updates": 2
+        "updated_at": 1749739252,
+        "updates": 3
     }
 }

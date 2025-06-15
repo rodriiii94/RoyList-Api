@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Recambios cepillo dental Eléctrico Deliplus tamaño medio",
+            "value": "Recambios cepillo dental El\u00e9ctrico Deliplus tama\u00f1o medio",
             "previous": [],
             "timestamp": 1742983442
         },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983442
             },
             "bulk_price": {
-                "value": "1.93",
-                "previous": [],
-                "timestamp": 1742983442
+                "value": "1.88",
+                "previous": [
+                    {
+                        "value": "1.93",
+                        "timestamp": 1742983442
+                    }
+                ],
+                "timestamp": 1749739210
             },
             "unit_price": {
-                "value": "3.85",
-                "previous": [],
-                "timestamp": 1742983442
+                "value": "3.75",
+                "previous": [
+                    {
+                        "value": "3.85",
+                        "timestamp": 1742983442
+                    }
+                ],
+                "timestamp": 1749739210
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983442
             },
             "reference_price": {
-                "value": "1.925",
-                "previous": [],
-                "timestamp": 1742983442
+                "value": "1.875",
+                "previous": [
+                    {
+                        "value": "1.925",
+                        "timestamp": 1742983442
+                    }
+                ],
+                "timestamp": 1749739210
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983442
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/1908/recambios-cepillo-dental-electrico-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/1908\/recambios-cepillo-dental-electrico-paquete",
             "previous": [],
             "timestamp": 1742983442
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983442
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/6e6ea15c74286bd5e274ccbbdad0054c.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/6e6ea15c74286bd5e274ccbbdad0054c.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983442
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983442,
-        "updated_at": 1743023288,
-        "updates": 2
+        "updated_at": 1749739210,
+        "updates": 3
     }
 }

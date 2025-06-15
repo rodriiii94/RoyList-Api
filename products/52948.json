@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Fruta + leche caribe Hacendado sin azúcares añadidos",
+            "value": "Fruta + leche caribe Hacendado sin az\u00facares a\u00f1adidos",
             "previous": [],
             "timestamp": 1742983552
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983552
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/52948/fruta-leche-caribe-hacendado-sin-azucares-anadidos-pack-6",
+            "value": "https:\/\/tienda.mercadona.es\/product\/52948\/fruta-leche-caribe-hacendado-sin-azucares-anadidos-pack-6",
             "previous": [],
             "timestamp": 1742983552
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983552
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/4b8432e4a8ef1756702c43eeefb3b923.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/4b8432e4a8ef1756702c43eeefb3b923.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983552
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983552,
-        "updated_at": 1743023405,
-        "updates": 2
+        "updated_at": 1749739371,
+        "updates": 3
     }
 }

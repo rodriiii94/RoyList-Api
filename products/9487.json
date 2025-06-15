@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Cereales copos de trigo integral y arroz Hacendado bañados en chocolate con leche",
+            "value": "Cereales copos de trigo integral y arroz Hacendado ba\u00f1ados en chocolate con leche",
             "previous": [],
             "timestamp": 1742983380
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983380
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/9487/cereales-copos-trigo-integral-arroz-hacendado-banados-chocolate-con-leche-linnea-v-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/9487\/cereales-copos-trigo-integral-arroz-hacendado-banados-chocolate-con-leche-linnea-v-caja",
             "previous": [],
             "timestamp": 1742983380
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983380
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/5ef3d3435e4f02a3589a3745a9891faa.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/5ef3d3435e4f02a3589a3745a9891faa.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983380
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983380,
-        "updated_at": 1743023215,
-        "updates": 2
+        "updated_at": 1749739113,
+        "updates": 3
     }
 }

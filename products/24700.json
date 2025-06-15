@@ -59,7 +59,7 @@
             }
         ],
         "display_name": {
-            "value": "Gamba blanca pequeña Hacendado congelada",
+            "value": "Gamba blanca peque\u00f1a Hacendado congelada",
             "previous": [],
             "timestamp": 1742983405
         },
@@ -105,9 +105,14 @@
                 "timestamp": 1742983405
             },
             "unit_size": {
-                "value": 1,
-                "previous": [],
-                "timestamp": 1742983405
+                "value": 1.12,
+                "previous": [
+                    {
+                        "value": 1,
+                        "timestamp": 1742983405
+                    }
+                ],
+                "timestamp": 1749739152
             },
             "bulk_price": {
                 "value": "13.95",
@@ -115,9 +120,14 @@
                 "timestamp": 1742983405
             },
             "unit_price": {
-                "value": "13.95",
-                "previous": [],
-                "timestamp": 1742983405
+                "value": "15.62",
+                "previous": [
+                    {
+                        "value": "13.95",
+                        "timestamp": 1742983405
+                    }
+                ],
+                "timestamp": 1749739152
             },
             "approx_size": {
                 "value": true,
@@ -196,7 +206,7 @@
             "timestamp": 1742983405
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/24700/gamba-blanca-pequena-hacendado-congelada-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/24700\/gamba-blanca-pequena-hacendado-congelada-caja",
             "previous": [],
             "timestamp": 1742983405
         },
@@ -211,7 +221,7 @@
             "timestamp": 1742983405
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/d9213bbd15f10a5ed33b4b0ff90acb78.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/d9213bbd15f10a5ed33b4b0ff90acb78.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983405
         },
@@ -223,7 +233,7 @@
     },
     "stats": {
         "created_at": 1742983405,
-        "updated_at": 1743023352,
-        "updates": 4
+        "updated_at": 1749739300,
+        "updates": 6
     }
 }

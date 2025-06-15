@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739298
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739298
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 22,
+                    "previous": [],
+                    "timestamp": 1749739298
+                },
+                "name": {
+                    "value": "Maquillaje",
+                    "previous": [],
+                    "timestamp": 1749739298
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739298
+                },
+                "order": {
+                    "value": 421,
+                    "previous": [],
+                    "timestamp": 1749739298
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Kit de esponjas maquillaje Deliplus",
+            "previous": [],
+            "timestamp": 1749739298
+        },
+        "id": {
+            "value": "12795",
+            "previous": [],
+            "timestamp": 1749739298
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739298
+        },
+        "packaging": {
+            "value": "Caja",
+            "previous": [],
+            "timestamp": 1749739298
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1749739298
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739298
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739298
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739298
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739298
+            },
+            "unit_size": {
+                "value": 3,
+                "previous": [],
+                "timestamp": 1749739298
+            },
+            "bulk_price": {
+                "value": "4.00",
+                "previous": [],
+                "timestamp": 1749739298
+            },
+            "unit_price": {
+                "value": "4.00",
+                "previous": [],
+                "timestamp": 1749739298
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739298
+            },
+            "size_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1749739298
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739298
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739298
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739298
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739298
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739298
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1749739298
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739298
+            },
+            "reference_price": {
+                "value": "4.000",
+                "previous": [],
+                "timestamp": 1749739298
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739298
+            },
+            "reference_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1749739298
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739298
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739298
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739298
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/12795\/kit-esponjas-maquillaje-deliplus-contiene-esponja-aplicar-maquillaje-correctores-fijar-polvos-sueltos-caja",
+            "previous": [],
+            "timestamp": 1749739298
+        },
+        "slug": {
+            "value": "kit-esponjas-maquillaje-deliplus-contiene-esponja-aplicar-maquillaje-correctores-fijar-polvos-sueltos-caja",
+            "previous": [],
+            "timestamp": 1749739298
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739298
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/4feb83fe40760f16d46d4f02f607ae66.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739298
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739298
+        }
+    },
+    "stats": {
+        "created_at": 1749739298,
+        "updated_at": 1749739298,
+        "updates": 1
+    }
+}

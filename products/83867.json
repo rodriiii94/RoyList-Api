@@ -20,7 +20,7 @@
                     "timestamp": 1742983521
                 },
                 "name": {
-                    "value": "Panadería y pastelería",
+                    "value": "Panader\u00eda y pasteler\u00eda",
                     "previous": [],
                     "timestamp": 1742983521
                 },
@@ -174,7 +174,7 @@
             "timestamp": 1742983521
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/83867/pan-molde-blanco-familiar-hacendado-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/83867\/pan-molde-blanco-familiar-hacendado-paquete",
             "previous": [],
             "timestamp": 1742983521
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983521
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/f26045084b08d8792979df13779e97d3.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/f26045084b08d8792979df13779e97d3.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983521
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983521,
-        "updated_at": 1743023374,
-        "updates": 2
+        "updated_at": 1749739330,
+        "updates": 3
     }
 }

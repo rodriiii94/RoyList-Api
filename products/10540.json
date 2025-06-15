@@ -88,14 +88,24 @@
                 "timestamp": 1742983463
             },
             "bulk_price": {
-                "value": "1.02",
-                "previous": [],
-                "timestamp": 1742983463
+                "value": "1.04",
+                "previous": [
+                    {
+                        "value": "1.02",
+                        "timestamp": 1742983463
+                    }
+                ],
+                "timestamp": 1749739246
             },
             "unit_price": {
-                "value": "1.53",
-                "previous": [],
-                "timestamp": 1742983463
+                "value": "1.56",
+                "previous": [
+                    {
+                        "value": "1.53",
+                        "timestamp": 1742983463
+                    }
+                ],
+                "timestamp": 1749739246
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983463
             },
             "reference_price": {
-                "value": "1.020",
-                "previous": [],
-                "timestamp": 1742983463
+                "value": "1.040",
+                "previous": [
+                    {
+                        "value": "1.020",
+                        "timestamp": 1742983463
+                    }
+                ],
+                "timestamp": 1749739246
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983463
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/10540/leche-entera-hacendado-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/10540\/leche-entera-hacendado-botella",
             "previous": [],
             "timestamp": 1742983463
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983463
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/b4eb04d1b82b50228bae54af395675a1.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/b4eb04d1b82b50228bae54af395675a1.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983463
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983463,
-        "updated_at": 1743023312,
-        "updates": 2
+        "updated_at": 1749739246,
+        "updates": 3
     }
 }

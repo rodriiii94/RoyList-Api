@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739035
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739035
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 15,
+                    "previous": [],
+                    "timestamp": 1749739035
+                },
+                "name": {
+                    "value": "Aperitivos",
+                    "previous": [],
+                    "timestamp": 1749739035
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739035
+                },
+                "order": {
+                    "value": 9,
+                    "previous": [],
+                    "timestamp": 1749739035
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Snack de ma\u00edz Mini mix Hacendado sabor barbacoa",
+            "previous": [],
+            "timestamp": 1749739035
+        },
+        "id": {
+            "value": "12887",
+            "previous": [],
+            "timestamp": 1749739035
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739035
+        },
+        "packaging": {
+            "value": "Paquete",
+            "previous": [],
+            "timestamp": 1749739035
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1749739035
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739035
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739035
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739035
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739035
+            },
+            "unit_size": {
+                "value": 0.08,
+                "previous": [],
+                "timestamp": 1749739035
+            },
+            "bulk_price": {
+                "value": "10.00",
+                "previous": [],
+                "timestamp": 1749739035
+            },
+            "unit_price": {
+                "value": "0.80",
+                "previous": [],
+                "timestamp": 1749739035
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739035
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1749739035
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739035
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739035
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739035
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739035
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739035
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1749739035
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739035
+            },
+            "reference_price": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1749739035
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739035
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1749739035
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739035
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739035
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739035
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/12887\/snack-maiz-mini-mix-hacendado-sabor-barbacoa-paquete",
+            "previous": [],
+            "timestamp": 1749739035
+        },
+        "slug": {
+            "value": "snack-maiz-mini-mix-hacendado-sabor-barbacoa-paquete",
+            "previous": [],
+            "timestamp": 1749739035
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739035
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/d27bcf7d0f838aa38263e74a43a78afe.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739035
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739035
+        }
+    },
+    "stats": {
+        "created_at": 1749739035,
+        "updated_at": 1749739035,
+        "updates": 1
+    }
+}

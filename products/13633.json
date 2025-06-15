@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Crema limpiadora Vitrocerámicas Vitroclen 5 en 1",
+            "value": "Crema limpiadora Vitrocer\u00e1micas Vitroclen 5 en 1",
             "previous": [],
             "timestamp": 1742983479
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983479
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/13633/crema-limpiadora-vitroceramicas-vitroclen-5-1-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/13633\/crema-limpiadora-vitroceramicas-vitroclen-5-1-botella",
             "previous": [],
             "timestamp": 1742983479
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983479
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/ddd76867325a12438e3ad6a68fb0e143.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/ddd76867325a12438e3ad6a68fb0e143.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983479
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983479,
-        "updated_at": 1743023330,
-        "updates": 2
+        "updated_at": 1749739270,
+        "updates": 3
     }
 }

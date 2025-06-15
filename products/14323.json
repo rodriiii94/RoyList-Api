@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739222
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739222
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 20,
+                    "previous": [],
+                    "timestamp": 1749739222
+                },
+                "name": {
+                    "value": "Cuidado facial y corporal",
+                    "previous": [],
+                    "timestamp": 1749739222
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739222
+                },
+                "order": {
+                    "value": 241,
+                    "previous": [],
+                    "timestamp": 1749739222
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Neceser cangrejo rojo peque\u00f1o Uahuu",
+            "previous": [],
+            "timestamp": 1749739222
+        },
+        "id": {
+            "value": "14323",
+            "previous": [],
+            "timestamp": 1749739222
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739222
+        },
+        "packaging": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739222
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1749739222
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739222
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739222
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739222
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739222
+            },
+            "unit_size": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739222
+            },
+            "bulk_price": {
+                "value": "4.50",
+                "previous": [],
+                "timestamp": 1749739222
+            },
+            "unit_price": {
+                "value": "4.50",
+                "previous": [],
+                "timestamp": 1749739222
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739222
+            },
+            "size_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1749739222
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739222
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739222
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739222
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739222
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739222
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1749739222
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739222
+            },
+            "reference_price": {
+                "value": "4.500",
+                "previous": [],
+                "timestamp": 1749739222
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739222
+            },
+            "reference_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1749739222
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739222
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739222
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739222
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/14323\/neceser-cangrejo-rojo-pequeno-uahuu-90-x-125-x-45-mm",
+            "previous": [],
+            "timestamp": 1749739222
+        },
+        "slug": {
+            "value": "neceser-cangrejo-rojo-pequeno-uahuu-90-x-125-x-45-mm",
+            "previous": [],
+            "timestamp": 1749739222
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739222
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/479e7f85e2d30c4bf2bf34bfc0ec4ed9.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739222
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739222
+        }
+    },
+    "stats": {
+        "created_at": 1749739222,
+        "updated_at": 1749739222,
+        "updates": 1
+    }
+}

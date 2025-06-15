@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Tortitas de maíz con chocolate Hacendado",
+            "value": "Tortitas de ma\u00edz con chocolate Hacendado",
             "previous": [],
             "timestamp": 1742983383
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983383
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/14015/tortitas-maiz-con-chocolate-hacendado-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/14015\/tortitas-maiz-con-chocolate-hacendado-paquete",
             "previous": [],
             "timestamp": 1742983383
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983383
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/7080f3d4c68ca0995c1fad5776f96a48.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983383
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/41e7c23025f97cdb4da0c7fad37fa79b.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/7080f3d4c68ca0995c1fad5776f96a48.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983383
+                }
+            ],
+            "timestamp": 1749739119
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983383,
-        "updated_at": 1743023219,
-        "updates": 2
+        "updated_at": 1749739119,
+        "updates": 3
     }
 }

@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Jabón Natural con glicerina Bosque Verde",
+            "value": "Jab\u00f3n Natural con glicerina Bosque Verde",
             "previous": [],
             "timestamp": 1742983467
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983467
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/13607/jabon-natural-con-glicerina-bosque-verde-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/13607\/jabon-natural-con-glicerina-bosque-verde-paquete",
             "previous": [],
             "timestamp": 1742983467
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983467
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/49889e4d79b71f6c50be183b72b20810.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/49889e4d79b71f6c50be183b72b20810.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983467
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983467,
-        "updated_at": 1743023317,
-        "updates": 2
+        "updated_at": 1749739252,
+        "updates": 3
     }
 }

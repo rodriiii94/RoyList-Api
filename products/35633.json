@@ -174,7 +174,7 @@
             "timestamp": 1742983491
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/35633/maquillaje-fluido-fit-maybelline-120-classic-ivory",
+            "value": "https:\/\/tienda.mercadona.es\/product\/35633\/maquillaje-fluido-fit-maybelline-120-classic-ivory",
             "previous": [],
             "timestamp": 1742983491
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983491
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/0a668343690aef70bc9ebf590123e0c1.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/0a668343690aef70bc9ebf590123e0c1.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983491
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983491,
-        "updated_at": 1743023342,
-        "updates": 2
+        "updated_at": 1749739285,
+        "updates": 3
     }
 }

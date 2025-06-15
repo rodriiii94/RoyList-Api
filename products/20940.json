@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Bebida láctea natural Danacol 0% azúcares añadidos",
+            "value": "Bebida l\u00e1ctea natural Danacol 0% az\u00facares a\u00f1adidos",
             "previous": [],
             "timestamp": 1742983547
         },
@@ -158,9 +158,14 @@
                 "timestamp": 1742983547
             },
             "previous_unit_price": {
-                "value": "        5.90",
-                "previous": [],
-                "timestamp": 1742983547
+                "value": null,
+                "previous": [
+                    {
+                        "value": "        5.90",
+                        "timestamp": 1742983547
+                    }
+                ],
+                "timestamp": 1749739366
             },
             "increment_bunch_amount": {
                 "value": 1,
@@ -174,7 +179,7 @@
             "timestamp": 1742983547
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/20940/bebida-lactea-natural-danacol-0-azucares-anadidos-danone-pack-10",
+            "value": "https:\/\/tienda.mercadona.es\/product\/20940\/bebida-lactea-natural-danacol-0-azucares-anadidos-danone-pack-10",
             "previous": [],
             "timestamp": 1742983547
         },
@@ -189,9 +194,14 @@
             "timestamp": 1742983547
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/8aa968d297ef308d9bddab0878d5f3ac.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983547
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/2ec431d9171081a9496b5e6d7404a090.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/8aa968d297ef308d9bddab0878d5f3ac.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983547
+                }
+            ],
+            "timestamp": 1749739366
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +211,7 @@
     },
     "stats": {
         "created_at": 1742983547,
-        "updated_at": 1743023401,
-        "updates": 2
+        "updated_at": 1749739366,
+        "updates": 3
     }
 }

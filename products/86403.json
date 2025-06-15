@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739163
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739163
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 17,
+                    "previous": [],
+                    "timestamp": 1749739163
+                },
+                "name": {
+                    "value": "Congelados",
+                    "previous": [],
+                    "timestamp": 1749739163
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739163
+                },
+                "order": {
+                    "value": 213,
+                    "previous": [],
+                    "timestamp": 1749739163
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Mix frutas tropical Hacendado ultracongeladas",
+            "previous": [],
+            "timestamp": 1749739163
+        },
+        "id": {
+            "value": "86403",
+            "previous": [],
+            "timestamp": 1749739163
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739163
+        },
+        "packaging": {
+            "value": "Paquete",
+            "previous": [],
+            "timestamp": 1749739163
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 4,
+                "previous": [],
+                "timestamp": 1749739163
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739163
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739163
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739163
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739163
+            },
+            "unit_size": {
+                "value": 0.45,
+                "previous": [],
+                "timestamp": 1749739163
+            },
+            "bulk_price": {
+                "value": "6.11",
+                "previous": [],
+                "timestamp": 1749739163
+            },
+            "unit_price": {
+                "value": "2.75",
+                "previous": [],
+                "timestamp": 1749739163
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739163
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1749739163
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739163
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739163
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739163
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739163
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739163
+            },
+            "tax_percentage": {
+                "value": "4.000",
+                "previous": [],
+                "timestamp": 1749739163
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739163
+            },
+            "reference_price": {
+                "value": "6.112",
+                "previous": [],
+                "timestamp": 1749739163
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739163
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1749739163
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739163
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739163
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739163
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/86403\/mix-frutas-tropical-hacendado-ultracongeladas-mango-melocoton-papaya-paquete",
+            "previous": [],
+            "timestamp": 1749739163
+        },
+        "slug": {
+            "value": "mix-frutas-tropical-hacendado-ultracongeladas-mango-melocoton-papaya-paquete",
+            "previous": [],
+            "timestamp": 1749739163
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739163
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/aef553f69297509609d69e0c2541cf5b.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739163
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739163
+        }
+    },
+    "stats": {
+        "created_at": 1749739163,
+        "updated_at": 1749739163,
+        "updates": 1
+    }
+}

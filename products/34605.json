@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Arándanos deshidratados Hacendado",
+            "value": "Ar\u00e1ndanos deshidratados Hacendado",
             "previous": [],
             "timestamp": 1742983321
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983321
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/34605/arandanos-deshidratados-hacendado-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/34605\/arandanos-deshidratados-hacendado-paquete",
             "previous": [],
             "timestamp": 1742983321
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983321
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/92f5beabf47df2524be72894b90885bc.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/92f5beabf47df2524be72894b90885bc.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983321
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983321,
-        "updated_at": 1743023149,
-        "updates": 2
+        "updated_at": 1749739032,
+        "updates": 3
     }
 }

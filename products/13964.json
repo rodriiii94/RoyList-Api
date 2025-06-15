@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739049
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739049
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 9,
+                    "previous": [],
+                    "timestamp": 1749739049
+                },
+                "name": {
+                    "value": "Az\u00facar, caramelos y chocolate",
+                    "previous": [],
+                    "timestamp": 1749739049
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739049
+                },
+                "order": {
+                    "value": 11,
+                    "previous": [],
+                    "timestamp": 1749739049
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Chocolate blanco Fussion Hacendado relleno de crema de pistacho y masa filo tostada",
+            "previous": [],
+            "timestamp": 1749739049
+        },
+        "id": {
+            "value": "13964",
+            "previous": [],
+            "timestamp": 1749739049
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739049
+        },
+        "packaging": {
+            "value": "Tableta",
+            "previous": [],
+            "timestamp": 1749739049
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1749739049
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739049
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739049
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739049
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739049
+            },
+            "unit_size": {
+                "value": 0.105,
+                "previous": [],
+                "timestamp": 1749739049
+            },
+            "bulk_price": {
+                "value": "18.57",
+                "previous": [],
+                "timestamp": 1749739049
+            },
+            "unit_price": {
+                "value": "1.95",
+                "previous": [],
+                "timestamp": 1749739049
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739049
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1749739049
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739049
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739049
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739049
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739049
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739049
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1749739049
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739049
+            },
+            "reference_price": {
+                "value": "18.572",
+                "previous": [],
+                "timestamp": 1749739049
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739049
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1749739049
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739049
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739049
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739049
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/13964\/chocolate-blanco-fussion-hacendado-relleno-crema-pistacho-masa-filo-tostada-tableta",
+            "previous": [],
+            "timestamp": 1749739049
+        },
+        "slug": {
+            "value": "chocolate-blanco-fussion-hacendado-relleno-crema-pistacho-masa-filo-tostada-tableta",
+            "previous": [],
+            "timestamp": 1749739049
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739049
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/6cff7c9eeb507a096df795f37f83c7b8.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739049
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739049
+        }
+    },
+    "stats": {
+        "created_at": 1749739049,
+        "updated_at": 1749739049,
+        "updates": 1
+    }
+}

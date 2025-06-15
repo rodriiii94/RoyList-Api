@@ -169,7 +169,7 @@
             "timestamp": 1742983476
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/71527/toallitas-limpiadoras-suelo-bosque-verde-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/71527\/toallitas-limpiadoras-suelo-bosque-verde-paquete",
             "previous": [],
             "timestamp": 1742983476
         },
@@ -184,7 +184,7 @@
             "timestamp": 1742983476
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/bb7d5f4ba6de2434ccee0b538e88e581.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/bb7d5f4ba6de2434ccee0b538e88e581.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983476
         },
@@ -196,7 +196,7 @@
     },
     "stats": {
         "created_at": 1742983476,
-        "updated_at": 1743023340,
-        "updates": 4
+        "updated_at": 1749739283,
+        "updates": 6
     }
 }

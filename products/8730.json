@@ -196,7 +196,7 @@
             "timestamp": 1742983327
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/8730/fideos-orientales-yakisoba-sabor-soja-hacendado-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/8730\/fideos-orientales-yakisoba-sabor-soja-hacendado-paquete",
             "previous": [],
             "timestamp": 1742983327
         },
@@ -211,7 +211,7 @@
             "timestamp": 1742983327
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/c5b3f99d81895edde8f133661d480db0.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/c5b3f99d81895edde8f133661d480db0.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983327
         },
@@ -223,7 +223,7 @@
     },
     "stats": {
         "created_at": 1742983327,
-        "updated_at": 1743023387,
-        "updates": 4
+        "updated_at": 1749739348,
+        "updates": 6
     }
 }

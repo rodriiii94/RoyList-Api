@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Lasaña boloñesa familiar Hacendado",
+            "value": "Lasa\u00f1a bolo\u00f1esa familiar Hacendado",
             "previous": [],
             "timestamp": 1742983533
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983533
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/4488/lasana-bolonesa-familiar-hacendado-bandeja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/4488\/lasana-bolonesa-familiar-hacendado-bandeja",
             "previous": [],
             "timestamp": 1742983533
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983533
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/ab62e410b57d0e497670e82e7e387c25.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/ab62e410b57d0e497670e82e7e387c25.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983533
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983533,
-        "updated_at": 1743023387,
-        "updates": 2
+        "updated_at": 1749739347,
+        "updates": 3
     }
 }

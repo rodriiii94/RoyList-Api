@@ -88,14 +88,24 @@
                 "timestamp": 1742983364
             },
             "bulk_price": {
-                "value": "4.25",
-                "previous": [],
-                "timestamp": 1742983364
+                "value": "5.00",
+                "previous": [
+                    {
+                        "value": "4.25",
+                        "timestamp": 1742983364
+                    }
+                ],
+                "timestamp": 1749739094
             },
             "unit_price": {
-                "value": "1.49",
-                "previous": [],
-                "timestamp": 1742983364
+                "value": "1.75",
+                "previous": [
+                    {
+                        "value": "1.49",
+                        "timestamp": 1742983364
+                    }
+                ],
+                "timestamp": 1749739094
             },
             "approx_size": {
                 "value": true,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983364
             },
             "reference_price": {
-                "value": "4.250",
-                "previous": [],
-                "timestamp": 1742983364
+                "value": "5.000",
+                "previous": [
+                    {
+                        "value": "4.250",
+                        "timestamp": 1742983364
+                    }
+                ],
+                "timestamp": 1749739094
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983364
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/1892/hueso-blanco-cerdo-salado-bandeja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/1892\/hueso-blanco-cerdo-salado-bandeja",
             "previous": [],
             "timestamp": 1742983364
         },
@@ -189,9 +204,14 @@
             "timestamp": 1742983364
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/251607e82e6114a16d56cc53b357a716.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983364
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/46bb50089c37c14846fe7a028118eb1b.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/251607e82e6114a16d56cc53b357a716.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983364
+                }
+            ],
+            "timestamp": 1749739094
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +221,7 @@
     },
     "stats": {
         "created_at": 1742983364,
-        "updated_at": 1743023200,
-        "updates": 2
+        "updated_at": 1749739094,
+        "updates": 3
     }
 }

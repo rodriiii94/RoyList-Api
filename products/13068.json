@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739065
+            },
+            "requires_age_check": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739065
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 19,
+                    "previous": [],
+                    "timestamp": 1749739065
+                },
+                "name": {
+                    "value": "Bodega",
+                    "previous": [],
+                    "timestamp": 1749739065
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739065
+                },
+                "order": {
+                    "value": 15,
+                    "previous": [],
+                    "timestamp": 1749739065
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Cerveza reserva",
+            "previous": [],
+            "timestamp": 1749739065
+        },
+        "id": {
+            "value": "13068",
+            "previous": [],
+            "timestamp": 1749739065
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739065
+        },
+        "packaging": {
+            "value": "Botell\u00edn",
+            "previous": [],
+            "timestamp": 1749739065
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1749739065
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739065
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739065
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739065
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739065
+            },
+            "unit_size": {
+                "value": 0.33,
+                "previous": [],
+                "timestamp": 1749739065
+            },
+            "bulk_price": {
+                "value": "3.70",
+                "previous": [],
+                "timestamp": 1749739065
+            },
+            "unit_price": {
+                "value": "1.22",
+                "previous": [],
+                "timestamp": 1749739065
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739065
+            },
+            "size_format": {
+                "value": "l",
+                "previous": [],
+                "timestamp": 1749739065
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739065
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739065
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739065
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739065
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739065
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1749739065
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739065
+            },
+            "reference_price": {
+                "value": "3.697",
+                "previous": [],
+                "timestamp": 1749739065
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739065
+            },
+            "reference_format": {
+                "value": "L",
+                "previous": [],
+                "timestamp": 1749739065
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739065
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739065
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739065
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/13068\/cerveza-reserva-botellin",
+            "previous": [],
+            "timestamp": 1749739065
+        },
+        "slug": {
+            "value": "cerveza-reserva-botellin",
+            "previous": [],
+            "timestamp": 1749739065
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739065
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/24bd66b3453d6a557f9fccaacc041ce1.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739065
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739065
+        }
+    },
+    "stats": {
+        "created_at": 1749739065,
+        "updated_at": 1749739065,
+        "updates": 1
+    }
+}

@@ -174,7 +174,7 @@
             "timestamp": 1742983370
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/8994/panceta-fina-sin-corteza-bandeja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/8994\/panceta-fina-sin-corteza-bandeja",
             "previous": [],
             "timestamp": 1742983370
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983370
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/5abffa7fb9209eaac55e48257b6c55e5.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/5abffa7fb9209eaac55e48257b6c55e5.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983370
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983370,
-        "updated_at": 1743023205,
-        "updates": 2
+        "updated_at": 1749739101,
+        "updates": 3
     }
 }

@@ -20,7 +20,7 @@
                     "timestamp": 1742983358
                 },
                 "name": {
-                    "value": "Cacao, café e infusiones",
+                    "value": "Cacao, caf\u00e9 e infusiones",
                     "previous": [],
                     "timestamp": 1742983358
                 },
@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Café en cápsula descafeinado Hacendado",
+            "value": "Caf\u00e9 en c\u00e1psula descafeinado Hacendado",
             "previous": [],
             "timestamp": 1742983358
         },
@@ -78,7 +78,7 @@
                 "timestamp": 1742983358
             },
             "unit_name": {
-                "value": "cápsulas",
+                "value": "c\u00e1psulas",
                 "previous": [],
                 "timestamp": 1742983358
             },
@@ -174,7 +174,7 @@
             "timestamp": 1742983358
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/10355/cafe-capsula-descafeinado-hacendado-compatibles-maquinas-nespresso-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/10355\/cafe-capsula-descafeinado-hacendado-compatibles-maquinas-nespresso-caja",
             "previous": [],
             "timestamp": 1742983358
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983358
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/dd84f71224c87ca3675092c9d8f31090.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/dd84f71224c87ca3675092c9d8f31090.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983358
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983358,
-        "updated_at": 1743023192,
-        "updates": 2
+        "updated_at": 1749739085,
+        "updates": 3
     }
 }

@@ -83,19 +83,34 @@
                 "timestamp": 1742983366
             },
             "unit_size": {
-                "value": 0.68,
-                "previous": [],
-                "timestamp": 1742983366
+                "value": 0.63,
+                "previous": [
+                    {
+                        "value": 0.68,
+                        "timestamp": 1742983366
+                    }
+                ],
+                "timestamp": 1749739096
             },
             "bulk_price": {
-                "value": "5.30",
-                "previous": [],
-                "timestamp": 1742983366
+                "value": "5.60",
+                "previous": [
+                    {
+                        "value": "5.30",
+                        "timestamp": 1742983366
+                    }
+                ],
+                "timestamp": 1749739096
             },
             "unit_price": {
-                "value": "3.60",
-                "previous": [],
-                "timestamp": 1742983366
+                "value": "3.53",
+                "previous": [
+                    {
+                        "value": "3.60",
+                        "timestamp": 1742983366
+                    }
+                ],
+                "timestamp": 1749739096
             },
             "approx_size": {
                 "value": true,
@@ -143,9 +158,14 @@
                 "timestamp": 1742983366
             },
             "reference_price": {
-                "value": "5.300",
-                "previous": [],
-                "timestamp": 1742983366
+                "value": "5.600",
+                "previous": [
+                    {
+                        "value": "5.300",
+                        "timestamp": 1742983366
+                    }
+                ],
+                "timestamp": 1749739096
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +194,7 @@
             "timestamp": 1742983366
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/2832/alas-pollo-adobadas-bandeja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/2832\/alas-pollo-adobadas-bandeja",
             "previous": [],
             "timestamp": 1742983366
         },
@@ -189,9 +209,14 @@
             "timestamp": 1742983366
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/3fc3a03f6a13e2172e8548fe108b7380.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983366
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/54963b491f9a471b370e01149b95cb3d.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/3fc3a03f6a13e2172e8548fe108b7380.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983366
+                }
+            ],
+            "timestamp": 1749739096
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +226,7 @@
     },
     "stats": {
         "created_at": 1742983366,
-        "updated_at": 1743023213,
-        "updates": 4
+        "updated_at": 1749739110,
+        "updates": 6
     }
 }

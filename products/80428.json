@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Polvo suelto Translúcido Deliplus 01",
+            "value": "Polvo suelto Transl\u00facido Deliplus 01",
             "previous": [],
             "timestamp": 1742983492
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983492
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/80428/polvo-suelto-translucido-deliplus-01",
+            "value": "https:\/\/tienda.mercadona.es\/product\/80428\/polvo-suelto-translucido-deliplus-01",
             "previous": [],
             "timestamp": 1742983492
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983492
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/8e7cb4a028961cde239075442feaf367.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/8e7cb4a028961cde239075442feaf367.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983492
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983492,
-        "updated_at": 1743023345,
-        "updates": 2
+        "updated_at": 1749739289,
+        "updates": 3
     }
 }

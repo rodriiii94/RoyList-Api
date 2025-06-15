@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Atún claro al natural Hacendado",
+            "value": "At\u00fan claro al natural Hacendado",
             "previous": [],
             "timestamp": 1742983415
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983415
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/18018/atun-claro-natural-hacendado",
+            "value": "https:\/\/tienda.mercadona.es\/product\/18018\/atun-claro-natural-hacendado",
             "previous": [],
             "timestamp": 1742983415
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983415
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/69aa188c64eb23f4855d6739832b09c1.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/69aa188c64eb23f4855d6739832b09c1.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983415
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983415,
-        "updated_at": 1743023255,
-        "updates": 2
+        "updated_at": 1749739166,
+        "updates": 3
     }
 }

@@ -20,7 +20,7 @@
                     "timestamp": 1742983332
                 },
                 "name": {
-                    "value": "Azúcar, caramelos y chocolate",
+                    "value": "Az\u00facar, caramelos y chocolate",
                     "previous": [],
                     "timestamp": 1742983332
                 },
@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Chocolate con leche extrafino Nestlé",
+            "value": "Chocolate con leche extrafino Nestl\u00e9",
             "previous": [],
             "timestamp": 1742983332
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983332
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/12562/chocolate-con-leche-extrafino-nestle-tableta",
+            "value": "https:\/\/tienda.mercadona.es\/product\/12562\/chocolate-con-leche-extrafino-nestle-tableta",
             "previous": [],
             "timestamp": 1742983332
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983332
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/6d4493059b57f30791e988a4a0dda4e3.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983332
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/7a4e8315c137885709465194698696b4.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/6d4493059b57f30791e988a4a0dda4e3.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983332
+                }
+            ],
+            "timestamp": 1749739048
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983332,
-        "updated_at": 1743023162,
-        "updates": 2
+        "updated_at": 1749739048,
+        "updates": 3
     }
 }

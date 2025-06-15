@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Bálsamo reparador labios Deliplus",
+            "value": "B\u00e1lsamo reparador labios Deliplus",
             "previous": [],
             "timestamp": 1742983494
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983494
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/22804/balsamo-reparador-labios-deliplus-con-aloe-vera-vitamina",
+            "value": "https:\/\/tienda.mercadona.es\/product\/22804\/balsamo-reparador-labios-deliplus-con-aloe-vera-vitamina",
             "previous": [],
             "timestamp": 1742983494
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983494
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/5527cb6cab891dc71b2f0feb9a507fe6.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983494
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/6e227a613b154d85d352138fa49b2b90.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/5527cb6cab891dc71b2f0feb9a507fe6.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983494
+                }
+            ],
+            "timestamp": 1749739290
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983494,
-        "updated_at": 1743023346,
-        "updates": 2
+        "updated_at": 1749739290,
+        "updates": 3
     }
 }

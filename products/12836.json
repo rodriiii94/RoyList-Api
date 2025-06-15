@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739258
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739258
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 26,
+                    "previous": [],
+                    "timestamp": 1749739258
+                },
+                "name": {
+                    "value": "Limpieza y hogar",
+                    "previous": [],
+                    "timestamp": 1749739258
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739258
+                },
+                "order": {
+                    "value": 374,
+                    "previous": [],
+                    "timestamp": 1749739258
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Trampa con cebo contra hormigas Bosque Verde",
+            "previous": [],
+            "timestamp": 1749739258
+        },
+        "id": {
+            "value": "12836",
+            "previous": [],
+            "timestamp": 1749739258
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739258
+        },
+        "packaging": {
+            "value": "Caja",
+            "previous": [],
+            "timestamp": 1749739258
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1749739258
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739258
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739258
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739258
+            },
+            "unit_name": {
+                "value": "ud.",
+                "previous": [],
+                "timestamp": 1749739258
+            },
+            "unit_size": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739258
+            },
+            "bulk_price": {
+                "value": "1.20",
+                "previous": [],
+                "timestamp": 1749739258
+            },
+            "unit_price": {
+                "value": "3.60",
+                "previous": [],
+                "timestamp": 1749739258
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739258
+            },
+            "size_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1749739258
+            },
+            "total_units": {
+                "value": 3,
+                "previous": [],
+                "timestamp": 1749739258
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739258
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739258
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739258
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739258
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1749739258
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739258
+            },
+            "reference_price": {
+                "value": "1.200",
+                "previous": [],
+                "timestamp": 1749739258
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739258
+            },
+            "reference_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1749739258
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739258
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739258
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739258
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/12836\/trampa-con-cebo-hormigas-bosque-verde-caja",
+            "previous": [],
+            "timestamp": 1749739258
+        },
+        "slug": {
+            "value": "trampa-con-cebo-hormigas-bosque-verde-caja",
+            "previous": [],
+            "timestamp": 1749739258
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739258
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/557a709cd399faca8dcc26ab9211b996.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739258
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739258
+        }
+    },
+    "stats": {
+        "created_at": 1749739258,
+        "updated_at": 1749739258,
+        "updates": 1
+    }
+}

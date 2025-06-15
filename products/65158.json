@@ -20,7 +20,7 @@
                     "timestamp": 1742983334
                 },
                 "name": {
-                    "value": "Azúcar, caramelos y chocolate",
+                    "value": "Az\u00facar, caramelos y chocolate",
                     "previous": [],
                     "timestamp": 1742983334
                 },
@@ -174,7 +174,7 @@
             "timestamp": 1742983334
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/65158/grageas-regaliz-hacendado-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/65158\/grageas-regaliz-hacendado-paquete",
             "previous": [],
             "timestamp": 1742983334
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983334
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/f52b62f0226f32ef2f9ff2c838751025.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983334
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/a425f6a1ed3dac56237c776d0458339e.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/f52b62f0226f32ef2f9ff2c838751025.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983334
+                }
+            ],
+            "timestamp": 1749739051
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983334,
-        "updated_at": 1743023164,
-        "updates": 2
+        "updated_at": 1749739051,
+        "updates": 3
     }
 }

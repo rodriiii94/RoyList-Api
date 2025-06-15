@@ -105,19 +105,34 @@
                 "timestamp": 1742983367
             },
             "unit_size": {
-                "value": 0.35,
-                "previous": [],
-                "timestamp": 1742983367
+                "value": 0.4,
+                "previous": [
+                    {
+                        "value": 0.35,
+                        "timestamp": 1742983367
+                    }
+                ],
+                "timestamp": 1749739098
             },
             "bulk_price": {
-                "value": "8.20",
-                "previous": [],
-                "timestamp": 1742983367
+                "value": "7.80",
+                "previous": [
+                    {
+                        "value": "8.20",
+                        "timestamp": 1742983367
+                    }
+                ],
+                "timestamp": 1749739098
             },
             "unit_price": {
-                "value": "2.87",
-                "previous": [],
-                "timestamp": 1742983367
+                "value": "3.12",
+                "previous": [
+                    {
+                        "value": "2.87",
+                        "timestamp": 1742983367
+                    }
+                ],
+                "timestamp": 1749739098
             },
             "approx_size": {
                 "value": true,
@@ -165,9 +180,14 @@
                 "timestamp": 1742983367
             },
             "reference_price": {
-                "value": "8.200",
-                "previous": [],
-                "timestamp": 1742983367
+                "value": "7.800",
+                "previous": [
+                    {
+                        "value": "8.200",
+                        "timestamp": 1742983367
+                    }
+                ],
+                "timestamp": 1749739098
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -196,7 +216,7 @@
             "timestamp": 1742983367
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/25353/solomillo-pavo-marinado-congelado-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/25353\/solomillo-pavo-marinado-congelado-paquete",
             "previous": [],
             "timestamp": 1742983367
         },
@@ -211,7 +231,7 @@
             "timestamp": 1742983367
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/5bb818d0e9762e82d926efb3ce16c8a9.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/5bb818d0e9762e82d926efb3ce16c8a9.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983367
         },
@@ -223,7 +243,7 @@
     },
     "stats": {
         "created_at": 1742983367,
-        "updated_at": 1743023240,
-        "updates": 4
+        "updated_at": 1749739145,
+        "updates": 6
     }
 }

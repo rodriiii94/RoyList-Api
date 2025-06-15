@@ -20,7 +20,7 @@
                     "timestamp": 1742983359
                 },
                 "name": {
-                    "value": "Cacao, café e infusiones",
+                    "value": "Cacao, caf\u00e9 e infusiones",
                     "previous": [],
                     "timestamp": 1742983359
                 },
@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Café con leche en cápsula Hacendado",
+            "value": "Caf\u00e9 con leche en c\u00e1psula Hacendado",
             "previous": [],
             "timestamp": 1742983359
         },
@@ -78,7 +78,7 @@
                 "timestamp": 1742983359
             },
             "unit_name": {
-                "value": "cápsulas",
+                "value": "c\u00e1psulas",
                 "previous": [],
                 "timestamp": 1742983359
             },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983359
             },
             "bulk_price": {
-                "value": "0.21",
-                "previous": [],
-                "timestamp": 1742983359
+                "value": "0.22",
+                "previous": [
+                    {
+                        "value": "0.21",
+                        "timestamp": 1742983359
+                    }
+                ],
+                "timestamp": 1749739085
             },
             "unit_price": {
-                "value": "3.30",
-                "previous": [],
-                "timestamp": 1742983359
+                "value": "3.55",
+                "previous": [
+                    {
+                        "value": "3.30",
+                        "timestamp": 1742983359
+                    }
+                ],
+                "timestamp": 1749739085
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983359
             },
             "reference_price": {
-                "value": "21.485",
-                "previous": [],
-                "timestamp": 1742983359
+                "value": "23.112",
+                "previous": [
+                    {
+                        "value": "21.485",
+                        "timestamp": 1742983359
+                    }
+                ],
+                "timestamp": 1749739085
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -158,9 +173,14 @@
                 "timestamp": 1742983359
             },
             "previous_unit_price": {
-                "value": "        4.00",
-                "previous": [],
-                "timestamp": 1742983359
+                "value": null,
+                "previous": [
+                    {
+                        "value": "        4.00",
+                        "timestamp": 1742983359
+                    }
+                ],
+                "timestamp": 1749739085
             },
             "increment_bunch_amount": {
                 "value": 1,
@@ -174,7 +194,7 @@
             "timestamp": 1742983359
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/86348/cafe-con-leche-capsula-hacendado-compatibles-maquinas-dolce-gusto-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/86348\/cafe-con-leche-capsula-hacendado-compatibles-maquinas-dolce-gusto-caja",
             "previous": [],
             "timestamp": 1742983359
         },
@@ -189,7 +209,7 @@
             "timestamp": 1742983359
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/8551a9aa5574d1ddcb776b548b126588.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/8551a9aa5574d1ddcb776b548b126588.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983359
         },
@@ -201,7 +221,7 @@
     },
     "stats": {
         "created_at": 1742983359,
-        "updated_at": 1743023192,
-        "updates": 2
+        "updated_at": 1749739085,
+        "updates": 3
     }
 }

@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Snack barritas perro adulto de pollo e hígado Compy",
+            "value": "Snack barritas perro adulto de pollo e h\u00edgado Compy",
             "previous": [],
             "timestamp": 1742983511
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983511
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/22009/snack-barritas-perro-adulto-pollo-higado-compy-pack-8",
+            "value": "https:\/\/tienda.mercadona.es\/product\/22009\/snack-barritas-perro-adulto-pollo-higado-compy-pack-8",
             "previous": [],
             "timestamp": 1742983511
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983511
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/17de9c32ee10ae75f0251d075d4993da.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/17de9c32ee10ae75f0251d075d4993da.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983511
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983511,
-        "updated_at": 1743023363,
-        "updates": 2
+        "updated_at": 1749739316,
+        "updates": 3
     }
 }

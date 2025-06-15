@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Gel anticelulítico efecto frío Deliplus",
+            "value": "Gel anticelul\u00edtico efecto fr\u00edo Deliplus",
             "previous": [],
             "timestamp": 1742983433
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983433
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/46808/gel-anticelulitico-efecto-frio-deliplus-bote",
+            "value": "https:\/\/tienda.mercadona.es\/product\/46808\/gel-anticelulitico-efecto-frio-deliplus-bote",
             "previous": [],
             "timestamp": 1742983433
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983433
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/570ec27885bd868cadf8a3bb144e1c92.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/570ec27885bd868cadf8a3bb144e1c92.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983433
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983433,
-        "updated_at": 1743023277,
-        "updates": 2
+        "updated_at": 1749739195,
+        "updates": 3
     }
 }

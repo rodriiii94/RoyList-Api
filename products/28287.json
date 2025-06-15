@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Agua mineral pequeña Aguadoy tapón infantil",
+            "value": "Agua mineral peque\u00f1a Aguadoy tap\u00f3n infantil",
             "previous": [],
             "timestamp": 1742983311
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983311
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/28287/agua-mineral-pequena-aguadoy-tapon-infantil-mineralizacion-debil-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/28287\/agua-mineral-pequena-aguadoy-tapon-infantil-mineralizacion-debil-botella",
             "previous": [],
             "timestamp": 1742983311
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983311
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/f528b4c9b4a5a8af22a075c9f8de08c5.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/f528b4c9b4a5a8af22a075c9f8de08c5.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983311
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983311,
-        "updated_at": 1743023135,
-        "updates": 2
+        "updated_at": 1749739014,
+        "updates": 3
     }
 }

@@ -196,7 +196,7 @@
             "timestamp": 1742983405
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/62403/palitos-surimi-hacendado-ultracongelados-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/62403\/palitos-surimi-hacendado-ultracongelados-paquete",
             "previous": [],
             "timestamp": 1742983405
         },
@@ -211,7 +211,7 @@
             "timestamp": 1742983405
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/50b16e7d62acb06ea3b3983c4bd5e7fb.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/50b16e7d62acb06ea3b3983c4bd5e7fb.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983405
         },
@@ -223,7 +223,7 @@
     },
     "stats": {
         "created_at": 1742983405,
-        "updated_at": 1743023353,
-        "updates": 4
+        "updated_at": 1749739301,
+        "updates": 6
     }
 }

@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Néctar de piña La Verja",
+            "value": "N\u00e9ctar de pi\u00f1a La Verja",
             "previous": [],
             "timestamp": 1742983554
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983554
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/39100/nectar-pina-verja-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/39100\/nectar-pina-verja-botella",
             "previous": [],
             "timestamp": 1742983554
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983554
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/94bec43b3562a298f317e140ac71f145.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/94bec43b3562a298f317e140ac71f145.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983554
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983554,
-        "updated_at": 1743023407,
-        "updates": 2
+        "updated_at": 1749739374,
+        "updates": 3
     }
 }

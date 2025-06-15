@@ -174,7 +174,7 @@
             "timestamp": 1742983423
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/16012/tomate-tamizado-sin-piel-hacendado-freir-brick",
+            "value": "https:\/\/tienda.mercadona.es\/product\/16012\/tomate-tamizado-sin-piel-hacendado-freir-brick",
             "previous": [],
             "timestamp": 1742983423
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983423
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/3c01bf24b3d8134f7023d9360cb3c8b5.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983423
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/9f10fd49b839d3ba386a892572ffdf79.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/3c01bf24b3d8134f7023d9360cb3c8b5.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983423
+                }
+            ],
+            "timestamp": 1749739177
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983423,
-        "updated_at": 1743023264,
-        "updates": 2
+        "updated_at": 1749739177,
+        "updates": 3
     }
 }

@@ -20,7 +20,7 @@
                     "timestamp": 1742983359
                 },
                 "name": {
-                    "value": "Cacao, café e infusiones",
+                    "value": "Cacao, caf\u00e9 e infusiones",
                     "previous": [],
                     "timestamp": 1742983359
                 },
@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Café monodosis natural Hacendado",
+            "value": "Caf\u00e9 monodosis natural Hacendado",
             "previous": [],
             "timestamp": 1742983359
         },
@@ -93,9 +93,14 @@
                 "timestamp": 1742983359
             },
             "unit_price": {
-                "value": "2.75",
-                "previous": [],
-                "timestamp": 1742983359
+                "value": "3.00",
+                "previous": [
+                    {
+                        "value": "2.75",
+                        "timestamp": 1742983359
+                    }
+                ],
+                "timestamp": 1749739086
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +148,14 @@
                 "timestamp": 1742983359
             },
             "reference_price": {
-                "value": "12.277",
-                "previous": [],
-                "timestamp": 1742983359
+                "value": "13.393",
+                "previous": [
+                    {
+                        "value": "12.277",
+                        "timestamp": 1742983359
+                    }
+                ],
+                "timestamp": 1749739086
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +184,7 @@
             "timestamp": 1742983359
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/11770/cafe-monodosis-natural-hacendado-compatibles-sistema-senseo-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/11770\/cafe-monodosis-natural-hacendado-compatibles-sistema-senseo-paquete",
             "previous": [],
             "timestamp": 1742983359
         },
@@ -189,7 +199,7 @@
             "timestamp": 1742983359
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/5b01548aae218ce91df7725f91897bc0.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/5b01548aae218ce91df7725f91897bc0.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983359
         },
@@ -201,7 +211,7 @@
     },
     "stats": {
         "created_at": 1742983359,
-        "updated_at": 1743023192,
-        "updates": 2
+        "updated_at": 1749739086,
+        "updates": 3
     }
 }

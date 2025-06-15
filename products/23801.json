@@ -174,7 +174,7 @@
             "timestamp": 1742983479
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/23801/quitagrasas-kh-7-con-pistola-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/23801\/quitagrasas-kh-7-con-pistola-botella",
             "previous": [],
             "timestamp": 1742983479
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983479
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/afe472e40a5cdce8cd51b3db3ecdf15d.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/afe472e40a5cdce8cd51b3db3ecdf15d.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983479
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983479,
-        "updated_at": 1743023329,
-        "updates": 2
+        "updated_at": 1749739269,
+        "updates": 3
     }
 }

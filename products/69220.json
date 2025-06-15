@@ -83,9 +83,14 @@
                 "timestamp": 1742983459
             },
             "unit_size": {
-                "value": 0.99,
-                "previous": [],
-                "timestamp": 1742983459
+                "value": 1.1,
+                "previous": [
+                    {
+                        "value": 0.99,
+                        "timestamp": 1742983459
+                    }
+                ],
+                "timestamp": 1749739239
             },
             "bulk_price": {
                 "value": "2.00",
@@ -93,9 +98,14 @@
                 "timestamp": 1742983459
             },
             "unit_price": {
-                "value": "1.98",
-                "previous": [],
-                "timestamp": 1742983459
+                "value": "2.20",
+                "previous": [
+                    {
+                        "value": "1.98",
+                        "timestamp": 1742983459
+                    }
+                ],
+                "timestamp": 1749739239
             },
             "approx_size": {
                 "value": true,
@@ -174,7 +184,7 @@
             "timestamp": 1742983459
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/69220/coliflor-pieza",
+            "value": "https:\/\/tienda.mercadona.es\/product\/69220\/coliflor-pieza",
             "previous": [],
             "timestamp": 1742983459
         },
@@ -189,7 +199,7 @@
             "timestamp": 1742983459
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/6d23e41208a9f845dbde60697cb4d5d2.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/6d23e41208a9f845dbde60697cb4d5d2.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983459
         },
@@ -201,7 +211,7 @@
     },
     "stats": {
         "created_at": 1742983459,
-        "updated_at": 1743023307,
-        "updates": 2
+        "updated_at": 1749739239,
+        "updates": 3
     }
 }

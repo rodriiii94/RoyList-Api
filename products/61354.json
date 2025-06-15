@@ -88,14 +88,24 @@
                 "timestamp": 1742983399
             },
             "bulk_price": {
-                "value": "5.25",
-                "previous": [],
-                "timestamp": 1742983399
+                "value": "5.00",
+                "previous": [
+                    {
+                        "value": "5.25",
+                        "timestamp": 1742983399
+                    }
+                ],
+                "timestamp": 1749739143
             },
             "unit_price": {
-                "value": "3.15",
-                "previous": [],
-                "timestamp": 1742983399
+                "value": "3.00",
+                "previous": [
+                    {
+                        "value": "3.15",
+                        "timestamp": 1742983399
+                    }
+                ],
+                "timestamp": 1749739143
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983399
             },
             "reference_price": {
-                "value": "5.250",
-                "previous": [],
-                "timestamp": 1742983399
+                "value": "5.000",
+                "previous": [
+                    {
+                        "value": "5.250",
+                        "timestamp": 1742983399
+                    }
+                ],
+                "timestamp": 1749739143
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983399
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/61354/gnocchi-pollo-verduras-hacendado-ultracongelados-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/61354\/gnocchi-pollo-verduras-hacendado-ultracongelados-paquete",
             "previous": [],
             "timestamp": 1742983399
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983399
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/6e25934ac65230dac50e5e895f5ef52d.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/6e25934ac65230dac50e5e895f5ef52d.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983399
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983399,
-        "updated_at": 1743023238,
-        "updates": 2
+        "updated_at": 1749739143,
+        "updates": 3
     }
 }

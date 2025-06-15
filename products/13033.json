@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739289
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739289
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 22,
+                    "previous": [],
+                    "timestamp": 1749739289
+                },
+                "name": {
+                    "value": "Maquillaje",
+                    "previous": [],
+                    "timestamp": 1749739289
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739289
+                },
+                "order": {
+                    "value": 421,
+                    "previous": [],
+                    "timestamp": 1749739289
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Polvo compacto perfeccionador efecto seda Deliplus 300 cappuccino",
+            "previous": [],
+            "timestamp": 1749739289
+        },
+        "id": {
+            "value": "13033",
+            "previous": [],
+            "timestamp": 1749739289
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739289
+        },
+        "packaging": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739289
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1749739289
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739289
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739289
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739289
+            },
+            "unit_name": {
+                "value": "ud.",
+                "previous": [],
+                "timestamp": 1749739289
+            },
+            "unit_size": {
+                "value": 0.01,
+                "previous": [],
+                "timestamp": 1749739289
+            },
+            "bulk_price": {
+                "value": "6.00",
+                "previous": [],
+                "timestamp": 1749739289
+            },
+            "unit_price": {
+                "value": "6.00",
+                "previous": [],
+                "timestamp": 1749739289
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739289
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1749739289
+            },
+            "total_units": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739289
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739289
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739289
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739289
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739289
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1749739289
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739289
+            },
+            "reference_price": {
+                "value": "6.000",
+                "previous": [],
+                "timestamp": 1749739289
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739289
+            },
+            "reference_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1749739289
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739289
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739289
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739289
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/13033\/polvo-compacto-perfeccionador-efecto-seda-deliplus-300-cappuccino",
+            "previous": [],
+            "timestamp": 1749739289
+        },
+        "slug": {
+            "value": "polvo-compacto-perfeccionador-efecto-seda-deliplus-300-cappuccino",
+            "previous": [],
+            "timestamp": 1749739289
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739289
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/988507c2ed0c13d34a99ae18f2db43e0.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739289
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739289
+        }
+    },
+    "stats": {
+        "created_at": 1749739289,
+        "updated_at": 1749739289,
+        "updates": 1
+    }
+}

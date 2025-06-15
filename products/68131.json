@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Judía verde plana",
+            "value": "Jud\u00eda verde plana",
             "previous": [],
             "timestamp": 1742983459
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983459
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/68131/judia-verde-plana-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/68131\/judia-verde-plana-paquete",
             "previous": [],
             "timestamp": 1742983459
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983459
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/5515ca89e69b67a1664edbe0c85da6b6.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/5515ca89e69b67a1664edbe0c85da6b6.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983459
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983459,
-        "updated_at": 1743023308,
-        "updates": 2
+        "updated_at": 1749739240,
+        "updates": 3
     }
 }

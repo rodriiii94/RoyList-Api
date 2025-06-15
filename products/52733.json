@@ -88,14 +88,24 @@
                 "timestamp": 1742983320
             },
             "bulk_price": {
-                "value": "3.00",
-                "previous": [],
-                "timestamp": 1742983320
+                "value": "2.86",
+                "previous": [
+                    {
+                        "value": "3.00",
+                        "timestamp": 1742983320
+                    }
+                ],
+                "timestamp": 1749739028
             },
             "unit_price": {
-                "value": "3.15",
-                "previous": [],
-                "timestamp": 1742983320
+                "value": "3.00",
+                "previous": [
+                    {
+                        "value": "3.15",
+                        "timestamp": 1742983320
+                    }
+                ],
+                "timestamp": 1749739028
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983320
             },
             "reference_price": {
-                "value": "7.000",
-                "previous": [],
-                "timestamp": 1742983320
+                "value": "6.667",
+                "previous": [
+                    {
+                        "value": "7.000",
+                        "timestamp": 1742983320
+                    }
+                ],
+                "timestamp": 1749739028
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -158,7 +173,7 @@
                 "timestamp": 1742983320
             },
             "previous_unit_price": {
-                "value": null,
+                "value": "        3.15",
                 "previous": [],
                 "timestamp": 1742983320
             },
@@ -174,7 +189,7 @@
             "timestamp": 1742983320
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/52733/aceitunas-negras-hacendado-sin-hueso-pack-3",
+            "value": "https:\/\/tienda.mercadona.es\/product\/52733\/aceitunas-negras-hacendado-sin-hueso-pack-3",
             "previous": [],
             "timestamp": 1742983320
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983320
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/1bfe0d0a138138e33e66a6e70f8b483a.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/1bfe0d0a138138e33e66a6e70f8b483a.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983320
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983320,
-        "updated_at": 1743023146,
-        "updates": 2
+        "updated_at": 1749739028,
+        "updates": 3
     }
 }

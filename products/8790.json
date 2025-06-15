@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Bebida de naranja Hacendado sin azúcares añadidos",
+            "value": "Bebida de naranja Hacendado sin az\u00facares a\u00f1adidos",
             "previous": [],
             "timestamp": 1742983555
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983555
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/8790/bebida-naranja-hacendado-sin-azucares-anadidos-brick",
+            "value": "https:\/\/tienda.mercadona.es\/product\/8790\/bebida-naranja-hacendado-sin-azucares-anadidos-brick",
             "previous": [],
             "timestamp": 1742983555
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983555
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/2c3ce2898f172e31f10ff87f08dafd37.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/2c3ce2898f172e31f10ff87f08dafd37.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983555
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983555,
-        "updated_at": 1743023409,
-        "updates": 2
+        "updated_at": 1749739375,
+        "updates": 3
     }
 }

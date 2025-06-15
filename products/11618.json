@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739129
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739129
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 4,
+                    "previous": [],
+                    "timestamp": 1749739129
+                },
+                "name": {
+                    "value": "Charcuter\u00eda y quesos",
+                    "previous": [],
+                    "timestamp": 1749739129
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739129
+                },
+                "order": {
+                    "value": 159,
+                    "previous": [],
+                    "timestamp": 1749739129
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Lomo de bellota 100% ib\u00e9rico La Hacienda del Ib\u00e9rico",
+            "previous": [],
+            "timestamp": 1749739129
+        },
+        "id": {
+            "value": "11618",
+            "previous": [],
+            "timestamp": 1749739129
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739129
+        },
+        "packaging": {
+            "value": "Pieza",
+            "previous": [],
+            "timestamp": 1749739129
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1749739129
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739129
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739129
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739129
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739129
+            },
+            "unit_size": {
+                "value": 1.09,
+                "previous": [],
+                "timestamp": 1749739129
+            },
+            "bulk_price": {
+                "value": "52.00",
+                "previous": [],
+                "timestamp": 1749739129
+            },
+            "unit_price": {
+                "value": "56.68",
+                "previous": [],
+                "timestamp": 1749739129
+            },
+            "approx_size": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739129
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1749739129
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739129
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739129
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739129
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739129
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739129
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1749739129
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739129
+            },
+            "reference_price": {
+                "value": "52.000",
+                "previous": [],
+                "timestamp": 1749739129
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739129
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1749739129
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739129
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739129
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739129
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/11618\/lomo-bellota-100-iberico-hacienda-iberico-pieza",
+            "previous": [],
+            "timestamp": 1749739129
+        },
+        "slug": {
+            "value": "lomo-bellota-100-iberico-hacienda-iberico-pieza",
+            "previous": [],
+            "timestamp": 1749739129
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739129
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/b8cb3850a8ca6f15d3510844e2128df6.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739129
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739129
+        }
+    },
+    "stats": {
+        "created_at": 1749739129,
+        "updated_at": 1749739129,
+        "updates": 1
+    }
+}

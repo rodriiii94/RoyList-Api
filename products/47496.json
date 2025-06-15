@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Pañal adulto braguita talla L Deliplus Pants Plus",
+            "value": "Pa\u00f1al adulto braguita talla L Deliplus Pants Plus",
             "previous": [],
             "timestamp": 1742983444
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983444
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/47496/panal-adulto-braguita-talla-l-deliplus-pants-plus-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/47496\/panal-adulto-braguita-talla-l-deliplus-pants-plus-paquete",
             "previous": [],
             "timestamp": 1742983444
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983444
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/e532039dd3b67d533352cf22ad0f7ffd.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/e532039dd3b67d533352cf22ad0f7ffd.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983444
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983444,
-        "updated_at": 1743023290,
-        "updates": 2
+        "updated_at": 1749739215,
+        "updates": 3
     }
 }

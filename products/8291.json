@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Bálsamo labial Color Balm Deliplus 10 coral",
+            "value": "B\u00e1lsamo labial Color Balm Deliplus 10 coral",
             "previous": [],
             "timestamp": 1742983494
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983494
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/8291/balsamo-labial-color-balm-deliplus-10-coral",
+            "value": "https:\/\/tienda.mercadona.es\/product\/8291\/balsamo-labial-color-balm-deliplus-10-coral",
             "previous": [],
             "timestamp": 1742983494
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983494
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/ec0c0669b4da355714a553ac5f922d7c.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/ec0c0669b4da355714a553ac5f922d7c.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983494
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983494,
-        "updated_at": 1743023347,
-        "updates": 2
+        "updated_at": 1749739291,
+        "updates": 3
     }
 }

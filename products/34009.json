@@ -174,7 +174,7 @@
             "timestamp": 1742983321
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/34009/almendra-frita-salada-hacendado-pelada-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/34009\/almendra-frita-salada-hacendado-pelada-paquete",
             "previous": [],
             "timestamp": 1742983321
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983321
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/90bb181b5294b5a7b99001da3764e7d3.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/90bb181b5294b5a7b99001da3764e7d3.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983321
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983321,
-        "updated_at": 1743023148,
-        "updates": 2
+        "updated_at": 1749739030,
+        "updates": 3
     }
 }

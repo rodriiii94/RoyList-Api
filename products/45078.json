@@ -174,7 +174,7 @@
             "timestamp": 1742983439
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/45078/desodorante-roll-on-active-control-sanex-men-antitranspirante-0-alcohol",
+            "value": "https:\/\/tienda.mercadona.es\/product\/45078\/desodorante-roll-on-active-control-sanex-men-antitranspirante-0-alcohol",
             "previous": [],
             "timestamp": 1742983439
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983439
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/daef4d683b5093c1138a0f4473558aa2.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/daef4d683b5093c1138a0f4473558aa2.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983439
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983439,
-        "updated_at": 1743023283,
-        "updates": 2
+        "updated_at": 1749739204,
+        "updates": 3
     }
 }

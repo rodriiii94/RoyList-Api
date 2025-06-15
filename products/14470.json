@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739232
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739232
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 1,
+                    "previous": [],
+                    "timestamp": 1749739232
+                },
+                "name": {
+                    "value": "Fruta y verdura",
+                    "previous": [],
+                    "timestamp": 1749739232
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739232
+                },
+                "order": {
+                    "value": 306,
+                    "previous": [],
+                    "timestamp": 1749739232
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Peras Conferencia",
+            "previous": [],
+            "timestamp": 1749739232
+        },
+        "id": {
+            "value": "14470",
+            "previous": [],
+            "timestamp": 1749739232
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739232
+        },
+        "packaging": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739232
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 4,
+                "previous": [],
+                "timestamp": 1749739232
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739232
+            },
+            "is_pack": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739232
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739232
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739232
+            },
+            "unit_size": {
+                "value": 1.06,
+                "previous": [],
+                "timestamp": 1749739232
+            },
+            "bulk_price": {
+                "value": "2.50",
+                "previous": [],
+                "timestamp": 1749739232
+            },
+            "unit_price": {
+                "value": "2.65",
+                "previous": [],
+                "timestamp": 1749739232
+            },
+            "approx_size": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739232
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1749739232
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739232
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739232
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739232
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739232
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739232
+            },
+            "tax_percentage": {
+                "value": "4.000",
+                "previous": [],
+                "timestamp": 1749739232
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739232
+            },
+            "reference_price": {
+                "value": "2.500",
+                "previous": [],
+                "timestamp": 1749739232
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739232
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1749739232
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739232
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739232
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739232
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/14470\/peras-conferencia",
+            "previous": [],
+            "timestamp": 1749739232
+        },
+        "slug": {
+            "value": "peras-conferencia",
+            "previous": [],
+            "timestamp": 1749739232
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739232
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/a771fcc948ab41681d118b0b8de7ddaf.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739232
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739232
+        }
+    },
+    "stats": {
+        "created_at": 1749739232,
+        "updated_at": 1749739232,
+        "updates": 1
+    }
+}

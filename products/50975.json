@@ -20,7 +20,7 @@
                     "timestamp": 1742983394
                 },
                 "name": {
-                    "value": "Charcutería y quesos",
+                    "value": "Charcuter\u00eda y quesos",
                     "previous": [],
                     "timestamp": 1742983394
                 },
@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Queso añejo fuerte de oveja Hacendado",
+            "value": "Queso a\u00f1ejo fuerte de oveja Hacendado",
             "previous": [],
             "timestamp": 1742983394
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983394
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/50975/queso-anejo-fuerte-oveja-hacendado-pieza",
+            "value": "https:\/\/tienda.mercadona.es\/product\/50975\/queso-anejo-fuerte-oveja-hacendado-pieza",
             "previous": [],
             "timestamp": 1742983394
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983394
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/7c345b7547f9405537d744b1fcd5a6cd.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/7c345b7547f9405537d744b1fcd5a6cd.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983394
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983394,
-        "updated_at": 1743023232,
-        "updates": 2
+        "updated_at": 1749739135,
+        "updates": 3
     }
 }

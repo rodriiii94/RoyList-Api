@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739192
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739192
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 20,
+                    "previous": [],
+                    "timestamp": 1749739192
+                },
+                "name": {
+                    "value": "Cuidado facial y corporal",
+                    "previous": [],
+                    "timestamp": 1749739192
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739192
+                },
+                "order": {
+                    "value": 241,
+                    "previous": [],
+                    "timestamp": 1749739192
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Maquinilla de afeitar recargable Deliplus Flection System 6 hojas",
+            "previous": [],
+            "timestamp": 1749739192
+        },
+        "id": {
+            "value": "8900",
+            "previous": [],
+            "timestamp": 1749739192
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739192
+        },
+        "packaging": {
+            "value": "Caja",
+            "previous": [],
+            "timestamp": 1749739192
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1749739192
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739192
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739192
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739192
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739192
+            },
+            "unit_size": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739192
+            },
+            "bulk_price": {
+                "value": "6.95",
+                "previous": [],
+                "timestamp": 1749739192
+            },
+            "unit_price": {
+                "value": "6.95",
+                "previous": [],
+                "timestamp": 1749739192
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739192
+            },
+            "size_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1749739192
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739192
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739192
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739192
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739192
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739192
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1749739192
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739192
+            },
+            "reference_price": {
+                "value": "6.950",
+                "previous": [],
+                "timestamp": 1749739192
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739192
+            },
+            "reference_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1749739192
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739192
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739192
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739192
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/8900\/maquinilla-afeitar-recargable-deliplus-flection-system-6-hojas-caja",
+            "previous": [],
+            "timestamp": 1749739192
+        },
+        "slug": {
+            "value": "maquinilla-afeitar-recargable-deliplus-flection-system-6-hojas-caja",
+            "previous": [],
+            "timestamp": 1749739192
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739192
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/dca6106505111ca6054d7ffe3d648faf.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739192
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739192
+        }
+    },
+    "stats": {
+        "created_at": 1749739192,
+        "updated_at": 1749739192,
+        "updates": 1
+    }
+}

@@ -180,9 +180,14 @@
                 "timestamp": 1742983327
             },
             "previous_unit_price": {
-                "value": "        1.00",
-                "previous": [],
-                "timestamp": 1742983327
+                "value": null,
+                "previous": [
+                    {
+                        "value": "        1.00",
+                        "timestamp": 1742983327
+                    }
+                ],
+                "timestamp": 1749739042
             },
             "increment_bunch_amount": {
                 "value": 1,
@@ -196,7 +201,7 @@
             "timestamp": 1742983327
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/22455/fideos-orientales-sabor-picante-hacendado-vaso",
+            "value": "https:\/\/tienda.mercadona.es\/product\/22455\/fideos-orientales-sabor-picante-hacendado-vaso",
             "previous": [],
             "timestamp": 1742983327
         },
@@ -211,7 +216,7 @@
             "timestamp": 1742983327
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/8bec671f939d6c273b8889b95bf5eae2.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/8bec671f939d6c273b8889b95bf5eae2.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983327
         },
@@ -223,7 +228,7 @@
     },
     "stats": {
         "created_at": 1742983327,
-        "updated_at": 1743023387,
-        "updates": 4
+        "updated_at": 1749739348,
+        "updates": 6
     }
 }

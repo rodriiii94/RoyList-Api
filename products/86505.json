@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Margarina Tulipán Original",
+            "value": "Margarina Tulip\u00e1n Original",
             "previous": [],
             "timestamp": 1742983465
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983465
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/86505/margarina-tulipan-original-tarrina",
+            "value": "https:\/\/tienda.mercadona.es\/product\/86505\/margarina-tulipan-original-tarrina",
             "previous": [],
             "timestamp": 1742983465
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983465
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/3cceb0f1e6afce6f8c9571c9f5097156.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/3cceb0f1e6afce6f8c9571c9f5097156.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983465
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983465,
-        "updated_at": 1743023314,
-        "updates": 2
+        "updated_at": 1749739250,
+        "updates": 3
     }
 }

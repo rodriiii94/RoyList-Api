@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Bebida isotónica Iso On blue Hacendado",
+            "value": "Bebida isot\u00f3nica Iso On blue Hacendado",
             "previous": [],
             "timestamp": 1742983312
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983312
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/29410/bebida-isotonica-iso-on-blue-hacendado-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/29410\/bebida-isotonica-iso-on-blue-hacendado-botella",
             "previous": [],
             "timestamp": 1742983312
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983312
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/044f65fd5acca63de371c05a2747db19.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/044f65fd5acca63de371c05a2747db19.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983312
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983312,
-        "updated_at": 1743023137,
-        "updates": 2
+        "updated_at": 1749739016,
+        "updates": 3
     }
 }

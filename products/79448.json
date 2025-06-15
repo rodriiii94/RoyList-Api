@@ -169,7 +169,7 @@
             "timestamp": 1742983470
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/79448/ambientador-coche-marine-bosque-verde-incluye-difusor-2-recambios-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/79448\/ambientador-coche-marine-bosque-verde-incluye-difusor-2-recambios-paquete",
             "previous": [],
             "timestamp": 1742983470
         },
@@ -184,7 +184,7 @@
             "timestamp": 1742983470
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/b470b56f565272913653ac326e95efed.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/b470b56f565272913653ac326e95efed.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983470
         },
@@ -196,7 +196,7 @@
     },
     "stats": {
         "created_at": 1742983470,
-        "updated_at": 1743023321,
-        "updates": 2
+        "updated_at": 1749739259,
+        "updates": 3
     }
 }

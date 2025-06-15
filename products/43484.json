@@ -174,7 +174,7 @@
             "timestamp": 1742983477
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/43484/colgador-wc-azul-limpieza-activa-bosque-verde-triple-accion-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/43484\/colgador-wc-azul-limpieza-activa-bosque-verde-triple-accion-paquete",
             "previous": [],
             "timestamp": 1742983477
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983477
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/da7803a87e1a2a18588249dc80366124.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/da7803a87e1a2a18588249dc80366124.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983477
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983477,
-        "updated_at": 1743023328,
-        "updates": 2
+        "updated_at": 1749739267,
+        "updates": 3
     }
 }

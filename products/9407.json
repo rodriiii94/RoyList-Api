@@ -20,7 +20,7 @@
                     "timestamp": 1742983337
                 },
                 "name": {
-                    "value": "Bebé",
+                    "value": "Beb\u00e9",
                     "previous": [],
                     "timestamp": 1742983337
                 },
@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Leche de continuación en polvo 2 Nativa Nestlé",
+            "value": "Leche de continuaci\u00f3n en polvo 2 Nativa Nestl\u00e9",
             "previous": [],
             "timestamp": 1742983337
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983337
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/9407/leche-continuacion-polvo-2-nativa-nestle-6-meses-bote",
+            "value": "https:\/\/tienda.mercadona.es\/product\/9407\/leche-continuacion-polvo-2-nativa-nestle-6-meses-bote",
             "previous": [],
             "timestamp": 1742983337
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983337
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/864398e89e2972bc707e121d6603e190.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/864398e89e2972bc707e121d6603e190.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983337
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983337,
-        "updated_at": 1743023168,
-        "updates": 2
+        "updated_at": 1749739056,
+        "updates": 3
     }
 }

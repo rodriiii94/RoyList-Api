@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Sérum Liss Frizz Control Deliplus iluminador",
+            "value": "S\u00e9rum Liss Frizz Control Deliplus iluminador",
             "previous": [],
             "timestamp": 1742983425
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983425
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/8896/serum-liss-frizz-control-deliplus-iluminador-con-proteccion-termica-bote",
+            "value": "https:\/\/tienda.mercadona.es\/product\/8896\/serum-liss-frizz-control-deliplus-iluminador-con-proteccion-termica-bote",
             "previous": [],
             "timestamp": 1742983425
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983425
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/dc064e3142b47f57d89ac3dd943b4f90.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/dc064e3142b47f57d89ac3dd943b4f90.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983425
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983425,
-        "updated_at": 1743023266,
-        "updates": 2
+        "updated_at": 1749739180,
+        "updates": 3
     }
 }

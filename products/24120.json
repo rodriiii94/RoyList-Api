@@ -59,7 +59,7 @@
             }
         ],
         "display_name": {
-            "value": "Nécora cocida Hacendado congelada",
+            "value": "N\u00e9cora cocida Hacendado congelada",
             "previous": [],
             "timestamp": 1742983405
         },
@@ -196,7 +196,7 @@
             "timestamp": 1742983405
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/24120/necora-cocida-hacendado-congelada-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/24120\/necora-cocida-hacendado-congelada-caja",
             "previous": [],
             "timestamp": 1742983405
         },
@@ -211,7 +211,7 @@
             "timestamp": 1742983405
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/8c905b9bdd50d7782edc2d06700f721c.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/8c905b9bdd50d7782edc2d06700f721c.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983405
         },
@@ -223,7 +223,7 @@
     },
     "stats": {
         "created_at": 1742983405,
-        "updated_at": 1743023353,
-        "updates": 4
+        "updated_at": 1749739300,
+        "updates": 6
     }
 }

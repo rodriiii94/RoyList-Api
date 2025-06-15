@@ -42,7 +42,7 @@
                     "timestamp": 1742983526
                 },
                 "name": {
-                    "value": "Panadería y pastelería",
+                    "value": "Panader\u00eda y pasteler\u00eda",
                     "previous": [],
                     "timestamp": 1742983526
                 },
@@ -196,7 +196,7 @@
             "timestamp": 1742983412
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/87602/tarta-selva-negra-hacendado-congelada-trufa-crema-cacao",
+            "value": "https:\/\/tienda.mercadona.es\/product\/87602\/tarta-selva-negra-hacendado-congelada-trufa-crema-cacao",
             "previous": [],
             "timestamp": 1742983412
         },
@@ -211,7 +211,7 @@
             "timestamp": 1742983412
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/4ed6f471f7487b6a10a5e8fb1b9dc589.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/4ed6f471f7487b6a10a5e8fb1b9dc589.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983412
         },
@@ -223,7 +223,7 @@
     },
     "stats": {
         "created_at": 1742983412,
-        "updated_at": 1743023379,
-        "updates": 4
+        "updated_at": 1749739338,
+        "updates": 6
     }
 }

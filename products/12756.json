@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739143
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739143
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 17,
+                    "previous": [],
+                    "timestamp": 1749739143
+                },
+                "name": {
+                    "value": "Congelados",
+                    "previous": [],
+                    "timestamp": 1749739143
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739143
+                },
+                "order": {
+                    "value": 213,
+                    "previous": [],
+                    "timestamp": 1749739143
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Arroz con verduras Hacendado ultracongelado",
+            "previous": [],
+            "timestamp": 1749739143
+        },
+        "id": {
+            "value": "12756",
+            "previous": [],
+            "timestamp": 1749739143
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739143
+        },
+        "packaging": {
+            "value": "Paquete",
+            "previous": [],
+            "timestamp": 1749739143
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 4,
+                "previous": [],
+                "timestamp": 1749739143
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739143
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739143
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739143
+            },
+            "unit_name": {
+                "value": "bolsitas",
+                "previous": [],
+                "timestamp": 1749739143
+            },
+            "unit_size": {
+                "value": 0.8,
+                "previous": [],
+                "timestamp": 1749739143
+            },
+            "bulk_price": {
+                "value": "2.50",
+                "previous": [],
+                "timestamp": 1749739143
+            },
+            "unit_price": {
+                "value": "2.00",
+                "previous": [],
+                "timestamp": 1749739143
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739143
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1749739143
+            },
+            "total_units": {
+                "value": 4,
+                "previous": [],
+                "timestamp": 1749739143
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739143
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739143
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739143
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739143
+            },
+            "tax_percentage": {
+                "value": "4.000",
+                "previous": [],
+                "timestamp": 1749739143
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739143
+            },
+            "reference_price": {
+                "value": "2.500",
+                "previous": [],
+                "timestamp": 1749739143
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739143
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1749739143
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739143
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739143
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739143
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/12756\/arroz-con-verduras-hacendado-ultracongelado-paquete",
+            "previous": [],
+            "timestamp": 1749739143
+        },
+        "slug": {
+            "value": "arroz-con-verduras-hacendado-ultracongelado-paquete",
+            "previous": [],
+            "timestamp": 1749739143
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739143
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/3ec70d5faabb7b56be94793ba994dc27.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739143
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739143
+        }
+    },
+    "stats": {
+        "created_at": 1749739143,
+        "updated_at": 1749739143,
+        "updates": 1
+    }
+}

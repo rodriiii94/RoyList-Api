@@ -20,7 +20,7 @@
                     "timestamp": 1742983394
                 },
                 "name": {
-                    "value": "Charcutería y quesos",
+                    "value": "Charcuter\u00eda y quesos",
                     "previous": [],
                     "timestamp": 1742983394
                 },
@@ -83,19 +83,34 @@
                 "timestamp": 1742983394
             },
             "unit_size": {
-                "value": 0.35,
-                "previous": [],
-                "timestamp": 1742983394
+                "value": 0.27,
+                "previous": [
+                    {
+                        "value": 0.35,
+                        "timestamp": 1742983394
+                    }
+                ],
+                "timestamp": 1749739135
             },
             "bulk_price": {
-                "value": "22.18",
-                "previous": [],
-                "timestamp": 1742983394
+                "value": "21.10",
+                "previous": [
+                    {
+                        "value": "22.18",
+                        "timestamp": 1742983394
+                    }
+                ],
+                "timestamp": 1749739135
             },
             "unit_price": {
-                "value": "7.76",
-                "previous": [],
-                "timestamp": 1742983394
+                "value": "5.70",
+                "previous": [
+                    {
+                        "value": "7.76",
+                        "timestamp": 1742983394
+                    }
+                ],
+                "timestamp": 1749739135
             },
             "approx_size": {
                 "value": true,
@@ -143,9 +158,14 @@
                 "timestamp": 1742983394
             },
             "reference_price": {
-                "value": "22.180",
-                "previous": [],
-                "timestamp": 1742983394
+                "value": "21.100",
+                "previous": [
+                    {
+                        "value": "22.180",
+                        "timestamp": 1742983394
+                    }
+                ],
+                "timestamp": 1749739135
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +194,7 @@
             "timestamp": 1742983394
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/50589/queso-curado-dop-manchego-oveja-hacendado-pieza",
+            "value": "https:\/\/tienda.mercadona.es\/product\/50589\/queso-curado-dop-manchego-oveja-hacendado-pieza",
             "previous": [],
             "timestamp": 1742983394
         },
@@ -189,7 +209,7 @@
             "timestamp": 1742983394
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/e802c7400b8db1203d22e5c39efb0e5e.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/e802c7400b8db1203d22e5c39efb0e5e.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983394
         },
@@ -201,7 +221,7 @@
     },
     "stats": {
         "created_at": 1742983394,
-        "updated_at": 1743023232,
-        "updates": 2
+        "updated_at": 1749739135,
+        "updates": 3
     }
 }

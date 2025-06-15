@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Rasqueta Vitrocerámicas Bosque Verde",
+            "value": "Rasqueta Vitrocer\u00e1micas Bosque Verde",
             "previous": [],
             "timestamp": 1742983479
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983479
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/9795/rasqueta-vitroceramicas-bosque-verde-contiene-5-recambios-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/9795\/rasqueta-vitroceramicas-bosque-verde-contiene-5-recambios-paquete",
             "previous": [],
             "timestamp": 1742983479
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983479
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/b34c3e6afdfb8079c6fa910f76dfb697.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/b34c3e6afdfb8079c6fa910f76dfb697.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983479
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983479,
-        "updated_at": 1743023330,
-        "updates": 2
+        "updated_at": 1749739270,
+        "updates": 3
     }
 }

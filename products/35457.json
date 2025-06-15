@@ -174,7 +174,7 @@
             "timestamp": 1742983471
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/35457/vela-perfumada-fruta-tropical-bosque-verde-pequena-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/35457\/vela-perfumada-fruta-tropical-bosque-verde-pequena-caja",
             "previous": [],
             "timestamp": 1742983471
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983471
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/866fc698b613a34d18b47a0a83de58b6.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/866fc698b613a34d18b47a0a83de58b6.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983471
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983471,
-        "updated_at": 1743023321,
-        "updates": 2
+        "updated_at": 1749739259,
+        "updates": 3
     }
 }

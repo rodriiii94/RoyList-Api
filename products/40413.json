@@ -161,6 +161,11 @@
                 "value": 1,
                 "previous": [],
                 "timestamp": 1742983450
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1749739224
             }
         },
         "published": {
@@ -169,7 +174,7 @@
             "timestamp": 1742983450
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/40413/protector-labial-deliplus-fps-15-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/40413\/protector-labial-deliplus-fps-15-paquete",
             "previous": [],
             "timestamp": 1742983450
         },
@@ -184,7 +189,7 @@
             "timestamp": 1742983450
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/4999d10a9c452b1a9de1d6e8b2142c0f.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/4999d10a9c452b1a9de1d6e8b2142c0f.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983450
         },
@@ -196,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983450,
-        "updated_at": 1743023297,
-        "updates": 2
+        "updated_at": 1749739224,
+        "updates": 3
     }
 }

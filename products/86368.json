@@ -174,7 +174,7 @@
             "timestamp": 1742983379
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/86368/copos-avena-hacendado-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/86368\/copos-avena-hacendado-paquete",
             "previous": [],
             "timestamp": 1742983379
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983379
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/d4337bb397a1e7f50b9a5f9e7bc175a9.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/d4337bb397a1e7f50b9a5f9e7bc175a9.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983379
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983379,
-        "updated_at": 1743023215,
-        "updates": 2
+        "updated_at": 1749739113,
+        "updates": 3
     }
 }

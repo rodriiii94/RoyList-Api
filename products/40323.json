@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Bebida energética Tropic Energy drink",
+            "value": "Bebida energ\u00e9tica Tropic Energy drink",
             "previous": [],
             "timestamp": 1742983312
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983312
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/40323/bebida-energetica-tropic-energy-drink-lata",
+            "value": "https:\/\/tienda.mercadona.es\/product\/40323\/bebida-energetica-tropic-energy-drink-lata",
             "previous": [],
             "timestamp": 1742983312
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983312
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/76fe094ab06e8991794e3bb714f2b7e4.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/76fe094ab06e8991794e3bb714f2b7e4.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983312
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983312,
-        "updated_at": 1743023137,
-        "updates": 2
+        "updated_at": 1749739017,
+        "updates": 3
     }
 }

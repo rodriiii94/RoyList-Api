@@ -88,14 +88,24 @@
                 "timestamp": 1742983311
             },
             "bulk_price": {
-                "value": "0.14",
-                "previous": [],
-                "timestamp": 1742983311
+                "value": "0.13",
+                "previous": [
+                    {
+                        "value": "0.14",
+                        "timestamp": 1742983311
+                    }
+                ],
+                "timestamp": 1749739013
             },
             "unit_price": {
-                "value": "0.81",
-                "previous": [],
-                "timestamp": 1742983311
+                "value": "0.79",
+                "previous": [
+                    {
+                        "value": "0.81",
+                        "timestamp": 1742983311
+                    }
+                ],
+                "timestamp": 1749739013
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983311
             },
             "reference_price": {
-                "value": "0.135",
-                "previous": [],
-                "timestamp": 1742983311
+                "value": "0.132",
+                "previous": [
+                    {
+                        "value": "0.135",
+                        "timestamp": 1742983311
+                    }
+                ],
+                "timestamp": 1749739013
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983311
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/27398/agua-mineral-grande-aguadoy-mineralizacion-debil-garrafa",
+            "value": "https:\/\/tienda.mercadona.es\/product\/27398\/agua-mineral-grande-aguadoy-mineralizacion-debil-garrafa",
             "previous": [],
             "timestamp": 1742983311
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983311
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/924e0a5858bff293c7c2f3e3d3572fa3.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/924e0a5858bff293c7c2f3e3d3572fa3.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983311
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983311,
-        "updated_at": 1743023135,
-        "updates": 2
+        "updated_at": 1749739013,
+        "updates": 3
     }
 }

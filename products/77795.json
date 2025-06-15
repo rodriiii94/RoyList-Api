@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Coloración permanente Garnier 6.35 rubio caramelo",
+            "value": "Coloraci\u00f3n permanente Garnier 6.35 rubio caramelo",
             "previous": [],
             "timestamp": 1742983428
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983428
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/77795/coloracion-permanente-garnier-635-rubio-caramelo-color-sensation-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/77795\/coloracion-permanente-garnier-635-rubio-caramelo-color-sensation-caja",
             "previous": [],
             "timestamp": 1742983428
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983428
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/3a8b8d8ea1af3676ffe06aec925a9b05.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/3a8b8d8ea1af3676ffe06aec925a9b05.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983428
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983428,
-        "updated_at": 1743023271,
-        "updates": 2
+        "updated_at": 1749739187,
+        "updates": 3
     }
 }

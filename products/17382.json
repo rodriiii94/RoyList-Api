@@ -174,7 +174,7 @@
             "timestamp": 1742983309
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/17382/salsa-soja-sin-gluten-hacendado-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/17382\/salsa-soja-sin-gluten-hacendado-botella",
             "previous": [],
             "timestamp": 1742983309
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983309
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/e4754d906574959f1da84f9109b68d31.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983309
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/72f1e3b9e1300b612fb69f4da0aef0a0.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/e4754d906574959f1da84f9109b68d31.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983309
+                }
+            ],
+            "timestamp": 1749739011
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983309,
-        "updated_at": 1743023133,
-        "updates": 2
+        "updated_at": 1749739011,
+        "updates": 3
     }
 }

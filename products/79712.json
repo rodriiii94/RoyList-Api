@@ -59,7 +59,7 @@
             }
         ],
         "display_name": {
-            "value": "Toallitas de manos hidroalcohólicas Deliplus 75% Alcohol",
+            "value": "Toallitas de manos hidroalcoh\u00f3licas Deliplus 75% Alcohol",
             "previous": [],
             "timestamp": 1742983434
         },
@@ -196,7 +196,7 @@
             "timestamp": 1742983434
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/79712/toallitas-manos-hidroalcoholicas-deliplus-75-alcohol-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/79712\/toallitas-manos-hidroalcoholicas-deliplus-75-alcohol-paquete",
             "previous": [],
             "timestamp": 1742983434
         },
@@ -211,7 +211,7 @@
             "timestamp": 1742983434
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/548bffd0cffb76066bacee754df40f4c.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/548bffd0cffb76066bacee754df40f4c.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983434
         },
@@ -223,7 +223,7 @@
     },
     "stats": {
         "created_at": 1742983434,
-        "updated_at": 1743023300,
-        "updates": 4
+        "updated_at": 1749739230,
+        "updates": 6
     }
 }

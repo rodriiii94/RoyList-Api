@@ -37,9 +37,14 @@
             }
         ],
         "display_name": {
-            "value": "Gel facial Matifica Deliplus sebo-regulador",
-            "previous": [],
-            "timestamp": 1742983435
+            "value": "Gel facial sebo-regulador Deliplus Matifica",
+            "previous": [
+                {
+                    "value": "Gel facial Matifica Deliplus sebo-regulador",
+                    "timestamp": 1742983435
+                }
+            ],
+            "timestamp": 1749739199
         },
         "id": {
             "value": "52532",
@@ -174,7 +179,7 @@
             "timestamp": 1742983435
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/52532/gel-facial-matifica-deliplus-sebo-regulador-piel-grasa-mixta-bote",
+            "value": "https:\/\/tienda.mercadona.es\/product\/52532\/gel-facial-matifica-deliplus-sebo-regulador-piel-grasa-mixta-bote",
             "previous": [],
             "timestamp": 1742983435
         },
@@ -189,7 +194,7 @@
             "timestamp": 1742983435
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/a4f28f0e617f86e832970382cd6ef1c0.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/a4f28f0e617f86e832970382cd6ef1c0.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983435
         },
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983435,
-        "updated_at": 1743023279,
-        "updates": 2
+        "updated_at": 1749739199,
+        "updates": 3
     }
 }

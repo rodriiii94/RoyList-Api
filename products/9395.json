@@ -174,7 +174,7 @@
             "timestamp": 1742983324
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/9395/cous-cous-mediano-bia-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/9395\/cous-cous-mediano-bia-caja",
             "previous": [],
             "timestamp": 1742983324
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983324
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/3dd7917697599599538d2d9aaaba2c2a.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/3dd7917697599599538d2d9aaaba2c2a.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983324
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983324,
-        "updated_at": 1743023152,
-        "updates": 2
+        "updated_at": 1749739036,
+        "updates": 3
     }
 }

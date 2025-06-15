@@ -88,14 +88,24 @@
                 "timestamp": 1742983494
             },
             "bulk_price": {
-                "value": "4.50",
-                "previous": [],
-                "timestamp": 1742983494
+                "value": "5.00",
+                "previous": [
+                    {
+                        "value": "4.50",
+                        "timestamp": 1742983494
+                    }
+                ],
+                "timestamp": 1749739292
             },
             "unit_price": {
-                "value": "4.50",
-                "previous": [],
-                "timestamp": 1742983494
+                "value": "5.00",
+                "previous": [
+                    {
+                        "value": "4.50",
+                        "timestamp": 1742983494
+                    }
+                ],
+                "timestamp": 1749739292
             },
             "approx_size": {
                 "value": false,
@@ -138,9 +148,14 @@
                 "timestamp": 1742983494
             },
             "reference_price": {
-                "value": "4.500",
-                "previous": [],
-                "timestamp": 1742983494
+                "value": "5.000",
+                "previous": [
+                    {
+                        "value": "4.500",
+                        "timestamp": 1742983494
+                    }
+                ],
+                "timestamp": 1749739292
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -161,6 +176,11 @@
                 "value": 1,
                 "previous": [],
                 "timestamp": 1742983494
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1749739292
             }
         },
         "published": {
@@ -169,7 +189,7 @@
             "timestamp": 1742983494
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/35377/brillo-labios-volumizer-gloss-deliplus-01-transparente",
+            "value": "https:\/\/tienda.mercadona.es\/product\/35377\/brillo-labios-volumizer-gloss-deliplus-01-transparente",
             "previous": [],
             "timestamp": 1742983494
         },
@@ -184,7 +204,7 @@
             "timestamp": 1742983494
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/11568c09b981ee6d31f84e126f8b86cd.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/11568c09b981ee6d31f84e126f8b86cd.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983494
         },
@@ -196,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983494,
-        "updated_at": 1743023347,
-        "updates": 2
+        "updated_at": 1749739292,
+        "updates": 3
     }
 }

@@ -20,7 +20,7 @@
                     "timestamp": 1742983389
                 },
                 "name": {
-                    "value": "Charcutería y quesos",
+                    "value": "Charcuter\u00eda y quesos",
                     "previous": [],
                     "timestamp": 1742983389
                 },
@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Salchichón extra Hacendado lonchas",
+            "value": "Salchich\u00f3n extra Hacendado lonchas",
             "previous": [],
             "timestamp": 1742983389
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983389
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/59085/salchichon-extra-hacendado-lonchas-pack-4",
+            "value": "https:\/\/tienda.mercadona.es\/product\/59085\/salchichon-extra-hacendado-lonchas-pack-4",
             "previous": [],
             "timestamp": 1742983389
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983389
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/9c0d1da8354c0393df15148e60986766.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983389
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/0ab7bf05db85cbd79b9f110a61230670.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/9c0d1da8354c0393df15148e60986766.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983389
+                }
+            ],
+            "timestamp": 1749739127
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983389,
-        "updated_at": 1743023226,
-        "updates": 2
+        "updated_at": 1749739127,
+        "updates": 3
     }
 }

@@ -59,7 +59,7 @@
             }
         ],
         "display_name": {
-            "value": "Gamba blanca pequeña Hacendado congelada",
+            "value": "Gamba blanca peque\u00f1a Hacendado congelada",
             "previous": [],
             "timestamp": 1742983405
         },
@@ -196,7 +196,7 @@
             "timestamp": 1742983405
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/24701/gamba-arrocera-hacendado-congelada-granel",
+            "value": "https:\/\/tienda.mercadona.es\/product\/24701\/gamba-arrocera-hacendado-congelada-granel",
             "previous": [],
             "timestamp": 1742983405
         },
@@ -211,7 +211,7 @@
             "timestamp": 1742983405
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/d6160da6c73e95e6d891889c5e454ff1.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/d6160da6c73e95e6d891889c5e454ff1.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983405
         },
@@ -223,7 +223,7 @@
     },
     "stats": {
         "created_at": 1742983405,
-        "updated_at": 1743023352,
-        "updates": 4
+        "updated_at": 1749739300,
+        "updates": 6
     }
 }

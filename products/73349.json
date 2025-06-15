@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Máscara de pestañas y cejas Transparente Deliplus",
+            "value": "M\u00e1scara de pesta\u00f1as y cejas Transparente Deliplus",
             "previous": [],
             "timestamp": 1742983497
         },
@@ -161,6 +161,11 @@
                 "value": 1,
                 "previous": [],
                 "timestamp": 1742983497
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1749739295
             }
         },
         "published": {
@@ -169,7 +174,7 @@
             "timestamp": 1742983497
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/73349/mascara-pestanas-cejas-transparente-deliplus",
+            "value": "https:\/\/tienda.mercadona.es\/product\/73349\/mascara-pestanas-cejas-transparente-deliplus",
             "previous": [],
             "timestamp": 1742983497
         },
@@ -184,9 +189,14 @@
             "timestamp": 1742983497
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/645ec5847008c2fa55749fcff7e6eb5c.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983497
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/cd42ab7f12e99838cfcad10432aba27c.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/645ec5847008c2fa55749fcff7e6eb5c.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983497
+                }
+            ],
+            "timestamp": 1749739295
         },
         "unavailable_from": {
             "value": null,
@@ -196,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983497,
-        "updated_at": 1743023349,
-        "updates": 4
+        "updated_at": 1749739295,
+        "updates": 6
     }
 }

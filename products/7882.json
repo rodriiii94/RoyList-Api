@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Champú anticaspa Citrus Fresh H&S cabello graso",
+            "value": "Champ\u00fa anticaspa Citrus Fresh H&S cabello graso",
             "previous": [],
             "timestamp": 1742983426
         },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983426
             },
             "bulk_price": {
-                "value": "13.25",
-                "previous": [],
-                "timestamp": 1742983426
+                "value": "11.13",
+                "previous": [
+                    {
+                        "value": "13.25",
+                        "timestamp": 1742983426
+                    }
+                ],
+                "timestamp": 1749739182
             },
             "unit_price": {
-                "value": "5.30",
-                "previous": [],
-                "timestamp": 1742983426
+                "value": "4.45",
+                "previous": [
+                    {
+                        "value": "5.30",
+                        "timestamp": 1742983426
+                    }
+                ],
+                "timestamp": 1749739182
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983426
             },
             "reference_price": {
-                "value": "1.325",
-                "previous": [],
-                "timestamp": 1742983426
+                "value": "1.113",
+                "previous": [
+                    {
+                        "value": "1.325",
+                        "timestamp": 1742983426
+                    }
+                ],
+                "timestamp": 1749739182
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -158,7 +173,7 @@
                 "timestamp": 1742983426
             },
             "previous_unit_price": {
-                "value": null,
+                "value": "        5.30",
                 "previous": [],
                 "timestamp": 1742983426
             },
@@ -174,7 +189,7 @@
             "timestamp": 1742983426
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/7882/champu-anticaspa-citrus-fresh-hs-cabello-graso-bote",
+            "value": "https:\/\/tienda.mercadona.es\/product\/7882\/champu-anticaspa-citrus-fresh-hs-cabello-graso-bote",
             "previous": [],
             "timestamp": 1742983426
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983426
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/e30173b1987a975d456e03fc3e15bf8e.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/e30173b1987a975d456e03fc3e15bf8e.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983426
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983426,
-        "updated_at": 1743023268,
-        "updates": 2
+        "updated_at": 1749739182,
+        "updates": 3
     }
 }

@@ -20,7 +20,7 @@
                     "timestamp": 1742983334
                 },
                 "name": {
-                    "value": "Azúcar, caramelos y chocolate",
+                    "value": "Az\u00facar, caramelos y chocolate",
                     "previous": [],
                     "timestamp": 1742983334
                 },
@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Cono de golosinas celebración Hacendado",
+            "value": "Cono de golosinas celebraci\u00f3n Hacendado",
             "previous": [],
             "timestamp": 1742983334
         },
@@ -83,14 +83,24 @@
                 "timestamp": 1742983334
             },
             "unit_size": {
-                "value": 0.0933,
-                "previous": [],
-                "timestamp": 1742983334
+                "value": 1,
+                "previous": [
+                    {
+                        "value": 0.0933,
+                        "timestamp": 1742983334
+                    }
+                ],
+                "timestamp": 1749739052
             },
             "bulk_price": {
-                "value": "13.44",
-                "previous": [],
-                "timestamp": 1742983334
+                "value": "1.25",
+                "previous": [
+                    {
+                        "value": "13.44",
+                        "timestamp": 1742983334
+                    }
+                ],
+                "timestamp": 1749739052
             },
             "unit_price": {
                 "value": "1.25",
@@ -103,9 +113,14 @@
                 "timestamp": 1742983334
             },
             "size_format": {
-                "value": "kg",
-                "previous": [],
-                "timestamp": 1742983334
+                "value": "ud",
+                "previous": [
+                    {
+                        "value": "kg",
+                        "timestamp": 1742983334
+                    }
+                ],
+                "timestamp": 1749739052
             },
             "total_units": {
                 "value": null,
@@ -143,9 +158,14 @@
                 "timestamp": 1742983334
             },
             "reference_price": {
-                "value": "13.441",
-                "previous": [],
-                "timestamp": 1742983334
+                "value": "1.250",
+                "previous": [
+                    {
+                        "value": "13.441",
+                        "timestamp": 1742983334
+                    }
+                ],
+                "timestamp": 1749739052
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -153,9 +173,14 @@
                 "timestamp": 1742983334
             },
             "reference_format": {
-                "value": "kg",
-                "previous": [],
-                "timestamp": 1742983334
+                "value": "ud",
+                "previous": [
+                    {
+                        "value": "kg",
+                        "timestamp": 1742983334
+                    }
+                ],
+                "timestamp": 1749739052
             },
             "previous_unit_price": {
                 "value": null,
@@ -174,7 +199,7 @@
             "timestamp": 1742983334
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/9792/cono-golosinas-celebracion-hacendado-contiene-snack-maiz-piruleta-comprimido-con-polvo-pica-sabor-fresa-palote-espuma-dulce-caramelos-goma-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/9792\/cono-golosinas-celebracion-hacendado-contiene-snack-maiz-piruleta-comprimido-con-polvo-pica-sabor-fresa-palote-espuma-dulce-caramelos-goma-paquete",
             "previous": [],
             "timestamp": 1742983334
         },
@@ -189,9 +214,14 @@
             "timestamp": 1742983334
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/a65afa74b926b4af83a2ac591b518c24.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983334
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/b9fd6e0c270b9aeb4d3e17a9422671b1.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/a65afa74b926b4af83a2ac591b518c24.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983334
+                }
+            ],
+            "timestamp": 1749739052
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +231,7 @@
     },
     "stats": {
         "created_at": 1742983334,
-        "updated_at": 1743023164,
-        "updates": 2
+        "updated_at": 1749739052,
+        "updates": 3
     }
 }

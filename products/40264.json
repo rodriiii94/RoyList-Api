@@ -161,6 +161,11 @@
                 "value": 1,
                 "previous": [],
                 "timestamp": 1742983491
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1749739286
             }
         },
         "published": {
@@ -169,7 +174,7 @@
             "timestamp": 1742983491
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/40264/corrector-stick-deliplus-02",
+            "value": "https:\/\/tienda.mercadona.es\/product\/40264\/corrector-stick-deliplus-02",
             "previous": [],
             "timestamp": 1742983491
         },
@@ -184,9 +189,14 @@
             "timestamp": 1742983491
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/d0551a42a5430c7aecba95d22df620f1.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983491
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/8097cdf083f167484d187ad10172a1da.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/d0551a42a5430c7aecba95d22df620f1.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983491
+                }
+            ],
+            "timestamp": 1749739286
         },
         "unavailable_from": {
             "value": null,
@@ -196,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983491,
-        "updated_at": 1743023343,
-        "updates": 2
+        "updated_at": 1749739286,
+        "updates": 3
     }
 }

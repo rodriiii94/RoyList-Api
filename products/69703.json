@@ -37,9 +37,14 @@
             }
         ],
         "display_name": {
-            "value": "Ensalada mezcla primavera",
-            "previous": [],
-            "timestamp": 1742983457
+            "value": "Ensalada mezcla primavera lavada",
+            "previous": [
+                {
+                    "value": "Ensalada mezcla primavera",
+                    "timestamp": 1742983457
+                }
+            ],
+            "timestamp": 1749739235
         },
         "id": {
             "value": "69703",
@@ -174,7 +179,7 @@
             "timestamp": 1742983457
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/69703/ensalada-mezcla-primavera-compuesta-escarola-lisa-escarola-rizada-achicoria-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/69703\/ensalada-mezcla-primavera-compuesta-escarola-lisa-escarola-rizada-achicoria-paquete",
             "previous": [],
             "timestamp": 1742983457
         },
@@ -189,7 +194,7 @@
             "timestamp": 1742983457
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/d852827390098975287e27a902c825a4.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/d852827390098975287e27a902c825a4.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983457
         },
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983457,
-        "updated_at": 1743023305,
-        "updates": 2
+        "updated_at": 1749739235,
+        "updates": 3
     }
 }

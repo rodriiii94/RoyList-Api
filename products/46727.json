@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Dentífrico Dental Pearl Deliplus blanqueador",
+            "value": "Dent\u00edfrico Dental Pearl Deliplus blanqueador",
             "previous": [],
             "timestamp": 1742983442
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983442
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/46727/dentifrico-dental-pearl-deliplus-blanqueador-tubo",
+            "value": "https:\/\/tienda.mercadona.es\/product\/46727\/dentifrico-dental-pearl-deliplus-blanqueador-tubo",
             "previous": [],
             "timestamp": 1742983442
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983442
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/598ae2e03a90e34b3bf3fd6ff4c3dbb1.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983442
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/7537d53ce26dc0165752a9e39138f485.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/598ae2e03a90e34b3bf3fd6ff4c3dbb1.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983442
+                }
+            ],
+            "timestamp": 1749739210
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983442,
-        "updated_at": 1743023288,
-        "updates": 2
+        "updated_at": 1749739210,
+        "updates": 3
     }
 }

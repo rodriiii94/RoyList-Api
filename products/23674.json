@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Dentífrico infantil +6 años Deliplus menta suave",
+            "value": "Dent\u00edfrico infantil +6 a\u00f1os Deliplus menta suave",
             "previous": [],
             "timestamp": 1742983442
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983442
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/23674/dentifrico-infantil-6-anos-deliplus-menta-suave-tubo",
+            "value": "https:\/\/tienda.mercadona.es\/product\/23674\/dentifrico-infantil-6-anos-deliplus-menta-suave-tubo",
             "previous": [],
             "timestamp": 1742983442
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983442
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/3e43a759013aae48d3cbe73d5b6e8f24.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/3e43a759013aae48d3cbe73d5b6e8f24.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983442
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983442,
-        "updated_at": 1743023288,
-        "updates": 2
+        "updated_at": 1749739210,
+        "updates": 3
     }
 }

@@ -88,14 +88,24 @@
                 "timestamp": 1742983467
             },
             "bulk_price": {
-                "value": "0.65",
-                "previous": [],
-                "timestamp": 1742983467
+                "value": "1.50",
+                "previous": [
+                    {
+                        "value": "0.65",
+                        "timestamp": 1742983467
+                    }
+                ],
+                "timestamp": 1749739253
             },
             "unit_price": {
-                "value": "0.65",
-                "previous": [],
-                "timestamp": 1742983467
+                "value": "1.50",
+                "previous": [
+                    {
+                        "value": "0.65",
+                        "timestamp": 1742983467
+                    }
+                ],
+                "timestamp": 1749739253
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983467
             },
             "reference_price": {
-                "value": "0.650",
-                "previous": [],
-                "timestamp": 1742983467
+                "value": "1.500",
+                "previous": [
+                    {
+                        "value": "0.650",
+                        "timestamp": 1742983467
+                    }
+                ],
+                "timestamp": 1749739253
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983467
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/44413/agua-plancha-bosque-verde-perfume-ropa-limpia-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/44413\/agua-plancha-bosque-verde-perfume-ropa-limpia-botella",
             "previous": [],
             "timestamp": 1742983467
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983467
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/56e716e04c1c57d3bb5ab98657d35875.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/56e716e04c1c57d3bb5ab98657d35875.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983467
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983467,
-        "updated_at": 1743023317,
-        "updates": 2
+        "updated_at": 1749739253,
+        "updates": 3
     }
 }

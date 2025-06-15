@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Macedonia mix de frutas en almíbar Hacendado",
+            "value": "Macedonia mix de frutas en alm\u00edbar Hacendado",
             "previous": [],
             "timestamp": 1742983419
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983419
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/52896/macedonia-mix-frutas-almibar-hacendado-pack-2",
+            "value": "https:\/\/tienda.mercadona.es\/product\/52896\/macedonia-mix-frutas-almibar-hacendado-pack-2",
             "previous": [],
             "timestamp": 1742983419
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983419
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/6d6057c5ee631919823f48b70beb7ce5.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/6d6057c5ee631919823f48b70beb7ce5.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983419
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983419,
-        "updated_at": 1743023259,
-        "updates": 2
+        "updated_at": 1749739171,
+        "updates": 3
     }
 }

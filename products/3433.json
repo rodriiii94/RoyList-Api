@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739233
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739233
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 1,
+                    "previous": [],
+                    "timestamp": 1749739233
+                },
+                "name": {
+                    "value": "Fruta y verdura",
+                    "previous": [],
+                    "timestamp": 1749739233
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739233
+                },
+                "order": {
+                    "value": 306,
+                    "previous": [],
+                    "timestamp": 1749739233
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Melocot\u00f3n amarillo",
+            "previous": [],
+            "timestamp": 1749739233
+        },
+        "id": {
+            "value": "3433",
+            "previous": [],
+            "timestamp": 1749739233
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739233
+        },
+        "packaging": {
+            "value": "Pieza",
+            "previous": [],
+            "timestamp": 1749739233
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 4,
+                "previous": [],
+                "timestamp": 1749739233
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739233
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739233
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739233
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739233
+            },
+            "unit_size": {
+                "value": 0.2,
+                "previous": [],
+                "timestamp": 1749739233
+            },
+            "bulk_price": {
+                "value": "4.90",
+                "previous": [],
+                "timestamp": 1749739233
+            },
+            "unit_price": {
+                "value": "0.98",
+                "previous": [],
+                "timestamp": 1749739233
+            },
+            "approx_size": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739233
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1749739233
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739233
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739233
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739233
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739233
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739233
+            },
+            "tax_percentage": {
+                "value": "4.000",
+                "previous": [],
+                "timestamp": 1749739233
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739233
+            },
+            "reference_price": {
+                "value": "4.900",
+                "previous": [],
+                "timestamp": 1749739233
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739233
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1749739233
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739233
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739233
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739233
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/3433\/melocoton-amarillo-pieza",
+            "previous": [],
+            "timestamp": 1749739233
+        },
+        "slug": {
+            "value": "melocoton-amarillo-pieza",
+            "previous": [],
+            "timestamp": 1749739233
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739233
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/83528d0f0039f50dbf33ac7a3346161f.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739233
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739233
+        }
+    },
+    "stats": {
+        "created_at": 1749739233,
+        "updated_at": 1749739233,
+        "updates": 1
+    }
+}

@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Sérum Plex Repair Deliplus cabello muy dañado",
+            "value": "S\u00e9rum Plex Repair Deliplus cabello muy da\u00f1ado",
             "previous": [],
             "timestamp": 1742983425
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983425
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/67796/serum-plex-repair-deliplus-cabello-muy-danado-con-aceite-argan-jojoba-karite-bote",
+            "value": "https:\/\/tienda.mercadona.es\/product\/67796\/serum-plex-repair-deliplus-cabello-muy-danado-con-aceite-argan-jojoba-karite-bote",
             "previous": [],
             "timestamp": 1742983425
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983425
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/d09f9abf3e82c36f32bd8fa03e3f023c.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983425
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/fc2442db153a27d45c273873c3c94292.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/d09f9abf3e82c36f32bd8fa03e3f023c.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983425
+                }
+            ],
+            "timestamp": 1749739180
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983425,
-        "updated_at": 1743023266,
-        "updates": 2
+        "updated_at": 1749739180,
+        "updates": 3
     }
 }

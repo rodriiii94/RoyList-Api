@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Postre lácteo natural +Proteínas Hacendado 0% m.g 10 g proteínas",
+            "value": "Postre l\u00e1cteo natural +Prote\u00ednas Hacendado 0% m.g 10 g prote\u00ednas",
             "previous": [],
             "timestamp": 1742983544
         },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983544
             },
             "bulk_price": {
-                "value": "2.82",
-                "previous": [],
-                "timestamp": 1742983544
+                "value": "2.80",
+                "previous": [
+                    {
+                        "value": "2.82",
+                        "timestamp": 1742983544
+                    }
+                ],
+                "timestamp": 1749739361
             },
             "unit_price": {
-                "value": "1.41",
-                "previous": [],
-                "timestamp": 1742983544
+                "value": "1.40",
+                "previous": [
+                    {
+                        "value": "1.41",
+                        "timestamp": 1742983544
+                    }
+                ],
+                "timestamp": 1749739361
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983544
             },
             "reference_price": {
-                "value": "2.820",
-                "previous": [],
-                "timestamp": 1742983544
+                "value": "2.800",
+                "previous": [
+                    {
+                        "value": "2.820",
+                        "timestamp": 1742983544
+                    }
+                ],
+                "timestamp": 1749739361
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983544
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/21256/postre-lacteo-natural-proteinas-hacendado-0-mg-10-g-proteinas-bote",
+            "value": "https:\/\/tienda.mercadona.es\/product\/21256\/postre-lacteo-natural-proteinas-hacendado-0-mg-10-g-proteinas-bote",
             "previous": [],
             "timestamp": 1742983544
         },
@@ -189,9 +204,14 @@
             "timestamp": 1742983544
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/d18e36aefeab802135efb2b717c70536.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983544
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/7ad06cb40258cdb86b0285f38fe26504.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/d18e36aefeab802135efb2b717c70536.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983544
+                }
+            ],
+            "timestamp": 1749739361
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +221,7 @@
     },
     "stats": {
         "created_at": 1742983544,
-        "updated_at": 1743023397,
-        "updates": 2
+        "updated_at": 1749739361,
+        "updates": 3
     }
 }

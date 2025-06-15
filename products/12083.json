@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739345
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739345
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 16,
+                    "previous": [],
+                    "timestamp": 1749739345
+                },
+                "name": {
+                    "value": "Pizzas y platos preparados",
+                    "previous": [],
+                    "timestamp": 1749739345
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739345
+                },
+                "order": {
+                    "value": 596,
+                    "previous": [],
+                    "timestamp": 1749739345
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Pizza carn\u00edvora Hacendado",
+            "previous": [],
+            "timestamp": 1749739345
+        },
+        "id": {
+            "value": "12083",
+            "previous": [],
+            "timestamp": 1749739345
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739345
+        },
+        "packaging": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739345
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1749739345
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739345
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739345
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739345
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739345
+            },
+            "unit_size": {
+                "value": 0.6,
+                "previous": [],
+                "timestamp": 1749739345
+            },
+            "bulk_price": {
+                "value": "5.67",
+                "previous": [],
+                "timestamp": 1749739345
+            },
+            "unit_price": {
+                "value": "3.40",
+                "previous": [],
+                "timestamp": 1749739345
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739345
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1749739345
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739345
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739345
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739345
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739345
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739345
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1749739345
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739345
+            },
+            "reference_price": {
+                "value": "5.667",
+                "previous": [],
+                "timestamp": 1749739345
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739345
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1749739345
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739345
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739345
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739345
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/12083\/pizza-carnivora-hacendado",
+            "previous": [],
+            "timestamp": 1749739345
+        },
+        "slug": {
+            "value": "pizza-carnivora-hacendado",
+            "previous": [],
+            "timestamp": 1749739345
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739345
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/2d6fd89632c38e5c31b714a73db2532d.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739345
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739345
+        }
+    },
+    "stats": {
+        "created_at": 1749739345,
+        "updated_at": 1749739345,
+        "updates": 1
+    }
+}

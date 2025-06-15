@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Helado mini sándwich nata Hacendado",
+            "value": "Helado mini s\u00e1ndwich nata Hacendado",
             "previous": [],
             "timestamp": 1742983402
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983402
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/64450/helado-mini-sandwich-nata-hacendado-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/64450\/helado-mini-sandwich-nata-hacendado-caja",
             "previous": [],
             "timestamp": 1742983402
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983402
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/11ce1529becfa7336c8ec3defed77453.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983402
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/138ce9d72297ee8765b9e0944bdc4316.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/11ce1529becfa7336c8ec3defed77453.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983402
+                }
+            ],
+            "timestamp": 1749739146
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983402,
-        "updated_at": 1743023241,
-        "updates": 2
+        "updated_at": 1749739146,
+        "updates": 3
     }
 }

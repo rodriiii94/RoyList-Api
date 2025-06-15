@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Whisky escocés Black Label Johnnie Walker",
+            "value": "Whisky escoc\u00e9s Black Label Johnnie Walker",
             "previous": [],
             "timestamp": 1742983346
         },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983346
             },
             "bulk_price": {
-                "value": "42.86",
-                "previous": [],
-                "timestamp": 1742983346
+                "value": "38.50",
+                "previous": [
+                    {
+                        "value": "42.86",
+                        "timestamp": 1742983346
+                    }
+                ],
+                "timestamp": 1749739070
             },
             "unit_price": {
-                "value": "30.00",
-                "previous": [],
-                "timestamp": 1742983346
+                "value": "26.95",
+                "previous": [
+                    {
+                        "value": "30.00",
+                        "timestamp": 1742983346
+                    }
+                ],
+                "timestamp": 1749739070
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983346
             },
             "reference_price": {
-                "value": "42.858",
-                "previous": [],
-                "timestamp": 1742983346
+                "value": "38.500",
+                "previous": [
+                    {
+                        "value": "42.858",
+                        "timestamp": 1742983346
+                    }
+                ],
+                "timestamp": 1749739070
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -158,7 +173,7 @@
                 "timestamp": 1742983346
             },
             "previous_unit_price": {
-                "value": null,
+                "value": "       29.95",
                 "previous": [],
                 "timestamp": 1742983346
             },
@@ -174,7 +189,7 @@
             "timestamp": 1742983346
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/28630/whisky-escoces-black-label-johnnie-walker-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/28630\/whisky-escoces-black-label-johnnie-walker-botella",
             "previous": [],
             "timestamp": 1742983346
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983346
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/bbde54a86cb92a307a122abf8fc6be54.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/bbde54a86cb92a307a122abf8fc6be54.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983346
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983346,
-        "updated_at": 1743023179,
-        "updates": 2
+        "updated_at": 1749739070,
+        "updates": 3
     }
 }
