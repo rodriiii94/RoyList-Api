@@ -15,7 +15,7 @@ Los archivos JSON ya están generados y este servidor solo se encarga de exponer
 ```bash
 ├── products/
 │   └── {id}.json
-├── products_mapping.json     
+├── product_mapping.json     
 ├── server.js                 
 ├── package.json
 └── README.md
