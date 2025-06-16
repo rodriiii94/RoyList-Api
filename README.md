@@ -1,52 +1,74 @@
-# TFG API
+# 🌐 RoyList API – Microservicio para Catálogo de Productos
 
-Este proyecto es una API desarrollada como parte de un Trabajo de Fin de Grado (TFG). Proporciona funcionalidades específicas para gestionar y procesar datos relacionados con el proyecto.
+[![Node.js](https://img.shields.io/badge/Node.js-18.x-green)](https://nodejs.org)
+[![Express](https://img.shields.io/badge/Express.js-Backend-lightgrey)](https://expressjs.com)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-## Requisitos previos
+**RoyList API** es un microservicio backend creado con **Node.js** y **Express**, encargado de servir archivos `.json` que contienen un catálogo de productos de supermercado. Estos datos son consumidos por la aplicación web [RoyList](https://github.com/rodriiii94/RoyList), para permitir a los usuarios añadir productos reales a sus listas de la compra.
 
-Asegúrate de tener instalados los siguientes componentes antes de comenzar:
+Los archivos JSON ya están generados y este servidor solo se encarga de exponerlos de forma eficiente y ordenada.
 
-- [Node.js](https://nodejs.org/) (versión 16 o superior)
-- [npm](https://www.npmjs.com/) o [yarn](https://yarnpkg.com/)
+---
 
-## Instalación
+## 📦 Estructura del proyecto
 
-Sigue estos pasos para configurar y ejecutar el proyecto:
+```bash
+├── products/
+│   └── {id}.json
+├── products_mapping.json     
+├── server.js                 
+├── package.json
+└── README.md
+```
 
-1. Clona el repositorio:
+---
 
-    ```bash
-    git clone https://github.com/usuario/tfg-api.git
-    cd tfg-api
-    ```
+## 🚀 Endpoints disponibles
 
-2. Instala las dependencias:
+`GET /data`  
+Devuelve el archivo `products_mapping.json`, que actúa como índice global de productos.
 
-    ```bash
-    npm install
-    ```
+`GET /products/:id`  
+Devuelve el archivo de producto individual correspondiente al `id` solicitado (por ejemplo, `4717.json`).
 
-3. Configura las variables de entorno:
+---
 
-    Crea un archivo `.env` en la raíz del proyecto y define las variables necesarias. Un ejemplo de archivo `.env` podría ser:
+## ⚙️ Instalación
 
-    ```bash
-    PORT=3000
-    PRODUCTS_FILE=./data/products.json
-    ```
+```bash
+git clone https://github.com/rodriiii94/RoyList-Api.git
+cd RoyList-Api
+npm install
+node server.js
+```
 
-4. Inicia el servidor:
+El servidor quedará accesible por defecto en `http://localhost:3000`.
 
-    ```bash
-    node server.js
-    ```
+---
 
-    El servidor estará disponible en `http://localhost:3000`.
+## 🌍 Uso en producción
 
-## Scripts disponibles
+* Puedes desplegar este microservicio en un VPS o servicio cloud.
+* Recomendado: utilizar Nginx como proxy inverso para servir los archivos estáticos con caché.
+* Configura tareas externas para actualizar los archivos `.json` si el catálogo cambia periódicamente.
 
-- `node server.js`: Inicia el servidor en modo producción.
+---
 
-## Contribución
+## 🧩 Integración con RoyList
 
-Si deseas contribuir a este proyecto, por favor abre un issue o envía un pull request. Agradecemos tus aportes.
+Este backend está diseñado para funcionar junto a la aplicación principal RoyList:
+➡️ [https://github.com/rodriiii94/RoyList](https://github.com/rodriiii94/RoyList)
+
+---
+
+## 📄 Licencia
+
+Este proyecto está licenciado bajo la [MIT License](LICENSE).
+
+---
+
+## 👨‍💻 Autor
+
+**José Rodrigo Santamaría**
+Microservicio backend para el catálogo de productos de la aplicación [RoyList](https://github.com/rodriiii94/RoyList).
+Contacto: [rodrisantaga94@gmail.com](mailto:rodrisantaga94@gmail.com)
