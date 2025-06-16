@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739232
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739232
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 1,
+                    "previous": [],
+                    "timestamp": 1749739232
+                },
+                "name": {
+                    "value": "Fruta y verdura",
+                    "previous": [],
+                    "timestamp": 1749739232
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739232
+                },
+                "order": {
+                    "value": 306,
+                    "previous": [],
+                    "timestamp": 1749739232
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Mel\u00f3n Galia",
+            "previous": [],
+            "timestamp": 1749739232
+        },
+        "id": {
+            "value": "3523",
+            "previous": [],
+            "timestamp": 1749739232
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739232
+        },
+        "packaging": {
+            "value": "Pieza",
+            "previous": [],
+            "timestamp": 1749739232
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 4,
+                "previous": [],
+                "timestamp": 1749739232
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739232
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739232
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739232
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739232
+            },
+            "unit_size": {
+                "value": 1.38,
+                "previous": [],
+                "timestamp": 1749739232
+            },
+            "bulk_price": {
+                "value": "2.90",
+                "previous": [],
+                "timestamp": 1749739232
+            },
+            "unit_price": {
+                "value": "4.00",
+                "previous": [],
+                "timestamp": 1749739232
+            },
+            "approx_size": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739232
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1749739232
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739232
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739232
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739232
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739232
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739232
+            },
+            "tax_percentage": {
+                "value": "4.000",
+                "previous": [],
+                "timestamp": 1749739232
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739232
+            },
+            "reference_price": {
+                "value": "2.900",
+                "previous": [],
+                "timestamp": 1749739232
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739232
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1749739232
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739232
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739232
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739232
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/3523\/melon-galia-pieza",
+            "previous": [],
+            "timestamp": 1749739232
+        },
+        "slug": {
+            "value": "melon-galia-pieza",
+            "previous": [],
+            "timestamp": 1749739232
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739232
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/f7d56f5d9fc9bd92c12a9191f1a42d1f.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739232
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739232
+        }
+    },
+    "stats": {
+        "created_at": 1749739232,
+        "updated_at": 1749739232,
+        "updates": 1
+    }
+}

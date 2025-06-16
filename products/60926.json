@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Bebida de avena con chocolate sin azúcares añadidos Hacendado",
+            "value": "Bebida de avena con chocolate sin az\u00facares a\u00f1adidos Hacendado",
             "previous": [],
             "timestamp": 1742983463
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983463
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/60926/bebida-avena-con-chocolate-sin-azucares-anadidos-hacendado-pack-3",
+            "value": "https:\/\/tienda.mercadona.es\/product\/60926\/bebida-avena-con-chocolate-sin-azucares-anadidos-hacendado-pack-3",
             "previous": [],
             "timestamp": 1742983463
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983463
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/b802eacfe1737ff5b79114b7d169e70b.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983463
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/6d7385ce34d7f0c6e893179fc414fdc6.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/b802eacfe1737ff5b79114b7d169e70b.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983463
+                }
+            ],
+            "timestamp": 1749739247
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983463,
-        "updated_at": 1743023312,
-        "updates": 2
+        "updated_at": 1749739247,
+        "updates": 3
     }
 }

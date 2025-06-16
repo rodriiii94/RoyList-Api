@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739007
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739007
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 12,
+                    "previous": [],
+                    "timestamp": 1749739007
+                },
+                "name": {
+                    "value": "Aceite, especias y salsas",
+                    "previous": [],
+                    "timestamp": 1749739007
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739007
+                },
+                "order": {
+                    "value": 7,
+                    "previous": [],
+                    "timestamp": 1749739007
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Pimientos secos Hacendado",
+            "previous": [],
+            "timestamp": 1749739007
+        },
+        "id": {
+            "value": "86427",
+            "previous": [],
+            "timestamp": 1749739007
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739007
+        },
+        "packaging": {
+            "value": "Caja",
+            "previous": [],
+            "timestamp": 1749739007
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 4,
+                "previous": [],
+                "timestamp": 1749739007
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739007
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739007
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739007
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739007
+            },
+            "unit_size": {
+                "value": 0.05,
+                "previous": [],
+                "timestamp": 1749739007
+            },
+            "bulk_price": {
+                "value": "40.60",
+                "previous": [],
+                "timestamp": 1749739007
+            },
+            "unit_price": {
+                "value": "2.03",
+                "previous": [],
+                "timestamp": 1749739007
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739007
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1749739007
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739007
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739007
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739007
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739007
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739007
+            },
+            "tax_percentage": {
+                "value": "4.000",
+                "previous": [],
+                "timestamp": 1749739007
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739007
+            },
+            "reference_price": {
+                "value": "40.600",
+                "previous": [],
+                "timestamp": 1749739007
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739007
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1749739007
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739007
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739007
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739007
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/86427\/pimientos-secos-hacendado-caja",
+            "previous": [],
+            "timestamp": 1749739007
+        },
+        "slug": {
+            "value": "pimientos-secos-hacendado-caja",
+            "previous": [],
+            "timestamp": 1749739007
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739007
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/8102ee087751adb98a97c2eb6c7d0f08.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739007
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739007
+        }
+    },
+    "stats": {
+        "created_at": 1749739007,
+        "updated_at": 1749739007,
+        "updates": 1
+    }
+}

@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Atún claro en aceite de girasol Hacendado",
+            "value": "At\u00fan claro en aceite de girasol Hacendado",
             "previous": [],
             "timestamp": 1742983415
         },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983415
             },
             "bulk_price": {
-                "value": "11.04",
-                "previous": [],
-                "timestamp": 1742983415
+                "value": "11.25",
+                "previous": [
+                    {
+                        "value": "11.04",
+                        "timestamp": 1742983415
+                    }
+                ],
+                "timestamp": 1749739166
             },
             "unit_price": {
-                "value": "2.65",
-                "previous": [],
-                "timestamp": 1742983415
+                "value": "2.70",
+                "previous": [
+                    {
+                        "value": "2.65",
+                        "timestamp": 1742983415
+                    }
+                ],
+                "timestamp": 1749739166
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983415
             },
             "reference_price": {
-                "value": "14.723",
-                "previous": [],
-                "timestamp": 1742983415
+                "value": "15.000",
+                "previous": [
+                    {
+                        "value": "14.723",
+                        "timestamp": 1742983415
+                    }
+                ],
+                "timestamp": 1749739166
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983415
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/18092/atun-claro-aceite-girasol-hacendado-pack-3",
+            "value": "https:\/\/tienda.mercadona.es\/product\/18092\/atun-claro-aceite-girasol-hacendado-pack-3",
             "previous": [],
             "timestamp": 1742983415
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983415
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/d6888b14657072420f87eb3b2c79f8ec.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/d6888b14657072420f87eb3b2c79f8ec.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983415
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983415,
-        "updated_at": 1743023255,
-        "updates": 2
+        "updated_at": 1749739166,
+        "updates": 3
     }
 }

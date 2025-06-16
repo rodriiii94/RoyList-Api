@@ -88,14 +88,24 @@
                 "timestamp": 1742983490
             },
             "bulk_price": {
-                "value": "5.00",
-                "previous": [],
-                "timestamp": 1742983490
+                "value": "5.50",
+                "previous": [
+                    {
+                        "value": "5.00",
+                        "timestamp": 1742983490
+                    }
+                ],
+                "timestamp": 1749739285
             },
             "unit_price": {
-                "value": "5.00",
-                "previous": [],
-                "timestamp": 1742983490
+                "value": "5.50",
+                "previous": [
+                    {
+                        "value": "5.00",
+                        "timestamp": 1742983490
+                    }
+                ],
+                "timestamp": 1749739285
             },
             "approx_size": {
                 "value": false,
@@ -138,9 +148,14 @@
                 "timestamp": 1742983490
             },
             "reference_price": {
-                "value": "5.000",
-                "previous": [],
-                "timestamp": 1742983490
+                "value": "5.500",
+                "previous": [
+                    {
+                        "value": "5.000",
+                        "timestamp": 1742983490
+                    }
+                ],
+                "timestamp": 1749739285
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -161,6 +176,11 @@
                 "value": 1,
                 "previous": [],
                 "timestamp": 1742983490
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1749739285
             }
         },
         "published": {
@@ -169,7 +189,7 @@
             "timestamp": 1742983490
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/40234/maquillaje-fluido-cover-fix-deliplus-03-beige-medio-fps-25",
+            "value": "https:\/\/tienda.mercadona.es\/product\/40234\/maquillaje-fluido-cover-fix-deliplus-03-beige-medio-fps-25",
             "previous": [],
             "timestamp": 1742983490
         },
@@ -184,7 +204,7 @@
             "timestamp": 1742983490
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/c77a531d063a484c780fbeaa6806ceb1.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/c77a531d063a484c780fbeaa6806ceb1.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983490
         },
@@ -196,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983490,
-        "updated_at": 1743023342,
-        "updates": 2
+        "updated_at": 1749739285,
+        "updates": 3
     }
 }

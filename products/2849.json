@@ -83,9 +83,14 @@
                 "timestamp": 1742983370
             },
             "unit_size": {
-                "value": 0.46,
-                "previous": [],
-                "timestamp": 1742983370
+                "value": 0.52,
+                "previous": [
+                    {
+                        "value": 0.46,
+                        "timestamp": 1742983370
+                    }
+                ],
+                "timestamp": 1749739101
             },
             "bulk_price": {
                 "value": "7.58",
@@ -93,9 +98,14 @@
                 "timestamp": 1742983370
             },
             "unit_price": {
-                "value": "3.49",
-                "previous": [],
-                "timestamp": 1742983370
+                "value": "3.94",
+                "previous": [
+                    {
+                        "value": "3.49",
+                        "timestamp": 1742983370
+                    }
+                ],
+                "timestamp": 1749739101
             },
             "approx_size": {
                 "value": true,
@@ -174,7 +184,7 @@
             "timestamp": 1742983370
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/2849/filetes-lomo-cerdo-extra-tiernos-bandeja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/2849\/filetes-lomo-cerdo-extra-tiernos-bandeja",
             "previous": [],
             "timestamp": 1742983370
         },
@@ -189,7 +199,7 @@
             "timestamp": 1742983370
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/74c74db4cfa994263ec34979be6c293b.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/74c74db4cfa994263ec34979be6c293b.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983370
         },
@@ -201,7 +211,7 @@
     },
     "stats": {
         "created_at": 1742983370,
-        "updated_at": 1743023205,
-        "updates": 2
+        "updated_at": 1749739101,
+        "updates": 3
     }
 }

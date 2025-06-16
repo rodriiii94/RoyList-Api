@@ -174,7 +174,7 @@
             "timestamp": 1742983423
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/16043/tomate-triturado-hacendado-freir-bote",
+            "value": "https:\/\/tienda.mercadona.es\/product\/16043\/tomate-triturado-hacendado-freir-bote",
             "previous": [],
             "timestamp": 1742983423
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983423
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/117a2a2230b103f17b50e07a73a8fc38.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/117a2a2230b103f17b50e07a73a8fc38.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983423
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983423,
-        "updated_at": 1743023264,
-        "updates": 2
+        "updated_at": 1749739177,
+        "updates": 3
     }
 }

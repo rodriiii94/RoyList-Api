@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Refresco limón Schweppes original",
+            "value": "Refresco lim\u00f3n Schweppes original",
             "previous": [],
             "timestamp": 1742983315
         },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983315
             },
             "bulk_price": {
-                "value": "1.91",
-                "previous": [],
-                "timestamp": 1742983315
+                "value": "2.94",
+                "previous": [
+                    {
+                        "value": "1.91",
+                        "timestamp": 1742983315
+                    }
+                ],
+                "timestamp": 1749739021
             },
             "unit_price": {
-                "value": "5.04",
-                "previous": [],
-                "timestamp": 1742983315
+                "value": "7.76",
+                "previous": [
+                    {
+                        "value": "5.04",
+                        "timestamp": 1742983315
+                    }
+                ],
+                "timestamp": 1749739021
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983315
             },
             "reference_price": {
-                "value": "1.910",
-                "previous": [],
-                "timestamp": 1742983315
+                "value": "2.940",
+                "previous": [
+                    {
+                        "value": "1.910",
+                        "timestamp": 1742983315
+                    }
+                ],
+                "timestamp": 1749739021
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -158,9 +173,14 @@
                 "timestamp": 1742983315
             },
             "previous_unit_price": {
-                "value": "        7.76",
-                "previous": [],
-                "timestamp": 1742983315
+                "value": null,
+                "previous": [
+                    {
+                        "value": "        7.76",
+                        "timestamp": 1742983315
+                    }
+                ],
+                "timestamp": 1749739021
             },
             "increment_bunch_amount": {
                 "value": 1,
@@ -174,7 +194,7 @@
             "timestamp": 1742983315
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/27761/refresco-limon-schweppes-original-pack-8",
+            "value": "https:\/\/tienda.mercadona.es\/product\/27761\/refresco-limon-schweppes-original-pack-8",
             "previous": [],
             "timestamp": 1742983315
         },
@@ -189,9 +209,14 @@
             "timestamp": 1742983315
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/054269561014b936d959fd9603f90cfa.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983315
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/66f7fd8899a5d0b5b5f6dfd41af9cdcb.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/054269561014b936d959fd9603f90cfa.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983315
+                }
+            ],
+            "timestamp": 1749739021
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +226,7 @@
     },
     "stats": {
         "created_at": 1742983315,
-        "updated_at": 1743023141,
-        "updates": 2
+        "updated_at": 1749739021,
+        "updates": 3
     }
 }

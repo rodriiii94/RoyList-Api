@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739277
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739277
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 26,
+                    "previous": [],
+                    "timestamp": 1749739277
+                },
+                "name": {
+                    "value": "Limpieza y hogar",
+                    "previous": [],
+                    "timestamp": 1749739277
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739277
+                },
+                "order": {
+                    "value": 374,
+                    "previous": [],
+                    "timestamp": 1749739277
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Carb\u00f3n vegetal Bosque Verde",
+            "previous": [],
+            "timestamp": 1749739277
+        },
+        "id": {
+            "value": "12056",
+            "previous": [],
+            "timestamp": 1749739277
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739277
+        },
+        "packaging": {
+            "value": "Paquete",
+            "previous": [],
+            "timestamp": 1749739277
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1749739277
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739277
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739277
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739277
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739277
+            },
+            "unit_size": {
+                "value": 2.5,
+                "previous": [],
+                "timestamp": 1749739277
+            },
+            "bulk_price": {
+                "value": "1.56",
+                "previous": [],
+                "timestamp": 1749739277
+            },
+            "unit_price": {
+                "value": "3.90",
+                "previous": [],
+                "timestamp": 1749739277
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739277
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1749739277
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739277
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739277
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739277
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739277
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739277
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1749739277
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739277
+            },
+            "reference_price": {
+                "value": "1.560",
+                "previous": [],
+                "timestamp": 1749739277
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739277
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1749739277
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739277
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739277
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739277
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/12056\/carbon-vegetal-bosque-verde-paquete",
+            "previous": [],
+            "timestamp": 1749739277
+        },
+        "slug": {
+            "value": "carbon-vegetal-bosque-verde-paquete",
+            "previous": [],
+            "timestamp": 1749739277
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739277
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/aed633656426063edf7c348e555af792.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739277
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739277
+        }
+    },
+    "stats": {
+        "created_at": 1749739277,
+        "updated_at": 1749739277,
+        "updates": 1
+    }
+}

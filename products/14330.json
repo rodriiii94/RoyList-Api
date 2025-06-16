@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739195
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739195
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 20,
+                    "previous": [],
+                    "timestamp": 1749739195
+                },
+                "name": {
+                    "value": "Cuidado facial y corporal",
+                    "previous": [],
+                    "timestamp": 1749739195
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739195
+                },
+                "order": {
+                    "value": 241,
+                    "previous": [],
+                    "timestamp": 1749739195
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Gel corporal aloe vera Deliplus",
+            "previous": [],
+            "timestamp": 1749739195
+        },
+        "id": {
+            "value": "14330",
+            "previous": [],
+            "timestamp": 1749739195
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739195
+        },
+        "packaging": {
+            "value": "Bote",
+            "previous": [],
+            "timestamp": 1749739195
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1749739195
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739195
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739195
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739195
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739195
+            },
+            "unit_size": {
+                "value": 0.4,
+                "previous": [],
+                "timestamp": 1749739195
+            },
+            "bulk_price": {
+                "value": "10.25",
+                "previous": [],
+                "timestamp": 1749739195
+            },
+            "unit_price": {
+                "value": "4.10",
+                "previous": [],
+                "timestamp": 1749739195
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739195
+            },
+            "size_format": {
+                "value": "l",
+                "previous": [],
+                "timestamp": 1749739195
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739195
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739195
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739195
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739195
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739195
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1749739195
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739195
+            },
+            "reference_price": {
+                "value": "1.025",
+                "previous": [],
+                "timestamp": 1749739195
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739195
+            },
+            "reference_format": {
+                "value": "100 ml",
+                "previous": [],
+                "timestamp": 1749739195
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739195
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739195
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739195
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/14330\/gel-corporal-aloe-vera-deliplus-bote",
+            "previous": [],
+            "timestamp": 1749739195
+        },
+        "slug": {
+            "value": "gel-corporal-aloe-vera-deliplus-bote",
+            "previous": [],
+            "timestamp": 1749739195
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739195
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/7367f7a88ad30e56d19d864ad07c54ed.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739195
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739195
+        }
+    },
+    "stats": {
+        "created_at": 1749739195,
+        "updated_at": 1749739195,
+        "updates": 1
+    }
+}

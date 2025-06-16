@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Recambios maquinilla depilación Wilkinson Hydro Silk 5 hojas",
+            "value": "Recambios maquinilla depilaci\u00f3n Wilkinson Hydro Silk 5 hojas",
             "previous": [],
             "timestamp": 1742983437
         },
@@ -169,7 +169,7 @@
             "timestamp": 1742983437
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/79199/recambios-maquinilla-depilacion-wilkinson-hydro-silk-5-hojas-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/79199\/recambios-maquinilla-depilacion-wilkinson-hydro-silk-5-hojas-caja",
             "previous": [],
             "timestamp": 1742983437
         },
@@ -184,7 +184,7 @@
             "timestamp": 1742983437
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/567a0a276231cdb5998b2a83dedf88c9.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/567a0a276231cdb5998b2a83dedf88c9.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983437
         },
@@ -196,7 +196,7 @@
     },
     "stats": {
         "created_at": 1742983437,
-        "updated_at": 1743023282,
-        "updates": 2
+        "updated_at": 1749739202,
+        "updates": 3
     }
 }

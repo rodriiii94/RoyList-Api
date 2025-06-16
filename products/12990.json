@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739293
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739293
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 22,
+                    "previous": [],
+                    "timestamp": 1749739293
+                },
+                "name": {
+                    "value": "Maquillaje",
+                    "previous": [],
+                    "timestamp": 1749739293
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739293
+                },
+                "order": {
+                    "value": 421,
+                    "previous": [],
+                    "timestamp": 1749739293
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Pintalabios mate 12h Lasting Lips Deliplus 04 rosa medio",
+            "previous": [],
+            "timestamp": 1749739293
+        },
+        "id": {
+            "value": "12990",
+            "previous": [],
+            "timestamp": 1749739293
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739293
+        },
+        "packaging": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739293
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1749739293
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739293
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739293
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739293
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739293
+            },
+            "unit_size": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739293
+            },
+            "bulk_price": {
+                "value": "5.00",
+                "previous": [],
+                "timestamp": 1749739293
+            },
+            "unit_price": {
+                "value": "5.00",
+                "previous": [],
+                "timestamp": 1749739293
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739293
+            },
+            "size_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1749739293
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739293
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739293
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739293
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739293
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739293
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1749739293
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739293
+            },
+            "reference_price": {
+                "value": "5.000",
+                "previous": [],
+                "timestamp": 1749739293
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739293
+            },
+            "reference_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1749739293
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739293
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739293
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739293
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/12990\/pintalabios-mate-12h-lasting-lips-deliplus-04-rosa-medio",
+            "previous": [],
+            "timestamp": 1749739293
+        },
+        "slug": {
+            "value": "pintalabios-mate-12h-lasting-lips-deliplus-04-rosa-medio",
+            "previous": [],
+            "timestamp": 1749739293
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739293
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/35cbb4206cead79e256383c84d35d911.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739293
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739293
+        }
+    },
+    "stats": {
+        "created_at": 1749739293,
+        "updated_at": 1749739293,
+        "updates": 1
+    }
+}

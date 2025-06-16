@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Recambio ambientador eléctrico Sugar 6 fragancias Bosque Verde",
+            "value": "Recambio ambientador el\u00e9ctrico Sugar 6 fragancias Bosque Verde",
             "previous": [],
             "timestamp": 1742983470
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983470
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/52588/ambientador-electrico-sugar-bosque-verde-6-fragancias-recambio-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/52588\/ambientador-electrico-sugar-bosque-verde-6-fragancias-recambio-caja",
             "previous": [],
             "timestamp": 1742983470
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983470
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/8b315f93c619a2cc08f5a4ffb2c1d18d.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/8b315f93c619a2cc08f5a4ffb2c1d18d.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983470
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983470,
-        "updated_at": 1743023321,
-        "updates": 2
+        "updated_at": 1749739258,
+        "updates": 3
     }
 }

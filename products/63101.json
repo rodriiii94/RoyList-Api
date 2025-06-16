@@ -110,14 +110,24 @@
                 "timestamp": 1742983410
             },
             "bulk_price": {
-                "value": "8.25",
-                "previous": [],
-                "timestamp": 1742983410
+                "value": "8.58",
+                "previous": [
+                    {
+                        "value": "8.25",
+                        "timestamp": 1742983410
+                    }
+                ],
+                "timestamp": 1749739158
             },
             "unit_price": {
-                "value": "4.95",
-                "previous": [],
-                "timestamp": 1742983410
+                "value": "5.15",
+                "previous": [
+                    {
+                        "value": "4.95",
+                        "timestamp": 1742983410
+                    }
+                ],
+                "timestamp": 1749739158
             },
             "approx_size": {
                 "value": false,
@@ -165,9 +175,14 @@
                 "timestamp": 1742983410
             },
             "reference_price": {
-                "value": "8.250",
-                "previous": [],
-                "timestamp": 1742983410
+                "value": "8.584",
+                "previous": [
+                    {
+                        "value": "8.250",
+                        "timestamp": 1742983410
+                    }
+                ],
+                "timestamp": 1749739158
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -196,7 +211,7 @@
             "timestamp": 1742983410
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/63101/filetes-merluza-huevo-hacendado-ultracongelados-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/63101\/filetes-merluza-huevo-hacendado-ultracongelados-paquete",
             "previous": [],
             "timestamp": 1742983410
         },
@@ -211,7 +226,7 @@
             "timestamp": 1742983410
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/91f5b2eb5bc9049cf073dd6ad719c5e1.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/91f5b2eb5bc9049cf073dd6ad719c5e1.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983410
         },
@@ -223,7 +238,7 @@
     },
     "stats": {
         "created_at": 1742983410,
-        "updated_at": 1743023355,
-        "updates": 4
+        "updated_at": 1749739304,
+        "updates": 6
     }
 }

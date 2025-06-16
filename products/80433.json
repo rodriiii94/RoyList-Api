@@ -174,7 +174,7 @@
             "timestamp": 1742983492
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/80433/polvo-compacto-sol-deliplus-claro-fps-15",
+            "value": "https:\/\/tienda.mercadona.es\/product\/80433\/polvo-compacto-sol-deliplus-claro-fps-15",
             "previous": [],
             "timestamp": 1742983492
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983492
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/07eb2f5a2f383048cdb91a34b2dba9ff.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/07eb2f5a2f383048cdb91a34b2dba9ff.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983492
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983492,
-        "updated_at": 1743023344,
-        "updates": 2
+        "updated_at": 1749739288,
+        "updates": 3
     }
 }

@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Cerveza Clásica Steinburg",
+            "value": "Cerveza Cl\u00e1sica Steinburg",
             "previous": [],
             "timestamp": 1742983343
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983343
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/66463/cerveza-clasica-steinburg-lata",
+            "value": "https:\/\/tienda.mercadona.es\/product\/66463\/cerveza-clasica-steinburg-lata",
             "previous": [],
             "timestamp": 1742983343
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983343
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/61ba97a0f85e358acd3df6c8c904327f.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/61ba97a0f85e358acd3df6c8c904327f.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983343
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983343,
-        "updated_at": 1743023174,
-        "updates": 2
+        "updated_at": 1749739064,
+        "updates": 3
     }
 }

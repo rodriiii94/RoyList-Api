@@ -20,7 +20,7 @@
                     "timestamp": 1742983340
                 },
                 "name": {
-                    "value": "Bebé",
+                    "value": "Beb\u00e9",
                     "previous": [],
                     "timestamp": 1742983340
                 },
@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Solución fisiológica salina 0,9 % Deliplus",
+            "value": "Soluci\u00f3n fisiol\u00f3gica salina 0,9 % Deliplus",
             "previous": [],
             "timestamp": 1742983340
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983340
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/79006/solucion-fisiologica-salina-09-deliplus-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/79006\/solucion-fisiologica-salina-09-deliplus-caja",
             "previous": [],
             "timestamp": 1742983340
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983340
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/e9131cfd624d67a0a93009cfbfe78cc5.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/e9131cfd624d67a0a93009cfbfe78cc5.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983340
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983340,
-        "updated_at": 1743023171,
-        "updates": 2
+        "updated_at": 1749739060,
+        "updates": 3
     }
 }

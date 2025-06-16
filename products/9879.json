@@ -174,7 +174,7 @@
             "timestamp": 1742983437
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/9879/crema-depilatoria-facial-deliplus-piel-sensible-contiene-tubo-crema-depil-espatula-folleto-con-precauciones-tubo-gel-post-depil-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/9879\/crema-depilatoria-facial-deliplus-piel-sensible-contiene-tubo-crema-depil-espatula-folleto-con-precauciones-tubo-gel-post-depil-caja",
             "previous": [],
             "timestamp": 1742983437
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983437
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/09c712a6b1ebbcf8f020922dda9771be.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/09c712a6b1ebbcf8f020922dda9771be.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983437
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983437,
-        "updated_at": 1743023282,
-        "updates": 2
+        "updated_at": 1749739202,
+        "updates": 3
     }
 }

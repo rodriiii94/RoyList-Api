@@ -174,7 +174,7 @@
             "timestamp": 1742983468
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/71398/guantes-100-nitrilo-bosque-verde-talla-mediana-resistentes-lejia-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/71398\/guantes-100-nitrilo-bosque-verde-talla-mediana-resistentes-lejia-paquete",
             "previous": [],
             "timestamp": 1742983468
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983468
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/9611024dad30c9bb631e164c9285865e.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/9611024dad30c9bb631e164c9285865e.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983468
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983468,
-        "updated_at": 1743023319,
-        "updates": 2
+        "updated_at": 1749739255,
+        "updates": 3
     }
 }

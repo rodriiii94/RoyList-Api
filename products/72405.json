@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Recambio ambientador automático Ropa Limpia Bosque Verde",
+            "value": "Recambio ambientador autom\u00e1tico Ropa Limpia Bosque Verde",
             "previous": [],
             "timestamp": 1742983470
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983470
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/72405/ambientador-automatico-ropa-limpia-bosque-verde-recambio-bote",
+            "value": "https:\/\/tienda.mercadona.es\/product\/72405\/ambientador-automatico-ropa-limpia-bosque-verde-recambio-bote",
             "previous": [],
             "timestamp": 1742983470
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983470
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/65c0197f9a1249b5a7546b18c238a784.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/65c0197f9a1249b5a7546b18c238a784.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983470
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983470,
-        "updated_at": 1743023321,
-        "updates": 2
+        "updated_at": 1749739258,
+        "updates": 3
     }
 }

@@ -110,14 +110,24 @@
                 "timestamp": 1742983369
             },
             "bulk_price": {
-                "value": "5.75",
-                "previous": [],
-                "timestamp": 1742983369
+                "value": "7.38",
+                "previous": [
+                    {
+                        "value": "5.75",
+                        "timestamp": 1742983369
+                    }
+                ],
+                "timestamp": 1749739101
             },
             "unit_price": {
-                "value": "2.30",
-                "previous": [],
-                "timestamp": 1742983369
+                "value": "2.95",
+                "previous": [
+                    {
+                        "value": "2.30",
+                        "timestamp": 1742983369
+                    }
+                ],
+                "timestamp": 1749739101
             },
             "approx_size": {
                 "value": false,
@@ -165,9 +175,14 @@
                 "timestamp": 1742983369
             },
             "reference_price": {
-                "value": "5.750",
-                "previous": [],
-                "timestamp": 1742983369
+                "value": "7.375",
+                "previous": [
+                    {
+                        "value": "5.750",
+                        "timestamp": 1742983369
+                    }
+                ],
+                "timestamp": 1749739101
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -196,7 +211,7 @@
             "timestamp": 1742983369
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/53130/manteca-cerdo-mont-palau-cocinar-tarrina",
+            "value": "https:\/\/tienda.mercadona.es\/product\/53130\/manteca-cerdo-mont-palau-cocinar-tarrina",
             "previous": [],
             "timestamp": 1742983369
         },
@@ -211,7 +226,7 @@
             "timestamp": 1742983369
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/42b8c8da45aef2e14be3983bab9500ea.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/42b8c8da45aef2e14be3983bab9500ea.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983369
         },
@@ -223,7 +238,7 @@
     },
     "stats": {
         "created_at": 1742983369,
-        "updated_at": 1743023314,
-        "updates": 4
+        "updated_at": 1749739250,
+        "updates": 6
     }
 }

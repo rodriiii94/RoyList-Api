@@ -83,9 +83,14 @@
                 "timestamp": 1742983459
             },
             "unit_size": {
-                "value": 0.17,
-                "previous": [],
-                "timestamp": 1742983459
+                "value": 0.14,
+                "previous": [
+                    {
+                        "value": 0.17,
+                        "timestamp": 1742983459
+                    }
+                ],
+                "timestamp": 1749739238
             },
             "bulk_price": {
                 "value": "1.88",
@@ -93,9 +98,14 @@
                 "timestamp": 1742983459
             },
             "unit_price": {
-                "value": "0.32",
-                "previous": [],
-                "timestamp": 1742983459
+                "value": "0.26",
+                "previous": [
+                    {
+                        "value": "0.32",
+                        "timestamp": 1742983459
+                    }
+                ],
+                "timestamp": 1749739238
             },
             "approx_size": {
                 "value": true,
@@ -174,7 +184,7 @@
             "timestamp": 1742983459
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/69968/tomate-canario-pieza",
+            "value": "https:\/\/tienda.mercadona.es\/product\/69968\/tomate-canario-pieza",
             "previous": [],
             "timestamp": 1742983459
         },
@@ -189,7 +199,7 @@
             "timestamp": 1742983459
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/a80465f28148c351b28802d12d5e5a38.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/a80465f28148c351b28802d12d5e5a38.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983459
         },
@@ -201,7 +211,7 @@
     },
     "stats": {
         "created_at": 1742983459,
-        "updated_at": 1743023307,
-        "updates": 2
+        "updated_at": 1749739238,
+        "updates": 3
     }
 }

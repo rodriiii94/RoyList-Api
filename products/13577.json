@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Fideo cabello de ángel Hacendado",
+            "value": "Fideo cabello de \u00e1ngel Hacendado",
             "previous": [],
             "timestamp": 1742983327
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983327
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/13577/fideo-cabello-angel-hacendado-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/13577\/fideo-cabello-angel-hacendado-paquete",
             "previous": [],
             "timestamp": 1742983327
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983327
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/1363c496f3db978816e06031cca27497.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/1363c496f3db978816e06031cca27497.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983327
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983327,
-        "updated_at": 1743023156,
-        "updates": 2
+        "updated_at": 1749739040,
+        "updates": 3
     }
 }

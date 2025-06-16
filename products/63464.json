@@ -20,7 +20,7 @@
                     "timestamp": 1742983517
                 },
                 "name": {
-                    "value": "Panadería y pastelería",
+                    "value": "Panader\u00eda y pasteler\u00eda",
                     "previous": [],
                     "timestamp": 1742983517
                 },
@@ -174,7 +174,7 @@
             "timestamp": 1742983517
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/63464/masa-fresca-quebrada-brisa-hacendado-pack-2",
+            "value": "https:\/\/tienda.mercadona.es\/product\/63464\/masa-fresca-quebrada-brisa-hacendado-pack-2",
             "previous": [],
             "timestamp": 1742983517
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983517
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/446061c9236072fbfdeab494306ad736.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983517
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/65cb5d0e6a0635b90a515ba1c85324ba.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/446061c9236072fbfdeab494306ad736.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983517
+                }
+            ],
+            "timestamp": 1749739326
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983517,
-        "updated_at": 1743023370,
-        "updates": 2
+        "updated_at": 1749739326,
+        "updates": 3
     }
 }

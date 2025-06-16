@@ -20,7 +20,7 @@
                     "timestamp": 1742983361
                 },
                 "name": {
-                    "value": "Cacao, café e infusiones",
+                    "value": "Cacao, caf\u00e9 e infusiones",
                     "previous": [],
                     "timestamp": 1742983361
                 },
@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Café soluble descafeinado Nescafé classic",
+            "value": "Caf\u00e9 soluble descafeinado Nescaf\u00e9 classic",
             "previous": [],
             "timestamp": 1742983361
         },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983361
             },
             "bulk_price": {
-                "value": "49.50",
-                "previous": [],
-                "timestamp": 1742983361
+                "value": "39.90",
+                "previous": [
+                    {
+                        "value": "49.50",
+                        "timestamp": 1742983361
+                    }
+                ],
+                "timestamp": 1749739089
             },
             "unit_price": {
-                "value": "4.95",
-                "previous": [],
-                "timestamp": 1742983361
+                "value": "3.99",
+                "previous": [
+                    {
+                        "value": "4.95",
+                        "timestamp": 1742983361
+                    }
+                ],
+                "timestamp": 1749739089
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983361
             },
             "reference_price": {
-                "value": "49.500",
-                "previous": [],
-                "timestamp": 1742983361
+                "value": "39.900",
+                "previous": [
+                    {
+                        "value": "49.500",
+                        "timestamp": 1742983361
+                    }
+                ],
+                "timestamp": 1749739089
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -158,7 +173,7 @@
                 "timestamp": 1742983361
             },
             "previous_unit_price": {
-                "value": null,
+                "value": "        4.95",
                 "previous": [],
                 "timestamp": 1742983361
             },
@@ -174,7 +189,7 @@
             "timestamp": 1742983361
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/11104/cafe-soluble-descafeinado-nescafe-classic-tarro",
+            "value": "https:\/\/tienda.mercadona.es\/product\/11104\/cafe-soluble-descafeinado-nescafe-classic-tarro",
             "previous": [],
             "timestamp": 1742983361
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983361
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/ffc10c12c9056eec9ef67db794bbba7a.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/ffc10c12c9056eec9ef67db794bbba7a.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983361
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983361,
-        "updated_at": 1743023196,
-        "updates": 2
+        "updated_at": 1749739089,
+        "updates": 3
     }
 }

@@ -174,7 +174,7 @@
             "timestamp": 1742983438
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/46028/desodorante-roll-on-dermo-extra-control-sanex-antitranspirante",
+            "value": "https:\/\/tienda.mercadona.es\/product\/46028\/desodorante-roll-on-dermo-extra-control-sanex-antitranspirante",
             "previous": [],
             "timestamp": 1742983438
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983438
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/93ad6eaff729427d86d34e8d16ddff12.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983438
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/69f9801308eb3c0ef1be21e57a60b549.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/93ad6eaff729427d86d34e8d16ddff12.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983438
+                }
+            ],
+            "timestamp": 1749739204
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983438,
-        "updated_at": 1743023283,
-        "updates": 2
+        "updated_at": 1749739204,
+        "updates": 3
     }
 }

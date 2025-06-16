@@ -174,7 +174,7 @@
             "timestamp": 1742983306
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/34172/pimienta-negra-grano-hacendado-bote",
+            "value": "https:\/\/tienda.mercadona.es\/product\/34172\/pimienta-negra-grano-hacendado-bote",
             "previous": [],
             "timestamp": 1742983306
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983306
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/ade2f829444a465f07de05c97b526258.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/ade2f829444a465f07de05c97b526258.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983306
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983306,
-        "updated_at": 1743023129,
-        "updates": 2
+        "updated_at": 1749739006,
+        "updates": 3
     }
 }

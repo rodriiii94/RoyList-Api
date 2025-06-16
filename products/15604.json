@@ -110,14 +110,24 @@
                 "timestamp": 1742983420
             },
             "bulk_price": {
-                "value": "1.70",
-                "previous": [],
-                "timestamp": 1742983420
+                "value": "1.60",
+                "previous": [
+                    {
+                        "value": "1.70",
+                        "timestamp": 1742983420
+                    }
+                ],
+                "timestamp": 1749739173
             },
             "unit_price": {
-                "value": "1.70",
-                "previous": [],
-                "timestamp": 1742983420
+                "value": "1.60",
+                "previous": [
+                    {
+                        "value": "1.70",
+                        "timestamp": 1742983420
+                    }
+                ],
+                "timestamp": 1749739173
             },
             "approx_size": {
                 "value": false,
@@ -165,9 +175,14 @@
                 "timestamp": 1742983420
             },
             "reference_price": {
-                "value": "1.700",
-                "previous": [],
-                "timestamp": 1742983420
+                "value": "1.600",
+                "previous": [
+                    {
+                        "value": "1.700",
+                        "timestamp": 1742983420
+                    }
+                ],
+                "timestamp": 1749739173
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -196,7 +211,7 @@
             "timestamp": 1742983420
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/15604/gazpacho-tradicional-hacendado-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/15604\/gazpacho-tradicional-hacendado-botella",
             "previous": [],
             "timestamp": 1742983420
         },
@@ -211,9 +226,14 @@
             "timestamp": 1742983420
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/3962e65a24805a064168f879472a1be7.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983420
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/58afbb31db0d9537a8f94fb81f5da25d.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/3962e65a24805a064168f879472a1be7.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983420
+                }
+            ],
+            "timestamp": 1749739173
         },
         "unavailable_from": {
             "value": null,
@@ -223,7 +243,7 @@
     },
     "stats": {
         "created_at": 1742983420,
-        "updated_at": 1743023389,
-        "updates": 4
+        "updated_at": 1749739351,
+        "updates": 6
     }
 }

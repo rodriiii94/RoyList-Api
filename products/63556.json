@@ -174,7 +174,7 @@
             "timestamp": 1742983532
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/63556/pizza-pepperoni-hacendado",
+            "value": "https:\/\/tienda.mercadona.es\/product\/63556\/pizza-pepperoni-hacendado",
             "previous": [],
             "timestamp": 1742983532
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983532
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/c9d298dd423a69a0bb13420a4ff93313.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983532
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/b57899dd9110969856c162219b6957f5.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/c9d298dd423a69a0bb13420a4ff93313.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983532
+                }
+            ],
+            "timestamp": 1749739344
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983532,
-        "updated_at": 1743023385,
-        "updates": 2
+        "updated_at": 1749739344,
+        "updates": 3
     }
 }

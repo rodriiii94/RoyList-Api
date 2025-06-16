@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Sándwiches jamón y queso Hacendado",
+            "value": "S\u00e1ndwiches jam\u00f3n y queso Hacendado",
             "previous": [],
             "timestamp": 1742983534
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983534
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/59032/sandwiches-jamon-queso-hacendado-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/59032\/sandwiches-jamon-queso-hacendado-paquete",
             "previous": [],
             "timestamp": 1742983534
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983534
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/4ade60348aea17d797101f86abf42891.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983534
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/714e9d8e90c452951fc6f71c3d58fdf0.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/4ade60348aea17d797101f86abf42891.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983534
+                }
+            ],
+            "timestamp": 1749739349
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983534,
-        "updated_at": 1743023388,
-        "updates": 2
+        "updated_at": 1749739349,
+        "updates": 3
     }
 }

@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Tinto de verano Casón Histórico",
+            "value": "Tinto de verano Cas\u00f3n Hist\u00f3rico",
             "previous": [],
             "timestamp": 1742983349
         },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983349
             },
             "bulk_price": {
-                "value": "0.80",
-                "previous": [],
-                "timestamp": 1742983349
+                "value": "0.67",
+                "previous": [
+                    {
+                        "value": "0.80",
+                        "timestamp": 1742983349
+                    }
+                ],
+                "timestamp": 1749739074
             },
             "unit_price": {
-                "value": "1.20",
-                "previous": [],
-                "timestamp": 1742983349
+                "value": "1.00",
+                "previous": [
+                    {
+                        "value": "1.20",
+                        "timestamp": 1742983349
+                    }
+                ],
+                "timestamp": 1749739074
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983349
             },
             "reference_price": {
-                "value": "0.800",
-                "previous": [],
-                "timestamp": 1742983349
+                "value": "0.667",
+                "previous": [
+                    {
+                        "value": "0.800",
+                        "timestamp": 1742983349
+                    }
+                ],
+                "timestamp": 1749739074
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983349
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/11564/tinto-verano-cason-historico-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/11564\/tinto-verano-cason-historico-botella",
             "previous": [],
             "timestamp": 1742983349
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983349
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/1d74972cf19ce0e3c49a714506c360db.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/1d74972cf19ce0e3c49a714506c360db.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983349
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983349,
-        "updated_at": 1743023182,
-        "updates": 2
+        "updated_at": 1749739074,
+        "updates": 3
     }
 }

@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Lote hombre Él",
+            "value": "Lote hombre \u00c9l",
             "previous": [],
             "timestamp": 1742983448
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983448
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/9945/lote-hombre-contiene-eau-parfum-100ml-gel-champu-100ml-neceser",
+            "value": "https:\/\/tienda.mercadona.es\/product\/9945\/lote-hombre-contiene-eau-parfum-100ml-gel-champu-100ml-neceser",
             "previous": [],
             "timestamp": 1742983448
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983448
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/3beccbd7b2725ab51abebf0a5ba622a9.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/3beccbd7b2725ab51abebf0a5ba622a9.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983448
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983448,
-        "updated_at": 1743023295,
-        "updates": 2
+        "updated_at": 1749739222,
+        "updates": 3
     }
 }

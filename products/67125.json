@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Vino blanco albariño D.O Rías Baixas Pazo de Orantes",
+            "value": "Vino blanco albari\u00f1o D.O R\u00edas Baixas Pazo de Orantes",
             "previous": [],
             "timestamp": 1742983351
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983351
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/67125/vino-blanco-albarino-do-rias-baixas-pazo-orantes-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/67125\/vino-blanco-albarino-do-rias-baixas-pazo-orantes-botella",
             "previous": [],
             "timestamp": 1742983351
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983351
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/41512ddc36327780a703839e31b6ef7a.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/41512ddc36327780a703839e31b6ef7a.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983351
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983351,
-        "updated_at": 1743023184,
-        "updates": 2
+        "updated_at": 1749739075,
+        "updates": 3
     }
 }

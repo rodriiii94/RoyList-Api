@@ -37,9 +37,14 @@
             }
         ],
         "display_name": {
-            "value": "Compango asturiano",
-            "previous": [],
-            "timestamp": 1742983364
+            "value": "Compango",
+            "previous": [
+                {
+                    "value": "Compango asturiano",
+                    "timestamp": 1742983364
+                }
+            ],
+            "timestamp": 1749739094
         },
         "id": {
             "value": "53011",
@@ -174,7 +179,7 @@
             "timestamp": 1742983364
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/53011/compango-asturiano-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/53011\/compango-asturiano-paquete",
             "previous": [],
             "timestamp": 1742983364
         },
@@ -189,9 +194,14 @@
             "timestamp": 1742983364
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/85b38e97979453a866684cf48bbf27f9.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983364
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/1493ff4cfcee22587185be0a518c2b69.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/85b38e97979453a866684cf48bbf27f9.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983364
+                }
+            ],
+            "timestamp": 1749739094
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +211,7 @@
     },
     "stats": {
         "created_at": 1742983364,
-        "updated_at": 1743023199,
-        "updates": 2
+        "updated_at": 1749739094,
+        "updates": 3
     }
 }

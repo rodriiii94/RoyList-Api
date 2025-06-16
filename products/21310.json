@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Yogur sabores Hacendado 0% m.g 0% sin azúcares añadidos",
+            "value": "Yogur sabores Hacendado 0% m.g 0% sin az\u00facares a\u00f1adidos",
             "previous": [],
             "timestamp": 1742983544
         },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983544
             },
             "bulk_price": {
-                "value": "1.61",
-                "previous": [],
-                "timestamp": 1742983544
+                "value": "1.60",
+                "previous": [
+                    {
+                        "value": "1.61",
+                        "timestamp": 1742983544
+                    }
+                ],
+                "timestamp": 1749739361
             },
             "unit_price": {
-                "value": "1.61",
-                "previous": [],
-                "timestamp": 1742983544
+                "value": "1.60",
+                "previous": [
+                    {
+                        "value": "1.61",
+                        "timestamp": 1742983544
+                    }
+                ],
+                "timestamp": 1749739361
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983544
             },
             "reference_price": {
-                "value": "1.610",
-                "previous": [],
-                "timestamp": 1742983544
+                "value": "1.600",
+                "previous": [
+                    {
+                        "value": "1.610",
+                        "timestamp": 1742983544
+                    }
+                ],
+                "timestamp": 1749739361
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983544
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/21310/yogur-sabores-hacendado-0-mg-0-sin-azucares-anadidos-2-fresa-2-frutos-silvestres-2-pina-2-pera-pack-8",
+            "value": "https:\/\/tienda.mercadona.es\/product\/21310\/yogur-sabores-hacendado-0-mg-0-sin-azucares-anadidos-2-fresa-2-frutos-silvestres-2-pina-2-pera-pack-8",
             "previous": [],
             "timestamp": 1742983544
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983544
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/5dada7f732e10133a9348d7c317c4c14.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/5dada7f732e10133a9348d7c317c4c14.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983544
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983544,
-        "updated_at": 1743023397,
-        "updates": 2
+        "updated_at": 1749739361,
+        "updates": 3
     }
 }

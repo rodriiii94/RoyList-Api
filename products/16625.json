@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Champiñón entero Hacendado",
+            "value": "Champi\u00f1\u00f3n entero Hacendado",
             "previous": [],
             "timestamp": 1742983418
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983418
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/16625/champinon-entero-hacendado-bote",
+            "value": "https:\/\/tienda.mercadona.es\/product\/16625\/champinon-entero-hacendado-bote",
             "previous": [],
             "timestamp": 1742983418
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983418
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/c9822b081c46280f7b4242d55e9ab6a9.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/c9822b081c46280f7b4242d55e9ab6a9.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983418
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983418,
-        "updated_at": 1743023259,
-        "updates": 2
+        "updated_at": 1749739170,
+        "updates": 3
     }
 }

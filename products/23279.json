@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Vino blanco verdejo D.O Rueda Condado de Teón",
+            "value": "Vino blanco verdejo D.O Rueda Condado de Te\u00f3n",
             "previous": [],
             "timestamp": 1742983351
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983351
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/23279/vino-blanco-verdejo-do-rueda-condado-teon-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/23279\/vino-blanco-verdejo-do-rueda-condado-teon-botella",
             "previous": [],
             "timestamp": 1742983351
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983351
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/d6baf0810b1c955f77fbf98e0fca88c2.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983351
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/8d6f75e792c3eba83c20f23f837819cd.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/d6baf0810b1c955f77fbf98e0fca88c2.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983351
+                }
+            ],
+            "timestamp": 1749739076
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983351,
-        "updated_at": 1743023184,
-        "updates": 2
+        "updated_at": 1749739076,
+        "updates": 3
     }
 }

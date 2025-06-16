@@ -196,7 +196,7 @@
             "timestamp": 1742983309
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/17153/tomate-frito-estilo-casero-hacendado-con-aceite-oliva-brick",
+            "value": "https:\/\/tienda.mercadona.es\/product\/17153\/tomate-frito-estilo-casero-hacendado-con-aceite-oliva-brick",
             "previous": [],
             "timestamp": 1742983309
         },
@@ -211,7 +211,7 @@
             "timestamp": 1742983309
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/b316f525c80033093912e2829796b5cc.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/b316f525c80033093912e2829796b5cc.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983309
         },
@@ -223,7 +223,7 @@
     },
     "stats": {
         "created_at": 1742983309,
-        "updated_at": 1743023264,
-        "updates": 4
+        "updated_at": 1749739177,
+        "updates": 6
     }
 }

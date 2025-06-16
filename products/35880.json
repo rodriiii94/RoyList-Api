@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Cápsulas Gases Deliplus",
+            "value": "C\u00e1psulas Gases Deliplus",
             "previous": [],
             "timestamp": 1742983452
         },
@@ -78,7 +78,7 @@
                 "timestamp": 1742983452
             },
             "unit_name": {
-                "value": "cápsulas",
+                "value": "c\u00e1psulas",
                 "previous": [],
                 "timestamp": 1742983452
             },
@@ -174,7 +174,7 @@
             "timestamp": 1742983452
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/35880/capsulas-gases-deliplus-contiene-hinojo-manzanilla-jengibre-elaborado-base-especies-vegetales-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/35880\/capsulas-gases-deliplus-contiene-hinojo-manzanilla-jengibre-elaborado-base-especies-vegetales-caja",
             "previous": [],
             "timestamp": 1742983452
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983452
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/b8b1e45df6e352e52bc971a7a76c7eff.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/b8b1e45df6e352e52bc971a7a76c7eff.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983452
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983452,
-        "updated_at": 1743023298,
-        "updates": 2
+        "updated_at": 1749739227,
+        "updates": 3
     }
 }

@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739070
+            },
+            "requires_age_check": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739070
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 19,
+                    "previous": [],
+                    "timestamp": 1749739070
+                },
+                "name": {
+                    "value": "Bodega",
+                    "previous": [],
+                    "timestamp": 1749739070
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739070
+                },
+                "order": {
+                    "value": 15,
+                    "previous": [],
+                    "timestamp": 1749739070
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Bebida preparada de ron sabor mojito La Recompensa Ice",
+            "previous": [],
+            "timestamp": 1749739070
+        },
+        "id": {
+            "value": "8802",
+            "previous": [],
+            "timestamp": 1749739070
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739070
+        },
+        "packaging": {
+            "value": "Botell\u00edn",
+            "previous": [],
+            "timestamp": 1749739070
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1749739070
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739070
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739070
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739070
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739070
+            },
+            "unit_size": {
+                "value": 0.275,
+                "previous": [],
+                "timestamp": 1749739070
+            },
+            "bulk_price": {
+                "value": "4.73",
+                "previous": [],
+                "timestamp": 1749739070
+            },
+            "unit_price": {
+                "value": "1.30",
+                "previous": [],
+                "timestamp": 1749739070
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739070
+            },
+            "size_format": {
+                "value": "l",
+                "previous": [],
+                "timestamp": 1749739070
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739070
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739070
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739070
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739070
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739070
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1749739070
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739070
+            },
+            "reference_price": {
+                "value": "4.728",
+                "previous": [],
+                "timestamp": 1749739070
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739070
+            },
+            "reference_format": {
+                "value": "L",
+                "previous": [],
+                "timestamp": 1749739070
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739070
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739070
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739070
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/8802\/bebida-preparada-vodka-sabor-mojito-recompensa-ice-botellin",
+            "previous": [],
+            "timestamp": 1749739070
+        },
+        "slug": {
+            "value": "bebida-preparada-vodka-sabor-mojito-recompensa-ice-botellin",
+            "previous": [],
+            "timestamp": 1749739070
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739070
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/f84b96864bb625d07b4d6cd2590b4e9b.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739070
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739070
+        }
+    },
+    "stats": {
+        "created_at": 1749739070,
+        "updated_at": 1749739070,
+        "updates": 1
+    }
+}

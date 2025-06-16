@@ -174,7 +174,7 @@
             "timestamp": 1742983489
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/86836/mopa-atrapa-polvo-bosque-verde-multiusos-1-mopa-10-gamuzas-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/86836\/mopa-atrapa-polvo-bosque-verde-multiusos-1-mopa-10-gamuzas-paquete",
             "previous": [],
             "timestamp": 1742983489
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983489
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/dbc96868c32e0dfb514b9d79de0bf357.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983489
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/e4d3f339f2c515f99477045afc84a908.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/dbc96868c32e0dfb514b9d79de0bf357.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983489
+                }
+            ],
+            "timestamp": 1749739283
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983489,
-        "updated_at": 1743023340,
-        "updates": 2
+        "updated_at": 1749739283,
+        "updates": 3
     }
 }

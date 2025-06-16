@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Dentífrico Total original Colgate",
+            "value": "Dent\u00edfrico Total original Colgate",
             "previous": [],
             "timestamp": 1742983442
         },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983442
             },
             "bulk_price": {
-                "value": "32.67",
-                "previous": [],
-                "timestamp": 1742983442
+                "value": "38.67",
+                "previous": [
+                    {
+                        "value": "32.67",
+                        "timestamp": 1742983442
+                    }
+                ],
+                "timestamp": 1749739209
             },
             "unit_price": {
-                "value": "2.45",
-                "previous": [],
-                "timestamp": 1742983442
+                "value": "2.90",
+                "previous": [
+                    {
+                        "value": "2.45",
+                        "timestamp": 1742983442
+                    }
+                ],
+                "timestamp": 1749739209
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983442
             },
             "reference_price": {
-                "value": "3.267",
-                "previous": [],
-                "timestamp": 1742983442
+                "value": "3.867",
+                "previous": [
+                    {
+                        "value": "3.267",
+                        "timestamp": 1742983442
+                    }
+                ],
+                "timestamp": 1749739209
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -158,9 +173,14 @@
                 "timestamp": 1742983442
             },
             "previous_unit_price": {
-                "value": "        2.90",
-                "previous": [],
-                "timestamp": 1742983442
+                "value": null,
+                "previous": [
+                    {
+                        "value": "        2.90",
+                        "timestamp": 1742983442
+                    }
+                ],
+                "timestamp": 1749739209
             },
             "increment_bunch_amount": {
                 "value": 1,
@@ -174,7 +194,7 @@
             "timestamp": 1742983442
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/79593/dentifrico-total-original-colgate-tubo",
+            "value": "https:\/\/tienda.mercadona.es\/product\/79593\/dentifrico-total-original-colgate-tubo",
             "previous": [],
             "timestamp": 1742983442
         },
@@ -189,7 +209,7 @@
             "timestamp": 1742983442
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/ab6daeab8771916863b88c9a47228275.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/ab6daeab8771916863b88c9a47228275.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983442
         },
@@ -201,7 +221,7 @@
     },
     "stats": {
         "created_at": 1742983442,
-        "updated_at": 1743023287,
-        "updates": 2
+        "updated_at": 1749739209,
+        "updates": 3
     }
 }

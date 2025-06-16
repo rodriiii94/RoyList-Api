@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739368
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739368
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 11,
+                    "previous": [],
+                    "timestamp": 1749739368
+                },
+                "name": {
+                    "value": "Postres y yogures",
+                    "previous": [],
+                    "timestamp": 1749739368
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739368
+                },
+                "order": {
+                    "value": 597,
+                    "previous": [],
+                    "timestamp": 1749739368
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Postre l\u00e1cteo con stracciatella +Prote\u00ednas Hacendado 11g prote\u00ednas",
+            "previous": [],
+            "timestamp": 1749739368
+        },
+        "id": {
+            "value": "12898",
+            "previous": [],
+            "timestamp": 1749739368
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739368
+        },
+        "packaging": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739368
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 4,
+                "previous": [],
+                "timestamp": 1749739368
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739368
+            },
+            "is_pack": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739368
+            },
+            "pack_size": {
+                "value": 0.125,
+                "previous": [],
+                "timestamp": 1749739368
+            },
+            "unit_name": {
+                "value": "ud.",
+                "previous": [],
+                "timestamp": 1749739368
+            },
+            "unit_size": {
+                "value": 0.5,
+                "previous": [],
+                "timestamp": 1749739368
+            },
+            "bulk_price": {
+                "value": "3.00",
+                "previous": [],
+                "timestamp": 1749739368
+            },
+            "unit_price": {
+                "value": "1.50",
+                "previous": [],
+                "timestamp": 1749739368
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739368
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1749739368
+            },
+            "total_units": {
+                "value": 4,
+                "previous": [],
+                "timestamp": 1749739368
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739368
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739368
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739368
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739368
+            },
+            "tax_percentage": {
+                "value": "4.000",
+                "previous": [],
+                "timestamp": 1749739368
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739368
+            },
+            "reference_price": {
+                "value": "3.000",
+                "previous": [],
+                "timestamp": 1749739368
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739368
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1749739368
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739368
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739368
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739368
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/12898\/postre-lacteo-con-stracciatella-proteinas-hacendado-11g-proteinas",
+            "previous": [],
+            "timestamp": 1749739368
+        },
+        "slug": {
+            "value": "postre-lacteo-con-stracciatella-proteinas-hacendado-11g-proteinas",
+            "previous": [],
+            "timestamp": 1749739368
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739368
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/229a847ae8a47b9177f12153602b5700.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739368
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739368
+        }
+    },
+    "stats": {
+        "created_at": 1749739368,
+        "updated_at": 1749739368,
+        "updates": 1
+    }
+}

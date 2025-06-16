@@ -174,7 +174,7 @@
             "timestamp": 1742983467
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/40752/perfumador-ropa-bosque-verde-intensificador-fragancia-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/40752\/perfumador-ropa-bosque-verde-intensificador-fragancia-botella",
             "previous": [],
             "timestamp": 1742983467
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983467
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/72ea551d8a646ee7a083091aafe78188.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/72ea551d8a646ee7a083091aafe78188.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983467
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983467,
-        "updated_at": 1743023317,
-        "updates": 2
+        "updated_at": 1749739253,
+        "updates": 3
     }
 }

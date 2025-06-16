@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Bebida energética Mango Loco Monster",
+            "value": "Bebida energ\u00e9tica Mango Loco Monster",
             "previous": [],
             "timestamp": 1742983312
         },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983312
             },
             "bulk_price": {
-                "value": "2.68",
-                "previous": [],
-                "timestamp": 1742983312
+                "value": "3.34",
+                "previous": [
+                    {
+                        "value": "2.68",
+                        "timestamp": 1742983312
+                    }
+                ],
+                "timestamp": 1749739016
             },
             "unit_price": {
-                "value": "5.36",
-                "previous": [],
-                "timestamp": 1742983312
+                "value": "6.68",
+                "previous": [
+                    {
+                        "value": "5.36",
+                        "timestamp": 1742983312
+                    }
+                ],
+                "timestamp": 1749739016
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983312
             },
             "reference_price": {
-                "value": "2.680",
-                "previous": [],
-                "timestamp": 1742983312
+                "value": "3.340",
+                "previous": [
+                    {
+                        "value": "2.680",
+                        "timestamp": 1742983312
+                    }
+                ],
+                "timestamp": 1749739016
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -158,9 +173,14 @@
                 "timestamp": 1742983312
             },
             "previous_unit_price": {
-                "value": "        6.68",
-                "previous": [],
-                "timestamp": 1742983312
+                "value": null,
+                "previous": [
+                    {
+                        "value": "        6.68",
+                        "timestamp": 1742983312
+                    }
+                ],
+                "timestamp": 1749739016
             },
             "increment_bunch_amount": {
                 "value": 1,
@@ -174,7 +194,7 @@
             "timestamp": 1742983312
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/13815/bebida-energetica-mango-loco-monster-pack-4",
+            "value": "https:\/\/tienda.mercadona.es\/product\/13815\/bebida-energetica-mango-loco-monster-pack-4",
             "previous": [],
             "timestamp": 1742983312
         },
@@ -189,7 +209,7 @@
             "timestamp": 1742983312
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/2f7b6795a8c6303facf00d6f1e97a8d2.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/2f7b6795a8c6303facf00d6f1e97a8d2.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983312
         },
@@ -201,7 +221,7 @@
     },
     "stats": {
         "created_at": 1742983312,
-        "updated_at": 1743023137,
-        "updates": 2
+        "updated_at": 1749739016,
+        "updates": 3
     }
 }

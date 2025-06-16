@@ -20,7 +20,7 @@
                     "timestamp": 1742983394
                 },
                 "name": {
-                    "value": "Charcutería y quesos",
+                    "value": "Charcuter\u00eda y quesos",
                     "previous": [],
                     "timestamp": 1742983394
                 },
@@ -83,9 +83,14 @@
                 "timestamp": 1742983394
             },
             "unit_size": {
-                "value": 0.2,
-                "previous": [],
-                "timestamp": 1742983394
+                "value": 0.27,
+                "previous": [
+                    {
+                        "value": 0.2,
+                        "timestamp": 1742983394
+                    }
+                ],
+                "timestamp": 1749739135
             },
             "bulk_price": {
                 "value": "22.36",
@@ -93,9 +98,14 @@
                 "timestamp": 1742983394
             },
             "unit_price": {
-                "value": "4.47",
-                "previous": [],
-                "timestamp": 1742983394
+                "value": "6.04",
+                "previous": [
+                    {
+                        "value": "4.47",
+                        "timestamp": 1742983394
+                    }
+                ],
+                "timestamp": 1749739135
             },
             "approx_size": {
                 "value": true,
@@ -174,7 +184,7 @@
             "timestamp": 1742983394
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/4883/queso-curado-mezcla-con-trufa-hacendado-pieza",
+            "value": "https:\/\/tienda.mercadona.es\/product\/4883\/queso-curado-mezcla-con-trufa-hacendado-pieza",
             "previous": [],
             "timestamp": 1742983394
         },
@@ -189,7 +199,7 @@
             "timestamp": 1742983394
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/cdba4ef5f02f0cbfbdc95300f7e1280e.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/cdba4ef5f02f0cbfbdc95300f7e1280e.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983394
         },
@@ -201,7 +211,7 @@
     },
     "stats": {
         "created_at": 1742983394,
-        "updated_at": 1743023232,
-        "updates": 2
+        "updated_at": 1749739135,
+        "updates": 3
     }
 }

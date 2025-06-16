@@ -20,7 +20,7 @@
                     "timestamp": 1742983334
                 },
                 "name": {
-                    "value": "Azúcar, caramelos y chocolate",
+                    "value": "Az\u00facar, caramelos y chocolate",
                     "previous": [],
                     "timestamp": 1742983334
                 },
@@ -174,7 +174,7 @@
             "timestamp": 1742983334
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/65059/surtido-caramelos-diver-xuxes-hacendado-envueltos-individualmente-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/65059\/surtido-caramelos-diver-xuxes-hacendado-envueltos-individualmente-paquete",
             "previous": [],
             "timestamp": 1742983334
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983334
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/2adb3b4cf408a87d1a6e089377eab05a.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983334
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/3b4037e390905b1073fd5900f7da8008.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/2adb3b4cf408a87d1a6e089377eab05a.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983334
+                }
+            ],
+            "timestamp": 1749739051
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983334,
-        "updated_at": 1743023164,
-        "updates": 2
+        "updated_at": 1749739051,
+        "updates": 3
     }
 }

@@ -20,7 +20,7 @@
                     "timestamp": 1742983397
                 },
                 "name": {
-                    "value": "Charcutería y quesos",
+                    "value": "Charcuter\u00eda y quesos",
                     "previous": [],
                     "timestamp": 1742983397
                 },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983397
             },
             "bulk_price": {
-                "value": "10.20",
-                "previous": [],
-                "timestamp": 1742983397
+                "value": "10.60",
+                "previous": [
+                    {
+                        "value": "10.20",
+                        "timestamp": 1742983397
+                    }
+                ],
+                "timestamp": 1749739141
             },
             "unit_price": {
-                "value": "2.55",
-                "previous": [],
-                "timestamp": 1742983397
+                "value": "2.65",
+                "previous": [
+                    {
+                        "value": "2.55",
+                        "timestamp": 1742983397
+                    }
+                ],
+                "timestamp": 1749739141
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983397
             },
             "reference_price": {
-                "value": "10.200",
-                "previous": [],
-                "timestamp": 1742983397
+                "value": "10.600",
+                "previous": [
+                    {
+                        "value": "10.200",
+                        "timestamp": 1742983397
+                    }
+                ],
+                "timestamp": 1749739141
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983397
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/51072/queso-fresco-mascarpone-vaca-hacendado-tarrina",
+            "value": "https:\/\/tienda.mercadona.es\/product\/51072\/queso-fresco-mascarpone-vaca-hacendado-tarrina",
             "previous": [],
             "timestamp": 1742983397
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983397
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/eec701a15d0cb0fdda6f4fcd32dabcbb.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/eec701a15d0cb0fdda6f4fcd32dabcbb.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983397
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983397,
-        "updated_at": 1743023236,
-        "updates": 2
+        "updated_at": 1749739141,
+        "updates": 3
     }
 }

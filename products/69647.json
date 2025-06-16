@@ -83,9 +83,14 @@
                 "timestamp": 1742983459
             },
             "unit_size": {
-                "value": 0.3,
-                "previous": [],
-                "timestamp": 1742983459
+                "value": 0.23,
+                "previous": [
+                    {
+                        "value": 0.3,
+                        "timestamp": 1742983459
+                    }
+                ],
+                "timestamp": 1749739239
             },
             "bulk_price": {
                 "value": "13.18",
@@ -93,9 +98,14 @@
                 "timestamp": 1742983459
             },
             "unit_price": {
-                "value": "3.95",
-                "previous": [],
-                "timestamp": 1742983459
+                "value": "3.03",
+                "previous": [
+                    {
+                        "value": "3.95",
+                        "timestamp": 1742983459
+                    }
+                ],
+                "timestamp": 1749739239
             },
             "approx_size": {
                 "value": true,
@@ -174,7 +184,7 @@
             "timestamp": 1742983459
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/69647/seta-shiitake-bandeja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/69647\/seta-shiitake-bandeja",
             "previous": [],
             "timestamp": 1742983459
         },
@@ -189,7 +199,7 @@
             "timestamp": 1742983459
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/1610062d5cf6d751fcb817dbf4182745.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/1610062d5cf6d751fcb817dbf4182745.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983459
         },
@@ -201,7 +211,7 @@
     },
     "stats": {
         "created_at": 1742983459,
-        "updated_at": 1743023307,
-        "updates": 2
+        "updated_at": 1749739239,
+        "updates": 3
     }
 }

@@ -174,7 +174,7 @@
             "timestamp": 1742983366
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/4523/chuletas-pavo-contramuslo-bandeja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/4523\/chuletas-pavo-contramuslo-bandeja",
             "previous": [],
             "timestamp": 1742983366
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983366
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/c8d5d77a5514fdedef0a204aa95ec2f2.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983366
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/9d233604f6daf3db09c97052fb1d8627.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/c8d5d77a5514fdedef0a204aa95ec2f2.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983366
+                }
+            ],
+            "timestamp": 1749739095
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983366,
-        "updated_at": 1743023201,
-        "updates": 2
+        "updated_at": 1749739095,
+        "updates": 3
     }
 }

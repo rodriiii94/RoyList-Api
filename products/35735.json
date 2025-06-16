@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Apósitos hidrocoloides adhesivos para ampollas y rozaduras Deliplus surtidos",
+            "value": "Ap\u00f3sitos hidrocoloides adhesivos para ampollas y rozaduras Deliplus surtidos",
             "previous": [],
             "timestamp": 1742983453
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983453
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/35735/apositos-hidrocoloides-adhesivos-ampollas-rozaduras-deliplus-surtidos-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/35735\/apositos-hidrocoloides-adhesivos-ampollas-rozaduras-deliplus-surtidos-caja",
             "previous": [],
             "timestamp": 1742983453
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983453
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/0401caf080f6ff86d1de23f73e2af45a.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/0401caf080f6ff86d1de23f73e2af45a.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983453
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983453,
-        "updated_at": 1743023300,
-        "updates": 2
+        "updated_at": 1749739229,
+        "updates": 3
     }
 }

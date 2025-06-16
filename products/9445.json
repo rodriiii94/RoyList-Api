@@ -59,7 +59,7 @@
             }
         ],
         "display_name": {
-            "value": "Barritas con proteínas Enervit Sport sabor coco y chocolate",
+            "value": "Barritas con prote\u00ednas Enervit Sport sabor coco y chocolate",
             "previous": [],
             "timestamp": 1742983380
         },
@@ -110,14 +110,24 @@
                 "timestamp": 1742983380
             },
             "bulk_price": {
-                "value": "24.58",
-                "previous": [],
-                "timestamp": 1742983380
+                "value": "29.17",
+                "previous": [
+                    {
+                        "value": "24.58",
+                        "timestamp": 1742983380
+                    }
+                ],
+                "timestamp": 1749739113
             },
             "unit_price": {
-                "value": "2.95",
-                "previous": [],
-                "timestamp": 1742983380
+                "value": "3.50",
+                "previous": [
+                    {
+                        "value": "2.95",
+                        "timestamp": 1742983380
+                    }
+                ],
+                "timestamp": 1749739113
             },
             "approx_size": {
                 "value": false,
@@ -165,9 +175,14 @@
                 "timestamp": 1742983380
             },
             "reference_price": {
-                "value": "24.584",
-                "previous": [],
-                "timestamp": 1742983380
+                "value": "29.167",
+                "previous": [
+                    {
+                        "value": "24.584",
+                        "timestamp": 1742983380
+                    }
+                ],
+                "timestamp": 1749739113
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -196,7 +211,7 @@
             "timestamp": 1742983380
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/9445/barritas-con-proteinas-enervit-sport-sabor-coco-chocolate-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/9445\/barritas-con-proteinas-enervit-sport-sabor-coco-chocolate-caja",
             "previous": [],
             "timestamp": 1742983380
         },
@@ -211,7 +226,7 @@
             "timestamp": 1742983380
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/1991058d642d7c44258039986faec5af.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/1991058d642d7c44258039986faec5af.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983380
         },
@@ -223,7 +238,7 @@
     },
     "stats": {
         "created_at": 1742983380,
-        "updated_at": 1743023298,
-        "updates": 4
+        "updated_at": 1749739226,
+        "updates": 6
     }
 }

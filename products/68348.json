@@ -174,7 +174,7 @@
             "timestamp": 1742983541
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/68348/tocino-cielo-hacendado-pack-2",
+            "value": "https:\/\/tienda.mercadona.es\/product\/68348\/tocino-cielo-hacendado-pack-2",
             "previous": [],
             "timestamp": 1742983541
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983541
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/fbb737b97fc5ebe4063a88e827df8913.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/fbb737b97fc5ebe4063a88e827df8913.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983541
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983541,
-        "updated_at": 1743023394,
-        "updates": 2
+        "updated_at": 1749739358,
+        "updates": 3
     }
 }

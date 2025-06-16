@@ -20,7 +20,7 @@
                     "timestamp": 1742983396
                 },
                 "name": {
-                    "value": "Charcutería y quesos",
+                    "value": "Charcuter\u00eda y quesos",
                     "previous": [],
                     "timestamp": 1742983396
                 },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983396
             },
             "bulk_price": {
-                "value": "8.17",
-                "previous": [],
-                "timestamp": 1742983396
+                "value": "8.50",
+                "previous": [
+                    {
+                        "value": "8.17",
+                        "timestamp": 1742983396
+                    }
+                ],
+                "timestamp": 1749739138
             },
             "unit_price": {
-                "value": "2.45",
-                "previous": [],
-                "timestamp": 1742983396
+                "value": "2.55",
+                "previous": [
+                    {
+                        "value": "2.45",
+                        "timestamp": 1742983396
+                    }
+                ],
+                "timestamp": 1749739138
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983396
             },
             "reference_price": {
-                "value": "8.167",
-                "previous": [],
-                "timestamp": 1742983396
+                "value": "8.500",
+                "previous": [
+                    {
+                        "value": "8.167",
+                        "timestamp": 1742983396
+                    }
+                ],
+                "timestamp": 1749739138
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983396
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/50543/queso-lonchas-tierno-vaca-entrepinares-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/50543\/queso-lonchas-tierno-vaca-entrepinares-paquete",
             "previous": [],
             "timestamp": 1742983396
         },
@@ -189,9 +204,14 @@
             "timestamp": 1742983396
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/1aaeede548a27a2cb8fe3bcf6c8bf6df.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983396
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/90ac57caeeaf61e606abe7a6457be94c.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/1aaeede548a27a2cb8fe3bcf6c8bf6df.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983396
+                }
+            ],
+            "timestamp": 1749739138
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +221,7 @@
     },
     "stats": {
         "created_at": 1742983396,
-        "updated_at": 1743023234,
-        "updates": 2
+        "updated_at": 1749739138,
+        "updates": 3
     }
 }

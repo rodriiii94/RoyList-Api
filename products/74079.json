@@ -174,7 +174,7 @@
             "timestamp": 1742983437
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/74079/bandas-cera-facial-deliplus-piel-sensible-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/74079\/bandas-cera-facial-deliplus-piel-sensible-paquete",
             "previous": [],
             "timestamp": 1742983437
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983437
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/0cd0260cdf76b831d0bcbd3bbdf0440e.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/0cd0260cdf76b831d0bcbd3bbdf0440e.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983437
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983437,
-        "updated_at": 1743023282,
-        "updates": 2
+        "updated_at": 1749739201,
+        "updates": 3
     }
 }

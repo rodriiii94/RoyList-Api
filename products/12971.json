@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739042
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739042
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 13,
+                    "previous": [],
+                    "timestamp": 1749739042
+                },
+                "name": {
+                    "value": "Arroz, legumbres y pasta",
+                    "previous": [],
+                    "timestamp": 1749739042
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739042
+                },
+                "order": {
+                    "value": 10,
+                    "previous": [],
+                    "timestamp": 1749739042
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Pasta fresca ravioli ricotta y lim\u00f3n Summer Hacendado",
+            "previous": [],
+            "timestamp": 1749739042
+        },
+        "id": {
+            "value": "12971",
+            "previous": [],
+            "timestamp": 1749739042
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739042
+        },
+        "packaging": {
+            "value": "Bandeja",
+            "previous": [],
+            "timestamp": 1749739042
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1749739042
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739042
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739042
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739042
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739042
+            },
+            "unit_size": {
+                "value": 0.25,
+                "previous": [],
+                "timestamp": 1749739042
+            },
+            "bulk_price": {
+                "value": "8.60",
+                "previous": [],
+                "timestamp": 1749739042
+            },
+            "unit_price": {
+                "value": "2.15",
+                "previous": [],
+                "timestamp": 1749739042
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739042
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1749739042
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739042
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739042
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739042
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739042
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739042
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1749739042
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739042
+            },
+            "reference_price": {
+                "value": "8.600",
+                "previous": [],
+                "timestamp": 1749739042
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739042
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1749739042
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739042
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739042
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739042
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/12971\/pasta-fresca-ravioli-ricotta-limon-summer-hacendado-bandeja",
+            "previous": [],
+            "timestamp": 1749739042
+        },
+        "slug": {
+            "value": "pasta-fresca-ravioli-ricotta-limon-summer-hacendado-bandeja",
+            "previous": [],
+            "timestamp": 1749739042
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739042
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/6073ca108d14e8eb1381ea89f2964e6a.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739042
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739042
+        }
+    },
+    "stats": {
+        "created_at": 1749739042,
+        "updated_at": 1749739042,
+        "updates": 1
+    }
+}

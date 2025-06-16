@@ -20,7 +20,7 @@
                     "timestamp": 1742983329
                 },
                 "name": {
-                    "value": "Azúcar, caramelos y chocolate",
+                    "value": "Az\u00facar, caramelos y chocolate",
                     "previous": [],
                     "timestamp": 1742983329
                 },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983329
             },
             "bulk_price": {
-                "value": "18.33",
-                "previous": [],
-                "timestamp": 1742983329
+                "value": "17.50",
+                "previous": [
+                    {
+                        "value": "18.33",
+                        "timestamp": 1742983329
+                    }
+                ],
+                "timestamp": 1749739044
             },
             "unit_price": {
-                "value": "1.10",
-                "previous": [],
-                "timestamp": 1742983329
+                "value": "1.05",
+                "previous": [
+                    {
+                        "value": "1.10",
+                        "timestamp": 1742983329
+                    }
+                ],
+                "timestamp": 1749739044
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983329
             },
             "reference_price": {
-                "value": "18.334",
-                "previous": [],
-                "timestamp": 1742983329
+                "value": "17.500",
+                "previous": [
+                    {
+                        "value": "18.334",
+                        "timestamp": 1742983329
+                    }
+                ],
+                "timestamp": 1749739044
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983329
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/19808/edulcorante-sobres-sacarina-hacendado-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/19808\/edulcorante-sobres-sacarina-hacendado-caja",
             "previous": [],
             "timestamp": 1742983329
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983329
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/b226d7519ac3c88588aa2b7b8ed772a7.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/b226d7519ac3c88588aa2b7b8ed772a7.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983329
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983329,
-        "updated_at": 1743023158,
-        "updates": 2
+        "updated_at": 1749739044,
+        "updates": 3
     }
 }

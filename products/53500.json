@@ -20,7 +20,7 @@
                     "timestamp": 1742983386
                 },
                 "name": {
-                    "value": "Charcutería y quesos",
+                    "value": "Charcuter\u00eda y quesos",
                     "previous": [],
                     "timestamp": 1742983386
                 },
@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Bacón Oscar Mayer lonchas",
+            "value": "Bac\u00f3n Oscar Mayer lonchas",
             "previous": [],
             "timestamp": 1742983386
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983386
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/53500/bacon-oscar-mayer-lonchas-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/53500\/bacon-oscar-mayer-lonchas-paquete",
             "previous": [],
             "timestamp": 1742983386
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983386
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/4252c9fbaff3fbf3497ce2355fd3527b.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983386
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/eb0c6942179fd1cd322004e9382cf525.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/4252c9fbaff3fbf3497ce2355fd3527b.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983386
+                }
+            ],
+            "timestamp": 1749739123
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983386,
-        "updated_at": 1743023223,
-        "updates": 2
+        "updated_at": 1749739123,
+        "updates": 3
     }
 }

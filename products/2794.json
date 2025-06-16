@@ -83,19 +83,34 @@
                 "timestamp": 1742983366
             },
             "unit_size": {
-                "value": 0.65,
-                "previous": [],
-                "timestamp": 1742983366
+                "value": 0.58,
+                "previous": [
+                    {
+                        "value": 0.65,
+                        "timestamp": 1742983366
+                    }
+                ],
+                "timestamp": 1749739095
             },
             "bulk_price": {
-                "value": "8.45",
-                "previous": [],
-                "timestamp": 1742983366
+                "value": "8.75",
+                "previous": [
+                    {
+                        "value": "8.45",
+                        "timestamp": 1742983366
+                    }
+                ],
+                "timestamp": 1749739095
             },
             "unit_price": {
-                "value": "5.49",
-                "previous": [],
-                "timestamp": 1742983366
+                "value": "5.08",
+                "previous": [
+                    {
+                        "value": "5.49",
+                        "timestamp": 1742983366
+                    }
+                ],
+                "timestamp": 1749739095
             },
             "approx_size": {
                 "value": true,
@@ -143,9 +158,14 @@
                 "timestamp": 1742983366
             },
             "reference_price": {
-                "value": "8.450",
-                "previous": [],
-                "timestamp": 1742983366
+                "value": "8.750",
+                "previous": [
+                    {
+                        "value": "8.450",
+                        "timestamp": 1742983366
+                    }
+                ],
+                "timestamp": 1749739095
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +194,7 @@
             "timestamp": 1742983366
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/2794/filetes-pechuga-pavo-bandeja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/2794\/filetes-pechuga-pavo-bandeja",
             "previous": [],
             "timestamp": 1742983366
         },
@@ -189,7 +209,7 @@
             "timestamp": 1742983366
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/39d334e9e418f0c17b8c9de9116e192d.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/39d334e9e418f0c17b8c9de9116e192d.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983366
         },
@@ -201,7 +221,7 @@
     },
     "stats": {
         "created_at": 1742983366,
-        "updated_at": 1743023201,
-        "updates": 2
+        "updated_at": 1749739095,
+        "updates": 3
     }
 }

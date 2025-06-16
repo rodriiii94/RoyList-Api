@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739145
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739145
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 17,
+                    "previous": [],
+                    "timestamp": 1749739145
+                },
+                "name": {
+                    "value": "Congelados",
+                    "previous": [],
+                    "timestamp": 1749739145
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739145
+                },
+                "order": {
+                    "value": 213,
+                    "previous": [],
+                    "timestamp": 1749739145
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Contramuslos de pollo deshuesados y con piel congelado",
+            "previous": [],
+            "timestamp": 1749739145
+        },
+        "id": {
+            "value": "12966",
+            "previous": [],
+            "timestamp": 1749739145
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739145
+        },
+        "packaging": {
+            "value": "Paquete",
+            "previous": [],
+            "timestamp": 1749739145
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1749739145
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739145
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739145
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739145
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739145
+            },
+            "unit_size": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739145
+            },
+            "bulk_price": {
+                "value": "5.95",
+                "previous": [],
+                "timestamp": 1749739145
+            },
+            "unit_price": {
+                "value": "5.95",
+                "previous": [],
+                "timestamp": 1749739145
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739145
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1749739145
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739145
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739145
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739145
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739145
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739145
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1749739145
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739145
+            },
+            "reference_price": {
+                "value": "5.950",
+                "previous": [],
+                "timestamp": 1749739145
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739145
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1749739145
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739145
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739145
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739145
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/12966\/contramuslos-pollo-deshuesados-con-piel-congelado-paquete",
+            "previous": [],
+            "timestamp": 1749739145
+        },
+        "slug": {
+            "value": "contramuslos-pollo-deshuesados-con-piel-congelado-paquete",
+            "previous": [],
+            "timestamp": 1749739145
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739145
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/25fe8213a4f15847b3c022284819c046.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739145
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739145
+        }
+    },
+    "stats": {
+        "created_at": 1749739145,
+        "updated_at": 1749739145,
+        "updates": 1
+    }
+}

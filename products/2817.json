@@ -83,9 +83,14 @@
                 "timestamp": 1742983369
             },
             "unit_size": {
-                "value": 0.55,
-                "previous": [],
-                "timestamp": 1742983369
+                "value": 0.65,
+                "previous": [
+                    {
+                        "value": 0.55,
+                        "timestamp": 1742983369
+                    }
+                ],
+                "timestamp": 1749739101
             },
             "bulk_price": {
                 "value": "6.70",
@@ -93,9 +98,14 @@
                 "timestamp": 1742983369
             },
             "unit_price": {
-                "value": "3.69",
-                "previous": [],
-                "timestamp": 1742983369
+                "value": "4.36",
+                "previous": [
+                    {
+                        "value": "3.69",
+                        "timestamp": 1742983369
+                    }
+                ],
+                "timestamp": 1749739101
             },
             "approx_size": {
                 "value": true,
@@ -174,7 +184,7 @@
             "timestamp": 1742983369
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/2817/filetes-lomo-cerdo-cabeza-bandeja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/2817\/filetes-lomo-cerdo-cabeza-bandeja",
             "previous": [],
             "timestamp": 1742983369
         },
@@ -189,7 +199,7 @@
             "timestamp": 1742983369
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/b99df31de67900eb4d6769b86a931289.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/b99df31de67900eb4d6769b86a931289.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983369
         },
@@ -201,7 +211,7 @@
     },
     "stats": {
         "created_at": 1742983369,
-        "updated_at": 1743023205,
-        "updates": 2
+        "updated_at": 1749739101,
+        "updates": 3
     }
 }

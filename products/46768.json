@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Crema corporal anticelulítica Deliplus",
+            "value": "Crema corporal anticelul\u00edtica Deliplus",
             "previous": [],
             "timestamp": 1742983433
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983433
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/46768/crema-corporal-anticelulitica-deliplus-tarro",
+            "value": "https:\/\/tienda.mercadona.es\/product\/46768\/crema-corporal-anticelulitica-deliplus-tarro",
             "previous": [],
             "timestamp": 1742983433
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983433
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/91a494544c39f5e54ea70c820b5fa0cd.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/91a494544c39f5e54ea70c820b5fa0cd.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983433
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983433,
-        "updated_at": 1743023276,
-        "updates": 2
+        "updated_at": 1749739195,
+        "updates": 3
     }
 }

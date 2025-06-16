@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Aceite de girasol refinado 0,2º Hacendado",
+            "value": "Aceite de girasol refinado 0,2\u00ba Hacendado",
             "previous": [],
             "timestamp": 1742983305
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983305
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/4041/aceite-girasol-refinado-02o-hacendado-garrafa",
+            "value": "https:\/\/tienda.mercadona.es\/product\/4041\/aceite-girasol-refinado-02o-hacendado-garrafa",
             "previous": [],
             "timestamp": 1742983305
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983305
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/e6398afba1d032d2e1c0489fd727d2f6.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/e6398afba1d032d2e1c0489fd727d2f6.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983305
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983305,
-        "updated_at": 1743023127,
-        "updates": 2
+        "updated_at": 1749739003,
+        "updates": 3
     }
 }

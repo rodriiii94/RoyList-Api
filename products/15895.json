@@ -161,6 +161,11 @@
                 "value": 1,
                 "previous": [],
                 "timestamp": 1742983435
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1749739199
             }
         },
         "published": {
@@ -169,7 +174,7 @@
             "timestamp": 1742983435
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/15895/perlas-faciales-q10-khanya-concentrado-reafirmante-antiarrugas-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/15895\/perlas-faciales-q10-khanya-concentrado-reafirmante-antiarrugas-paquete",
             "previous": [],
             "timestamp": 1742983435
         },
@@ -184,7 +189,7 @@
             "timestamp": 1742983435
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/fee6ce4416c9884ff331bc0dd321b2e7.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/fee6ce4416c9884ff331bc0dd321b2e7.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983435
         },
@@ -196,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983435,
-        "updated_at": 1743023279,
-        "updates": 2
+        "updated_at": 1749739199,
+        "updates": 3
     }
 }

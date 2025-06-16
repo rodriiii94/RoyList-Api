@@ -174,7 +174,7 @@
             "timestamp": 1742983423
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/16041/tomate-entero-pelado-hacendado-freir-bote",
+            "value": "https:\/\/tienda.mercadona.es\/product\/16041\/tomate-entero-pelado-hacendado-freir-bote",
             "previous": [],
             "timestamp": 1742983423
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983423
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/4ca8c3015199d518274e3cd5dbd3d1ed.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983423
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/da1986c59308309dbcb8fdd2e5c3f730.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/4ca8c3015199d518274e3cd5dbd3d1ed.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983423
+                }
+            ],
+            "timestamp": 1749739177
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983423,
-        "updated_at": 1743023264,
-        "updates": 2
+        "updated_at": 1749739177,
+        "updates": 3
     }
 }

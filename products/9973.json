@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Espuma cabello Xtra Forte Deliplus fijación 4",
+            "value": "Espuma cabello Xtra Forte Deliplus fijaci\u00f3n 4",
             "previous": [],
             "timestamp": 1742983430
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983430
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/9973/espuma-cabello-xtra-forte-deliplus-fijacion-4-bote",
+            "value": "https:\/\/tienda.mercadona.es\/product\/9973\/espuma-cabello-xtra-forte-deliplus-fijacion-4-bote",
             "previous": [],
             "timestamp": 1742983430
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983430
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/c847f94da8673900542804758648ed15.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/c847f94da8673900542804758648ed15.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983430
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983430,
-        "updated_at": 1743023273,
-        "updates": 2
+        "updated_at": 1749739190,
+        "updates": 3
     }
 }

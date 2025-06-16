@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Recambios maquinilla depilación Deliplus Body System 6 hojas",
+            "value": "Recambios maquinilla depilaci\u00f3n Deliplus Body System 6 hojas",
             "previous": [],
             "timestamp": 1742983437
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983437
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/13576/recambios-maquinilla-depilacion-deliplus-body-system-6-hojas-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/13576\/recambios-maquinilla-depilacion-deliplus-body-system-6-hojas-caja",
             "previous": [],
             "timestamp": 1742983437
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983437
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/f10b8aa0c26a7c01168e2d5f85be1095.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/f10b8aa0c26a7c01168e2d5f85be1095.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983437
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983437,
-        "updated_at": 1743023282,
-        "updates": 2
+        "updated_at": 1749739202,
+        "updates": 3
     }
 }

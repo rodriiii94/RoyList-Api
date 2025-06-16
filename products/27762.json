@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Refresco limón Schweppes original",
+            "value": "Refresco lim\u00f3n Schweppes original",
             "previous": [],
             "timestamp": 1742983315
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983315
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/27762/refresco-limon-schweppes-original-lata",
+            "value": "https:\/\/tienda.mercadona.es\/product\/27762\/refresco-limon-schweppes-original-lata",
             "previous": [],
             "timestamp": 1742983315
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983315
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/74fe6d9afb23ec0c25e30338906aab3a.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983315
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/acb95e93a25b243db45859377e6ec0b7.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/74fe6d9afb23ec0c25e30338906aab3a.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983315
+                }
+            ],
+            "timestamp": 1749739021
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983315,
-        "updated_at": 1743023141,
-        "updates": 2
+        "updated_at": 1749739021,
+        "updates": 3
     }
 }

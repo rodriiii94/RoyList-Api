@@ -174,7 +174,7 @@
             "timestamp": 1742983314
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/29360/refresco-coca-cola-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/29360\/refresco-coca-cola-botella",
             "previous": [],
             "timestamp": 1742983314
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983314
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/1cde2bcf260338580d52e9202e44981f.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983314
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/ace4ca633877449fae67a3f3badf865b.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/1cde2bcf260338580d52e9202e44981f.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983314
+                }
+            ],
+            "timestamp": 1749739018
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983314,
-        "updated_at": 1743023139,
-        "updates": 2
+        "updated_at": 1749739018,
+        "updates": 3
     }
 }

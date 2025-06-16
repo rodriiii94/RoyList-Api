@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Activador Quitamanchas ropa de color Oxi Active Bosque Verde líquido",
+            "value": "Activador Quitamanchas ropa de color Oxi Active Bosque Verde l\u00edquido",
             "previous": [],
             "timestamp": 1742983467
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983467
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/40233/activador-lavado-ropa-color-oxi-active-bosque-verde-gel-con-oxigeno-activo-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/40233\/activador-lavado-ropa-color-oxi-active-bosque-verde-gel-con-oxigeno-activo-botella",
             "previous": [],
             "timestamp": 1742983467
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983467
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/dd3f517dde1bb097a451cf1ae7087225.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/dd3f517dde1bb097a451cf1ae7087225.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983467
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983467,
-        "updated_at": 1743023317,
-        "updates": 2
+        "updated_at": 1749739252,
+        "updates": 3
     }
 }

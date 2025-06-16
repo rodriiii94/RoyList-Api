@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739217
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739217
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 20,
+                    "previous": [],
+                    "timestamp": 1749739217
+                },
+                "name": {
+                    "value": "Cuidado facial y corporal",
+                    "previous": [],
+                    "timestamp": 1749739217
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739217
+                },
+                "order": {
+                    "value": 241,
+                    "previous": [],
+                    "timestamp": 1749739217
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Laca de u\u00f1as alto brillo Deliplus 123 rosa perla",
+            "previous": [],
+            "timestamp": 1749739217
+        },
+        "id": {
+            "value": "14286",
+            "previous": [],
+            "timestamp": 1749739217
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739217
+        },
+        "packaging": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739217
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1749739217
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739217
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739217
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739217
+            },
+            "unit_name": {
+                "value": "ud.",
+                "previous": [],
+                "timestamp": 1749739217
+            },
+            "unit_size": {
+                "value": 0.011,
+                "previous": [],
+                "timestamp": 1749739217
+            },
+            "bulk_price": {
+                "value": "2.50",
+                "previous": [],
+                "timestamp": 1749739217
+            },
+            "unit_price": {
+                "value": "2.50",
+                "previous": [],
+                "timestamp": 1749739217
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739217
+            },
+            "size_format": {
+                "value": "l",
+                "previous": [],
+                "timestamp": 1749739217
+            },
+            "total_units": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739217
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739217
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739217
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739217
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739217
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1749739217
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739217
+            },
+            "reference_price": {
+                "value": "2.500",
+                "previous": [],
+                "timestamp": 1749739217
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739217
+            },
+            "reference_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1749739217
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739217
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739217
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739217
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/14286\/laca-unas-alto-brillo-deliplus-123-rosa-perla",
+            "previous": [],
+            "timestamp": 1749739217
+        },
+        "slug": {
+            "value": "laca-unas-alto-brillo-deliplus-123-rosa-perla",
+            "previous": [],
+            "timestamp": 1749739217
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739217
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/6c9ce8173543aff4b1f65bf6be75289f.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739217
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739217
+        }
+    },
+    "stats": {
+        "created_at": 1749739217,
+        "updated_at": 1749739217,
+        "updates": 1
+    }
+}

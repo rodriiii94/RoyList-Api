@@ -20,7 +20,7 @@
                     "timestamp": 1742983386
                 },
                 "name": {
-                    "value": "Charcutería y quesos",
+                    "value": "Charcuter\u00eda y quesos",
                     "previous": [],
                     "timestamp": 1742983386
                 },
@@ -174,7 +174,7 @@
             "timestamp": 1742983386
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/1894/panceta-oreada-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/1894\/panceta-oreada-paquete",
             "previous": [],
             "timestamp": 1742983386
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983386
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/1c1bdf28f95b91b9dac89fec7022d4ae.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/1c1bdf28f95b91b9dac89fec7022d4ae.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983386
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983386,
-        "updated_at": 1743023223,
-        "updates": 2
+        "updated_at": 1749739123,
+        "updates": 3
     }
 }

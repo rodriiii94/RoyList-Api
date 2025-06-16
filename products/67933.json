@@ -174,7 +174,7 @@
             "timestamp": 1742983351
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/67933/vino-blanco-do-somontano-atardecer-chardonnay-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/67933\/vino-blanco-do-somontano-atardecer-chardonnay-botella",
             "previous": [],
             "timestamp": 1742983351
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983351
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/1932186dc3f86df81d59b6ca58b0d2cd.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/1932186dc3f86df81d59b6ca58b0d2cd.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983351
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983351,
-        "updated_at": 1743023184,
-        "updates": 2
+        "updated_at": 1749739076,
+        "updates": 3
     }
 }

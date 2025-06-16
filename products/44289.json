@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Sérum Be Radiant 10 en 1 Deliplus cabello apagado",
+            "value": "S\u00e9rum Be Radiant 10 en 1 Deliplus cabello apagado",
             "previous": [],
             "timestamp": 1742983425
         },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983425
             },
             "bulk_price": {
-                "value": "40.50",
-                "previous": [],
-                "timestamp": 1742983425
+                "value": "40.00",
+                "previous": [
+                    {
+                        "value": "40.50",
+                        "timestamp": 1742983425
+                    }
+                ],
+                "timestamp": 1749739180
             },
             "unit_price": {
-                "value": "4.05",
-                "previous": [],
-                "timestamp": 1742983425
+                "value": "4.00",
+                "previous": [
+                    {
+                        "value": "4.05",
+                        "timestamp": 1742983425
+                    }
+                ],
+                "timestamp": 1749739180
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983425
             },
             "reference_price": {
-                "value": "4.050",
-                "previous": [],
-                "timestamp": 1742983425
+                "value": "4.000",
+                "previous": [
+                    {
+                        "value": "4.050",
+                        "timestamp": 1742983425
+                    }
+                ],
+                "timestamp": 1749739180
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -158,7 +173,7 @@
                 "timestamp": 1742983425
             },
             "previous_unit_price": {
-                "value": null,
+                "value": "        4.05",
                 "previous": [],
                 "timestamp": 1742983425
             },
@@ -174,7 +189,7 @@
             "timestamp": 1742983425
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/44289/serum-be-radiant-10-1-deliplus-cabello-apagado-con-aceite-camelia-bote",
+            "value": "https:\/\/tienda.mercadona.es\/product\/44289\/serum-be-radiant-10-1-deliplus-cabello-apagado-con-aceite-camelia-bote",
             "previous": [],
             "timestamp": 1742983425
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983425
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/6171e8d5453af5c2cdf954f2660e864e.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/6171e8d5453af5c2cdf954f2660e864e.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983425
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983425,
-        "updated_at": 1743023266,
-        "updates": 2
+        "updated_at": 1749739180,
+        "updates": 3
     }
 }

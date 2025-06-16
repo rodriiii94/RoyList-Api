@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Gel de baño argán Deliplus piel muy seca",
+            "value": "Gel de ba\u00f1o arg\u00e1n Deliplus piel muy seca",
             "previous": [],
             "timestamp": 1742983440
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983440
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/44907/gel-bano-argan-deliplus-piel-muy-seca-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/44907\/gel-bano-argan-deliplus-piel-muy-seca-botella",
             "previous": [],
             "timestamp": 1742983440
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983440
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/0c2459adddce38048a23d6b5623970cd.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/0c2459adddce38048a23d6b5623970cd.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983440
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983440,
-        "updated_at": 1743023285,
-        "updates": 2
+        "updated_at": 1749739207,
+        "updates": 3
     }
 }

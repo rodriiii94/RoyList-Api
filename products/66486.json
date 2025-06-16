@@ -174,7 +174,7 @@
             "timestamp": 1742983343
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/66486/cerveza-suave-steinburg-lata",
+            "value": "https:\/\/tienda.mercadona.es\/product\/66486\/cerveza-suave-steinburg-lata",
             "previous": [],
             "timestamp": 1742983343
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983343
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/fcfd89d5896bc4b8f7cfa825964b2d96.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/fcfd89d5896bc4b8f7cfa825964b2d96.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983343
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983343,
-        "updated_at": 1743023175,
-        "updates": 2
+        "updated_at": 1749739064,
+        "updates": 3
     }
 }

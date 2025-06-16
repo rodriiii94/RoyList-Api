@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Mascarilla intensiva Liso Keratina 1 Minute Wow! TRESemmé cabello encrespado o dañado",
+            "value": "Mascarilla intensiva Liso Keratina 1 Minute Wow! TRESemm\u00e9 cabello encrespado o da\u00f1ado",
             "previous": [],
             "timestamp": 1742983425
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983425
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/7944/mascarilla-intensiva-liso-keratina-1-minute-wow-tresemme-cabello-encrespado-danado-con-keratina-hidrolizada-pro-bond-complex-bote",
+            "value": "https:\/\/tienda.mercadona.es\/product\/7944\/mascarilla-intensiva-liso-keratina-1-minute-wow-tresemme-cabello-encrespado-danado-con-keratina-hidrolizada-pro-bond-complex-bote",
             "previous": [],
             "timestamp": 1742983425
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983425
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/0ab958476d17007e2dbeb0837621ca1e.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/0ab958476d17007e2dbeb0837621ca1e.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983425
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983425,
-        "updated_at": 1743023266,
-        "updates": 2
+        "updated_at": 1749739180,
+        "updates": 3
     }
 }

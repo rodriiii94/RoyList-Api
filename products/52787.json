@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Lecho vegetal para pequeñas mascotas Nuske",
+            "value": "Lecho vegetal para peque\u00f1as mascotas Nuske",
             "previous": [],
             "timestamp": 1742983512
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983512
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/52787/lecho-vegetal-pequenas-mascotas-nuske-saco",
+            "value": "https:\/\/tienda.mercadona.es\/product\/52787\/lecho-vegetal-pequenas-mascotas-nuske-saco",
             "previous": [],
             "timestamp": 1742983512
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983512
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/ba3db99f219dc9d6a4697433369a97b2.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/ba3db99f219dc9d6a4697433369a97b2.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983512
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983512,
-        "updated_at": 1743023365,
-        "updates": 2
+        "updated_at": 1749739318,
+        "updates": 3
     }
 }

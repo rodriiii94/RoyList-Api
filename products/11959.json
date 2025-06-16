@@ -174,7 +174,7 @@
             "timestamp": 1742983438
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/11959/desodorante-roll-on-avena-deliplus-antitranspirante-0-alcohol",
+            "value": "https:\/\/tienda.mercadona.es\/product\/11959\/desodorante-roll-on-avena-deliplus-antitranspirante-0-alcohol",
             "previous": [],
             "timestamp": 1742983438
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983438
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/8e6c1de99ca01081926658154afcf386.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/8e6c1de99ca01081926658154afcf386.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983438
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983438,
-        "updated_at": 1743023283,
-        "updates": 2
+        "updated_at": 1749739204,
+        "updates": 3
     }
 }

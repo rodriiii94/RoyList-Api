@@ -83,9 +83,14 @@
                 "timestamp": 1742983364
             },
             "unit_size": {
-                "value": 0.95,
-                "previous": [],
-                "timestamp": 1742983364
+                "value": 1.02,
+                "previous": [
+                    {
+                        "value": 0.95,
+                        "timestamp": 1742983364
+                    }
+                ],
+                "timestamp": 1749739094
             },
             "bulk_price": {
                 "value": "6.90",
@@ -93,9 +98,14 @@
                 "timestamp": 1742983364
             },
             "unit_price": {
-                "value": "6.55",
-                "previous": [],
-                "timestamp": 1742983364
+                "value": "7.04",
+                "previous": [
+                    {
+                        "value": "6.55",
+                        "timestamp": 1742983364
+                    }
+                ],
+                "timestamp": 1749739094
             },
             "approx_size": {
                 "value": true,
@@ -174,7 +184,7 @@
             "timestamp": 1742983364
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/35704/arreglo-cocido-bandeja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/35704\/arreglo-cocido-bandeja",
             "previous": [],
             "timestamp": 1742983364
         },
@@ -189,7 +199,7 @@
             "timestamp": 1742983364
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/367707dc26f58f70ace767dc8d73c850.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/367707dc26f58f70ace767dc8d73c850.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983364
         },
@@ -201,7 +211,7 @@
     },
     "stats": {
         "created_at": 1742983364,
-        "updated_at": 1743023200,
-        "updates": 2
+        "updated_at": 1749739094,
+        "updates": 3
     }
 }

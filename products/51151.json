@@ -20,7 +20,7 @@
                     "timestamp": 1742983396
                 },
                 "name": {
-                    "value": "Charcutería y quesos",
+                    "value": "Charcuter\u00eda y quesos",
                     "previous": [],
                     "timestamp": 1742983396
                 },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983396
             },
             "bulk_price": {
-                "value": "8.93",
-                "previous": [],
-                "timestamp": 1742983396
+                "value": "9.00",
+                "previous": [
+                    {
+                        "value": "8.93",
+                        "timestamp": 1742983396
+                    }
+                ],
+                "timestamp": 1749739138
             },
             "unit_price": {
-                "value": "1.34",
-                "previous": [],
-                "timestamp": 1742983396
+                "value": "1.35",
+                "previous": [
+                    {
+                        "value": "1.34",
+                        "timestamp": 1742983396
+                    }
+                ],
+                "timestamp": 1749739138
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983396
             },
             "reference_price": {
-                "value": "8.934",
-                "previous": [],
-                "timestamp": 1742983396
+                "value": "9.000",
+                "previous": [
+                    {
+                        "value": "8.934",
+                        "timestamp": 1742983396
+                    }
+                ],
+                "timestamp": 1749739138
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983396
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/51151/queso-polvo-especial-pasta-mezcla-hacendado-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/51151\/queso-polvo-especial-pasta-mezcla-hacendado-paquete",
             "previous": [],
             "timestamp": 1742983396
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983396
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/80ee5b96b8090f21c040774ba4f5b2f0.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/80ee5b96b8090f21c040774ba4f5b2f0.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983396
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983396,
-        "updated_at": 1743023234,
-        "updates": 2
+        "updated_at": 1749739138,
+        "updates": 3
     }
 }

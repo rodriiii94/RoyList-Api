@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Tinto de verano zero limón Casón Histórico",
+            "value": "Tinto de verano zero lim\u00f3n Cas\u00f3n Hist\u00f3rico",
             "previous": [],
             "timestamp": 1742983349
         },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983349
             },
             "bulk_price": {
-                "value": "0.77",
-                "previous": [],
-                "timestamp": 1742983349
+                "value": "0.60",
+                "previous": [
+                    {
+                        "value": "0.77",
+                        "timestamp": 1742983349
+                    }
+                ],
+                "timestamp": 1749739073
             },
             "unit_price": {
-                "value": "1.15",
-                "previous": [],
-                "timestamp": 1742983349
+                "value": "0.90",
+                "previous": [
+                    {
+                        "value": "1.15",
+                        "timestamp": 1742983349
+                    }
+                ],
+                "timestamp": 1749739073
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983349
             },
             "reference_price": {
-                "value": "0.767",
-                "previous": [],
-                "timestamp": 1742983349
+                "value": "0.600",
+                "previous": [
+                    {
+                        "value": "0.767",
+                        "timestamp": 1742983349
+                    }
+                ],
+                "timestamp": 1749739073
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983349
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/60748/tinto-verano-zero-limon-cason-historico-0-alcohol-0-azucar-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/60748\/tinto-verano-zero-limon-cason-historico-0-alcohol-0-azucar-botella",
             "previous": [],
             "timestamp": 1742983349
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983349
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/a571de6e80d31ec10a8d56a6873064d8.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/a571de6e80d31ec10a8d56a6873064d8.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983349
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983349,
-        "updated_at": 1743023182,
-        "updates": 2
+        "updated_at": 1749739073,
+        "updates": 3
     }
 }

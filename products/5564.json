@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Bebida energética Energy Drink Zero Hacendado",
+            "value": "Bebida energ\u00e9tica Energy Drink Zero Hacendado",
             "previous": [],
             "timestamp": 1742983312
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983312
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/5564/bebida-energetica-energy-drink-zero-hacendado-pack-6",
+            "value": "https:\/\/tienda.mercadona.es\/product\/5564\/bebida-energetica-energy-drink-zero-hacendado-pack-6",
             "previous": [],
             "timestamp": 1742983312
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983312
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/222bfa3a9339b12e8d49a0e3aca6d47a.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/222bfa3a9339b12e8d49a0e3aca6d47a.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983312
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983312,
-        "updated_at": 1743023137,
-        "updates": 2
+        "updated_at": 1749739016,
+        "updates": 3
     }
 }

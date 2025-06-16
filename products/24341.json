@@ -59,7 +59,7 @@
             }
         ],
         "display_name": {
-            "value": "Tiras de potón del Pacífico Hacendado congeladas",
+            "value": "Tiras de pot\u00f3n del Pac\u00edfico Hacendado congeladas",
             "previous": [],
             "timestamp": 1742983407
         },
@@ -110,14 +110,24 @@
                 "timestamp": 1742983407
             },
             "bulk_price": {
-                "value": "11.13",
-                "previous": [],
-                "timestamp": 1742983407
+                "value": "12.38",
+                "previous": [
+                    {
+                        "value": "11.13",
+                        "timestamp": 1742983407
+                    }
+                ],
+                "timestamp": 1749739154
             },
             "unit_price": {
-                "value": "4.45",
-                "previous": [],
-                "timestamp": 1742983407
+                "value": "4.95",
+                "previous": [
+                    {
+                        "value": "4.45",
+                        "timestamp": 1742983407
+                    }
+                ],
+                "timestamp": 1749739154
             },
             "approx_size": {
                 "value": false,
@@ -165,9 +175,14 @@
                 "timestamp": 1742983407
             },
             "reference_price": {
-                "value": "11.125",
-                "previous": [],
-                "timestamp": 1742983407
+                "value": "12.375",
+                "previous": [
+                    {
+                        "value": "11.125",
+                        "timestamp": 1742983407
+                    }
+                ],
+                "timestamp": 1749739154
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -196,7 +211,7 @@
             "timestamp": 1742983407
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/24341/tiras-poton-hacendado-congeladas-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/24341\/tiras-poton-hacendado-congeladas-paquete",
             "previous": [],
             "timestamp": 1742983407
         },
@@ -211,7 +226,7 @@
             "timestamp": 1742983407
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/4fdab476ef08c8dc8e5af196af075723.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/4fdab476ef08c8dc8e5af196af075723.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983407
         },
@@ -223,7 +238,7 @@
     },
     "stats": {
         "created_at": 1742983407,
-        "updated_at": 1743023355,
-        "updates": 4
+        "updated_at": 1749739304,
+        "updates": 6
     }
 }

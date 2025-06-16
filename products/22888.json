@@ -174,7 +174,7 @@
             "timestamp": 1742983467
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/22888/detergente-ropa-colada-mixta-micolor-gel-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/22888\/detergente-ropa-colada-mixta-micolor-gel-botella",
             "previous": [],
             "timestamp": 1742983467
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983467
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/81451bd5b9f0000a6c2e16d19fe7bd4f.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/81451bd5b9f0000a6c2e16d19fe7bd4f.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983467
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983467,
-        "updated_at": 1743023316,
-        "updates": 2
+        "updated_at": 1749739252,
+        "updates": 3
     }
 }

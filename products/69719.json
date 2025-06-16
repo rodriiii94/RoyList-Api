@@ -37,9 +37,14 @@
             }
         ],
         "display_name": {
-            "value": "Canónigos",
-            "previous": [],
-            "timestamp": 1742983457
+            "value": "Can\u00f3nigos lavados",
+            "previous": [
+                {
+                    "value": "Can\u00f3nigos",
+                    "timestamp": 1742983457
+                }
+            ],
+            "timestamp": 1749739235
         },
         "id": {
             "value": "69719",
@@ -174,7 +179,7 @@
             "timestamp": 1742983457
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/69719/canonigos-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/69719\/canonigos-paquete",
             "previous": [],
             "timestamp": 1742983457
         },
@@ -189,7 +194,7 @@
             "timestamp": 1742983457
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/f0e683ae77cdd6372eaafd6420cc0171.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/f0e683ae77cdd6372eaafd6420cc0171.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983457
         },
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983457,
-        "updated_at": 1743023305,
-        "updates": 2
+        "updated_at": 1749739235,
+        "updates": 3
     }
 }

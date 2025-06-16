@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Laca de uñas base brillo Deliplus 67",
+            "value": "Laca de u\u00f1as base brillo Deliplus 67",
             "previous": [],
             "timestamp": 1742983446
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983446
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/35538/tratamiento-unas-base-brillo-deliplus-67",
+            "value": "https:\/\/tienda.mercadona.es\/product\/35538\/tratamiento-unas-base-brillo-deliplus-67",
             "previous": [],
             "timestamp": 1742983446
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983446
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/d2f5c0bff6b3629eff73a30539a00ab1.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/d2f5c0bff6b3629eff73a30539a00ab1.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983446
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983446,
-        "updated_at": 1743023292,
-        "updates": 2
+        "updated_at": 1749739217,
+        "updates": 3
     }
 }

@@ -174,7 +174,7 @@
             "timestamp": 1742983420
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/8448/crema-pollo-hacendado-con-verduras-brick",
+            "value": "https:\/\/tienda.mercadona.es\/product\/8448\/crema-pollo-hacendado-con-verduras-brick",
             "previous": [],
             "timestamp": 1742983420
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983420
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/e7dd64a7791cb538c4d48e8a333cdbc8.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/e7dd64a7791cb538c4d48e8a333cdbc8.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983420
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983420,
-        "updated_at": 1743023261,
-        "updates": 2
+        "updated_at": 1749739173,
+        "updates": 3
     }
 }

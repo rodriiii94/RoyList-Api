@@ -88,14 +88,24 @@
                 "timestamp": 1742983402
             },
             "bulk_price": {
-                "value": "3.68",
-                "previous": [],
-                "timestamp": 1742983402
+                "value": "3.42",
+                "previous": [
+                    {
+                        "value": "3.68",
+                        "timestamp": 1742983402
+                    }
+                ],
+                "timestamp": 1749739148
             },
             "unit_price": {
-                "value": "3.50",
-                "previous": [],
-                "timestamp": 1742983402
+                "value": "3.25",
+                "previous": [
+                    {
+                        "value": "3.50",
+                        "timestamp": 1742983402
+                    }
+                ],
+                "timestamp": 1749739148
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983402
             },
             "reference_price": {
-                "value": "3.685",
-                "previous": [],
-                "timestamp": 1742983402
+                "value": "3.422",
+                "previous": [
+                    {
+                        "value": "3.685",
+                        "timestamp": 1742983402
+                    }
+                ],
+                "timestamp": 1749739148
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -158,7 +173,7 @@
                 "timestamp": 1742983402
             },
             "previous_unit_price": {
-                "value": null,
+                "value": "        3.50",
                 "previous": [],
                 "timestamp": 1742983402
             },
@@ -174,7 +189,7 @@
             "timestamp": 1742983402
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/52563/helado-capuccino-hacendado-tarrina",
+            "value": "https:\/\/tienda.mercadona.es\/product\/52563\/helado-capuccino-hacendado-tarrina",
             "previous": [],
             "timestamp": 1742983402
         },
@@ -189,9 +204,14 @@
             "timestamp": 1742983402
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/561696a6a0ace54b54461c8abbaa0a97.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983402
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/4d276db05fbc5a0149130e7e846be31d.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/561696a6a0ace54b54461c8abbaa0a97.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983402
+                }
+            ],
+            "timestamp": 1749739148
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +221,7 @@
     },
     "stats": {
         "created_at": 1742983402,
-        "updated_at": 1743023241,
-        "updates": 2
+        "updated_at": 1749739148,
+        "updates": 3
     }
 }

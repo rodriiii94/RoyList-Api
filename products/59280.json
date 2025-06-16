@@ -20,7 +20,7 @@
                     "timestamp": 1742983391
                 },
                 "name": {
-                    "value": "Charcutería y quesos",
+                    "value": "Charcuter\u00eda y quesos",
                     "previous": [],
                     "timestamp": 1742983391
                 },
@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Jamón serrano medias lonchas Jamcal",
+            "value": "Jam\u00f3n serrano medias lonchas Jamcal",
             "previous": [],
             "timestamp": 1742983391
         },
@@ -158,9 +158,14 @@
                 "timestamp": 1742983391
             },
             "previous_unit_price": {
-                "value": "        4.15",
-                "previous": [],
-                "timestamp": 1742983391
+                "value": null,
+                "previous": [
+                    {
+                        "value": "        4.15",
+                        "timestamp": 1742983391
+                    }
+                ],
+                "timestamp": 1749739130
             },
             "increment_bunch_amount": {
                 "value": 1,
@@ -174,7 +179,7 @@
             "timestamp": 1742983391
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/59280/jamon-serrano-jamcal-medias-lonchas-pack-2",
+            "value": "https:\/\/tienda.mercadona.es\/product\/59280\/jamon-serrano-jamcal-medias-lonchas-pack-2",
             "previous": [],
             "timestamp": 1742983391
         },
@@ -189,7 +194,7 @@
             "timestamp": 1742983391
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/efb5847e410e06738a6400c51bb93886.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/efb5847e410e06738a6400c51bb93886.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983391
         },
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983391,
-        "updated_at": 1743023229,
-        "updates": 2
+        "updated_at": 1749739130,
+        "updates": 3
     }
 }

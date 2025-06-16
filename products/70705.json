@@ -174,7 +174,7 @@
             "timestamp": 1742983508
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/70705/bocaditos-gelatina-gato-adulto-delikuit-contiene-4-con-atun-trucha-verduras-4-con-salmon-bacalo-verduras-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/70705\/bocaditos-gelatina-gato-adulto-delikuit-contiene-4-con-atun-trucha-verduras-4-con-salmon-bacalo-verduras-caja",
             "previous": [],
             "timestamp": 1742983508
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983508
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/ca6cab2d8dd92957fc8395bc0c8ed08d.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/ca6cab2d8dd92957fc8395bc0c8ed08d.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983508
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983508,
-        "updated_at": 1743023361,
-        "updates": 2
+        "updated_at": 1749739312,
+        "updates": 3
     }
 }

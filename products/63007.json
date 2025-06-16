@@ -196,7 +196,7 @@
             "timestamp": 1742983378
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/63007/nuggets-pavo-hacendado-ultracongelados-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/63007\/nuggets-pavo-hacendado-ultracongelados-paquete",
             "previous": [],
             "timestamp": 1742983378
         },
@@ -211,7 +211,7 @@
             "timestamp": 1742983378
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/2fdc9b83394eee29e89c2779fa919b6b.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/2fdc9b83394eee29e89c2779fa919b6b.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983378
         },
@@ -223,7 +223,7 @@
     },
     "stats": {
         "created_at": 1742983378,
-        "updated_at": 1743023250,
-        "updates": 4
+        "updated_at": 1749739158,
+        "updates": 6
     }
 }

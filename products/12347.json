@@ -20,7 +20,7 @@
                     "timestamp": 1742983332
                 },
                 "name": {
-                    "value": "Azúcar, caramelos y chocolate",
+                    "value": "Az\u00facar, caramelos y chocolate",
                     "previous": [],
                     "timestamp": 1742983332
                 },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983332
             },
             "bulk_price": {
-                "value": "8.60",
-                "previous": [],
-                "timestamp": 1742983332
+                "value": "9.80",
+                "previous": [
+                    {
+                        "value": "8.60",
+                        "timestamp": 1742983332
+                    }
+                ],
+                "timestamp": 1749739049
             },
             "unit_price": {
-                "value": "2.15",
-                "previous": [],
-                "timestamp": 1742983332
+                "value": "2.45",
+                "previous": [
+                    {
+                        "value": "2.15",
+                        "timestamp": 1742983332
+                    }
+                ],
+                "timestamp": 1749739049
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983332
             },
             "reference_price": {
-                "value": "8.600",
-                "previous": [],
-                "timestamp": 1742983332
+                "value": "9.800",
+                "previous": [
+                    {
+                        "value": "8.600",
+                        "timestamp": 1742983332
+                    }
+                ],
+                "timestamp": 1749739049
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -158,9 +173,14 @@
                 "timestamp": 1742983332
             },
             "previous_unit_price": {
-                "value": "        2.45",
-                "previous": [],
-                "timestamp": 1742983332
+                "value": null,
+                "previous": [
+                    {
+                        "value": "        2.45",
+                        "timestamp": 1742983332
+                    }
+                ],
+                "timestamp": 1749739049
             },
             "increment_bunch_amount": {
                 "value": 1,
@@ -174,7 +194,7 @@
             "timestamp": 1742983332
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/12347/cacahuetes-hacendado-chocolate-con-leche-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/12347\/cacahuetes-hacendado-chocolate-con-leche-paquete",
             "previous": [],
             "timestamp": 1742983332
         },
@@ -189,7 +209,7 @@
             "timestamp": 1742983332
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/71915c5db3754a13e1f1ea5f25b6651b.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/71915c5db3754a13e1f1ea5f25b6651b.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983332
         },
@@ -201,7 +221,7 @@
     },
     "stats": {
         "created_at": 1742983332,
-        "updated_at": 1743023162,
-        "updates": 2
+        "updated_at": 1749739049,
+        "updates": 3
     }
 }

@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Coliflor, brócoli y zanahoria Hacendado ultracongelada",
+            "value": "Coliflor, br\u00f3coli y zanahoria Hacendado ultracongelada",
             "previous": [],
             "timestamp": 1742983413
         },
@@ -158,9 +158,14 @@
                 "timestamp": 1742983413
             },
             "previous_unit_price": {
-                "value": "        2.08",
-                "previous": [],
-                "timestamp": 1742983413
+                "value": null,
+                "previous": [
+                    {
+                        "value": "        2.08",
+                        "timestamp": 1742983413
+                    }
+                ],
+                "timestamp": 1749739164
             },
             "increment_bunch_amount": {
                 "value": 1,
@@ -174,7 +179,7 @@
             "timestamp": 1742983413
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/61006/coliflor-brocoli-zanahoria-hacendado-ultracongelada-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/61006\/coliflor-brocoli-zanahoria-hacendado-ultracongelada-paquete",
             "previous": [],
             "timestamp": 1742983413
         },
@@ -189,7 +194,7 @@
             "timestamp": 1742983413
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/4147f59df6bac9ece9d67fda34790a85.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/4147f59df6bac9ece9d67fda34790a85.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983413
         },
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983413,
-        "updated_at": 1743023254,
-        "updates": 2
+        "updated_at": 1749739164,
+        "updates": 3
     }
 }

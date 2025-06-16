@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739074
+            },
+            "requires_age_check": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739074
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 19,
+                    "previous": [],
+                    "timestamp": 1749739074
+                },
+                "name": {
+                    "value": "Bodega",
+                    "previous": [],
+                    "timestamp": 1749739074
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739074
+                },
+                "order": {
+                    "value": 15,
+                    "previous": [],
+                    "timestamp": 1749739074
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Sangr\u00eda Don Sim\u00f3n",
+            "previous": [],
+            "timestamp": 1749739074
+        },
+        "id": {
+            "value": "66944",
+            "previous": [],
+            "timestamp": 1749739074
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739074
+        },
+        "packaging": {
+            "value": "Botella",
+            "previous": [],
+            "timestamp": 1749739074
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1749739074
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739074
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739074
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739074
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739074
+            },
+            "unit_size": {
+                "value": 1.5,
+                "previous": [],
+                "timestamp": 1749739074
+            },
+            "bulk_price": {
+                "value": "1.30",
+                "previous": [],
+                "timestamp": 1749739074
+            },
+            "unit_price": {
+                "value": "1.95",
+                "previous": [],
+                "timestamp": 1749739074
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739074
+            },
+            "size_format": {
+                "value": "l",
+                "previous": [],
+                "timestamp": 1749739074
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739074
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739074
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739074
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739074
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739074
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1749739074
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739074
+            },
+            "reference_price": {
+                "value": "1.300",
+                "previous": [],
+                "timestamp": 1749739074
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739074
+            },
+            "reference_format": {
+                "value": "L",
+                "previous": [],
+                "timestamp": 1749739074
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739074
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739074
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739074
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/66944\/sangria-don-simon-botella",
+            "previous": [],
+            "timestamp": 1749739074
+        },
+        "slug": {
+            "value": "sangria-don-simon-botella",
+            "previous": [],
+            "timestamp": 1749739074
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739074
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/6c152c275cf08f5013fb0c403f0fab0f.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739074
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739074
+        }
+    },
+    "stats": {
+        "created_at": 1749739074,
+        "updated_at": 1749739074,
+        "updates": 1
+    }
+}

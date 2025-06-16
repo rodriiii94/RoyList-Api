@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Cava brut Cabré & Sabaté",
+            "value": "Cava brut Cabr\u00e9 & Sabat\u00e9",
             "previous": [],
             "timestamp": 1742983348
         },
@@ -52,7 +52,7 @@
             "timestamp": 1742983348
         },
         "packaging": {
-            "value": "Benjamín",
+            "value": "Benjam\u00edn",
             "previous": [],
             "timestamp": 1742983348
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983348
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/22977/cava-brut-cabre-sabate-benjamin",
+            "value": "https:\/\/tienda.mercadona.es\/product\/22977\/cava-brut-cabre-sabate-benjamin",
             "previous": [],
             "timestamp": 1742983348
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983348
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/ccceddeeae10a1b0f4f5f33bc247221b.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/ccceddeeae10a1b0f4f5f33bc247221b.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983348
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983348,
-        "updated_at": 1743023181,
-        "updates": 2
+        "updated_at": 1749739072,
+        "updates": 3
     }
 }

@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Tónico facial árbol de té y prebióticos Facial Clean Deliplus",
+            "value": "T\u00f3nico facial \u00e1rbol de t\u00e9 y prebi\u00f3ticos Facial Clean Deliplus",
             "previous": [],
             "timestamp": 1742983435
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983435
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/35935/tonico-facial-arbol-te-prebioticos-deliplus-facial-clean-piel-normal-bote",
+            "value": "https:\/\/tienda.mercadona.es\/product\/35935\/tonico-facial-arbol-te-prebioticos-deliplus-facial-clean-piel-normal-bote",
             "previous": [],
             "timestamp": 1742983435
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983435
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/e1bac4eff5140b4fcbef1b2bc322b063.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/e1bac4eff5140b4fcbef1b2bc322b063.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983435
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983435,
-        "updated_at": 1743023279,
-        "updates": 2
+        "updated_at": 1749739198,
+        "updates": 3
     }
 }

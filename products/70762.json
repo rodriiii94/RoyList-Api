@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Snack galletas perro adulto con pollo y ternera Compy razas pequeñas y medianas",
+            "value": "Snack galletas perro adulto con pollo y ternera Compy razas peque\u00f1as y medianas",
             "previous": [],
             "timestamp": 1742983511
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983511
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/70762/snack-galletas-perro-adulto-con-pollo-ternera-compy-razas-pequenas-medianas-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/70762\/snack-galletas-perro-adulto-con-pollo-ternera-compy-razas-pequenas-medianas-paquete",
             "previous": [],
             "timestamp": 1742983511
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983511
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/5429638ea2aaebd6584e005a1161b93c.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/5429638ea2aaebd6584e005a1161b93c.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983511
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983511,
-        "updated_at": 1743023363,
-        "updates": 2
+        "updated_at": 1749739316,
+        "updates": 3
     }
 }

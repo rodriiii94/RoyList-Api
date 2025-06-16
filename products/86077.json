@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Mascarilla Color Intense Deliplus cabello teñido o con mechas",
+            "value": "Mascarilla Color Intense Deliplus cabello te\u00f1ido o con mechas",
             "previous": [],
             "timestamp": 1742983425
         },
@@ -161,6 +161,11 @@
                 "value": 1,
                 "previous": [],
                 "timestamp": 1742983425
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1749739179
             }
         },
         "published": {
@@ -169,7 +174,7 @@
             "timestamp": 1742983425
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/86077/mascarilla-color-intense-deliplus-cabello-tenido-con-mechas-con-aceite-granada-vitamina-tarro",
+            "value": "https:\/\/tienda.mercadona.es\/product\/86077\/mascarilla-color-intense-deliplus-cabello-tenido-con-mechas-con-aceite-granada-vitamina-tarro",
             "previous": [],
             "timestamp": 1742983425
         },
@@ -184,7 +189,7 @@
             "timestamp": 1742983425
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/be6ab604ff0ce96c4c8e6799cc704742.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/be6ab604ff0ce96c4c8e6799cc704742.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983425
         },
@@ -196,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983425,
-        "updated_at": 1743023266,
-        "updates": 2
+        "updated_at": 1749739179,
+        "updates": 3
     }
 }

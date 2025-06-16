@@ -59,7 +59,7 @@
             }
         ],
         "display_name": {
-            "value": "Envase rellenable Deliplus tamaño viaje",
+            "value": "Envase rellenable Deliplus tama\u00f1o viaje",
             "previous": [],
             "timestamp": 1742983426
         },
@@ -183,6 +183,11 @@
                 "value": 1,
                 "previous": [],
                 "timestamp": 1742983426
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1749739181
             }
         },
         "published": {
@@ -191,7 +196,7 @@
             "timestamp": 1742983426
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/45297/envase-rellenable-deliplus-tamano-viaje-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/45297\/envase-rellenable-deliplus-tamano-viaje-botella",
             "previous": [],
             "timestamp": 1742983426
         },
@@ -206,9 +211,14 @@
             "timestamp": 1742983426
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/594feef14906895ee60ee0405d1db9f9.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983426
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/ae1756350478307cb7e68ae3c5f7ec7c.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/594feef14906895ee60ee0405d1db9f9.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983426
+                }
+            ],
+            "timestamp": 1749739181
         },
         "unavailable_from": {
             "value": null,
@@ -218,7 +228,7 @@
     },
     "stats": {
         "created_at": 1742983426,
-        "updated_at": 1743023285,
-        "updates": 4
+        "updated_at": 1749739207,
+        "updates": 6
     }
 }

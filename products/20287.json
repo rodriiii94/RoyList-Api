@@ -88,14 +88,24 @@
                 "timestamp": 1742983549
             },
             "bulk_price": {
-                "value": "4.16",
-                "previous": [],
-                "timestamp": 1742983549
+                "value": "4.20",
+                "previous": [
+                    {
+                        "value": "4.16",
+                        "timestamp": 1742983549
+                    }
+                ],
+                "timestamp": 1749739367
             },
             "unit_price": {
-                "value": "2.08",
-                "previous": [],
-                "timestamp": 1742983549
+                "value": "2.10",
+                "previous": [
+                    {
+                        "value": "2.08",
+                        "timestamp": 1742983549
+                    }
+                ],
+                "timestamp": 1749739367
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983549
             },
             "reference_price": {
-                "value": "4.160",
-                "previous": [],
-                "timestamp": 1742983549
+                "value": "4.200",
+                "previous": [
+                    {
+                        "value": "4.160",
+                        "timestamp": 1742983549
+                    }
+                ],
+                "timestamp": 1749739367
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983549
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/20287/yogur-natural-cabra-hacendado-pack-4",
+            "value": "https:\/\/tienda.mercadona.es\/product\/20287\/yogur-natural-cabra-hacendado-pack-4",
             "previous": [],
             "timestamp": 1742983549
         },
@@ -189,9 +204,14 @@
             "timestamp": 1742983549
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/635fe45dc38b7a94d064e616e9da32e8.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983549
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/e843fb916d43295d0796f91e9eaa9338.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/635fe45dc38b7a94d064e616e9da32e8.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983549
+                }
+            ],
+            "timestamp": 1749739367
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +221,7 @@
     },
     "stats": {
         "created_at": 1742983549,
-        "updated_at": 1743023402,
-        "updates": 2
+        "updated_at": 1749739367,
+        "updates": 3
     }
 }

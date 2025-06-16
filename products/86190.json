@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Pistacho tostado Hacendado 0% sal añadida",
+            "value": "Pistacho tostado Hacendado 0% sal a\u00f1adida",
             "previous": [],
             "timestamp": 1742983321
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983321
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/86190/pistacho-tostado-hacendado-0-sal-anadida-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/86190\/pistacho-tostado-hacendado-0-sal-anadida-paquete",
             "previous": [],
             "timestamp": 1742983321
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983321
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/17700c85e2423c877653e72cab234426.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/17700c85e2423c877653e72cab234426.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983321
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983321,
-        "updated_at": 1743023148,
-        "updates": 2
+        "updated_at": 1749739030,
+        "updates": 3
     }
 }

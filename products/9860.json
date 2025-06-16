@@ -20,7 +20,7 @@
                     "timestamp": 1742983518
                 },
                 "name": {
-                    "value": "Panadería y pastelería",
+                    "value": "Panader\u00eda y pasteler\u00eda",
                     "previous": [],
                     "timestamp": 1742983518
                 },
@@ -58,9 +58,14 @@
         },
         "price_instructions": {
             "iva": {
-                "value": 10,
-                "previous": [],
-                "timestamp": 1742983518
+                "value": 4,
+                "previous": [
+                    {
+                        "value": 10,
+                        "timestamp": 1742983518
+                    }
+                ],
+                "timestamp": 1749739326
             },
             "is_new": {
                 "value": false,
@@ -88,14 +93,24 @@
                 "timestamp": 1742983518
             },
             "bulk_price": {
-                "value": "6.86",
-                "previous": [],
-                "timestamp": 1742983518
+                "value": "6.57",
+                "previous": [
+                    {
+                        "value": "6.86",
+                        "timestamp": 1742983518
+                    }
+                ],
+                "timestamp": 1749739326
             },
             "unit_price": {
-                "value": "2.40",
-                "previous": [],
-                "timestamp": 1742983518
+                "value": "2.30",
+                "previous": [
+                    {
+                        "value": "2.40",
+                        "timestamp": 1742983518
+                    }
+                ],
+                "timestamp": 1749739326
             },
             "approx_size": {
                 "value": false,
@@ -133,9 +148,14 @@
                 "timestamp": 1742983518
             },
             "tax_percentage": {
-                "value": "10.000",
-                "previous": [],
-                "timestamp": 1742983518
+                "value": "4.000",
+                "previous": [
+                    {
+                        "value": "10.000",
+                        "timestamp": 1742983518
+                    }
+                ],
+                "timestamp": 1749739326
             },
             "price_decreased": {
                 "value": false,
@@ -143,9 +163,14 @@
                 "timestamp": 1742983518
             },
             "reference_price": {
-                "value": "6.858",
-                "previous": [],
-                "timestamp": 1742983518
+                "value": "6.572",
+                "previous": [
+                    {
+                        "value": "6.858",
+                        "timestamp": 1742983518
+                    }
+                ],
+                "timestamp": 1749739326
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +199,7 @@
             "timestamp": 1742983518
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/9860/masa-gruesa-empanadas-buitoni-estilo-argentino-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/9860\/masa-gruesa-empanadas-buitoni-estilo-argentino-paquete",
             "previous": [],
             "timestamp": 1742983518
         },
@@ -189,7 +214,7 @@
             "timestamp": 1742983518
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/ff79e44f61e99bde7ba4d322f46d2a4b.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/ff79e44f61e99bde7ba4d322f46d2a4b.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983518
         },
@@ -201,7 +226,7 @@
     },
     "stats": {
         "created_at": 1742983518,
-        "updated_at": 1743023370,
-        "updates": 2
+        "updated_at": 1749739326,
+        "updates": 3
     }
 }

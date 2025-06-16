@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Friegasuelos Pino Bosque Verde líquido",
+            "value": "Friegasuelos Pino Bosque Verde l\u00edquido",
             "previous": [],
             "timestamp": 1742983475
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983475
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/43347/friegasuelos-pino-bosque-verde-liquido-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/43347\/friegasuelos-pino-bosque-verde-liquido-botella",
             "previous": [],
             "timestamp": 1742983475
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983475
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/ecbacb1a7fbbe9854e091dbd90addc27.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/ecbacb1a7fbbe9854e091dbd90addc27.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983475
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983475,
-        "updated_at": 1743023326,
-        "updates": 2
+        "updated_at": 1749739265,
+        "updates": 3
     }
 }

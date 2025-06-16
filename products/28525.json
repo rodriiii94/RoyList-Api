@@ -88,14 +88,24 @@
                 "timestamp": 1742983346
             },
             "bulk_price": {
-                "value": "8.43",
-                "previous": [],
-                "timestamp": 1742983346
+                "value": "8.86",
+                "previous": [
+                    {
+                        "value": "8.43",
+                        "timestamp": 1742983346
+                    }
+                ],
+                "timestamp": 1749739069
             },
             "unit_price": {
-                "value": "5.90",
-                "previous": [],
-                "timestamp": 1742983346
+                "value": "6.20",
+                "previous": [
+                    {
+                        "value": "5.90",
+                        "timestamp": 1742983346
+                    }
+                ],
+                "timestamp": 1749739069
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983346
             },
             "reference_price": {
-                "value": "8.429",
-                "previous": [],
-                "timestamp": 1742983346
+                "value": "8.858",
+                "previous": [
+                    {
+                        "value": "8.429",
+                        "timestamp": 1742983346
+                    }
+                ],
+                "timestamp": 1749739069
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983346
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/28525/brandy-jerez-solera-reserva-convidado-baco-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/28525\/brandy-jerez-solera-reserva-convidado-baco-botella",
             "previous": [],
             "timestamp": 1742983346
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983346
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/d2d640eae5ddb20710cbd569d4af3560.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/d2d640eae5ddb20710cbd569d4af3560.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983346
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983346,
-        "updated_at": 1743023179,
-        "updates": 2
+        "updated_at": 1749739069,
+        "updates": 3
     }
 }

@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Difusor insecticida antimosquitos Bosque Verde eléctrico",
+            "value": "Difusor insecticida antimosquitos Bosque Verde el\u00e9ctrico",
             "previous": [],
             "timestamp": 1742983470
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983470
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/72205/difusor-insecticida-antimosquitos-electrico-incluye-recambio-liquido-bosque-verde-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/72205\/difusor-insecticida-antimosquitos-electrico-incluye-recambio-liquido-bosque-verde-caja",
             "previous": [],
             "timestamp": 1742983470
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983470
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/ad4400eb2ff3489ee62c1f08a2171db9.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983470
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/885bd009e173a8d0c7fcf01211de3f3b.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/ad4400eb2ff3489ee62c1f08a2171db9.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983470
+                }
+            ],
+            "timestamp": 1749739257
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983470,
-        "updated_at": 1743023320,
-        "updates": 2
+        "updated_at": 1749739257,
+        "updates": 3
     }
 }

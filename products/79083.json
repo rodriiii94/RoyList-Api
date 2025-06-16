@@ -174,7 +174,7 @@
             "timestamp": 1742983467
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/79083/toallitas-lavadora-bosque-verde-accion-2-1-anti-transferencia-color-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/79083\/toallitas-lavadora-bosque-verde-accion-2-1-anti-transferencia-color-paquete",
             "previous": [],
             "timestamp": 1742983467
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983467
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/fa9cf8cd63a2546fe6c6bf7e6ddd88d3.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/fa9cf8cd63a2546fe6c6bf7e6ddd88d3.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983467
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983467,
-        "updated_at": 1743023317,
-        "updates": 2
+        "updated_at": 1749739252,
+        "updates": 3
     }
 }

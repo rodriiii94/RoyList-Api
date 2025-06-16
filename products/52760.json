@@ -20,7 +20,7 @@
                     "timestamp": 1742983340
                 },
                 "name": {
-                    "value": "Bebé",
+                    "value": "Beb\u00e9",
                     "previous": [],
                     "timestamp": 1742983340
                 },
@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Bálsamo facial corporal infantil pieles atópicas Deliplus",
+            "value": "B\u00e1lsamo facial corporal infantil pieles at\u00f3picas Deliplus",
             "previous": [],
             "timestamp": 1742983340
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983340
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/52760/balsamo-facial-corporal-infantil-pieles-atopicas-deliplus-bote",
+            "value": "https:\/\/tienda.mercadona.es\/product\/52760\/balsamo-facial-corporal-infantil-pieles-atopicas-deliplus-bote",
             "previous": [],
             "timestamp": 1742983340
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983340
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/4273eb8b305a6d0d851c5111c3cebd8d.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/4273eb8b305a6d0d851c5111c3cebd8d.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983340
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983340,
-        "updated_at": 1743023171,
-        "updates": 2
+        "updated_at": 1749739060,
+        "updates": 3
     }
 }

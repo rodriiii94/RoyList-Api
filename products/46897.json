@@ -174,7 +174,7 @@
             "timestamp": 1742983430
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/46897/spray-cabello-ondas-surfing-deliplus-fijacion-2-profix-spray",
+            "value": "https:\/\/tienda.mercadona.es\/product\/46897\/spray-cabello-ondas-surfing-deliplus-fijacion-2-profix-spray",
             "previous": [],
             "timestamp": 1742983430
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983430
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/1d2ef9d933d8e42023c36e40270dc79b.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/1d2ef9d933d8e42023c36e40270dc79b.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983430
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983430,
-        "updated_at": 1743023273,
-        "updates": 2
+        "updated_at": 1749739190,
+        "updates": 3
     }
 }

@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Friegasuelos Pétalos Bosque Verde concentrado",
+            "value": "Friegasuelos P\u00e9talos Bosque Verde concentrado",
             "previous": [],
             "timestamp": 1742983476
         },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983476
             },
             "bulk_price": {
-                "value": "1.70",
-                "previous": [],
-                "timestamp": 1742983476
+                "value": "1.60",
+                "previous": [
+                    {
+                        "value": "1.70",
+                        "timestamp": 1742983476
+                    }
+                ],
+                "timestamp": 1749739265
             },
             "unit_price": {
-                "value": "1.70",
-                "previous": [],
-                "timestamp": 1742983476
+                "value": "1.60",
+                "previous": [
+                    {
+                        "value": "1.70",
+                        "timestamp": 1742983476
+                    }
+                ],
+                "timestamp": 1749739265
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983476
             },
             "reference_price": {
-                "value": "1.700",
-                "previous": [],
-                "timestamp": 1742983476
+                "value": "1.600",
+                "previous": [
+                    {
+                        "value": "1.700",
+                        "timestamp": 1742983476
+                    }
+                ],
+                "timestamp": 1749739265
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983476
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/44301/friegasuelos-petalos-bosque-verde-concentrado-perfume-intenso-duradero-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/44301\/friegasuelos-petalos-bosque-verde-concentrado-perfume-intenso-duradero-botella",
             "previous": [],
             "timestamp": 1742983476
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983476
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/9a329d11c669b51faecc3a2f47be8e40.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/9a329d11c669b51faecc3a2f47be8e40.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983476
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983476,
-        "updated_at": 1743023326,
-        "updates": 2
+        "updated_at": 1749739265,
+        "updates": 3
     }
 }

@@ -174,7 +174,7 @@
             "timestamp": 1742983485
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/49544/servilleta-papel-bosque-verde-1-capa-30-x-30-cm-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/49544\/servilleta-papel-bosque-verde-1-capa-30-x-30-cm-paquete",
             "previous": [],
             "timestamp": 1742983485
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983485
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/bfcc81e168ee5a8e58f26e2ba67dfb40.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/bfcc81e168ee5a8e58f26e2ba67dfb40.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983485
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983485,
-        "updated_at": 1743023337,
-        "updates": 2
+        "updated_at": 1749739278,
+        "updates": 3
     }
 }

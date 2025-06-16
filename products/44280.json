@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Champú Extra Suave Deliplus todo tipo de cabello",
+            "value": "Champ\u00fa Extra Suave Deliplus todo tipo de cabello",
             "previous": [],
             "timestamp": 1742983426
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983426
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/44280/champu-extra-suave-deliplus-tipo-cabello-con-extracto-miel-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/44280\/champu-extra-suave-deliplus-tipo-cabello-con-extracto-miel-botella",
             "previous": [],
             "timestamp": 1742983426
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983426
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/c8b218156ae69025719a5d3d6e6624b0.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983426
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/46ec825ccec4c16a28c75c902255fbef.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/c8b218156ae69025719a5d3d6e6624b0.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983426
+                }
+            ],
+            "timestamp": 1749739182
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983426,
-        "updated_at": 1743023268,
-        "updates": 2
+        "updated_at": 1749739182,
+        "updates": 3
     }
 }

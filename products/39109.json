@@ -174,7 +174,7 @@
             "timestamp": 1742983552
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/39109/bebida-bahamas-hacendado-brick",
+            "value": "https:\/\/tienda.mercadona.es\/product\/39109\/bebida-bahamas-hacendado-brick",
             "previous": [],
             "timestamp": 1742983552
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983552
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/7287de9a68e91eb8a20dffa8de7a9b5b.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983552
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/a2191ccc7c4c7f6db1a611d6fd746ca7.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/7287de9a68e91eb8a20dffa8de7a9b5b.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983552
+                }
+            ],
+            "timestamp": 1749739371
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983552,
-        "updated_at": 1743023405,
-        "updates": 2
+        "updated_at": 1749739371,
+        "updates": 3
     }
 }

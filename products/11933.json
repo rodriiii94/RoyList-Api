@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739190
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739190
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 21,
+                    "previous": [],
+                    "timestamp": 1749739190
+                },
+                "name": {
+                    "value": "Cuidado del cabello",
+                    "previous": [],
+                    "timestamp": 1749739190
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739190
+                },
+                "order": {
+                    "value": 238,
+                    "previous": [],
+                    "timestamp": 1749739190
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Polvos voluminizador para el cabello Volum Fix Deliplus mate fijaci\u00f3n 4",
+            "previous": [],
+            "timestamp": 1749739190
+        },
+        "id": {
+            "value": "11933",
+            "previous": [],
+            "timestamp": 1749739190
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739190
+        },
+        "packaging": {
+            "value": "Bote",
+            "previous": [],
+            "timestamp": 1749739190
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1749739190
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739190
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739190
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739190
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739190
+            },
+            "unit_size": {
+                "value": 0.01,
+                "previous": [],
+                "timestamp": 1749739190
+            },
+            "bulk_price": {
+                "value": "395.00",
+                "previous": [],
+                "timestamp": 1749739190
+            },
+            "unit_price": {
+                "value": "3.95",
+                "previous": [],
+                "timestamp": 1749739190
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739190
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1749739190
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739190
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739190
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739190
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739190
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739190
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1749739190
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739190
+            },
+            "reference_price": {
+                "value": "39.500",
+                "previous": [],
+                "timestamp": 1749739190
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739190
+            },
+            "reference_format": {
+                "value": "100 g",
+                "previous": [],
+                "timestamp": 1749739190
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739190
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739190
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739190
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/11933\/polvos-voluminizador-cabello-volum-fix-deliplus-mate-fijacion-4-bote",
+            "previous": [],
+            "timestamp": 1749739190
+        },
+        "slug": {
+            "value": "polvos-voluminizador-cabello-volum-fix-deliplus-mate-fijacion-4-bote",
+            "previous": [],
+            "timestamp": 1749739190
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739190
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/c847e4510ad30285f1a9e8af6e18f293.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739190
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739190
+        }
+    },
+    "stats": {
+        "created_at": 1749739190,
+        "updated_at": 1749739190,
+        "updates": 1
+    }
+}

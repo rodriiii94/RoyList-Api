@@ -196,7 +196,7 @@
             "timestamp": 1742983457
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/13241/ensalada-pasta-listo-comer-compuesta-atun-huevo-cocido-surimi-mix-queso-cebolla-con-monodosis-bol",
+            "value": "https:\/\/tienda.mercadona.es\/product\/13241\/ensalada-pasta-listo-comer-compuesta-atun-huevo-cocido-surimi-mix-queso-cebolla-con-monodosis-bol",
             "previous": [],
             "timestamp": 1742983457
         },
@@ -211,7 +211,7 @@
             "timestamp": 1742983457
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/6604913c5a5d31159a6c090c3e84f38d.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/6604913c5a5d31159a6c090c3e84f38d.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983457
         },
@@ -223,7 +223,7 @@
     },
     "stats": {
         "created_at": 1742983457,
-        "updated_at": 1743023383,
-        "updates": 4
+        "updated_at": 1749739342,
+        "updates": 6
     }
 }

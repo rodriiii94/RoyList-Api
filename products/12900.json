@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739315
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739315
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 25,
+                    "previous": [],
+                    "timestamp": 1749739315
+                },
+                "name": {
+                    "value": "Mascotas",
+                    "previous": [],
+                    "timestamp": 1749739315
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739315
+                },
+                "order": {
+                    "value": 442,
+                    "previous": [],
+                    "timestamp": 1749739315
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Pat\u00e9 perro adulto Delikuit con pollo",
+            "previous": [],
+            "timestamp": 1749739315
+        },
+        "id": {
+            "value": "12900",
+            "previous": [],
+            "timestamp": 1749739315
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739315
+        },
+        "packaging": {
+            "value": "Bote",
+            "previous": [],
+            "timestamp": 1749739315
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1749739315
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739315
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739315
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739315
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739315
+            },
+            "unit_size": {
+                "value": 0.8,
+                "previous": [],
+                "timestamp": 1749739315
+            },
+            "bulk_price": {
+                "value": "2.19",
+                "previous": [],
+                "timestamp": 1749739315
+            },
+            "unit_price": {
+                "value": "1.75",
+                "previous": [],
+                "timestamp": 1749739315
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739315
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1749739315
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739315
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739315
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739315
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739315
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739315
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1749739315
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739315
+            },
+            "reference_price": {
+                "value": "2.188",
+                "previous": [],
+                "timestamp": 1749739315
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739315
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1749739315
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739315
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739315
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739315
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/12900\/pate-perro-adulto-delikuit-con-pollo-bote",
+            "previous": [],
+            "timestamp": 1749739315
+        },
+        "slug": {
+            "value": "pate-perro-adulto-delikuit-con-pollo-bote",
+            "previous": [],
+            "timestamp": 1749739315
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739315
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/95aa76d8ac6f0774f5a363e95b4f07db.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739315
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739315
+        }
+    },
+    "stats": {
+        "created_at": 1749739315,
+        "updated_at": 1749739315,
+        "updates": 1
+    }
+}

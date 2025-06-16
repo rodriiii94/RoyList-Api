@@ -174,7 +174,7 @@
             "timestamp": 1742983323
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/33624/patatas-fritas-paja-hacendado-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/33624\/patatas-fritas-paja-hacendado-paquete",
             "previous": [],
             "timestamp": 1742983323
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983323
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/041e7b535d424e28406da126b2ef7656.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/041e7b535d424e28406da126b2ef7656.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983323
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983323,
-        "updated_at": 1743023151,
-        "updates": 2
+        "updated_at": 1749739034,
+        "updates": 3
     }
 }

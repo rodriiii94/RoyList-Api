@@ -37,9 +37,14 @@
             }
         ],
         "display_name": {
-            "value": "Mascarilla Silver Deliplus cabello blanco y platino",
-            "previous": [],
-            "timestamp": 1742983425
+            "value": "Mascarilla Silver Blond Deliplus cabello rubio, decolorado y grises,",
+            "previous": [
+                {
+                    "value": "Mascarilla Silver Deliplus cabello blanco y platino",
+                    "timestamp": 1742983425
+                }
+            ],
+            "timestamp": 1749739179
         },
         "id": {
             "value": "44365",
@@ -174,7 +179,7 @@
             "timestamp": 1742983425
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/44365/mascarilla-silver-deliplus-cabello-blanco-platino-con-extracto-magnolia-reduce-tonos-amarillentos-bote",
+            "value": "https:\/\/tienda.mercadona.es\/product\/44365\/mascarilla-silver-deliplus-cabello-blanco-platino-con-extracto-magnolia-reduce-tonos-amarillentos-bote",
             "previous": [],
             "timestamp": 1742983425
         },
@@ -189,7 +194,7 @@
             "timestamp": 1742983425
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/6a490806b3f8dfa69c543655f267cfe3.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/6a490806b3f8dfa69c543655f267cfe3.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983425
         },
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983425,
-        "updated_at": 1743023266,
-        "updates": 2
+        "updated_at": 1749739179,
+        "updates": 3
     }
 }

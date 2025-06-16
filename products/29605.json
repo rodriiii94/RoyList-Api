@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Bebida isotónica limón Aquarius",
+            "value": "Bebida isot\u00f3nica lim\u00f3n Aquarius",
             "previous": [],
             "timestamp": 1742983312
         },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983312
             },
             "bulk_price": {
-                "value": "2.70",
-                "previous": [],
-                "timestamp": 1742983312
+                "value": "2.48",
+                "previous": [
+                    {
+                        "value": "2.70",
+                        "timestamp": 1742983312
+                    }
+                ],
+                "timestamp": 1749739016
             },
             "unit_price": {
-                "value": "7.12",
-                "previous": [],
-                "timestamp": 1742983312
+                "value": "6.56",
+                "previous": [
+                    {
+                        "value": "7.12",
+                        "timestamp": 1742983312
+                    }
+                ],
+                "timestamp": 1749739016
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983312
             },
             "reference_price": {
-                "value": "2.697",
-                "previous": [],
-                "timestamp": 1742983312
+                "value": "2.485",
+                "previous": [
+                    {
+                        "value": "2.697",
+                        "timestamp": 1742983312
+                    }
+                ],
+                "timestamp": 1749739016
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -158,7 +173,7 @@
                 "timestamp": 1742983312
             },
             "previous_unit_price": {
-                "value": null,
+                "value": "        7.12",
                 "previous": [],
                 "timestamp": 1742983312
             },
@@ -174,7 +189,7 @@
             "timestamp": 1742983312
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/29605/bebida-isotonica-limon-aquarius-pack-8",
+            "value": "https:\/\/tienda.mercadona.es\/product\/29605\/bebida-isotonica-limon-aquarius-pack-8",
             "previous": [],
             "timestamp": 1742983312
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983312
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/f3796fdd86cf359655d10394413c5f74.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/f3796fdd86cf359655d10394413c5f74.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983312
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983312,
-        "updated_at": 1743023137,
-        "updates": 2
+        "updated_at": 1749739016,
+        "updates": 3
     }
 }

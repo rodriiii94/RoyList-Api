@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Tratamiento para uñas base 9 en 1 Deliplus vitaminada y alisadora",
+            "value": "Tratamiento para u\u00f1as base 9 en 1 Deliplus vitaminada y alisadora",
             "previous": [],
             "timestamp": 1742983446
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983446
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/42222/tratamiento-unas-base-9-1-deliplus-vitaminada-alisadora",
+            "value": "https:\/\/tienda.mercadona.es\/product\/42222\/tratamiento-unas-base-9-1-deliplus-vitaminada-alisadora",
             "previous": [],
             "timestamp": 1742983446
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983446
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/4f07fa9bfebf65d3e7e3f2d26a660290.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/4f07fa9bfebf65d3e7e3f2d26a660290.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983446
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983446,
-        "updated_at": 1743023292,
-        "updates": 2
+        "updated_at": 1749739216,
+        "updates": 3
     }
 }

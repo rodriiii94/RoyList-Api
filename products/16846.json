@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Dátiles desecados sin hueso Hacendado",
+            "value": "D\u00e1tiles desecados sin hueso Hacendado",
             "previous": [],
             "timestamp": 1742983321
         },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983321
             },
             "bulk_price": {
-                "value": "6.23",
-                "previous": [],
-                "timestamp": 1742983321
+                "value": "6.43",
+                "previous": [
+                    {
+                        "value": "6.23",
+                        "timestamp": 1742983321
+                    }
+                ],
+                "timestamp": 1749739032
             },
             "unit_price": {
-                "value": "2.18",
-                "previous": [],
-                "timestamp": 1742983321
+                "value": "2.25",
+                "previous": [
+                    {
+                        "value": "2.18",
+                        "timestamp": 1742983321
+                    }
+                ],
+                "timestamp": 1749739032
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983321
             },
             "reference_price": {
-                "value": "6.229",
-                "previous": [],
-                "timestamp": 1742983321
+                "value": "6.429",
+                "previous": [
+                    {
+                        "value": "6.229",
+                        "timestamp": 1742983321
+                    }
+                ],
+                "timestamp": 1749739032
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983321
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/16846/datiles-desecados-sin-hueso-hacendado-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/16846\/datiles-desecados-sin-hueso-hacendado-paquete",
             "previous": [],
             "timestamp": 1742983321
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983321
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/748aca1ffbd304b26299c4727450422d.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/748aca1ffbd304b26299c4727450422d.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983321
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983321,
-        "updated_at": 1743023149,
-        "updates": 2
+        "updated_at": 1749739032,
+        "updates": 3
     }
 }

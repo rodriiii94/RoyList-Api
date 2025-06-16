@@ -37,9 +37,14 @@
             }
         ],
         "display_name": {
-            "value": "Salteado de pimientos y cebolla",
-            "previous": [],
-            "timestamp": 1742983459
+            "value": "Salteado de pimientos y cebolla cortado y lavado",
+            "previous": [
+                {
+                    "value": "Salteado de pimientos y cebolla",
+                    "timestamp": 1742983459
+                }
+            ],
+            "timestamp": 1749739240
         },
         "id": {
             "value": "69423",
@@ -174,7 +179,7 @@
             "timestamp": 1742983459
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/69423/salteado-pimientos-cebolla-hacendado-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/69423\/salteado-pimientos-cebolla-hacendado-paquete",
             "previous": [],
             "timestamp": 1742983459
         },
@@ -189,9 +194,14 @@
             "timestamp": 1742983459
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/9d961d91d9f14f9a534c68a0a86fbad1.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983459
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/f62658b6d2ae05fba69203f60586e2a2.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/9d961d91d9f14f9a534c68a0a86fbad1.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983459
+                }
+            ],
+            "timestamp": 1749739240
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +211,7 @@
     },
     "stats": {
         "created_at": 1742983459,
-        "updated_at": 1743023308,
-        "updates": 2
+        "updated_at": 1749739240,
+        "updates": 3
     }
 }

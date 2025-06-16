@@ -174,7 +174,7 @@
             "timestamp": 1742983499
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/9947/esponja-maquillaje-deliplus",
+            "value": "https:\/\/tienda.mercadona.es\/product\/9947\/esponja-maquillaje-deliplus",
             "previous": [],
             "timestamp": 1742983499
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983499
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/f989b1bab0f74bb6012fdbaacf4c256a.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/f989b1bab0f74bb6012fdbaacf4c256a.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983499
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983499,
-        "updated_at": 1743023351,
-        "updates": 2
+        "updated_at": 1749739298,
+        "updates": 3
     }
 }

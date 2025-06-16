@@ -174,7 +174,7 @@
             "timestamp": 1742983442
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/46966/enjuague-bucal-fresh-0-alcohol-deliplus-suave-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/46966\/enjuague-bucal-fresh-0-alcohol-deliplus-suave-botella",
             "previous": [],
             "timestamp": 1742983442
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983442
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/17802c5e3591feca927a39d40f70771d.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/17802c5e3591feca927a39d40f70771d.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983442
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983442,
-        "updated_at": 1743023288,
-        "updates": 2
+        "updated_at": 1749739211,
+        "updates": 3
     }
 }

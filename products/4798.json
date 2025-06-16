@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Pastel de atún Hacendado",
+            "value": "Pastel de at\u00fan Hacendado",
             "previous": [],
             "timestamp": 1742983536
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983536
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/4798/pastel-atun-hacendado-bandeja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/4798\/pastel-atun-hacendado-bandeja",
             "previous": [],
             "timestamp": 1742983536
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983536
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/10d20ec3aab5d9a777891ff5de26d3c0.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/10d20ec3aab5d9a777891ff5de26d3c0.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983536
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983536,
-        "updated_at": 1743023389,
-        "updates": 2
+        "updated_at": 1749739351,
+        "updates": 3
     }
 }

@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Limpiador fosas sépticas Bosque Verde bolsitas solubles",
+            "value": "Limpiador fosas s\u00e9pticas Bosque Verde bolsitas solubles",
             "previous": [],
             "timestamp": 1742983472
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983472
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/23415/limpiador-fosas-septicas-bosque-verde-bolsitas-solubles-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/23415\/limpiador-fosas-septicas-bosque-verde-bolsitas-solubles-caja",
             "previous": [],
             "timestamp": 1742983472
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983472
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/cf69624dfd9889cde9a2b289f0735df5.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/cf69624dfd9889cde9a2b289f0735df5.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983472
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983472,
-        "updated_at": 1743023323,
-        "updates": 2
+        "updated_at": 1749739261,
+        "updates": 3
     }
 }

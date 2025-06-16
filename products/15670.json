@@ -78,7 +78,7 @@
                 "timestamp": 1742983451
             },
             "unit_name": {
-                "value": "cápsulas",
+                "value": "c\u00e1psulas",
                 "previous": [],
                 "timestamp": 1742983451
             },
@@ -161,6 +161,11 @@
                 "value": 1,
                 "previous": [],
                 "timestamp": 1742983451
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1749739227
             }
         },
         "published": {
@@ -169,7 +174,7 @@
             "timestamp": 1742983451
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/15670/perlas-onagra-deliplus-contiene-vitamina-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/15670\/perlas-onagra-deliplus-contiene-vitamina-caja",
             "previous": [],
             "timestamp": 1742983451
         },
@@ -184,7 +189,7 @@
             "timestamp": 1742983451
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/13f226d9de723150ba1992588867ff48.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/13f226d9de723150ba1992588867ff48.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983451
         },
@@ -196,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983451,
-        "updated_at": 1743023298,
-        "updates": 2
+        "updated_at": 1749739227,
+        "updates": 3
     }
 }

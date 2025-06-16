@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Gel fijador cabello Xtra Forte Deliplus fijación 4",
+            "value": "Gel fijador cabello Xtra Forte Deliplus fijaci\u00f3n 4",
             "previous": [],
             "timestamp": 1742983430
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983430
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/44276/gel-fijador-cabello-xtra-forte-deliplus-fijacion-4-profix-bote",
+            "value": "https:\/\/tienda.mercadona.es\/product\/44276\/gel-fijador-cabello-xtra-forte-deliplus-fijacion-4-profix-bote",
             "previous": [],
             "timestamp": 1742983430
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983430
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/3bf0d8699eabb9a1afafa56f7ed88425.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983430
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/03ced9a1f31ca4756c0c7578fa82225a.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/3bf0d8699eabb9a1afafa56f7ed88425.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983430
+                }
+            ],
+            "timestamp": 1749739190
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983430,
-        "updated_at": 1743023273,
-        "updates": 2
+        "updated_at": 1749739190,
+        "updates": 3
     }
 }

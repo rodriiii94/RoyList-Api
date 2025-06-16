@@ -174,7 +174,7 @@
             "timestamp": 1742983440
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/22775/toalla-turbante-seca-pelo-microfibra-deliplus",
+            "value": "https:\/\/tienda.mercadona.es\/product\/22775\/toalla-turbante-seca-pelo-microfibra-deliplus",
             "previous": [],
             "timestamp": 1742983440
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983440
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/d5a24928e466ebe14519c2270d905a92.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/d5a24928e466ebe14519c2270d905a92.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983440
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983440,
-        "updated_at": 1743023286,
-        "updates": 2
+        "updated_at": 1749739208,
+        "updates": 3
     }
 }

@@ -174,7 +174,7 @@
             "timestamp": 1742983480
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/44001/multiusos-ph-neutro-3-brujas-con-pistola-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/44001\/multiusos-ph-neutro-3-brujas-con-pistola-botella",
             "previous": [],
             "timestamp": 1742983480
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983480
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/dc5419b16ed79b9e7ffad60c96aa80b2.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/dc5419b16ed79b9e7ffad60c96aa80b2.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983480
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983480,
-        "updated_at": 1743023331,
-        "updates": 2
+        "updated_at": 1749739272,
+        "updates": 3
     }
 }

@@ -88,14 +88,24 @@
                 "timestamp": 1742983500
             },
             "bulk_price": {
-                "value": "22.10",
-                "previous": [],
-                "timestamp": 1742983500
+                "value": "21.60",
+                "previous": [
+                    {
+                        "value": "22.10",
+                        "timestamp": 1742983500
+                    }
+                ],
+                "timestamp": 1749739300
             },
             "unit_price": {
-                "value": "11.05",
-                "previous": [],
-                "timestamp": 1742983500
+                "value": "10.80",
+                "previous": [
+                    {
+                        "value": "11.05",
+                        "timestamp": 1742983500
+                    }
+                ],
+                "timestamp": 1749739300
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983500
             },
             "reference_price": {
-                "value": "22.100",
-                "previous": [],
-                "timestamp": 1742983500
+                "value": "21.600",
+                "previous": [
+                    {
+                        "value": "22.100",
+                        "timestamp": 1742983500
+                    }
+                ],
+                "timestamp": 1749739300
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -158,7 +173,7 @@
                 "timestamp": 1742983500
             },
             "previous_unit_price": {
-                "value": null,
+                "value": "       11.05",
                 "previous": [],
                 "timestamp": 1742983500
             },
@@ -174,7 +189,7 @@
             "timestamp": 1742983500
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/81418/almeja-japonesa-malla",
+            "value": "https:\/\/tienda.mercadona.es\/product\/81418\/almeja-japonesa-malla",
             "previous": [],
             "timestamp": 1742983500
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983500
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/c88ca43fcb0ca0b2691b44c425f87194.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/c88ca43fcb0ca0b2691b44c425f87194.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983500
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983500,
-        "updated_at": 1743023353,
-        "updates": 2
+        "updated_at": 1749739300,
+        "updates": 3
     }
 }

@@ -174,7 +174,7 @@
             "timestamp": 1742983480
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/43861/70-alcohol-limpieza-perfumado-bosque-verde-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/43861\/70-alcohol-limpieza-perfumado-bosque-verde-botella",
             "previous": [],
             "timestamp": 1742983480
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983480
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/2a424afb3d0ea32daffee50d579e5e28.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/2a424afb3d0ea32daffee50d579e5e28.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983480
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983480,
-        "updated_at": 1743023331,
-        "updates": 2
+        "updated_at": 1749739271,
+        "updates": 3
     }
 }

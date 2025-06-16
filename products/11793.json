@@ -20,7 +20,7 @@
                     "timestamp": 1742983360
                 },
                 "name": {
-                    "value": "Cacao, café e infusiones",
+                    "value": "Cacao, caf\u00e9 e infusiones",
                     "previous": [],
                     "timestamp": 1742983360
                 },
@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Café molido mezcla intensa La Estrella",
+            "value": "Caf\u00e9 molido mezcla intensa La Estrella",
             "previous": [],
             "timestamp": 1742983360
         },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983360
             },
             "bulk_price": {
-                "value": "13.40",
-                "previous": [],
-                "timestamp": 1742983360
+                "value": "15.00",
+                "previous": [
+                    {
+                        "value": "13.40",
+                        "timestamp": 1742983360
+                    }
+                ],
+                "timestamp": 1749739088
             },
             "unit_price": {
-                "value": "3.35",
-                "previous": [],
-                "timestamp": 1742983360
+                "value": "3.75",
+                "previous": [
+                    {
+                        "value": "3.35",
+                        "timestamp": 1742983360
+                    }
+                ],
+                "timestamp": 1749739088
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983360
             },
             "reference_price": {
-                "value": "13.400",
-                "previous": [],
-                "timestamp": 1742983360
+                "value": "15.000",
+                "previous": [
+                    {
+                        "value": "13.400",
+                        "timestamp": 1742983360
+                    }
+                ],
+                "timestamp": 1749739088
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -158,9 +173,14 @@
                 "timestamp": 1742983360
             },
             "previous_unit_price": {
-                "value": "        3.75",
-                "previous": [],
-                "timestamp": 1742983360
+                "value": null,
+                "previous": [
+                    {
+                        "value": "        3.75",
+                        "timestamp": 1742983360
+                    }
+                ],
+                "timestamp": 1749739088
             },
             "increment_bunch_amount": {
                 "value": 1,
@@ -174,7 +194,7 @@
             "timestamp": 1742983360
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/11793/cafe-molido-mezcla-intensa-estrella-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/11793\/cafe-molido-mezcla-intensa-estrella-paquete",
             "previous": [],
             "timestamp": 1742983360
         },
@@ -189,7 +209,7 @@
             "timestamp": 1742983360
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/5658fbfe60252b2b2b48a1321d6b8e37.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/5658fbfe60252b2b2b48a1321d6b8e37.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983360
         },
@@ -201,7 +221,7 @@
     },
     "stats": {
         "created_at": 1742983360,
-        "updated_at": 1743023194,
-        "updates": 2
+        "updated_at": 1749739088,
+        "updates": 3
     }
 }

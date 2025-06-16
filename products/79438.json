@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Spray desinfectante antiséptico transparente Deliplus contiene clorhexidina y digluconato 2%",
+            "value": "Spray desinfectante antis\u00e9ptico transparente Deliplus contiene clorhexidina y digluconato 2%",
             "previous": [],
             "timestamp": 1742983453
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983453
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/79438/spray-desinfectante-antiseptico-transparente-deliplus-contiene-clorhexidina-digluconato-2-spray",
+            "value": "https:\/\/tienda.mercadona.es\/product\/79438\/spray-desinfectante-antiseptico-transparente-deliplus-contiene-clorhexidina-digluconato-2-spray",
             "previous": [],
             "timestamp": 1742983453
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983453
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/9fe297639a65443423d5209c08e73b17.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983453
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/b28ab29e53c2a41f806b23a87d9af470.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/9fe297639a65443423d5209c08e73b17.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983453
+                }
+            ],
+            "timestamp": 1749739230
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983453,
-        "updated_at": 1743023300,
-        "updates": 2
+        "updated_at": 1749739230,
+        "updates": 3
     }
 }

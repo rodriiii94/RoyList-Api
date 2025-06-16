@@ -174,7 +174,7 @@
             "timestamp": 1742983432
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/52648/recambios-maquinilla-afeitar-gillette-mach-sport-3-hojas-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/52648\/recambios-maquinilla-afeitar-gillette-mach-sport-3-hojas-caja",
             "previous": [],
             "timestamp": 1742983432
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983432
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/0310745e0bf8b008554c837192fee598.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/0310745e0bf8b008554c837192fee598.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983432
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983432,
-        "updated_at": 1743023275,
-        "updates": 2
+        "updated_at": 1749739193,
+        "updates": 3
     }
 }

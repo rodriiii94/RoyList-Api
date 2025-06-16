@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Tinto de verano 0,0% sin alcohol limón Don Simón",
+            "value": "Tinto de verano 0,0% sin alcohol lim\u00f3n Don Sim\u00f3n",
             "previous": [],
             "timestamp": 1742983349
         },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983349
             },
             "bulk_price": {
-                "value": "0.83",
-                "previous": [],
-                "timestamp": 1742983349
+                "value": "0.93",
+                "previous": [
+                    {
+                        "value": "0.83",
+                        "timestamp": 1742983349
+                    }
+                ],
+                "timestamp": 1749739074
             },
             "unit_price": {
-                "value": "1.25",
-                "previous": [],
-                "timestamp": 1742983349
+                "value": "1.40",
+                "previous": [
+                    {
+                        "value": "1.25",
+                        "timestamp": 1742983349
+                    }
+                ],
+                "timestamp": 1749739074
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983349
             },
             "reference_price": {
-                "value": "0.834",
-                "previous": [],
-                "timestamp": 1742983349
+                "value": "0.934",
+                "previous": [
+                    {
+                        "value": "0.834",
+                        "timestamp": 1742983349
+                    }
+                ],
+                "timestamp": 1749739074
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983349
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/66746/tinto-verano-00-sin-alcohol-limon-don-simon-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/66746\/tinto-verano-00-sin-alcohol-limon-don-simon-botella",
             "previous": [],
             "timestamp": 1742983349
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983349
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/3a87cbc85e13a3bd2126ea70ba6c80b4.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/3a87cbc85e13a3bd2126ea70ba6c80b4.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983349
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983349,
-        "updated_at": 1743023182,
-        "updates": 2
+        "updated_at": 1749739074,
+        "updates": 3
     }
 }

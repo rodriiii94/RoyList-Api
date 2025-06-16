@@ -37,9 +37,14 @@
             }
         ],
         "display_name": {
-            "value": "Crema de manos nutritiva Dove intensiva",
-            "previous": [],
-            "timestamp": 1742983434
+            "value": "Crema de manos intensiva Dove",
+            "previous": [
+                {
+                    "value": "Crema de manos nutritiva Dove intensiva",
+                    "timestamp": 1742983434
+                }
+            ],
+            "timestamp": 1749739196
         },
         "id": {
             "value": "46615",
@@ -174,7 +179,7 @@
             "timestamp": 1742983434
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/46615/crema-manos-nutritiva-dove-intensiva-bote",
+            "value": "https:\/\/tienda.mercadona.es\/product\/46615\/crema-manos-nutritiva-dove-intensiva-bote",
             "previous": [],
             "timestamp": 1742983434
         },
@@ -189,10 +194,10 @@
             "timestamp": 1742983434
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/ea7959fc460b50fc702eb4da9e823aa3.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/ea7959fc460b50fc702eb4da9e823aa3.jpg?fit=crop&h=300&w=300",
             "previous": [
                 {
-                    "value": "https://prod-mercadona.imgix.net/images/50afd3f70dc70d9127e1095027137790.jpg?fit=crop&h=300&w=300",
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/50afd3f70dc70d9127e1095027137790.jpg?fit=crop&h=300&w=300",
                     "timestamp": 1742983434
                 }
             ],
@@ -206,7 +211,7 @@
     },
     "stats": {
         "created_at": 1742983434,
-        "updated_at": 1743023277,
-        "updates": 2
+        "updated_at": 1749739196,
+        "updates": 3
     }
 }

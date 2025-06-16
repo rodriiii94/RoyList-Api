@@ -174,7 +174,7 @@
             "timestamp": 1742983373
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/2876/morcilla-arroz-cebolla-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/2876\/morcilla-arroz-cebolla-paquete",
             "previous": [],
             "timestamp": 1742983373
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983373
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/eb5c655c7f26cae44bb401b244f05206.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/eb5c655c7f26cae44bb401b244f05206.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983373
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983373,
-        "updated_at": 1743023208,
-        "updates": 2
+        "updated_at": 1749739104,
+        "updates": 3
     }
 }

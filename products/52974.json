@@ -161,6 +161,11 @@
                 "value": 1,
                 "previous": [],
                 "timestamp": 1742983492
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1749739289
             }
         },
         "published": {
@@ -169,7 +174,7 @@
             "timestamp": 1742983492
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/52974/polvo-compacto-24h-long-lasting-deliplus-02-beige-rosado",
+            "value": "https:\/\/tienda.mercadona.es\/product\/52974\/polvo-compacto-24h-long-lasting-deliplus-02-beige-rosado",
             "previous": [],
             "timestamp": 1742983492
         },
@@ -184,7 +189,7 @@
             "timestamp": 1742983492
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/8e62570d35a0a4cdd392110059f64d60.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/8e62570d35a0a4cdd392110059f64d60.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983492
         },
@@ -196,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983492,
-        "updated_at": 1743023345,
-        "updates": 2
+        "updated_at": 1749739289,
+        "updates": 3
     }
 }

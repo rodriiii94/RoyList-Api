@@ -174,7 +174,7 @@
             "timestamp": 1742983380
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/9350/barritas-cereales-hacendado-chocolate-con-leche-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/9350\/barritas-cereales-hacendado-chocolate-con-leche-caja",
             "previous": [],
             "timestamp": 1742983380
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983380
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/8641427e2c919b791fd2e7d6092b8d0b.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983380
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/bf705069a9199d255dc8b2dd4b8e2cf5.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/8641427e2c919b791fd2e7d6092b8d0b.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983380
+                }
+            ],
+            "timestamp": 1749739113
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983380,
-        "updated_at": 1743023216,
-        "updates": 2
+        "updated_at": 1749739113,
+        "updates": 3
     }
 }

@@ -37,9 +37,14 @@
             }
         ],
         "display_name": {
-            "value": "Multi corrector Rimmel 20 fair",
-            "previous": [],
-            "timestamp": 1742983491
+            "value": "Multi corrector Rimmel London 20 fair",
+            "previous": [
+                {
+                    "value": "Multi corrector Rimmel 20 fair",
+                    "timestamp": 1742983491
+                }
+            ],
+            "timestamp": 1749739286
         },
         "id": {
             "value": "52616",
@@ -174,7 +179,7 @@
             "timestamp": 1742983491
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/52616/multi-corrector-rimmel-20-fair",
+            "value": "https:\/\/tienda.mercadona.es\/product\/52616\/multi-corrector-rimmel-20-fair",
             "previous": [],
             "timestamp": 1742983491
         },
@@ -189,7 +194,7 @@
             "timestamp": 1742983491
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/0cd935e9620026c63dae83cd34c0c26e.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/0cd935e9620026c63dae83cd34c0c26e.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983491
         },
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983491,
-        "updated_at": 1743023343,
-        "updates": 2
+        "updated_at": 1749739286,
+        "updates": 3
     }
 }

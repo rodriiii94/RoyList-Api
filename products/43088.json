@@ -174,7 +174,7 @@
             "timestamp": 1742983474
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/43088/toallitas-limpiagafas-bosque-verde-monodosis-perfumadas-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/43088\/toallitas-limpiagafas-bosque-verde-monodosis-perfumadas-caja",
             "previous": [],
             "timestamp": 1742983474
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983474
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/ecae45d1232c42803836d9790983b525.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/ecae45d1232c42803836d9790983b525.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983474
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983474,
-        "updated_at": 1743023325,
-        "updates": 2
+        "updated_at": 1749739263,
+        "updates": 3
     }
 }

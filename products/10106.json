@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Fruta + leche caribe Don Simón sin azúcares añadidos y zero materia grasa",
+            "value": "Fruta + leche caribe Don Sim\u00f3n sin az\u00facares a\u00f1adidos y zero materia grasa",
             "previous": [],
             "timestamp": 1742983552
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983552
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/10106/fruta-leche-caribe-don-simon-sin-azucares-anadidos-zero-materia-grasa-pack-6",
+            "value": "https:\/\/tienda.mercadona.es\/product\/10106\/fruta-leche-caribe-don-simon-sin-azucares-anadidos-zero-materia-grasa-pack-6",
             "previous": [],
             "timestamp": 1742983552
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983552
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/bbed0e5ba3617c5be6c3c8bec5b6eff3.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/bbed0e5ba3617c5be6c3c8bec5b6eff3.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983552
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983552,
-        "updated_at": 1743023405,
-        "updates": 2
+        "updated_at": 1749739371,
+        "updates": 3
     }
 }

@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Champú Liso Keratina TRESemmé cabello encrespado o dañado",
+            "value": "Champ\u00fa Liso Keratina TRESemm\u00e9 cabello encrespado o da\u00f1ado",
             "previous": [],
             "timestamp": 1742983426
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983426
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/7942/champu-liso-keratina-tresemme-cabello-encrespado-danado-con-keratina-hidrolizada-aminoacidos-bote",
+            "value": "https:\/\/tienda.mercadona.es\/product\/7942\/champu-liso-keratina-tresemme-cabello-encrespado-danado-con-keratina-hidrolizada-aminoacidos-bote",
             "previous": [],
             "timestamp": 1742983426
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983426
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/f564f82e273001bf9c7c9deaa25b2d2d.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/f564f82e273001bf9c7c9deaa25b2d2d.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983426
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983426,
-        "updated_at": 1743023268,
-        "updates": 2
+        "updated_at": 1749739182,
+        "updates": 3
     }
 }

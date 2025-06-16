@@ -196,7 +196,7 @@
             "timestamp": 1742983405
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/62048/preparado-paella-sopa-hacendado-ultracongelado-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/62048\/preparado-paella-sopa-hacendado-ultracongelado-paquete",
             "previous": [],
             "timestamp": 1742983405
         },
@@ -211,7 +211,7 @@
             "timestamp": 1742983405
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/f6f62c8df2949dff816f73f274bfd2b6.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/f6f62c8df2949dff816f73f274bfd2b6.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983405
         },
@@ -223,7 +223,7 @@
     },
     "stats": {
         "created_at": 1742983405,
-        "updated_at": 1743023352,
-        "updates": 4
+        "updated_at": 1749739299,
+        "updates": 6
     }
 }

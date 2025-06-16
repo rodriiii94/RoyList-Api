@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Bebida energética Energy Ultra zero Monster",
+            "value": "Bebida energ\u00e9tica Energy Ultra zero Monster",
             "previous": [],
             "timestamp": 1742983312
         },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983312
             },
             "bulk_price": {
-                "value": "2.90",
-                "previous": [],
-                "timestamp": 1742983312
+                "value": "3.58",
+                "previous": [
+                    {
+                        "value": "2.90",
+                        "timestamp": 1742983312
+                    }
+                ],
+                "timestamp": 1749739016
             },
             "unit_price": {
-                "value": "1.45",
-                "previous": [],
-                "timestamp": 1742983312
+                "value": "1.79",
+                "previous": [
+                    {
+                        "value": "1.45",
+                        "timestamp": 1742983312
+                    }
+                ],
+                "timestamp": 1749739016
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983312
             },
             "reference_price": {
-                "value": "2.900",
-                "previous": [],
-                "timestamp": 1742983312
+                "value": "3.580",
+                "previous": [
+                    {
+                        "value": "2.900",
+                        "timestamp": 1742983312
+                    }
+                ],
+                "timestamp": 1749739016
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -158,9 +173,14 @@
                 "timestamp": 1742983312
             },
             "previous_unit_price": {
-                "value": "        1.79",
-                "previous": [],
-                "timestamp": 1742983312
+                "value": null,
+                "previous": [
+                    {
+                        "value": "        1.79",
+                        "timestamp": 1742983312
+                    }
+                ],
+                "timestamp": 1749739016
             },
             "increment_bunch_amount": {
                 "value": 1,
@@ -174,7 +194,7 @@
             "timestamp": 1742983312
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/28119/bebida-energetica-energy-ultra-zero-monster-lata",
+            "value": "https:\/\/tienda.mercadona.es\/product\/28119\/bebida-energetica-energy-ultra-zero-monster-lata",
             "previous": [],
             "timestamp": 1742983312
         },
@@ -189,9 +209,14 @@
             "timestamp": 1742983312
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/33dcb98112f9d9a666403cb3d2d53191.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983312
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/458f8b51e5b09a0cdbc08c268591a009.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/33dcb98112f9d9a666403cb3d2d53191.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983312
+                }
+            ],
+            "timestamp": 1749739016
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +226,7 @@
     },
     "stats": {
         "created_at": 1742983312,
-        "updated_at": 1743023137,
-        "updates": 2
+        "updated_at": 1749739016,
+        "updates": 3
     }
 }

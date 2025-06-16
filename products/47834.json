@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Papel higiénico doble hoja Bosque Verde",
+            "value": "Papel higi\u00e9nico doble hoja Bosque Verde",
             "previous": [],
             "timestamp": 1742983485
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983485
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/47834/papel-higienico-doble-hoja-bosque-verde-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/47834\/papel-higienico-doble-hoja-bosque-verde-paquete",
             "previous": [],
             "timestamp": 1742983485
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983485
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/913a64d47e21d6dbee7f5a51c482aeaa.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/913a64d47e21d6dbee7f5a51c482aeaa.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983485
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983485,
-        "updated_at": 1743023337,
-        "updates": 2
+        "updated_at": 1749739279,
+        "updates": 3
     }
 }

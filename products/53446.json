@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Salmón marinado Hacendado",
+            "value": "Salm\u00f3n marinado Hacendado",
             "previous": [],
             "timestamp": 1742983507
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983507
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/53446/salmon-marinado-hacendado-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/53446\/salmon-marinado-hacendado-paquete",
             "previous": [],
             "timestamp": 1742983507
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983507
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/e2241704fded07615a9446800c593e44.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/e2241704fded07615a9446800c593e44.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983507
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983507,
-        "updated_at": 1743023359,
-        "updates": 2
+        "updated_at": 1749739310,
+        "updates": 3
     }
 }

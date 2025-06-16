@@ -20,7 +20,7 @@
                     "timestamp": 1742983394
                 },
                 "name": {
-                    "value": "Charcutería y quesos",
+                    "value": "Charcuter\u00eda y quesos",
                     "previous": [],
                     "timestamp": 1742983394
                 },
@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Queso añejo picante mezcla Hacendado",
+            "value": "Queso a\u00f1ejo picante mezcla Hacendado",
             "previous": [],
             "timestamp": 1742983394
         },
@@ -83,9 +83,14 @@
                 "timestamp": 1742983394
             },
             "unit_size": {
-                "value": 0.37,
-                "previous": [],
-                "timestamp": 1742983394
+                "value": 0.24,
+                "previous": [
+                    {
+                        "value": 0.37,
+                        "timestamp": 1742983394
+                    }
+                ],
+                "timestamp": 1749739135
             },
             "bulk_price": {
                 "value": "17.73",
@@ -93,9 +98,14 @@
                 "timestamp": 1742983394
             },
             "unit_price": {
-                "value": "6.56",
-                "previous": [],
-                "timestamp": 1742983394
+                "value": "4.26",
+                "previous": [
+                    {
+                        "value": "6.56",
+                        "timestamp": 1742983394
+                    }
+                ],
+                "timestamp": 1749739135
             },
             "approx_size": {
                 "value": true,
@@ -174,7 +184,7 @@
             "timestamp": 1742983394
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/50972/queso-anejo-picante-mezcla-hacendado-pieza",
+            "value": "https:\/\/tienda.mercadona.es\/product\/50972\/queso-anejo-picante-mezcla-hacendado-pieza",
             "previous": [],
             "timestamp": 1742983394
         },
@@ -189,7 +199,7 @@
             "timestamp": 1742983394
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/4db5ab357a4abe82b7639e3d11cd34ee.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/4db5ab357a4abe82b7639e3d11cd34ee.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983394
         },
@@ -201,7 +211,7 @@
     },
     "stats": {
         "created_at": 1742983394,
-        "updated_at": 1743023232,
-        "updates": 2
+        "updated_at": 1749739135,
+        "updates": 3
     }
 }

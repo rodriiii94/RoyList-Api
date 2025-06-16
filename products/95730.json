@@ -174,7 +174,7 @@
             "timestamp": 1742983494
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/95730/vaselina-perfumada-labios-deliplus-frambuesa-tarro",
+            "value": "https:\/\/tienda.mercadona.es\/product\/95730\/vaselina-perfumada-labios-deliplus-frambuesa-tarro",
             "previous": [],
             "timestamp": 1742983494
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983494
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/2864db10cdce0d50c6a9ba4b34a5dc57.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/2864db10cdce0d50c6a9ba4b34a5dc57.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983494
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983494,
-        "updated_at": 1743023346,
-        "updates": 2
+        "updated_at": 1749739290,
+        "updates": 3
     }
 }

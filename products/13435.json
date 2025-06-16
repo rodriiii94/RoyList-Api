@@ -174,7 +174,7 @@
             "timestamp": 1742983448
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/13435/eau-toilette-hombre-gesto-frasco",
+            "value": "https:\/\/tienda.mercadona.es\/product\/13435\/eau-toilette-hombre-gesto-frasco",
             "previous": [],
             "timestamp": 1742983448
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983448
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/8a750fa2c3928e8797c80e19f48e8cc4.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/8a750fa2c3928e8797c80e19f48e8cc4.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983448
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983448,
-        "updated_at": 1743023295,
-        "updates": 2
+        "updated_at": 1749739221,
+        "updates": 3
     }
 }

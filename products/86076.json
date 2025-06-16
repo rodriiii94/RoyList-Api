@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Champú Color Intense Deliplus cabello teñido o con mechas",
+            "value": "Champ\u00fa Color Intense Deliplus cabello te\u00f1ido o con mechas",
             "previous": [],
             "timestamp": 1742983426
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983426
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/86076/champu-color-intense-deliplus-cabello-tenido-con-mechas-con-aceite-granada-vitamina-bote",
+            "value": "https:\/\/tienda.mercadona.es\/product\/86076\/champu-color-intense-deliplus-cabello-tenido-con-mechas-con-aceite-granada-vitamina-bote",
             "previous": [],
             "timestamp": 1742983426
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983426
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/522ee72df2d4f43bb37812830b80dfc8.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/522ee72df2d4f43bb37812830b80dfc8.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983426
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983426,
-        "updated_at": 1743023268,
-        "updates": 2
+        "updated_at": 1749739182,
+        "updates": 3
     }
 }

@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Coloración permanente 8.3 rubio claro dorado Deliplus",
+            "value": "Coloraci\u00f3n permanente 8.3 rubio claro dorado Deliplus",
             "previous": [],
             "timestamp": 1742983428
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983428
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/73176/coloracion-permanente-83-rubio-claro-dorado-deliplus-colorcor-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/73176\/coloracion-permanente-83-rubio-claro-dorado-deliplus-colorcor-caja",
             "previous": [],
             "timestamp": 1742983428
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983428
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/fd22186ed887cfbda65478f3a728950b.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/fd22186ed887cfbda65478f3a728950b.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983428
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983428,
-        "updated_at": 1743023270,
-        "updates": 2
+        "updated_at": 1749739187,
+        "updates": 3
     }
 }

@@ -174,7 +174,7 @@
             "timestamp": 1742983372
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/6048/chorizo-oreado-bandeja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/6048\/chorizo-oreado-bandeja",
             "previous": [],
             "timestamp": 1742983372
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983372
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/21c6e9c4cd1b6f8b45f57758593cd36d.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/21c6e9c4cd1b6f8b45f57758593cd36d.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983372
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983372,
-        "updated_at": 1743023208,
-        "updates": 2
+        "updated_at": 1749739104,
+        "updates": 3
     }
 }

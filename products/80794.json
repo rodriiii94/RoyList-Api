@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Tabulé oriental Hacendado",
+            "value": "Tabul\u00e9 oriental Hacendado",
             "previous": [],
             "timestamp": 1742983536
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983536
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/80794/tabule-oriental-hacendado-tarrina",
+            "value": "https:\/\/tienda.mercadona.es\/product\/80794\/tabule-oriental-hacendado-tarrina",
             "previous": [],
             "timestamp": 1742983536
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983536
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/3b83eae273ff65c9b4eab0b2e2b254fc.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/3b83eae273ff65c9b4eab0b2e2b254fc.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983536
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983536,
-        "updated_at": 1743023389,
-        "updates": 2
+        "updated_at": 1749739351,
+        "updates": 3
     }
 }

@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739066
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739066
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 19,
+                    "previous": [],
+                    "timestamp": 1749739066
+                },
+                "name": {
+                    "value": "Bodega",
+                    "previous": [],
+                    "timestamp": 1749739066
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739066
+                },
+                "order": {
+                    "value": 15,
+                    "previous": [],
+                    "timestamp": 1749739066
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Cerveza Radler Falke 0,0% sin alcohol",
+            "previous": [],
+            "timestamp": 1749739066
+        },
+        "id": {
+            "value": "86314",
+            "previous": [],
+            "timestamp": 1749739066
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739066
+        },
+        "packaging": {
+            "value": "Lata",
+            "previous": [],
+            "timestamp": 1749739066
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1749739066
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739066
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739066
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739066
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739066
+            },
+            "unit_size": {
+                "value": 0.33,
+                "previous": [],
+                "timestamp": 1749739066
+            },
+            "bulk_price": {
+                "value": "1.36",
+                "previous": [],
+                "timestamp": 1749739066
+            },
+            "unit_price": {
+                "value": "0.45",
+                "previous": [],
+                "timestamp": 1749739066
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739066
+            },
+            "size_format": {
+                "value": "l",
+                "previous": [],
+                "timestamp": 1749739066
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739066
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739066
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739066
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739066
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739066
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1749739066
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739066
+            },
+            "reference_price": {
+                "value": "1.364",
+                "previous": [],
+                "timestamp": 1749739066
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739066
+            },
+            "reference_format": {
+                "value": "L",
+                "previous": [],
+                "timestamp": 1749739066
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739066
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739066
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739066
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/86314\/cerveza-radler-falke-00-sin-alcohol-lata",
+            "previous": [],
+            "timestamp": 1749739066
+        },
+        "slug": {
+            "value": "cerveza-radler-falke-00-sin-alcohol-lata",
+            "previous": [],
+            "timestamp": 1749739066
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739066
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/8f48ac71e1cce38a6e73cc6e4e785af9.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739066
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739066
+        }
+    },
+    "stats": {
+        "created_at": 1749739066,
+        "updated_at": 1749739066,
+        "updates": 1
+    }
+}

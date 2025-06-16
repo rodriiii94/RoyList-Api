@@ -88,14 +88,24 @@
                 "timestamp": 1742983510
             },
             "bulk_price": {
-                "value": "1.80",
-                "previous": [],
-                "timestamp": 1742983510
+                "value": "1.90",
+                "previous": [
+                    {
+                        "value": "1.80",
+                        "timestamp": 1742983510
+                    }
+                ],
+                "timestamp": 1749739315
             },
             "unit_price": {
-                "value": "1.80",
-                "previous": [],
-                "timestamp": 1742983510
+                "value": "1.90",
+                "previous": [
+                    {
+                        "value": "1.80",
+                        "timestamp": 1742983510
+                    }
+                ],
+                "timestamp": 1749739315
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983510
             },
             "reference_price": {
-                "value": "1.800",
-                "previous": [],
-                "timestamp": 1742983510
+                "value": "1.900",
+                "previous": [
+                    {
+                        "value": "1.800",
+                        "timestamp": 1742983510
+                    }
+                ],
+                "timestamp": 1749739315
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983510
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/52096/salchicha-perro-adulto-delikuit-con-pollo-arroz",
+            "value": "https:\/\/tienda.mercadona.es\/product\/52096\/salchicha-perro-adulto-delikuit-con-pollo-arroz",
             "previous": [],
             "timestamp": 1742983510
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983510
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/c140c290c05a01ec329e846fdaf87369.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/c140c290c05a01ec329e846fdaf87369.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983510
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983510,
-        "updated_at": 1743023363,
-        "updates": 2
+        "updated_at": 1749739315,
+        "updates": 3
     }
 }

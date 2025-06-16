@@ -174,7 +174,7 @@
             "timestamp": 1742983470
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/35858/difusor-ambientador-spray-manual-bosque-verde-con-recambio-brisa-azul-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/35858\/difusor-ambientador-spray-manual-bosque-verde-con-recambio-brisa-azul-caja",
             "previous": [],
             "timestamp": 1742983470
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983470
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/9cd2b6dc42daea580056533e810618ab.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/9cd2b6dc42daea580056533e810618ab.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983470
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983470,
-        "updated_at": 1743023321,
-        "updates": 2
+        "updated_at": 1749739258,
+        "updates": 3
     }
 }

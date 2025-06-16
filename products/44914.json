@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Gel aceite de baño Deliplus piel atópica",
+            "value": "Gel aceite de ba\u00f1o Deliplus piel at\u00f3pica",
             "previous": [],
             "timestamp": 1742983440
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983440
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/44914/gel-aceite-bano-deliplus-piel-atopica-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/44914\/gel-aceite-bano-deliplus-piel-atopica-botella",
             "previous": [],
             "timestamp": 1742983440
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983440
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/ac449f3641e8a49e22bf18a559966511.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/ac449f3641e8a49e22bf18a559966511.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983440
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983440,
-        "updated_at": 1743023286,
-        "updates": 2
+        "updated_at": 1749739207,
+        "updates": 3
     }
 }

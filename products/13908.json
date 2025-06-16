@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739072
+            },
+            "requires_age_check": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739072
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 19,
+                    "previous": [],
+                    "timestamp": 1749739072
+                },
+                "name": {
+                    "value": "Bodega",
+                    "previous": [],
+                    "timestamp": 1749739072
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739072
+                },
+                "order": {
+                    "value": 15,
+                    "previous": [],
+                    "timestamp": 1749739072
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Vino espumoso Vi\u00f1a Secret Brut",
+            "previous": [],
+            "timestamp": 1749739072
+        },
+        "id": {
+            "value": "13908",
+            "previous": [],
+            "timestamp": 1749739072
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739072
+        },
+        "packaging": {
+            "value": "Botella",
+            "previous": [],
+            "timestamp": 1749739072
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1749739072
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739072
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739072
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739072
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739072
+            },
+            "unit_size": {
+                "value": 0.75,
+                "previous": [],
+                "timestamp": 1749739072
+            },
+            "bulk_price": {
+                "value": "3.33",
+                "previous": [],
+                "timestamp": 1749739072
+            },
+            "unit_price": {
+                "value": "2.50",
+                "previous": [],
+                "timestamp": 1749739072
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739072
+            },
+            "size_format": {
+                "value": "l",
+                "previous": [],
+                "timestamp": 1749739072
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739072
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739072
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739072
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739072
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739072
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1749739072
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739072
+            },
+            "reference_price": {
+                "value": "3.334",
+                "previous": [],
+                "timestamp": 1749739072
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739072
+            },
+            "reference_format": {
+                "value": "L",
+                "previous": [],
+                "timestamp": 1749739072
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739072
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739072
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739072
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/13908\/vino-espumoso-vina-secret-brut-botella",
+            "previous": [],
+            "timestamp": 1749739072
+        },
+        "slug": {
+            "value": "vino-espumoso-vina-secret-brut-botella",
+            "previous": [],
+            "timestamp": 1749739072
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739072
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/cf6b5f551e62523e4ad2a6bd79edd598.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739072
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739072
+        }
+    },
+    "stats": {
+        "created_at": 1749739072,
+        "updated_at": 1749739072,
+        "updates": 1
+    }
+}

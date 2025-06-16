@@ -88,14 +88,24 @@
                 "timestamp": 1742983458
             },
             "bulk_price": {
-                "value": "0.45",
-                "previous": [],
-                "timestamp": 1742983458
+                "value": "0.47",
+                "previous": [
+                    {
+                        "value": "0.45",
+                        "timestamp": 1742983458
+                    }
+                ],
+                "timestamp": 1749739238
             },
             "unit_price": {
-                "value": "1.35",
-                "previous": [],
-                "timestamp": 1742983458
+                "value": "1.40",
+                "previous": [
+                    {
+                        "value": "1.35",
+                        "timestamp": 1742983458
+                    }
+                ],
+                "timestamp": 1749739238
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983458
             },
             "reference_price": {
-                "value": "0.450",
-                "previous": [],
-                "timestamp": 1742983458
+                "value": "0.467",
+                "previous": [
+                    {
+                        "value": "0.450",
+                        "timestamp": 1742983458
+                    }
+                ],
+                "timestamp": 1749739238
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983458
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/69139/cebollas-tiernas-manojo",
+            "value": "https:\/\/tienda.mercadona.es\/product\/69139\/cebollas-tiernas-manojo",
             "previous": [],
             "timestamp": 1742983458
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983458
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/3bbcca66baefa5c56bae00a07ca106f1.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/3bbcca66baefa5c56bae00a07ca106f1.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983458
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983458,
-        "updated_at": 1743023307,
-        "updates": 2
+        "updated_at": 1749739238,
+        "updates": 3
     }
 }

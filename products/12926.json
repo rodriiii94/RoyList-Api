@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739290
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739290
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 22,
+                    "previous": [],
+                    "timestamp": 1749739290
+                },
+                "name": {
+                    "value": "Maquillaje",
+                    "previous": [],
+                    "timestamp": 1749739290
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739290
+                },
+                "order": {
+                    "value": 421,
+                    "previous": [],
+                    "timestamp": 1749739290
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Pack tratamiento labial Kiss Me",
+            "previous": [],
+            "timestamp": 1749739290
+        },
+        "id": {
+            "value": "12926",
+            "previous": [],
+            "timestamp": 1749739290
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739290
+        },
+        "packaging": {
+            "value": "Caja",
+            "previous": [],
+            "timestamp": 1749739290
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1749739290
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739290
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739290
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739290
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739290
+            },
+            "unit_size": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739290
+            },
+            "bulk_price": {
+                "value": "10.00",
+                "previous": [],
+                "timestamp": 1749739290
+            },
+            "unit_price": {
+                "value": "10.00",
+                "previous": [],
+                "timestamp": 1749739290
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739290
+            },
+            "size_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1749739290
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739290
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739290
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739290
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739290
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739290
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1749739290
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739290
+            },
+            "reference_price": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1749739290
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739290
+            },
+            "reference_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1749739290
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739290
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739290
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739290
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/12926\/pack-tratamiento-labial-kiss-contiene-exfoliante-labial-mascarilla-labial-brillo-labios-caja",
+            "previous": [],
+            "timestamp": 1749739290
+        },
+        "slug": {
+            "value": "pack-tratamiento-labial-kiss-contiene-exfoliante-labial-mascarilla-labial-brillo-labios-caja",
+            "previous": [],
+            "timestamp": 1749739290
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739290
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/24eacd858fccea6f6ba8956833893176.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739290
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739290
+        }
+    },
+    "stats": {
+        "created_at": 1749739290,
+        "updated_at": 1749739292,
+        "updates": 2
+    }
+}

@@ -88,14 +88,24 @@
                 "timestamp": 1742983415
             },
             "bulk_price": {
-                "value": "13.61",
-                "previous": [],
-                "timestamp": 1742983415
+                "value": "13.89",
+                "previous": [
+                    {
+                        "value": "13.61",
+                        "timestamp": 1742983415
+                    }
+                ],
+                "timestamp": 1749739166
             },
             "unit_price": {
-                "value": "2.45",
-                "previous": [],
-                "timestamp": 1742983415
+                "value": "2.50",
+                "previous": [
+                    {
+                        "value": "2.45",
+                        "timestamp": 1742983415
+                    }
+                ],
+                "timestamp": 1749739166
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983415
             },
             "reference_price": {
-                "value": "18.847",
-                "previous": [],
-                "timestamp": 1742983415
+                "value": "19.231",
+                "previous": [
+                    {
+                        "value": "18.847",
+                        "timestamp": 1742983415
+                    }
+                ],
+                "timestamp": 1749739166
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983415
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/18311/filetes-caballa-sur-bajo-contenido-sal-hacendado-aceite-oliva-pack-2",
+            "value": "https:\/\/tienda.mercadona.es\/product\/18311\/filetes-caballa-sur-bajo-contenido-sal-hacendado-aceite-oliva-pack-2",
             "previous": [],
             "timestamp": 1742983415
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983415
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/eb64d4644cf25f2ef0b678ce9716a9fd.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/eb64d4644cf25f2ef0b678ce9716a9fd.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983415
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983415,
-        "updated_at": 1743023256,
-        "updates": 2
+        "updated_at": 1749739166,
+        "updates": 3
     }
 }

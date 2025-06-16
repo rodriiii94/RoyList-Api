@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Champú Silver Blond Deliplus cabello rubio, decolorado y grises,",
+            "value": "Champ\u00fa Silver Blond Deliplus cabello rubio, decolorado y grises,",
             "previous": [],
             "timestamp": 1742983426
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983426
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/86306/champu-silver-blond-deliplus-cabello-rubio-decolorado-gris-neutraliza-tonos-amarillentos-con-extracto-magnolia-bote",
+            "value": "https:\/\/tienda.mercadona.es\/product\/86306\/champu-silver-blond-deliplus-cabello-rubio-decolorado-gris-neutraliza-tonos-amarillentos-con-extracto-magnolia-bote",
             "previous": [],
             "timestamp": 1742983426
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983426
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/876f33d986f3d68f74a57970e1768d6b.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/876f33d986f3d68f74a57970e1768d6b.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983426
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983426,
-        "updated_at": 1743023268,
-        "updates": 2
+        "updated_at": 1749739182,
+        "updates": 3
     }
 }

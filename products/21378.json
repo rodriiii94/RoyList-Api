@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Bebida láctea desnatada sabor tropical +Proteínas Hacendado 0% m.g 20 g proteínas",
+            "value": "Bebida l\u00e1ctea desnatada sabor tropical +Prote\u00ednas Hacendado 0% m.g 20 g prote\u00ednas",
             "previous": [],
             "timestamp": 1742983547
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983547
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/21378/bebida-lactea-desnatada-sabor-tropical-proteinas-hacendado-0-mg-20-g-proteinas-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/21378\/bebida-lactea-desnatada-sabor-tropical-proteinas-hacendado-0-mg-20-g-proteinas-botella",
             "previous": [],
             "timestamp": 1742983547
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983547
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/6d63b54fb498fca61d17cd1275374a5d.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983547
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/cd86b146682cd7e39874df8186f21e39.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/6d63b54fb498fca61d17cd1275374a5d.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983547
+                }
+            ],
+            "timestamp": 1749739365
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983547,
-        "updated_at": 1743023400,
-        "updates": 2
+        "updated_at": 1749739365,
+        "updates": 3
     }
 }

@@ -174,7 +174,7 @@
             "timestamp": 1742983435
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/46892/gel-facial-limpiador-facial-clean-deliplus-tipo-piel-bote",
+            "value": "https:\/\/tienda.mercadona.es\/product\/46892\/gel-facial-limpiador-facial-clean-deliplus-tipo-piel-bote",
             "previous": [],
             "timestamp": 1742983435
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983435
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/3ddd6bc146d9b13800b9ad1650ede145.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/3ddd6bc146d9b13800b9ad1650ede145.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983435
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983435,
-        "updated_at": 1743023279,
-        "updates": 2
+        "updated_at": 1749739198,
+        "updates": 3
     }
 }

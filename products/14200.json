@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Galletas Digestive 0% azúcares añadidos Hacendado",
+            "value": "Galletas Digestive 0% az\u00facares a\u00f1adidos Hacendado",
             "previous": [],
             "timestamp": 1742983381
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983381
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/14200/galletas-digestive-0-azucares-anadidos-hacendado-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/14200\/galletas-digestive-0-azucares-anadidos-hacendado-paquete",
             "previous": [],
             "timestamp": 1742983381
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983381
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/d589f7b5e0d50b513d36dc6a4762e264.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983381
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/7b70be824efcec8de330b4b063c5b6af.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/d589f7b5e0d50b513d36dc6a4762e264.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983381
+                }
+            ],
+            "timestamp": 1749739116
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983381,
-        "updated_at": 1743023217,
-        "updates": 2
+        "updated_at": 1749739116,
+        "updates": 3
     }
 }

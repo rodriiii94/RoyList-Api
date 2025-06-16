@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Difusor ambientador eléctrico Bosque Verde",
+            "value": "Difusor ambientador el\u00e9ctrico Bosque Verde",
             "previous": [],
             "timestamp": 1742983470
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983470
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/52833/difusor-ambientador-electrico-bosque-verde-con-regulador-intensidad-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/52833\/difusor-ambientador-electrico-bosque-verde-con-regulador-intensidad-caja",
             "previous": [],
             "timestamp": 1742983470
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983470
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/a6357b2fb566aefcd2685bf508c36c38.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/a6357b2fb566aefcd2685bf508c36c38.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983470
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983470,
-        "updated_at": 1743023321,
-        "updates": 2
+        "updated_at": 1749739258,
+        "updates": 3
     }
 }

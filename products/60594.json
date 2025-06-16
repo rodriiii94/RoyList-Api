@@ -88,14 +88,24 @@
                 "timestamp": 1742983498
             },
             "bulk_price": {
-                "value": "5.00",
-                "previous": [],
-                "timestamp": 1742983498
+                "value": "3.00",
+                "previous": [
+                    {
+                        "value": "5.00",
+                        "timestamp": 1742983498
+                    }
+                ],
+                "timestamp": 1749739298
             },
             "unit_price": {
-                "value": "5.00",
-                "previous": [],
-                "timestamp": 1742983498
+                "value": "3.00",
+                "previous": [
+                    {
+                        "value": "5.00",
+                        "timestamp": 1742983498
+                    }
+                ],
+                "timestamp": 1749739298
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983498
             },
             "reference_price": {
-                "value": "5.000",
-                "previous": [],
-                "timestamp": 1742983498
+                "value": "3.000",
+                "previous": [
+                    {
+                        "value": "5.000",
+                        "timestamp": 1742983498
+                    }
+                ],
+                "timestamp": 1749739298
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983498
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/60594/kit-verde-pinceles-maquillaje-deliplus-contiene-esponja-maquillaje-brocha-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/60594\/kit-verde-pinceles-maquillaje-deliplus-contiene-esponja-maquillaje-brocha-caja",
             "previous": [],
             "timestamp": 1742983498
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983498
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/03c3158ce03c7e852549b1daa56195d5.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/03c3158ce03c7e852549b1daa56195d5.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983498
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983498,
-        "updated_at": 1743023351,
-        "updates": 2
+        "updated_at": 1749739298,
+        "updates": 3
     }
 }

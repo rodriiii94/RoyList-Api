@@ -174,7 +174,7 @@
             "timestamp": 1742983327
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/6363/pasta-estrellas-hacendado-sopa-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/6363\/pasta-estrellas-hacendado-sopa-paquete",
             "previous": [],
             "timestamp": 1742983327
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983327
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/23c5983a8e441cc743d1d046f238363b.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/23c5983a8e441cc743d1d046f238363b.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983327
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983327,
-        "updated_at": 1743023156,
-        "updates": 2
+        "updated_at": 1749739040,
+        "updates": 3
     }
 }

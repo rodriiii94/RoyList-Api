@@ -88,14 +88,24 @@
                 "timestamp": 1742983459
             },
             "bulk_price": {
-                "value": "2.70",
-                "previous": [],
-                "timestamp": 1742983459
+                "value": "2.60",
+                "previous": [
+                    {
+                        "value": "2.70",
+                        "timestamp": 1742983459
+                    }
+                ],
+                "timestamp": 1749739238
             },
             "unit_price": {
-                "value": "0.43",
-                "previous": [],
-                "timestamp": 1742983459
+                "value": "0.42",
+                "previous": [
+                    {
+                        "value": "0.43",
+                        "timestamp": 1742983459
+                    }
+                ],
+                "timestamp": 1749739238
             },
             "approx_size": {
                 "value": true,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983459
             },
             "reference_price": {
-                "value": "2.700",
-                "previous": [],
-                "timestamp": 1742983459
+                "value": "2.600",
+                "previous": [
+                    {
+                        "value": "2.700",
+                        "timestamp": 1742983459
+                    }
+                ],
+                "timestamp": 1749739238
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983459
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/69935/tomate-kumato-negro-pieza",
+            "value": "https:\/\/tienda.mercadona.es\/product\/69935\/tomate-kumato-negro-pieza",
             "previous": [],
             "timestamp": 1742983459
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983459
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/4ddfc8d54e0b86c8a7c98dae1398edc1.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/4ddfc8d54e0b86c8a7c98dae1398edc1.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983459
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983459,
-        "updated_at": 1743023307,
-        "updates": 2
+        "updated_at": 1749739238,
+        "updates": 3
     }
 }

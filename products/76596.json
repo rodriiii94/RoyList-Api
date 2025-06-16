@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Loción corporal reafirmante Q10 Nivea y vitamina C",
+            "value": "Loci\u00f3n corporal reafirmante Q10 Nivea y vitamina C",
             "previous": [],
             "timestamp": 1742983433
         },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983433
             },
             "bulk_price": {
-                "value": "15.63",
-                "previous": [],
-                "timestamp": 1742983433
+                "value": "13.25",
+                "previous": [
+                    {
+                        "value": "15.63",
+                        "timestamp": 1742983433
+                    }
+                ],
+                "timestamp": 1749739195
             },
             "unit_price": {
-                "value": "6.25",
-                "previous": [],
-                "timestamp": 1742983433
+                "value": "5.30",
+                "previous": [
+                    {
+                        "value": "6.25",
+                        "timestamp": 1742983433
+                    }
+                ],
+                "timestamp": 1749739195
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983433
             },
             "reference_price": {
-                "value": "1.563",
-                "previous": [],
-                "timestamp": 1742983433
+                "value": "1.325",
+                "previous": [
+                    {
+                        "value": "1.563",
+                        "timestamp": 1742983433
+                    }
+                ],
+                "timestamp": 1749739195
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -158,7 +173,7 @@
                 "timestamp": 1742983433
             },
             "previous_unit_price": {
-                "value": null,
+                "value": "        6.25",
                 "previous": [],
                 "timestamp": 1742983433
             },
@@ -174,7 +189,7 @@
             "timestamp": 1742983433
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/76596/locion-corporal-reafirmante-q10-nivea-vitamina-c-piel-normal-bote",
+            "value": "https:\/\/tienda.mercadona.es\/product\/76596\/locion-corporal-reafirmante-q10-nivea-vitamina-c-piel-normal-bote",
             "previous": [],
             "timestamp": 1742983433
         },
@@ -189,9 +204,14 @@
             "timestamp": 1742983433
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/e549cd3e9c2d5bb5ab8be7671c9e65aa.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983433
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/5b06a5234f258bd32088317de7334435.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/e549cd3e9c2d5bb5ab8be7671c9e65aa.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983433
+                }
+            ],
+            "timestamp": 1749739195
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +221,7 @@
     },
     "stats": {
         "created_at": 1742983433,
-        "updated_at": 1743023276,
-        "updates": 2
+        "updated_at": 1749739195,
+        "updates": 3
     }
 }

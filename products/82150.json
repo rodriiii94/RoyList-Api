@@ -20,7 +20,7 @@
                     "timestamp": 1742983523
                 },
                 "name": {
-                    "value": "Panadería y pastelería",
+                    "value": "Panader\u00eda y pasteler\u00eda",
                     "previous": [],
                     "timestamp": 1742983523
                 },
@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Pan tostado vitalité Wasa",
+            "value": "Pan tostado vitalit\u00e9 Wasa",
             "previous": [],
             "timestamp": 1742983523
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983523
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/82150/pan-tostado-vitalite-wasa-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/82150\/pan-tostado-vitalite-wasa-paquete",
             "previous": [],
             "timestamp": 1742983523
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983523
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/52553aaaa599e75544682dc89f81bdcb.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983523
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/63e432c47ae97f5fa2b874121c221207.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/52553aaaa599e75544682dc89f81bdcb.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983523
+                }
+            ],
+            "timestamp": 1749739333
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983523,
-        "updated_at": 1743023376,
-        "updates": 2
+        "updated_at": 1749739333,
+        "updates": 3
     }
 }

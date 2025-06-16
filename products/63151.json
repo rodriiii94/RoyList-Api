@@ -110,14 +110,24 @@
                 "timestamp": 1742983410
             },
             "bulk_price": {
-                "value": "5.30",
-                "previous": [],
-                "timestamp": 1742983410
+                "value": "5.50",
+                "previous": [
+                    {
+                        "value": "5.30",
+                        "timestamp": 1742983410
+                    }
+                ],
+                "timestamp": 1749739159
             },
             "unit_price": {
-                "value": "2.65",
-                "previous": [],
-                "timestamp": 1742983410
+                "value": "2.75",
+                "previous": [
+                    {
+                        "value": "2.65",
+                        "timestamp": 1742983410
+                    }
+                ],
+                "timestamp": 1749739159
             },
             "approx_size": {
                 "value": false,
@@ -165,9 +175,14 @@
                 "timestamp": 1742983410
             },
             "reference_price": {
-                "value": "5.300",
-                "previous": [],
-                "timestamp": 1742983410
+                "value": "5.500",
+                "previous": [
+                    {
+                        "value": "5.300",
+                        "timestamp": 1742983410
+                    }
+                ],
+                "timestamp": 1749739159
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -196,7 +211,7 @@
             "timestamp": 1742983410
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/63151/palitos-merluza-romana-hacendado-ultracongelados-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/63151\/palitos-merluza-romana-hacendado-ultracongelados-paquete",
             "previous": [],
             "timestamp": 1742983410
         },
@@ -211,7 +226,7 @@
             "timestamp": 1742983410
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/ee8c09059091a07b3982f17ae35551f9.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/ee8c09059091a07b3982f17ae35551f9.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983410
         },
@@ -223,7 +238,7 @@
     },
     "stats": {
         "created_at": 1742983410,
-        "updated_at": 1743023355,
-        "updates": 4
+        "updated_at": 1749739304,
+        "updates": 6
     }
 }

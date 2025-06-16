@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Costilla de cerdo ibérico adobada",
+            "value": "Costilla de cerdo ib\u00e9rico adobada",
             "previous": [],
             "timestamp": 1742983369
         },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983369
             },
             "bulk_price": {
-                "value": "6.85",
-                "previous": [],
-                "timestamp": 1742983369
+                "value": "7.55",
+                "previous": [
+                    {
+                        "value": "6.85",
+                        "timestamp": 1742983369
+                    }
+                ],
+                "timestamp": 1749739100
             },
             "unit_price": {
-                "value": "3.43",
-                "previous": [],
-                "timestamp": 1742983369
+                "value": "3.78",
+                "previous": [
+                    {
+                        "value": "3.43",
+                        "timestamp": 1742983369
+                    }
+                ],
+                "timestamp": 1749739100
             },
             "approx_size": {
                 "value": true,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983369
             },
             "reference_price": {
-                "value": "6.850",
-                "previous": [],
-                "timestamp": 1742983369
+                "value": "7.550",
+                "previous": [
+                    {
+                        "value": "6.850",
+                        "timestamp": 1742983369
+                    }
+                ],
+                "timestamp": 1749739100
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983369
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/1564/costilla-cerdo-iberico-adobada-bandeja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/1564\/costilla-cerdo-iberico-adobada-bandeja",
             "previous": [],
             "timestamp": 1742983369
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983369
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/af452ee749d0981858f5bfd393dccf15.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/af452ee749d0981858f5bfd393dccf15.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983369
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983369,
-        "updated_at": 1743023213,
-        "updates": 4
+        "updated_at": 1749739110,
+        "updates": 6
     }
 }

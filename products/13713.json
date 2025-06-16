@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Roti de pollo relleno de jamón y queso Hacendado",
+            "value": "Roti de pollo relleno de jam\u00f3n y queso Hacendado",
             "previous": [],
             "timestamp": 1742983533
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983533
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/13713/roti-pollo-relleno-jamon-queso-hacendado-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/13713\/roti-pollo-relleno-jamon-queso-hacendado-paquete",
             "previous": [],
             "timestamp": 1742983533
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983533
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/9ab6eb035146b4e95041c72834ebc235.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/9ab6eb035146b4e95041c72834ebc235.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983533
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983533,
-        "updated_at": 1743023387,
-        "updates": 2
+        "updated_at": 1749739347,
+        "updates": 3
     }
 }

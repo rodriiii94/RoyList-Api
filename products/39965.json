@@ -110,14 +110,24 @@
                 "timestamp": 1742983420
             },
             "bulk_price": {
-                "value": "3.64",
-                "previous": [],
-                "timestamp": 1742983420
+                "value": "3.03",
+                "previous": [
+                    {
+                        "value": "3.64",
+                        "timestamp": 1742983420
+                    }
+                ],
+                "timestamp": 1749739173
             },
             "unit_price": {
-                "value": "1.20",
-                "previous": [],
-                "timestamp": 1742983420
+                "value": "1.00",
+                "previous": [
+                    {
+                        "value": "1.20",
+                        "timestamp": 1742983420
+                    }
+                ],
+                "timestamp": 1749739173
             },
             "approx_size": {
                 "value": false,
@@ -165,9 +175,14 @@
                 "timestamp": 1742983420
             },
             "reference_price": {
-                "value": "3.637",
-                "previous": [],
-                "timestamp": 1742983420
+                "value": "3.031",
+                "previous": [
+                    {
+                        "value": "3.637",
+                        "timestamp": 1742983420
+                    }
+                ],
+                "timestamp": 1749739173
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -180,7 +195,7 @@
                 "timestamp": 1742983420
             },
             "previous_unit_price": {
-                "value": null,
+                "value": "        1.20",
                 "previous": [],
                 "timestamp": 1742983420
             },
@@ -196,7 +211,7 @@
             "timestamp": 1742983420
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/39965/gazpacho-fresco-hacendado-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/39965\/gazpacho-fresco-hacendado-botella",
             "previous": [],
             "timestamp": 1742983420
         },
@@ -211,7 +226,7 @@
             "timestamp": 1742983420
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/1b3c3dc85ca930c890392f337919d198.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/1b3c3dc85ca930c890392f337919d198.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983420
         },
@@ -223,7 +238,7 @@
     },
     "stats": {
         "created_at": 1742983420,
-        "updated_at": 1743023389,
-        "updates": 4
+        "updated_at": 1749739351,
+        "updates": 6
     }
 }

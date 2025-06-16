@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Amoníaco con detergente Bosque Verde",
+            "value": "Amon\u00edaco con detergente Bosque Verde",
             "previous": [],
             "timestamp": 1742983472
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983472
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/43802/amoniaco-con-detergente-bosque-verde-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/43802\/amoniaco-con-detergente-bosque-verde-botella",
             "previous": [],
             "timestamp": 1742983472
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983472
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/c4eacf9a7912c98646cbbfb6d20e5104.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/c4eacf9a7912c98646cbbfb6d20e5104.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983472
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983472,
-        "updated_at": 1743023323,
-        "updates": 2
+        "updated_at": 1749739261,
+        "updates": 3
     }
 }

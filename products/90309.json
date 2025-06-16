@@ -37,9 +37,14 @@
             }
         ],
         "display_name": {
-            "value": "Antialgas líquido Bosque Verde para piscina",
-            "previous": [],
-            "timestamp": 1742983472
+            "value": "Alguicida sin espuma l\u00edquido Bosque Verde para piscina",
+            "previous": [
+                {
+                    "value": "Antialgas l\u00edquido Bosque Verde para piscina",
+                    "timestamp": 1742983472
+                }
+            ],
+            "timestamp": 1749739261
         },
         "id": {
             "value": "90309",
@@ -174,7 +179,7 @@
             "timestamp": 1742983472
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/90309/antialgas-liquido-bosque-verde-piscina-garrafa",
+            "value": "https:\/\/tienda.mercadona.es\/product\/90309\/antialgas-liquido-bosque-verde-piscina-garrafa",
             "previous": [],
             "timestamp": 1742983472
         },
@@ -189,9 +194,14 @@
             "timestamp": 1742983472
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/9d7742a313df42fcc3efd403914b5dab.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983472
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/7c6cbdf30d00b64e982382767a96f4ce.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/9d7742a313df42fcc3efd403914b5dab.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983472
+                }
+            ],
+            "timestamp": 1749739261
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +211,7 @@
     },
     "stats": {
         "created_at": 1742983472,
-        "updated_at": 1743023323,
-        "updates": 2
+        "updated_at": 1749739261,
+        "updates": 3
     }
 }

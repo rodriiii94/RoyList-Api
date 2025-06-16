@@ -20,7 +20,7 @@
                     "timestamp": 1742983336
                 },
                 "name": {
-                    "value": "Azúcar, caramelos y chocolate",
+                    "value": "Az\u00facar, caramelos y chocolate",
                     "previous": [],
                     "timestamp": 1742983336
                 },
@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Confitura de fresa Hacendado 0% azúcares añadidos",
+            "value": "Confitura de fresa Hacendado 0% az\u00facares a\u00f1adidos",
             "previous": [],
             "timestamp": 1742983336
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983336
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/15093/confitura-fresa-hacendado-0-azucares-anadidos-tarro",
+            "value": "https:\/\/tienda.mercadona.es\/product\/15093\/confitura-fresa-hacendado-0-azucares-anadidos-tarro",
             "previous": [],
             "timestamp": 1742983336
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983336
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/61d7e70d6c4f3ff537231caafc94d1aa.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/61d7e70d6c4f3ff537231caafc94d1aa.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983336
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983336,
-        "updated_at": 1743023166,
-        "updates": 2
+        "updated_at": 1749739054,
+        "updates": 3
     }
 }

@@ -37,9 +37,14 @@
             }
         ],
         "display_name": {
-            "value": "Povidona yodada 10% Cuidaplus",
-            "previous": [],
-            "timestamp": 1742983453
+            "value": "Povidona yodada 10% Deliplus",
+            "previous": [
+                {
+                    "value": "Povidona yodada 10% Cuidaplus",
+                    "timestamp": 1742983453
+                }
+            ],
+            "timestamp": 1749739229
         },
         "id": {
             "value": "35940",
@@ -88,14 +93,24 @@
                 "timestamp": 1742983453
             },
             "bulk_price": {
-                "value": "18.00",
-                "previous": [],
-                "timestamp": 1742983453
+                "value": "17.20",
+                "previous": [
+                    {
+                        "value": "18.00",
+                        "timestamp": 1742983453
+                    }
+                ],
+                "timestamp": 1749739229
             },
             "unit_price": {
-                "value": "2.25",
-                "previous": [],
-                "timestamp": 1742983453
+                "value": "2.15",
+                "previous": [
+                    {
+                        "value": "2.25",
+                        "timestamp": 1742983453
+                    }
+                ],
+                "timestamp": 1749739229
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +158,14 @@
                 "timestamp": 1742983453
             },
             "reference_price": {
-                "value": "1.800",
-                "previous": [],
-                "timestamp": 1742983453
+                "value": "1.720",
+                "previous": [
+                    {
+                        "value": "1.800",
+                        "timestamp": 1742983453
+                    }
+                ],
+                "timestamp": 1749739229
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +194,7 @@
             "timestamp": 1742983453
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/35940/povidona-yodada-10-cuidaplus-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/35940\/povidona-yodada-10-cuidaplus-botella",
             "previous": [],
             "timestamp": 1742983453
         },
@@ -189,9 +209,14 @@
             "timestamp": 1742983453
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/cdebad3737bd1f8ad07c56be78ec0807.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983453
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/3b343d40c2d5d63b04401d3e7ef19c5c.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/cdebad3737bd1f8ad07c56be78ec0807.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983453
+                }
+            ],
+            "timestamp": 1749739229
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +226,7 @@
     },
     "stats": {
         "created_at": 1742983453,
-        "updated_at": 1743023300,
-        "updates": 2
+        "updated_at": 1749739229,
+        "updates": 3
     }
 }

@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739026
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739026
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 18,
+                    "previous": [],
+                    "timestamp": 1749739026
+                },
+                "name": {
+                    "value": "Agua y refrescos",
+                    "previous": [],
+                    "timestamp": 1749739026
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739026
+                },
+                "order": {
+                    "value": 8,
+                    "previous": [],
+                    "timestamp": 1749739026
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Refresco fusi\u00f3n de frutas Hacendado cero sin gas",
+            "previous": [],
+            "timestamp": 1749739026
+        },
+        "id": {
+            "value": "13947",
+            "previous": [],
+            "timestamp": 1749739026
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739026
+        },
+        "packaging": {
+            "value": "Botella",
+            "previous": [],
+            "timestamp": 1749739026
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1749739026
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739026
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739026
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739026
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739026
+            },
+            "unit_size": {
+                "value": 1.5,
+                "previous": [],
+                "timestamp": 1749739026
+            },
+            "bulk_price": {
+                "value": "0.73",
+                "previous": [],
+                "timestamp": 1749739026
+            },
+            "unit_price": {
+                "value": "1.10",
+                "previous": [],
+                "timestamp": 1749739026
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739026
+            },
+            "size_format": {
+                "value": "l",
+                "previous": [],
+                "timestamp": 1749739026
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739026
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739026
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739026
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739026
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739026
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1749739026
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739026
+            },
+            "reference_price": {
+                "value": "0.734",
+                "previous": [],
+                "timestamp": 1749739026
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739026
+            },
+            "reference_format": {
+                "value": "L",
+                "previous": [],
+                "timestamp": 1749739026
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739026
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739026
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739026
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/13947\/refresco-fusion-frutas-hacendado-cero-sin-gas-botella",
+            "previous": [],
+            "timestamp": 1749739026
+        },
+        "slug": {
+            "value": "refresco-fusion-frutas-hacendado-cero-sin-gas-botella",
+            "previous": [],
+            "timestamp": 1749739026
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739026
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/daea61f7791036b4afe70b08fe475d46.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739026
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739026
+        }
+    },
+    "stats": {
+        "created_at": 1749739026,
+        "updated_at": 1749739026,
+        "updates": 1
+    }
+}

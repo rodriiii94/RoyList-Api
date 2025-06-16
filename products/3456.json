@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739097
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739097
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 3,
+                    "previous": [],
+                    "timestamp": 1749739097
+                },
+                "name": {
+                    "value": "Carne",
+                    "previous": [],
+                    "timestamp": 1749739097
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739097
+                },
+                "order": {
+                    "value": 17,
+                    "previous": [],
+                    "timestamp": 1749739097
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Pinchos de pollo sin varilla adobados",
+            "previous": [],
+            "timestamp": 1749739097
+        },
+        "id": {
+            "value": "3456",
+            "previous": [],
+            "timestamp": 1749739097
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739097
+        },
+        "packaging": {
+            "value": "Bandeja",
+            "previous": [],
+            "timestamp": 1749739097
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1749739097
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739097
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739097
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739097
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739097
+            },
+            "unit_size": {
+                "value": 0.5,
+                "previous": [],
+                "timestamp": 1749739097
+            },
+            "bulk_price": {
+                "value": "8.60",
+                "previous": [],
+                "timestamp": 1749739097
+            },
+            "unit_price": {
+                "value": "4.30",
+                "previous": [],
+                "timestamp": 1749739097
+            },
+            "approx_size": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739097
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1749739097
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739097
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739097
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739097
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739097
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739097
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1749739097
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739097
+            },
+            "reference_price": {
+                "value": "8.600",
+                "previous": [],
+                "timestamp": 1749739097
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739097
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1749739097
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739097
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739097
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739097
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/3456\/pinchos-pollo-sin-varilla-adobados-bandeja",
+            "previous": [],
+            "timestamp": 1749739097
+        },
+        "slug": {
+            "value": "pinchos-pollo-sin-varilla-adobados-bandeja",
+            "previous": [],
+            "timestamp": 1749739097
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739097
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/71bad8fff8df42f0ad8d005204ab6cc8.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739097
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739097
+        }
+    },
+    "stats": {
+        "created_at": 1749739097,
+        "updated_at": 1749739111,
+        "updates": 2
+    }
+}

@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Zumo de manzana selección Hacendado",
+            "value": "Zumo de manzana selecci\u00f3n Hacendado",
             "previous": [],
             "timestamp": 1742983557
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983557
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/39922/zumo-manzana-seleccion-hacendado-brick",
+            "value": "https:\/\/tienda.mercadona.es\/product\/39922\/zumo-manzana-seleccion-hacendado-brick",
             "previous": [],
             "timestamp": 1742983557
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983557
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/544904027f7b2408bf25b4d47fcfe4a5.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/544904027f7b2408bf25b4d47fcfe4a5.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983557
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983557,
-        "updated_at": 1743023410,
-        "updates": 2
+        "updated_at": 1749739377,
+        "updates": 3
     }
 }

@@ -20,7 +20,7 @@
                     "timestamp": 1742983339
                 },
                 "name": {
-                    "value": "Bebé",
+                    "value": "Beb\u00e9",
                     "previous": [],
                     "timestamp": 1742983339
                 },
@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Biberón 150 ml tetina silicona flujo lento Deliplus +0 meses",
+            "value": "Biber\u00f3n 150 ml tetina silicona flujo lento Deliplus +0 meses",
             "previous": [],
             "timestamp": 1742983339
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983339
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/79715/biberon-150-ml-tetina-silicona-flujo-lento-0-meses-deliplus",
+            "value": "https:\/\/tienda.mercadona.es\/product\/79715\/biberon-150-ml-tetina-silicona-flujo-lento-0-meses-deliplus",
             "previous": [],
             "timestamp": 1742983339
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983339
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/c0efe2f357bd88b60884787a35e09efe.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/c0efe2f357bd88b60884787a35e09efe.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983339
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983339,
-        "updated_at": 1743023169,
-        "updates": 2
+        "updated_at": 1749739058,
+        "updates": 3
     }
 }

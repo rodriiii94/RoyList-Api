@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Esponja de baño flor Deliplus exfoliación suave",
+            "value": "Esponja de ba\u00f1o flor Deliplus exfoliaci\u00f3n suave",
             "previous": [],
             "timestamp": 1742983440
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983440
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/13654/esponja-bano-flor-deliplus-exfoliacion-suave-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/13654\/esponja-bano-flor-deliplus-exfoliacion-suave-paquete",
             "previous": [],
             "timestamp": 1742983440
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983440
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/c0bb211b0287c77636ef39993cf5de7a.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/c0bb211b0287c77636ef39993cf5de7a.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983440
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983440,
-        "updated_at": 1743023286,
-        "updates": 2
+        "updated_at": 1749739208,
+        "updates": 3
     }
 }

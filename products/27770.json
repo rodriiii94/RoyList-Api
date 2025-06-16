@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Refresco lima limón 7 Up",
+            "value": "Refresco lima lim\u00f3n 7 Up",
             "previous": [],
             "timestamp": 1742983315
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983315
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/27770/refresco-lima-limon-7-up-lata",
+            "value": "https:\/\/tienda.mercadona.es\/product\/27770\/refresco-lima-limon-7-up-lata",
             "previous": [],
             "timestamp": 1742983315
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983315
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/7841b1a239ad7534c899e0764ce3cd4c.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983315
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/2903b5c57d56ef18fdf90bac331e9f04.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/7841b1a239ad7534c899e0764ce3cd4c.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983315
+                }
+            ],
+            "timestamp": 1749739021
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983315,
-        "updated_at": 1743023141,
-        "updates": 2
+        "updated_at": 1749739021,
+        "updates": 3
     }
 }

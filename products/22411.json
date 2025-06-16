@@ -174,7 +174,7 @@
             "timestamp": 1742983418
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/22411/verduras-asadas-hacendado-bandeja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/22411\/verduras-asadas-hacendado-bandeja",
             "previous": [],
             "timestamp": 1742983418
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983418
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/e488b11c411286a0b60b77a0d96d04f4.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/e488b11c411286a0b60b77a0d96d04f4.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983418
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983418,
-        "updated_at": 1743023259,
-        "updates": 2
+        "updated_at": 1749739170,
+        "updates": 3
     }
 }

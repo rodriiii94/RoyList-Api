@@ -20,7 +20,7 @@
                     "timestamp": 1742983332
                 },
                 "name": {
-                    "value": "Azúcar, caramelos y chocolate",
+                    "value": "Az\u00facar, caramelos y chocolate",
                     "previous": [],
                     "timestamp": 1742983332
                 },
@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Barritas de barquillo Kit-Kat bañadas de chocolate con leche",
+            "value": "Barritas de barquillo Kit-Kat ba\u00f1adas de chocolate con leche",
             "previous": [],
             "timestamp": 1742983332
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983332
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/12510/barritas-barquillo-kit-kat-banadas-chocolate-con-leche-nestle-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/12510\/barritas-barquillo-kit-kat-banadas-chocolate-con-leche-nestle-paquete",
             "previous": [],
             "timestamp": 1742983332
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983332
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/8f8c9d4b59532f704489180a28e80143.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983332
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/15bf9d65aa31c0f42854d23605803b22.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/8f8c9d4b59532f704489180a28e80143.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983332
+                }
+            ],
+            "timestamp": 1749739049
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983332,
-        "updated_at": 1743023162,
-        "updates": 2
+        "updated_at": 1749739049,
+        "updates": 3
     }
 }

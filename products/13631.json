@@ -20,7 +20,7 @@
                     "timestamp": 1742983524
                 },
                 "name": {
-                    "value": "Panadería y pastelería",
+                    "value": "Panader\u00eda y pasteler\u00eda",
                     "previous": [],
                     "timestamp": 1742983524
                 },
@@ -174,7 +174,7 @@
             "timestamp": 1742983524
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/13631/picos-saladitos-hacendado-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/13631\/picos-saladitos-hacendado-paquete",
             "previous": [],
             "timestamp": 1742983524
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983524
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/8c7a4edac6f9b2c4542585553eb7e15a.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/8c7a4edac6f9b2c4542585553eb7e15a.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983524
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983524,
-        "updated_at": 1743023378,
-        "updates": 2
+        "updated_at": 1749739335,
+        "updates": 3
     }
 }

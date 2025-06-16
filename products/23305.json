@@ -83,9 +83,14 @@
                 "timestamp": 1742983369
             },
             "unit_size": {
-                "value": 0.29,
-                "previous": [],
-                "timestamp": 1742983369
+                "value": 0.4,
+                "previous": [
+                    {
+                        "value": 0.29,
+                        "timestamp": 1742983369
+                    }
+                ],
+                "timestamp": 1749739100
             },
             "bulk_price": {
                 "value": "9.40",
@@ -93,9 +98,14 @@
                 "timestamp": 1742983369
             },
             "unit_price": {
-                "value": "2.73",
-                "previous": [],
-                "timestamp": 1742983369
+                "value": "3.76",
+                "previous": [
+                    {
+                        "value": "2.73",
+                        "timestamp": 1742983369
+                    }
+                ],
+                "timestamp": 1749739100
             },
             "approx_size": {
                 "value": true,
@@ -174,7 +184,7 @@
             "timestamp": 1742983369
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/23305/chuletas-cerdo-sajonia-bandeja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/23305\/chuletas-cerdo-sajonia-bandeja",
             "previous": [],
             "timestamp": 1742983369
         },
@@ -189,7 +199,7 @@
             "timestamp": 1742983369
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/8828913f781a3bd73ab785a4a572743c.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/8828913f781a3bd73ab785a4a572743c.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983369
         },
@@ -201,7 +211,7 @@
     },
     "stats": {
         "created_at": 1742983369,
-        "updated_at": 1743023213,
-        "updates": 4
+        "updated_at": 1749739111,
+        "updates": 6
     }
 }

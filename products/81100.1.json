@@ -88,14 +88,24 @@
                 "timestamp": 1742983505
             },
             "bulk_price": {
-                "value": "6.95",
-                "previous": [],
-                "timestamp": 1742983505
+                "value": "5.95",
+                "previous": [
+                    {
+                        "value": "6.95",
+                        "timestamp": 1742983505
+                    }
+                ],
+                "timestamp": 1749739308
             },
             "unit_price": {
-                "value": "1.39",
-                "previous": [],
-                "timestamp": 1742983505
+                "value": "1.19",
+                "previous": [
+                    {
+                        "value": "1.39",
+                        "timestamp": 1742983505
+                    }
+                ],
+                "timestamp": 1749739308
             },
             "approx_size": {
                 "value": true,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983505
             },
             "reference_price": {
-                "value": "6.950",
-                "previous": [],
-                "timestamp": 1742983505
+                "value": "5.950",
+                "previous": [
+                    {
+                        "value": "6.950",
+                        "timestamp": 1742983505
+                    }
+                ],
+                "timestamp": 1749739308
             },
             "min_bunch_amount": {
                 "value": 0.2,
@@ -174,7 +189,7 @@
             "timestamp": 1742983505
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/81100.1/sardina-sin-limpiar-granel",
+            "value": "https:\/\/tienda.mercadona.es\/product\/81100.1\/sardina-sin-limpiar-granel",
             "previous": [],
             "timestamp": 1742983505
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983505
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/5b92b803a7932c1cd2ece3e80d11a853.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/5b92b803a7932c1cd2ece3e80d11a853.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983505
         },
@@ -208,7 +223,7 @@
     },
     "stats": {
         "created_at": 1742983505,
-        "updated_at": 1743023357,
-        "updates": 2
+        "updated_at": 1749739308,
+        "updates": 3
     }
 }

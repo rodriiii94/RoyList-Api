@@ -20,7 +20,7 @@
                     "timestamp": 1742983394
                 },
                 "name": {
-                    "value": "Charcutería y quesos",
+                    "value": "Charcuter\u00eda y quesos",
                     "previous": [],
                     "timestamp": 1742983394
                 },
@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Queso madurado de cabra con pimentón de la Vera Villa Noble",
+            "value": "Queso madurado de cabra con piment\u00f3n de la Vera Villa Noble",
             "previous": [],
             "timestamp": 1742983394
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983394
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/50196/queso-madurado-cabra-con-pimenton-vera-villa-noble-pieza",
+            "value": "https:\/\/tienda.mercadona.es\/product\/50196\/queso-madurado-cabra-con-pimenton-vera-villa-noble-pieza",
             "previous": [],
             "timestamp": 1742983394
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983394
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/21536394335a726ceed6ee1075cf202d.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/21536394335a726ceed6ee1075cf202d.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983394
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983394,
-        "updated_at": 1743023232,
-        "updates": 2
+        "updated_at": 1749739135,
+        "updates": 3
     }
 }

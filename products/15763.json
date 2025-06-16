@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Agua mineral pequeña Fuente Dehesa",
+            "value": "Agua mineral peque\u00f1a Fuente Dehesa",
             "previous": [],
             "timestamp": 1742983311
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983311
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/15763/agua-mineral-pequena-fuente-dehesa-mineralizacion-muy-debil-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/15763\/agua-mineral-pequena-fuente-dehesa-mineralizacion-muy-debil-botella",
             "previous": [],
             "timestamp": 1742983311
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983311
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/065956f3681a6666f9443b94d8ca47f3.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983311
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/00eb152af93662d4f569661eeb440e5a.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/065956f3681a6666f9443b94d8ca47f3.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983311
+                }
+            ],
+            "timestamp": 1749739013
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983311,
-        "updated_at": 1743023135,
-        "updates": 2
+        "updated_at": 1749739013,
+        "updates": 3
     }
 }

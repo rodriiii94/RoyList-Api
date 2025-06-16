@@ -174,7 +174,7 @@
             "timestamp": 1742983497
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/67722/perfilador-cejas-micro-deliplus-02-oscuro-con-cepillo",
+            "value": "https:\/\/tienda.mercadona.es\/product\/67722\/perfilador-cejas-micro-deliplus-02-oscuro-con-cepillo",
             "previous": [],
             "timestamp": 1742983497
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983497
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/c91ed3f59db927e6d38ffca569848f18.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/c91ed3f59db927e6d38ffca569848f18.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983497
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983497,
-        "updated_at": 1743023349,
-        "updates": 2
+        "updated_at": 1749739295,
+        "updates": 3
     }
 }

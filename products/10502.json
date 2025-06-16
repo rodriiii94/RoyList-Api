@@ -88,14 +88,24 @@
                 "timestamp": 1742983462
             },
             "bulk_price": {
-                "value": "1.15",
-                "previous": [],
-                "timestamp": 1742983462
+                "value": "1.21",
+                "previous": [
+                    {
+                        "value": "1.15",
+                        "timestamp": 1742983462
+                    }
+                ],
+                "timestamp": 1749739244
             },
             "unit_price": {
-                "value": "1.72",
-                "previous": [],
-                "timestamp": 1742983462
+                "value": "1.82",
+                "previous": [
+                    {
+                        "value": "1.72",
+                        "timestamp": 1742983462
+                    }
+                ],
+                "timestamp": 1749739244
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983462
             },
             "reference_price": {
-                "value": "1.147",
-                "previous": [],
-                "timestamp": 1742983462
+                "value": "1.214",
+                "previous": [
+                    {
+                        "value": "1.147",
+                        "timestamp": 1742983462
+                    }
+                ],
+                "timestamp": 1749739244
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -158,9 +173,14 @@
                 "timestamp": 1742983462
             },
             "previous_unit_price": {
-                "value": "        1.82",
-                "previous": [],
-                "timestamp": 1742983462
+                "value": null,
+                "previous": [
+                    {
+                        "value": "        1.82",
+                        "timestamp": 1742983462
+                    }
+                ],
+                "timestamp": 1749739244
             },
             "increment_bunch_amount": {
                 "value": 1,
@@ -174,7 +194,7 @@
             "timestamp": 1742983462
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/10502/leche-semidesnatada-asturiana-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/10502\/leche-semidesnatada-asturiana-botella",
             "previous": [],
             "timestamp": 1742983462
         },
@@ -189,7 +209,7 @@
             "timestamp": 1742983462
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/350ab7c50cb69a8cf9f8504f3d9ed01f.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/350ab7c50cb69a8cf9f8504f3d9ed01f.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983462
         },
@@ -201,7 +221,7 @@
     },
     "stats": {
         "created_at": 1742983462,
-        "updated_at": 1743023311,
-        "updates": 2
+        "updated_at": 1749739244,
+        "updates": 3
     }
 }

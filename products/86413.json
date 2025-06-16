@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Coloración permanente 5.5 caoba Deliplus 0% amoníaco",
+            "value": "Coloraci\u00f3n permanente 5.5 caoba Deliplus 0% amon\u00edaco",
             "previous": [],
             "timestamp": 1742983428
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983428
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/86413/coloracion-permanente-55-caoba-deliplus-0-amoniaco-colorcor-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/86413\/coloracion-permanente-55-caoba-deliplus-0-amoniaco-colorcor-caja",
             "previous": [],
             "timestamp": 1742983428
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983428
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/0d067564ab5a82c69b66cdcbe295ec39.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/0d067564ab5a82c69b66cdcbe295ec39.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983428
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983428,
-        "updated_at": 1743023270,
-        "updates": 2
+        "updated_at": 1749739186,
+        "updates": 3
     }
 }

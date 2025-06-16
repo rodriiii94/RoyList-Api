@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Tacos de vacuno añojo para guisar",
+            "value": "Tacos de vacuno a\u00f1ojo para guisar",
             "previous": [],
             "timestamp": 1742983376
         },
@@ -83,19 +83,34 @@
                 "timestamp": 1742983376
             },
             "unit_size": {
-                "value": 0.6,
-                "previous": [],
-                "timestamp": 1742983376
+                "value": 0.52,
+                "previous": [
+                    {
+                        "value": 0.6,
+                        "timestamp": 1742983376
+                    }
+                ],
+                "timestamp": 1749739108
             },
             "bulk_price": {
-                "value": "15.00",
-                "previous": [],
-                "timestamp": 1742983376
+                "value": "15.70",
+                "previous": [
+                    {
+                        "value": "15.00",
+                        "timestamp": 1742983376
+                    }
+                ],
+                "timestamp": 1749739108
             },
             "unit_price": {
-                "value": "9.00",
-                "previous": [],
-                "timestamp": 1742983376
+                "value": "8.16",
+                "previous": [
+                    {
+                        "value": "9.00",
+                        "timestamp": 1742983376
+                    }
+                ],
+                "timestamp": 1749739108
             },
             "approx_size": {
                 "value": true,
@@ -143,9 +158,14 @@
                 "timestamp": 1742983376
             },
             "reference_price": {
-                "value": "15.000",
-                "previous": [],
-                "timestamp": 1742983376
+                "value": "15.700",
+                "previous": [
+                    {
+                        "value": "15.000",
+                        "timestamp": 1742983376
+                    }
+                ],
+                "timestamp": 1749739108
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +194,7 @@
             "timestamp": 1742983376
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/2807/tacos-vacuno-anojo-guisar-bandeja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/2807\/tacos-vacuno-anojo-guisar-bandeja",
             "previous": [],
             "timestamp": 1742983376
         },
@@ -189,9 +209,14 @@
             "timestamp": 1742983376
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/d7b9aec1221d13b9bd3787fe734a5b27.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983376
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/b07705d82e35cac25a4f547261841a88.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/d7b9aec1221d13b9bd3787fe734a5b27.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983376
+                }
+            ],
+            "timestamp": 1749739108
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +226,7 @@
     },
     "stats": {
         "created_at": 1742983376,
-        "updated_at": 1743023211,
-        "updates": 2
+        "updated_at": 1749739108,
+        "updates": 3
     }
 }

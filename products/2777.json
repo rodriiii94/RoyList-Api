@@ -83,19 +83,34 @@
                 "timestamp": 1742983366
             },
             "unit_size": {
-                "value": 0.9,
-                "previous": [],
-                "timestamp": 1742983366
+                "value": 0.79,
+                "previous": [
+                    {
+                        "value": 0.9,
+                        "timestamp": 1742983366
+                    }
+                ],
+                "timestamp": 1749739096
             },
             "bulk_price": {
-                "value": "3.90",
-                "previous": [],
-                "timestamp": 1742983366
+                "value": "4.20",
+                "previous": [
+                    {
+                        "value": "3.90",
+                        "timestamp": 1742983366
+                    }
+                ],
+                "timestamp": 1749739096
             },
             "unit_price": {
-                "value": "3.51",
-                "previous": [],
-                "timestamp": 1742983366
+                "value": "3.32",
+                "previous": [
+                    {
+                        "value": "3.51",
+                        "timestamp": 1742983366
+                    }
+                ],
+                "timestamp": 1749739096
             },
             "approx_size": {
                 "value": true,
@@ -143,9 +158,14 @@
                 "timestamp": 1742983366
             },
             "reference_price": {
-                "value": "3.900",
-                "previous": [],
-                "timestamp": 1742983366
+                "value": "4.200",
+                "previous": [
+                    {
+                        "value": "3.900",
+                        "timestamp": 1742983366
+                    }
+                ],
+                "timestamp": 1749739096
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +194,7 @@
             "timestamp": 1742983366
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/2777/contramuslos-pollo-sin-piel-bandeja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/2777\/contramuslos-pollo-sin-piel-bandeja",
             "previous": [],
             "timestamp": 1742983366
         },
@@ -189,7 +209,7 @@
             "timestamp": 1742983366
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/0ff964dbdc5090063eff72f9658e7fd6.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/0ff964dbdc5090063eff72f9658e7fd6.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983366
         },
@@ -201,7 +221,7 @@
     },
     "stats": {
         "created_at": 1742983366,
-        "updated_at": 1743023201,
-        "updates": 2
+        "updated_at": 1749739096,
+        "updates": 3
     }
 }

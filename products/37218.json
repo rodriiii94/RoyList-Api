@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Vino blanco D.O Rueda Abadía Mantrús Sauvignon Blanc",
+            "value": "Vino blanco D.O Rueda Abad\u00eda Mantr\u00fas Sauvignon Blanc",
             "previous": [],
             "timestamp": 1742983351
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983351
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/37218/vino-blanco-do-rueda-abadia-mantrus-sauvignon-blanc-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/37218\/vino-blanco-do-rueda-abadia-mantrus-sauvignon-blanc-botella",
             "previous": [],
             "timestamp": 1742983351
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983351
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/130142031dd45ce65328a1bb2209d9ae.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/130142031dd45ce65328a1bb2209d9ae.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983351
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983351,
-        "updated_at": 1743023184,
-        "updates": 2
+        "updated_at": 1749739076,
+        "updates": 3
     }
 }

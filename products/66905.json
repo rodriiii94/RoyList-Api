@@ -196,7 +196,7 @@
             "timestamp": 1742983305
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/66905/bebida-aromatizada-base-vino-cocinar-abuela-carola-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/66905\/bebida-aromatizada-base-vino-cocinar-abuela-carola-botella",
             "previous": [],
             "timestamp": 1742983305
         },
@@ -211,7 +211,7 @@
             "timestamp": 1742983305
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/bbee83a931fd33117064e444144d1902.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/bbee83a931fd33117064e444144d1902.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983305
         },
@@ -223,7 +223,7 @@
     },
     "stats": {
         "created_at": 1742983305,
-        "updated_at": 1743023184,
-        "updates": 4
+        "updated_at": 1749739075,
+        "updates": 6
     }
 }

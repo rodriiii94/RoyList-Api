@@ -59,7 +59,7 @@
             }
         ],
         "display_name": {
-            "value": "Pizza atún Hacendado ultracongelada",
+            "value": "Pizza at\u00fan Hacendado ultracongelada",
             "previous": [],
             "timestamp": 1742983408
         },
@@ -196,7 +196,7 @@
             "timestamp": 1742983408
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/63501/pizza-atun-hacendado-ultracongelada",
+            "value": "https:\/\/tienda.mercadona.es\/product\/63501\/pizza-atun-hacendado-ultracongelada",
             "previous": [],
             "timestamp": 1742983408
         },
@@ -211,7 +211,7 @@
             "timestamp": 1742983408
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/b7e351ba9d3dc60008e81ed5bc110f4f.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/b7e351ba9d3dc60008e81ed5bc110f4f.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983408
         },
@@ -223,7 +223,7 @@
     },
     "stats": {
         "created_at": 1742983408,
-        "updated_at": 1743023385,
-        "updates": 4
+        "updated_at": 1749739345,
+        "updates": 6
     }
 }

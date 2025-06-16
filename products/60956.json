@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Pudding sabor caramelo +Proteínas Hacendado 12 g proteínas",
+            "value": "Pudding sabor caramelo +Prote\u00ednas Hacendado 12 g prote\u00ednas",
             "previous": [],
             "timestamp": 1742983541
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983541
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/60956/pudding-sabor-caramelo-proteinas-hacendado-12-g-proteinas-pack-4",
+            "value": "https:\/\/tienda.mercadona.es\/product\/60956\/pudding-sabor-caramelo-proteinas-hacendado-12-g-proteinas-pack-4",
             "previous": [],
             "timestamp": 1742983541
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983541
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/064bdb935a1bd8984eb78cc67b9a3688.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/064bdb935a1bd8984eb78cc67b9a3688.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983541
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983541,
-        "updated_at": 1743023394,
-        "updates": 2
+        "updated_at": 1749739358,
+        "updates": 3
     }
 }

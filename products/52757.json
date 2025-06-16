@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739170
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739170
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 14,
+                    "previous": [],
+                    "timestamp": 1749739170
+                },
+                "name": {
+                    "value": "Conservas, caldos y cremas",
+                    "previous": [],
+                    "timestamp": 1749739170
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739170
+                },
+                "order": {
+                    "value": 215,
+                    "previous": [],
+                    "timestamp": 1749739170
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Corazones de alcachofa Hacendado",
+            "previous": [],
+            "timestamp": 1749739170
+        },
+        "id": {
+            "value": "52757",
+            "previous": [],
+            "timestamp": 1749739170
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739170
+        },
+        "packaging": {
+            "value": "Bandeja",
+            "previous": [],
+            "timestamp": 1749739170
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1749739170
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739170
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739170
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739170
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739170
+            },
+            "unit_size": {
+                "value": 0.26,
+                "previous": [],
+                "timestamp": 1749739170
+            },
+            "bulk_price": {
+                "value": "11.54",
+                "previous": [],
+                "timestamp": 1749739170
+            },
+            "unit_price": {
+                "value": "3.00",
+                "previous": [],
+                "timestamp": 1749739170
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739170
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1749739170
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739170
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739170
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739170
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739170
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739170
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1749739170
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739170
+            },
+            "reference_price": {
+                "value": "11.539",
+                "previous": [],
+                "timestamp": 1749739170
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739170
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1749739170
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739170
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739170
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739170
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/52757\/corazones-alcachofa-hacendado-con-aceite-bandeja",
+            "previous": [],
+            "timestamp": 1749739170
+        },
+        "slug": {
+            "value": "corazones-alcachofa-hacendado-con-aceite-bandeja",
+            "previous": [],
+            "timestamp": 1749739170
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739170
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/a9be5787d69a5be109eb6eb1d1327042.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739170
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739170
+        }
+    },
+    "stats": {
+        "created_at": 1749739170,
+        "updated_at": 1749739170,
+        "updates": 1
+    }
+}

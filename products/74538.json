@@ -174,7 +174,7 @@
             "timestamp": 1742983448
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/74538/eau-toilette-mujer-960-sport-water-frasco",
+            "value": "https:\/\/tienda.mercadona.es\/product\/74538\/eau-toilette-mujer-960-sport-water-frasco",
             "previous": [],
             "timestamp": 1742983448
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983448
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/ca51be62080d61db19f04f42b1fc5ca7.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/ca51be62080d61db19f04f42b1fc5ca7.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983448
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983448,
-        "updated_at": 1743023294,
-        "updates": 2
+        "updated_at": 1749739219,
+        "updates": 3
     }
 }

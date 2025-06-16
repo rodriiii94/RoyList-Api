@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Limpiamáquinas lavavajillas Finish líquido",
+            "value": "Limpiam\u00e1quinas lavavajillas Finish l\u00edquido",
             "previous": [],
             "timestamp": 1742983482
         },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983482
             },
             "bulk_price": {
-                "value": "11.80",
-                "previous": [],
-                "timestamp": 1742983482
+                "value": "15.00",
+                "previous": [
+                    {
+                        "value": "11.80",
+                        "timestamp": 1742983482
+                    }
+                ],
+                "timestamp": 1749739274
             },
             "unit_price": {
-                "value": "2.95",
-                "previous": [],
-                "timestamp": 1742983482
+                "value": "3.75",
+                "previous": [
+                    {
+                        "value": "2.95",
+                        "timestamp": 1742983482
+                    }
+                ],
+                "timestamp": 1749739274
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983482
             },
             "reference_price": {
-                "value": "11.800",
-                "previous": [],
-                "timestamp": 1742983482
+                "value": "15.000",
+                "previous": [
+                    {
+                        "value": "11.800",
+                        "timestamp": 1742983482
+                    }
+                ],
+                "timestamp": 1749739274
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -158,9 +173,14 @@
                 "timestamp": 1742983482
             },
             "previous_unit_price": {
-                "value": "        3.75",
-                "previous": [],
-                "timestamp": 1742983482
+                "value": null,
+                "previous": [
+                    {
+                        "value": "        3.75",
+                        "timestamp": 1742983482
+                    }
+                ],
+                "timestamp": 1749739274
             },
             "increment_bunch_amount": {
                 "value": 1,
@@ -174,7 +194,7 @@
             "timestamp": 1742983482
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/42371/limpiamaquinas-lavavajillas-finish-liquido-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/42371\/limpiamaquinas-lavavajillas-finish-liquido-botella",
             "previous": [],
             "timestamp": 1742983482
         },
@@ -189,7 +209,7 @@
             "timestamp": 1742983482
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/8342b5b29b6a4ad09c4aeed01883a0fe.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/8342b5b29b6a4ad09c4aeed01883a0fe.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983482
         },
@@ -201,7 +221,7 @@
     },
     "stats": {
         "created_at": 1742983482,
-        "updated_at": 1743023333,
-        "updates": 2
+        "updated_at": 1749739274,
+        "updates": 3
     }
 }

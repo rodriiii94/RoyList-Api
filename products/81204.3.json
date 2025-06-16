@@ -52,7 +52,7 @@
             "timestamp": 1742983505
         },
         "packaging": {
-            "value": "1/2 Pieza",
+            "value": "1\/2 Pieza",
             "previous": [],
             "timestamp": 1742983505
         },
@@ -83,29 +83,42 @@
                 "timestamp": 1742983505
             },
             "unit_size": {
-                "value": 1.09,
-                "previous": [],
-                "timestamp": 1742983505
+                "value": 1.23,
+                "previous": [
+                    {
+                        "value": 1.09,
+                        "timestamp": 1742983505
+                    }
+                ],
+                "timestamp": 1749739307
             },
             "bulk_price": {
-                "value": "9.95",
+                "value": "10.95",
                 "previous": [
                     {
                         "value": "8.95",
                         "timestamp": 1742983505
+                    },
+                    {
+                        "value": "9.95",
+                        "timestamp": 1743023357
                     }
                 ],
-                "timestamp": 1743023357
+                "timestamp": 1749739307
             },
             "unit_price": {
-                "value": "10.85",
+                "value": "13.47",
                 "previous": [
                     {
                         "value": "9.76",
                         "timestamp": 1742983505
+                    },
+                    {
+                        "value": "10.85",
+                        "timestamp": 1743023357
                     }
                 ],
-                "timestamp": 1743023357
+                "timestamp": 1749739307
             },
             "approx_size": {
                 "value": true,
@@ -153,14 +166,18 @@
                 "timestamp": 1742983505
             },
             "reference_price": {
-                "value": "9.950",
+                "value": "10.950",
                 "previous": [
                     {
                         "value": "8.950",
                         "timestamp": 1742983505
+                    },
+                    {
+                        "value": "9.950",
+                        "timestamp": 1743023357
                     }
                 ],
-                "timestamp": 1743023357
+                "timestamp": 1749739307
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -189,7 +206,7 @@
             "timestamp": 1742983505
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/81204.3/bacalao-media-pieza-rodajas-12-pieza",
+            "value": "https:\/\/tienda.mercadona.es\/product\/81204.3\/bacalao-media-pieza-rodajas-12-pieza",
             "previous": [],
             "timestamp": 1742983505
         },
@@ -204,7 +221,7 @@
             "timestamp": 1742983505
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/88a3161d919a5e1282cc5b82fd00ca26.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/88a3161d919a5e1282cc5b82fd00ca26.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983505
         },
@@ -216,7 +233,7 @@
     },
     "stats": {
         "created_at": 1742983505,
-        "updated_at": 1743023357,
-        "updates": 2
+        "updated_at": 1749739307,
+        "updates": 3
     }
 }

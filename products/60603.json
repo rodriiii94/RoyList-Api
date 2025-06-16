@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Bebida energética Zero Furious Energy drink",
+            "value": "Bebida energ\u00e9tica Zero Furious Energy drink",
             "previous": [],
             "timestamp": 1742983312
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983312
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/60603/bebida-energetica-zero-furious-energy-drink-lata",
+            "value": "https:\/\/tienda.mercadona.es\/product\/60603\/bebida-energetica-zero-furious-energy-drink-lata",
             "previous": [],
             "timestamp": 1742983312
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983312
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/adac4f68a1478d7fea298474d930cc61.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983312
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/1c829695d5b03f125a66d595849ab446.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/adac4f68a1478d7fea298474d930cc61.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983312
+                }
+            ],
+            "timestamp": 1749739017
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983312,
-        "updated_at": 1743023137,
-        "updates": 2
+        "updated_at": 1749739017,
+        "updates": 3
     }
 }

@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739198
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739198
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 20,
+                    "previous": [],
+                    "timestamp": 1749739198
+                },
+                "name": {
+                    "value": "Cuidado facial y corporal",
+                    "previous": [],
+                    "timestamp": 1749739198
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739198
+                },
+                "order": {
+                    "value": 241,
+                    "previous": [],
+                    "timestamp": 1749739198
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Mascarilla facial infantil Cat Mask Deliplus con cereza y manzana",
+            "previous": [],
+            "timestamp": 1749739198
+        },
+        "id": {
+            "value": "13060",
+            "previous": [],
+            "timestamp": 1749739198
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739198
+        },
+        "packaging": {
+            "value": "Paquete",
+            "previous": [],
+            "timestamp": 1749739198
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1749739198
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739198
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739198
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739198
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739198
+            },
+            "unit_size": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739198
+            },
+            "bulk_price": {
+                "value": "2.00",
+                "previous": [],
+                "timestamp": 1749739198
+            },
+            "unit_price": {
+                "value": "2.00",
+                "previous": [],
+                "timestamp": 1749739198
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739198
+            },
+            "size_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1749739198
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739198
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739198
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739198
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739198
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739198
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1749739198
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739198
+            },
+            "reference_price": {
+                "value": "2.000",
+                "previous": [],
+                "timestamp": 1749739198
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739198
+            },
+            "reference_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1749739198
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739198
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739198
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739198
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/13060\/mascarilla-facial-infantil-cat-mask-deliplus-con-cereza-manzana-paquete",
+            "previous": [],
+            "timestamp": 1749739198
+        },
+        "slug": {
+            "value": "mascarilla-facial-infantil-cat-mask-deliplus-con-cereza-manzana-paquete",
+            "previous": [],
+            "timestamp": 1749739198
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739198
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/27b3399af980857924f0705419b64b98.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739198
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739198
+        }
+    },
+    "stats": {
+        "created_at": 1749739198,
+        "updated_at": 1749739198,
+        "updates": 1
+    }
+}

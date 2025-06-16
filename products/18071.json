@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Atún claro en aceite de oliva Hacendado",
+            "value": "At\u00fan claro en aceite de oliva Hacendado",
             "previous": [],
             "timestamp": 1742983415
         },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983415
             },
             "bulk_price": {
-                "value": "14.41",
-                "previous": [],
-                "timestamp": 1742983415
+                "value": "13.96",
+                "previous": [
+                    {
+                        "value": "14.41",
+                        "timestamp": 1742983415
+                    }
+                ],
+                "timestamp": 1749739166
             },
             "unit_price": {
-                "value": "1.60",
-                "previous": [],
-                "timestamp": 1742983415
+                "value": "1.55",
+                "previous": [
+                    {
+                        "value": "1.60",
+                        "timestamp": 1742983415
+                    }
+                ],
+                "timestamp": 1749739166
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983415
             },
             "reference_price": {
-                "value": "19.513",
-                "previous": [],
-                "timestamp": 1742983415
+                "value": "18.903",
+                "previous": [
+                    {
+                        "value": "19.513",
+                        "timestamp": 1742983415
+                    }
+                ],
+                "timestamp": 1749739166
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983415
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/18071/atun-claro-aceite-oliva-hacendado-lata",
+            "value": "https:\/\/tienda.mercadona.es\/product\/18071\/atun-claro-aceite-oliva-hacendado-lata",
             "previous": [],
             "timestamp": 1742983415
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983415
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/ff946d98e9578c45513cbf77bbf4127d.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/ff946d98e9578c45513cbf77bbf4127d.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983415
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983415,
-        "updated_at": 1743023255,
-        "updates": 2
+        "updated_at": 1749739166,
+        "updates": 3
     }
 }

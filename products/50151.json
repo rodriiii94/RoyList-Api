@@ -20,7 +20,7 @@
                     "timestamp": 1742983396
                 },
                 "name": {
-                    "value": "Charcutería y quesos",
+                    "value": "Charcuter\u00eda y quesos",
                     "previous": [],
                     "timestamp": 1742983396
                 },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983396
             },
             "bulk_price": {
-                "value": "14.19",
-                "previous": [],
-                "timestamp": 1742983396
+                "value": "13.75",
+                "previous": [
+                    {
+                        "value": "14.19",
+                        "timestamp": 1742983396
+                    }
+                ],
+                "timestamp": 1749739138
             },
             "unit_price": {
-                "value": "2.98",
-                "previous": [],
-                "timestamp": 1742983396
+                "value": "2.89",
+                "previous": [
+                    {
+                        "value": "2.98",
+                        "timestamp": 1742983396
+                    }
+                ],
+                "timestamp": 1749739138
             },
             "approx_size": {
                 "value": true,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983396
             },
             "reference_price": {
-                "value": "14.190",
-                "previous": [],
-                "timestamp": 1742983396
+                "value": "13.750",
+                "previous": [
+                    {
+                        "value": "14.190",
+                        "timestamp": 1742983396
+                    }
+                ],
+                "timestamp": 1749739138
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983396
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/50151/queso-lonchas-oveja-entrepinares-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/50151\/queso-lonchas-oveja-entrepinares-paquete",
             "previous": [],
             "timestamp": 1742983396
         },
@@ -189,9 +204,14 @@
             "timestamp": 1742983396
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/d05a6ebbf0238f0fff9dbca8c99d5328.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983396
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/42c41d47391b7f165e9c19f13a2ab40d.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/d05a6ebbf0238f0fff9dbca8c99d5328.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983396
+                }
+            ],
+            "timestamp": 1749739138
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +221,7 @@
     },
     "stats": {
         "created_at": 1742983396,
-        "updated_at": 1743023234,
-        "updates": 2
+        "updated_at": 1749739138,
+        "updates": 3
     }
 }

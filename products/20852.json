@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Mantequilla en porciones Hacendado sin sal añadida",
+            "value": "Mantequilla en porciones Hacendado sin sal a\u00f1adida",
             "previous": [],
             "timestamp": 1742983465
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983465
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/20852/mantequilla-porciones-hacendado-sin-sal-anadida-pack-12",
+            "value": "https:\/\/tienda.mercadona.es\/product\/20852\/mantequilla-porciones-hacendado-sin-sal-anadida-pack-12",
             "previous": [],
             "timestamp": 1742983465
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983465
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/11e1deb7e91b0df588f6f1531012610d.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983465
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/800490694b7b70ad433e2d6ba78a4b8e.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/11e1deb7e91b0df588f6f1531012610d.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983465
+                }
+            ],
+            "timestamp": 1749739249
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983465,
-        "updated_at": 1743023314,
-        "updates": 2
+        "updated_at": 1749739249,
+        "updates": 3
     }
 }

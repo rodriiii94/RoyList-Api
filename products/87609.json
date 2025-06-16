@@ -42,7 +42,7 @@
                     "timestamp": 1742983526
                 },
                 "name": {
-                    "value": "Panadería y pastelería",
+                    "value": "Panader\u00eda y pasteler\u00eda",
                     "previous": [],
                     "timestamp": 1742983526
                 },
@@ -59,7 +59,7 @@
             }
         ],
         "display_name": {
-            "value": "Tarta Ferrer bombón crujiente Hacendado congelada",
+            "value": "Tarta Ferrer bomb\u00f3n crujiente Hacendado congelada",
             "previous": [],
             "timestamp": 1742983412
         },
@@ -196,7 +196,7 @@
             "timestamp": 1742983412
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/87609/tarta-ferrer-bombon-crujiente-hacendado-congelada-rellena-con-trufa",
+            "value": "https:\/\/tienda.mercadona.es\/product\/87609\/tarta-ferrer-bombon-crujiente-hacendado-congelada-rellena-con-trufa",
             "previous": [],
             "timestamp": 1742983412
         },
@@ -211,7 +211,7 @@
             "timestamp": 1742983412
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/d9411b738be324270ca21d6f2b789ab1.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/d9411b738be324270ca21d6f2b789ab1.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983412
         },
@@ -223,7 +223,7 @@
     },
     "stats": {
         "created_at": 1742983412,
-        "updated_at": 1743023379,
-        "updates": 4
+        "updated_at": 1749739338,
+        "updates": 6
     }
 }

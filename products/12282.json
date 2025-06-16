@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739128
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739128
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 4,
+                    "previous": [],
+                    "timestamp": 1749739128
+                },
+                "name": {
+                    "value": "Charcuter\u00eda y quesos",
+                    "previous": [],
+                    "timestamp": 1749739128
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739128
+                },
+                "order": {
+                    "value": 159,
+                    "previous": [],
+                    "timestamp": 1749739128
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Lomo de pavo Hacendado lonchas",
+            "previous": [],
+            "timestamp": 1749739128
+        },
+        "id": {
+            "value": "12282",
+            "previous": [],
+            "timestamp": 1749739128
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739128
+        },
+        "packaging": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739128
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1749739128
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739128
+            },
+            "is_pack": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739128
+            },
+            "pack_size": {
+                "value": 0.03125,
+                "previous": [],
+                "timestamp": 1749739128
+            },
+            "unit_name": {
+                "value": "paquetes",
+                "previous": [],
+                "timestamp": 1749739128
+            },
+            "unit_size": {
+                "value": 0.125,
+                "previous": [],
+                "timestamp": 1749739128
+            },
+            "bulk_price": {
+                "value": "25.60",
+                "previous": [],
+                "timestamp": 1749739128
+            },
+            "unit_price": {
+                "value": "3.20",
+                "previous": [],
+                "timestamp": 1749739128
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739128
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1749739128
+            },
+            "total_units": {
+                "value": 4,
+                "previous": [],
+                "timestamp": 1749739128
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739128
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739128
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739128
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739128
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1749739128
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739128
+            },
+            "reference_price": {
+                "value": "25.600",
+                "previous": [],
+                "timestamp": 1749739128
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739128
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1749739128
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739128
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739128
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739128
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/12282\/lomo-pavo-hacendado-lonchas",
+            "previous": [],
+            "timestamp": 1749739128
+        },
+        "slug": {
+            "value": "lomo-pavo-hacendado-lonchas",
+            "previous": [],
+            "timestamp": 1749739128
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739128
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/d20572805b8125e8fd1fd3fe75fdccb6.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739128
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739128
+        }
+    },
+    "stats": {
+        "created_at": 1749739128,
+        "updated_at": 1749739128,
+        "updates": 1
+    }
+}

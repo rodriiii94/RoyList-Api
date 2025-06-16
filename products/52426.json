@@ -196,7 +196,7 @@
             "timestamp": 1742983368
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/52426/alas-pollo-barbacoa-congeladas-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/52426\/alas-pollo-barbacoa-congeladas-paquete",
             "previous": [],
             "timestamp": 1742983368
         },
@@ -211,7 +211,7 @@
             "timestamp": 1742983368
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/778aff71ecab4df9feea58e5b571d1c4.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/778aff71ecab4df9feea58e5b571d1c4.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983368
         },
@@ -223,7 +223,7 @@
     },
     "stats": {
         "created_at": 1742983368,
-        "updated_at": 1743023240,
-        "updates": 4
+        "updated_at": 1749739145,
+        "updates": 6
     }
 }

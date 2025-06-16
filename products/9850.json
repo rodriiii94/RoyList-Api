@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Cereales copos de maíz Choco Corn Flakes Hacendado con chocolate",
+            "value": "Cereales copos de ma\u00edz Choco Corn Flakes Hacendado con chocolate",
             "previous": [],
             "timestamp": 1742983379
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983379
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/9850/cereales-copos-maiz-choco-corn-flakes-hacendado-con-chocolate-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/9850\/cereales-copos-maiz-choco-corn-flakes-hacendado-con-chocolate-caja",
             "previous": [],
             "timestamp": 1742983379
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983379
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/370c1c07a12c544d216212cf81027cf3.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/370c1c07a12c544d216212cf81027cf3.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983379
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983379,
-        "updated_at": 1743023215,
-        "updates": 2
+        "updated_at": 1749739113,
+        "updates": 3
     }
 }

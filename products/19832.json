@@ -20,7 +20,7 @@
                     "timestamp": 1742983329
                 },
                 "name": {
-                    "value": "Azúcar, caramelos y chocolate",
+                    "value": "Az\u00facar, caramelos y chocolate",
                     "previous": [],
                     "timestamp": 1742983329
                 },
@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Azúcar moreno de caña en sobres Hacendado",
+            "value": "Az\u00facar moreno de ca\u00f1a en sobres Hacendado",
             "previous": [],
             "timestamp": 1742983329
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983329
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/19832/azucar-moreno-cana-sobres-hacendado-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/19832\/azucar-moreno-cana-sobres-hacendado-caja",
             "previous": [],
             "timestamp": 1742983329
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983329
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/4a853663e8a2e382621dac9f8eb7d4dd.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/4a853663e8a2e382621dac9f8eb7d4dd.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983329
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983329,
-        "updated_at": 1743023158,
-        "updates": 2
+        "updated_at": 1749739044,
+        "updates": 3
     }
 }

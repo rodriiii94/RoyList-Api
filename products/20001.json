@@ -174,7 +174,7 @@
             "timestamp": 1742983549
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/20001/yogur-sabores-hacendado-2-fresa-2-platano-2-macedonia-2-coco-2-limon-2-sandia-2-vainilla-2-galleta-pack-16",
+            "value": "https:\/\/tienda.mercadona.es\/product\/20001\/yogur-sabores-hacendado-2-fresa-2-platano-2-macedonia-2-coco-2-limon-2-sandia-2-vainilla-2-galleta-pack-16",
             "previous": [],
             "timestamp": 1742983549
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983549
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/1407f6075fd762f131ffddc33b5cc879.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/1407f6075fd762f131ffddc33b5cc879.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983549
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983549,
-        "updated_at": 1743023402,
-        "updates": 2
+        "updated_at": 1749739367,
+        "updates": 3
     }
 }

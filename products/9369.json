@@ -20,7 +20,7 @@
                     "timestamp": 1742983521
                 },
                 "name": {
-                    "value": "Panadería y pastelería",
+                    "value": "Panader\u00eda y pasteler\u00eda",
                     "previous": [],
                     "timestamp": 1742983521
                 },
@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Media Hogaza integral de avena, semillas de girasol y sésamo rebanado",
+            "value": "Media Hogaza integral de avena, semillas de girasol y s\u00e9samo rebanado",
             "previous": [],
             "timestamp": 1742983521
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983521
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/9369/media-hogaza-integral-avena-semillas-girasol-sesamo-rebanado-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/9369\/media-hogaza-integral-avena-semillas-girasol-sesamo-rebanado-paquete",
             "previous": [],
             "timestamp": 1742983521
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983521
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/1032354d7292140ba34d7d6b738d67a7.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/1032354d7292140ba34d7d6b738d67a7.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983521
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983521,
-        "updated_at": 1743023374,
-        "updates": 2
+        "updated_at": 1749739331,
+        "updates": 3
     }
 }

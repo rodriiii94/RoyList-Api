@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Melocotón light Hacendado sin azúcares añadidos",
+            "value": "Melocot\u00f3n light Hacendado sin az\u00facares a\u00f1adidos",
             "previous": [],
             "timestamp": 1742983419
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983419
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/15260/melocoton-light-hacendado-sin-azucares-anadidos-bote",
+            "value": "https:\/\/tienda.mercadona.es\/product\/15260\/melocoton-light-hacendado-sin-azucares-anadidos-bote",
             "previous": [],
             "timestamp": 1742983419
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983419
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/37415e2642afa1f3e831be235f60d388.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/37415e2642afa1f3e831be235f60d388.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983419
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983419,
-        "updated_at": 1743023259,
-        "updates": 2
+        "updated_at": 1749739171,
+        "updates": 3
     }
 }

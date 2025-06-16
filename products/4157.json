@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Filetes de vacuno añojo para empanar",
+            "value": "Filetes de vacuno a\u00f1ojo para empanar",
             "previous": [],
             "timestamp": 1742983376
         },
@@ -83,19 +83,34 @@
                 "timestamp": 1742983376
             },
             "unit_size": {
-                "value": 0.5,
-                "previous": [],
-                "timestamp": 1742983376
+                "value": 0.44,
+                "previous": [
+                    {
+                        "value": 0.5,
+                        "timestamp": 1742983376
+                    }
+                ],
+                "timestamp": 1749739108
             },
             "bulk_price": {
-                "value": "17.50",
-                "previous": [],
-                "timestamp": 1742983376
+                "value": "18.20",
+                "previous": [
+                    {
+                        "value": "17.50",
+                        "timestamp": 1742983376
+                    }
+                ],
+                "timestamp": 1749739108
             },
             "unit_price": {
-                "value": "8.75",
-                "previous": [],
-                "timestamp": 1742983376
+                "value": "8.01",
+                "previous": [
+                    {
+                        "value": "8.75",
+                        "timestamp": 1742983376
+                    }
+                ],
+                "timestamp": 1749739108
             },
             "approx_size": {
                 "value": true,
@@ -143,9 +158,14 @@
                 "timestamp": 1742983376
             },
             "reference_price": {
-                "value": "17.500",
-                "previous": [],
-                "timestamp": 1742983376
+                "value": "18.200",
+                "previous": [
+                    {
+                        "value": "17.500",
+                        "timestamp": 1742983376
+                    }
+                ],
+                "timestamp": 1749739108
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +194,7 @@
             "timestamp": 1742983376
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/4157/filetes-vacuno-anojo-empanar-bandeja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/4157\/filetes-vacuno-anojo-empanar-bandeja",
             "previous": [],
             "timestamp": 1742983376
         },
@@ -189,9 +209,14 @@
             "timestamp": 1742983376
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/fa85ad572fc23a7402c0d179134916ed.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983376
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/b0af621e7cbe4f03e6651dcec4a39575.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/fa85ad572fc23a7402c0d179134916ed.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983376
+                }
+            ],
+            "timestamp": 1749739108
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +226,7 @@
     },
     "stats": {
         "created_at": 1742983376,
-        "updated_at": 1743023212,
-        "updates": 2
+        "updated_at": 1749739108,
+        "updates": 3
     }
 }

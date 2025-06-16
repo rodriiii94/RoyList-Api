@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Champú Zero Deliplus todo tipo de cabello",
+            "value": "Champ\u00fa Zero Deliplus todo tipo de cabello",
             "previous": [],
             "timestamp": 1742983426
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983426
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/44286/champu-zero-deliplus-tipo-cabello-bote",
+            "value": "https:\/\/tienda.mercadona.es\/product\/44286\/champu-zero-deliplus-tipo-cabello-bote",
             "previous": [],
             "timestamp": 1742983426
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983426
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/7668fd19aab4db27edd00667a57e2702.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/7668fd19aab4db27edd00667a57e2702.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983426
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983426,
-        "updated_at": 1743023268,
-        "updates": 2
+        "updated_at": 1749739182,
+        "updates": 3
     }
 }

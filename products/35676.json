@@ -174,7 +174,7 @@
             "timestamp": 1742983434
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/35676/lote-corporal-mujer-nivea-contiene-body-milk-250-ml-crema-75-ml-crema-soft-75-ml-gel-ducha-250-ml-desodorante-roll-on-50-ml-neceser",
+            "value": "https:\/\/tienda.mercadona.es\/product\/35676\/lote-corporal-mujer-nivea-contiene-body-milk-250-ml-crema-75-ml-crema-soft-75-ml-gel-ducha-250-ml-desodorante-roll-on-50-ml-neceser",
             "previous": [],
             "timestamp": 1742983434
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983434
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/21892ba3f1ece0bd7415fb7ac66ce3af.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983434
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/9a1e76c7c406f0a3ff47efd1a0bfaed3.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/21892ba3f1ece0bd7415fb7ac66ce3af.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983434
+                }
+            ],
+            "timestamp": 1749739195
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983434,
-        "updated_at": 1743023277,
-        "updates": 2
+        "updated_at": 1749739195,
+        "updates": 3
     }
 }

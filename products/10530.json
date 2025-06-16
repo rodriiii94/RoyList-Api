@@ -174,7 +174,7 @@
             "timestamp": 1742983463
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/10530/leche-entera-asturiana-pack-6",
+            "value": "https:\/\/tienda.mercadona.es\/product\/10530\/leche-entera-asturiana-pack-6",
             "previous": [],
             "timestamp": 1742983463
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983463
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/edf85617b6be1bba7c21e069fe60270b.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983463
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/881d0dffd20d382e8a1195762bcbf51d.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/edf85617b6be1bba7c21e069fe60270b.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983463
+                }
+            ],
+            "timestamp": 1749739246
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983463,
-        "updated_at": 1743023312,
-        "updates": 2
+        "updated_at": 1749739246,
+        "updates": 3
     }
 }

@@ -83,9 +83,14 @@
                 "timestamp": 1742983366
             },
             "unit_size": {
-                "value": 0.5,
-                "previous": [],
-                "timestamp": 1742983366
+                "value": 0.58,
+                "previous": [
+                    {
+                        "value": 0.5,
+                        "timestamp": 1742983366
+                    }
+                ],
+                "timestamp": 1749739096
             },
             "bulk_price": {
                 "value": "6.65",
@@ -93,9 +98,14 @@
                 "timestamp": 1742983366
             },
             "unit_price": {
-                "value": "3.33",
-                "previous": [],
-                "timestamp": 1742983366
+                "value": "3.86",
+                "previous": [
+                    {
+                        "value": "3.33",
+                        "timestamp": 1742983366
+                    }
+                ],
+                "timestamp": 1749739096
             },
             "approx_size": {
                 "value": true,
@@ -174,7 +184,7 @@
             "timestamp": 1742983366
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/3724/pechugas-enteras-pollo-bandeja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/3724\/pechugas-enteras-pollo-bandeja",
             "previous": [],
             "timestamp": 1742983366
         },
@@ -189,7 +199,7 @@
             "timestamp": 1742983366
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/18d3056fd59b5c6addbb4afe457ab407.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/18d3056fd59b5c6addbb4afe457ab407.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983366
         },
@@ -201,7 +211,7 @@
     },
     "stats": {
         "created_at": 1742983366,
-        "updated_at": 1743023201,
-        "updates": 2
+        "updated_at": 1749739096,
+        "updates": 3
     }
 }

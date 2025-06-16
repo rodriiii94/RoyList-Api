@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Coloración permanente 8 1/2.1 rubio claro ceniza Deliplus",
+            "value": "Coloraci\u00f3n permanente 8 1\/2.1 rubio claro ceniza Deliplus",
             "previous": [],
             "timestamp": 1742983429
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983429
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/73194/coloracion-permanente-8-121-rubio-claro-ceniza-deliplus-colorcor-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/73194\/coloracion-permanente-8-121-rubio-claro-ceniza-deliplus-colorcor-caja",
             "previous": [],
             "timestamp": 1742983429
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983429
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/e1d10f35a08d14b3669abd9173668973.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/e1d10f35a08d14b3669abd9173668973.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983429
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983429,
-        "updated_at": 1743023271,
-        "updates": 2
+        "updated_at": 1749739188,
+        "updates": 3
     }
 }

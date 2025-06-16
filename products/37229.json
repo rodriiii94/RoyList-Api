@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Vino blanco verdejo D.O Rueda Arribeño",
+            "value": "Vino blanco verdejo D.O Rueda Arribe\u00f1o",
             "previous": [],
             "timestamp": 1742983351
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983351
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/37229/vino-blanco-verdejo-do-rueda-arribeno-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/37229\/vino-blanco-verdejo-do-rueda-arribeno-botella",
             "previous": [],
             "timestamp": 1742983351
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983351
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/38eea14b572deafb0dde92402c50f06c.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/38eea14b572deafb0dde92402c50f06c.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983351
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983351,
-        "updated_at": 1743023184,
-        "updates": 2
+        "updated_at": 1749739076,
+        "updates": 3
     }
 }

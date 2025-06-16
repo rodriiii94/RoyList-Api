@@ -52,7 +52,7 @@
             "timestamp": 1742983345
         },
         "packaging": {
-            "value": "Botellín",
+            "value": "Botell\u00edn",
             "previous": [],
             "timestamp": 1742983345
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983345
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/15990/cerveza-00-sin-alcohol-falke-botellin",
+            "value": "https:\/\/tienda.mercadona.es\/product\/15990\/cerveza-00-sin-alcohol-falke-botellin",
             "previous": [],
             "timestamp": 1742983345
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983345
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/261c02fd8b60d91150ca718d891864c8.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983345
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/99cbdbbb08b45be3c93fc554f0f7200a.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/261c02fd8b60d91150ca718d891864c8.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983345
+                }
+            ],
+            "timestamp": 1749739067
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983345,
-        "updated_at": 1743023177,
-        "updates": 2
+        "updated_at": 1749739067,
+        "updates": 3
     }
 }

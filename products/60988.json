@@ -196,7 +196,7 @@
             "timestamp": 1742983309
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/60988/bechamel-hacendado-pack-3",
+            "value": "https:\/\/tienda.mercadona.es\/product\/60988\/bechamel-hacendado-pack-3",
             "previous": [],
             "timestamp": 1742983309
         },
@@ -211,7 +211,7 @@
             "timestamp": 1742983309
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/acadbaaa0407d07b2d297f859d93e5db.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/acadbaaa0407d07b2d297f859d93e5db.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983309
         },
@@ -223,7 +223,7 @@
     },
     "stats": {
         "created_at": 1742983309,
-        "updated_at": 1743023315,
-        "updates": 4
+        "updated_at": 1749739250,
+        "updates": 6
     }
 }

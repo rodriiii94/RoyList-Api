@@ -174,7 +174,7 @@
             "timestamp": 1742983351
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/66907/vino-fino-corredera-do-montilla-moriles-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/66907\/vino-fino-corredera-do-montilla-moriles-botella",
             "previous": [],
             "timestamp": 1742983351
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983351
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/dce3cc37976297a17a1db6e87237d54d.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/dce3cc37976297a17a1db6e87237d54d.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983351
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983351,
-        "updated_at": 1743023184,
-        "updates": 2
+        "updated_at": 1749739076,
+        "updates": 3
     }
 }

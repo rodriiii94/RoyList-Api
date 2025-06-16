@@ -174,7 +174,7 @@
             "timestamp": 1742983512
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/13646/alimento-completo-ninfa-agaporni-granzoo-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/13646\/alimento-completo-ninfa-agaporni-granzoo-paquete",
             "previous": [],
             "timestamp": 1742983512
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983512
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/ceca49751989999975457baa23d7edaf.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/ceca49751989999975457baa23d7edaf.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983512
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983512,
-        "updated_at": 1743023365,
-        "updates": 2
+        "updated_at": 1749739318,
+        "updates": 3
     }
 }

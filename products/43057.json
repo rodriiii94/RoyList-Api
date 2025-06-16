@@ -174,7 +174,7 @@
             "timestamp": 1742983472
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/43057/pastillas-desinfectantes-multiusos-orache-bote",
+            "value": "https:\/\/tienda.mercadona.es\/product\/43057\/pastillas-desinfectantes-multiusos-orache-bote",
             "previous": [],
             "timestamp": 1742983472
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983472
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/62baeb78e2f732ee9d5c4fea1eaf581a.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/62baeb78e2f732ee9d5c4fea1eaf581a.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983472
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983472,
-        "updated_at": 1743023323,
-        "updates": 2
+        "updated_at": 1749739261,
+        "updates": 3
     }
 }

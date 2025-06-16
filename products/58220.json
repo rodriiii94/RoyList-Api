@@ -20,7 +20,7 @@
                     "timestamp": 1742983386
                 },
                 "name": {
-                    "value": "Charcutería y quesos",
+                    "value": "Charcuter\u00eda y quesos",
                     "previous": [],
                     "timestamp": 1742983386
                 },
@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Panceta salada ibérica La Hacienda del ibérico",
+            "value": "Panceta salada ib\u00e9rica La Hacienda del ib\u00e9rico",
             "previous": [],
             "timestamp": 1742983386
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983386
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/58220/panceta-salada-iberica-hacienda-iberico-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/58220\/panceta-salada-iberica-hacienda-iberico-paquete",
             "previous": [],
             "timestamp": 1742983386
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983386
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/e8def2c47d494dda5c777a09ad68ec64.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/e8def2c47d494dda5c777a09ad68ec64.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983386
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983386,
-        "updated_at": 1743023229,
-        "updates": 4
+        "updated_at": 1749739131,
+        "updates": 6
     }
 }

@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739295
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739295
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 22,
+                    "previous": [],
+                    "timestamp": 1749739295
+                },
+                "name": {
+                    "value": "Maquillaje",
+                    "previous": [],
+                    "timestamp": 1749739295
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739295
+                },
+                "order": {
+                    "value": 421,
+                    "previous": [],
+                    "timestamp": 1749739295
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Perfilador de ojos efecto hologr\u00e1fico Mermaid Deliplus morado azulado",
+            "previous": [],
+            "timestamp": 1749739295
+        },
+        "id": {
+            "value": "86927",
+            "previous": [],
+            "timestamp": 1749739295
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739295
+        },
+        "packaging": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739295
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1749739295
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739295
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739295
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739295
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739295
+            },
+            "unit_size": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739295
+            },
+            "bulk_price": {
+                "value": "3.00",
+                "previous": [],
+                "timestamp": 1749739295
+            },
+            "unit_price": {
+                "value": "3.00",
+                "previous": [],
+                "timestamp": 1749739295
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739295
+            },
+            "size_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1749739295
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739295
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739295
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739295
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739295
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739295
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1749739295
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739295
+            },
+            "reference_price": {
+                "value": "3.000",
+                "previous": [],
+                "timestamp": 1749739295
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739295
+            },
+            "reference_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1749739295
+            },
+            "previous_unit_price": {
+                "value": "        4.00",
+                "previous": [],
+                "timestamp": 1749739295
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739295
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739295
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/86927\/perfilador-ojos-efecto-holografico-mermaid-deliplus-morado-azulado",
+            "previous": [],
+            "timestamp": 1749739295
+        },
+        "slug": {
+            "value": "perfilador-ojos-efecto-holografico-mermaid-deliplus-morado-azulado",
+            "previous": [],
+            "timestamp": 1749739295
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739295
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/8d1cd8c8cb4b5530c4dc44bbb6c5a5bb.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739295
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739295
+        }
+    },
+    "stats": {
+        "created_at": 1749739295,
+        "updated_at": 1749739295,
+        "updates": 1
+    }
+}

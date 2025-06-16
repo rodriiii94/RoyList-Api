@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Refresco té sabor mango Hacendado zero",
+            "value": "Refresco t\u00e9 sabor mango Hacendado zero",
             "previous": [],
             "timestamp": 1742983318
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983318
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/86138/refresco-te-sabor-mango-hacendado-zero-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/86138\/refresco-te-sabor-mango-hacendado-zero-botella",
             "previous": [],
             "timestamp": 1742983318
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983318
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/76c4e3c11316c0a0b66eeb89257ad38b.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/76c4e3c11316c0a0b66eeb89257ad38b.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983318
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983318,
-        "updated_at": 1743023144,
-        "updates": 2
+        "updated_at": 1749739025,
+        "updates": 3
     }
 }

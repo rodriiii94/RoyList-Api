@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Laca de uñas manicura francesa Deliplus 03 rosa",
+            "value": "Laca de u\u00f1as manicura francesa Deliplus 03 rosa",
             "previous": [],
             "timestamp": 1742983446
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983446
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/41685/laca-unas-manicura-francesa-deliplus-03-rosa",
+            "value": "https:\/\/tienda.mercadona.es\/product\/41685\/laca-unas-manicura-francesa-deliplus-03-rosa",
             "previous": [],
             "timestamp": 1742983446
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983446
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/460eff0a81a5916908076b900f01c000.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983446
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/8ab03a6a95d62333419db5905e31f7a0.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/460eff0a81a5916908076b900f01c000.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983446
+                }
+            ],
+            "timestamp": 1749739216
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983446,
-        "updated_at": 1743023292,
-        "updates": 2
+        "updated_at": 1749739216,
+        "updates": 3
     }
 }

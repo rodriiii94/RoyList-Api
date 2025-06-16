@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Zumo maracuyá & chía Hacendado",
+            "value": "Zumo maracuy\u00e1 & ch\u00eda Hacendado",
             "previous": [],
             "timestamp": 1742983552
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983552
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/39987/zumo-fresh-maracuya-chia-hacendado-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/39987\/zumo-fresh-maracuya-chia-hacendado-botella",
             "previous": [],
             "timestamp": 1742983552
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983552
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/a2a591a0b1f504dc9a7fd9cfacf5a147.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/a2a591a0b1f504dc9a7fd9cfacf5a147.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983552
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983552,
-        "updated_at": 1743023406,
-        "updates": 2
+        "updated_at": 1749739372,
+        "updates": 3
     }
 }

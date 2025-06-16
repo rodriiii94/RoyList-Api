@@ -174,7 +174,7 @@
             "timestamp": 1742983465
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/90933/mantequilla-light-hacendado-tarrina",
+            "value": "https:\/\/tienda.mercadona.es\/product\/90933\/mantequilla-light-hacendado-tarrina",
             "previous": [],
             "timestamp": 1742983465
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983465
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/bf35b4c7901193456fdaef3711070bb2.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/bf35b4c7901193456fdaef3711070bb2.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983465
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983465,
-        "updated_at": 1743023314,
-        "updates": 2
+        "updated_at": 1749739249,
+        "updates": 3
     }
 }

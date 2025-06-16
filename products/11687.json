@@ -88,14 +88,24 @@
                 "timestamp": 1742983366
             },
             "bulk_price": {
-                "value": "7.78",
-                "previous": [],
-                "timestamp": 1742983366
+                "value": "8.61",
+                "previous": [
+                    {
+                        "value": "7.78",
+                        "timestamp": 1742983366
+                    }
+                ],
+                "timestamp": 1749739097
             },
             "unit_price": {
-                "value": "2.80",
-                "previous": [],
-                "timestamp": 1742983366
+                "value": "3.10",
+                "previous": [
+                    {
+                        "value": "2.80",
+                        "timestamp": 1742983366
+                    }
+                ],
+                "timestamp": 1749739097
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983366
             },
             "reference_price": {
-                "value": "7.778",
-                "previous": [],
-                "timestamp": 1742983366
+                "value": "8.612",
+                "previous": [
+                    {
+                        "value": "7.778",
+                        "timestamp": 1742983366
+                    }
+                ],
+                "timestamp": 1749739097
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983366
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/11687/filetes-pechuga-pollo-marinadas-empanadas-picantes-sin-gluten-bandeja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/11687\/filetes-pechuga-pollo-marinadas-empanadas-picantes-sin-gluten-bandeja",
             "previous": [],
             "timestamp": 1742983366
         },
@@ -189,9 +204,14 @@
             "timestamp": 1742983366
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/3f9ba8631173748a0a5d6ed412d76f5c.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983366
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/2bc6a0080e02b2588332ff2e4203aa36.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/3f9ba8631173748a0a5d6ed412d76f5c.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983366
+                }
+            ],
+            "timestamp": 1749739097
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +221,7 @@
     },
     "stats": {
         "created_at": 1742983366,
-        "updated_at": 1743023213,
-        "updates": 4
+        "updated_at": 1749739111,
+        "updates": 6
     }
 }

@@ -83,14 +83,18 @@
                 "timestamp": 1742983458
             },
             "unit_size": {
-                "value": 0.6,
+                "value": 0.59,
                 "previous": [
                     {
                         "value": 0.62,
                         "timestamp": 1742983458
+                    },
+                    {
+                        "value": 0.6,
+                        "timestamp": 1743023307
                     }
                 ],
-                "timestamp": 1743023307
+                "timestamp": 1749739238
             },
             "bulk_price": {
                 "value": "3.30",
@@ -98,14 +102,18 @@
                 "timestamp": 1742983458
             },
             "unit_price": {
-                "value": "1.98",
+                "value": "1.95",
                 "previous": [
                     {
                         "value": "2.05",
                         "timestamp": 1742983458
+                    },
+                    {
+                        "value": "1.98",
+                        "timestamp": 1743023307
                     }
                 ],
-                "timestamp": 1743023307
+                "timestamp": 1749739238
             },
             "approx_size": {
                 "value": true,
@@ -184,7 +192,7 @@
             "timestamp": 1742983458
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/69173/yuca-pieza",
+            "value": "https:\/\/tienda.mercadona.es\/product\/69173\/yuca-pieza",
             "previous": [],
             "timestamp": 1742983458
         },
@@ -199,7 +207,7 @@
             "timestamp": 1742983458
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/3c82a0206ba8e480e6b24eba31eae9d8.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/3c82a0206ba8e480e6b24eba31eae9d8.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983458
         },
@@ -211,7 +219,7 @@
     },
     "stats": {
         "created_at": 1742983458,
-        "updated_at": 1743023307,
-        "updates": 2
+        "updated_at": 1749739238,
+        "updates": 3
     }
 }

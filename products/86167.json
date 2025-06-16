@@ -37,9 +37,14 @@
             }
         ],
         "display_name": {
-            "value": "Bebida de avena sin azúcares añadidos Hacendado",
-            "previous": [],
-            "timestamp": 1742983463
+            "value": "Bebida de avena con calcio sin az\u00facares a\u00f1adidos Hacendado",
+            "previous": [
+                {
+                    "value": "Bebida de avena sin az\u00facares a\u00f1adidos Hacendado",
+                    "timestamp": 1742983463
+                }
+            ],
+            "timestamp": 1749739246
         },
         "id": {
             "value": "86167",
@@ -174,7 +179,7 @@
             "timestamp": 1742983463
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/86167/bebida-avena-sin-azucares-anadidos-hacendado-brick",
+            "value": "https:\/\/tienda.mercadona.es\/product\/86167\/bebida-avena-sin-azucares-anadidos-hacendado-brick",
             "previous": [],
             "timestamp": 1742983463
         },
@@ -189,7 +194,7 @@
             "timestamp": 1742983463
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/6418531f9054c82e7084945ad9febc23.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/6418531f9054c82e7084945ad9febc23.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983463
         },
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983463,
-        "updated_at": 1743023312,
-        "updates": 2
+        "updated_at": 1749739246,
+        "updates": 3
     }
 }

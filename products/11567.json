@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Leche corporal nutritiva Nivea con ácido hialurónico, aceite de almendras y sérum de nutrición profunda",
+            "value": "Leche corporal nutritiva Nivea con \u00e1cido hialur\u00f3nico, aceite de almendras y s\u00e9rum de nutrici\u00f3n profunda",
             "previous": [],
             "timestamp": 1742983433
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983433
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/11567/leche-corporal-nutritiva-nivea-con-acido-hialuronico-aceite-almendras-serum-nutricion-profunda-bote",
+            "value": "https:\/\/tienda.mercadona.es\/product\/11567\/leche-corporal-nutritiva-nivea-con-acido-hialuronico-aceite-almendras-serum-nutricion-profunda-bote",
             "previous": [],
             "timestamp": 1742983433
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983433
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/ab0fdc2e46e5e4cc481ee550a78c4c37.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/ab0fdc2e46e5e4cc481ee550a78c4c37.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983433
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983433,
-        "updated_at": 1743023277,
-        "updates": 2
+        "updated_at": 1749739195,
+        "updates": 3
     }
 }

@@ -59,7 +59,7 @@
             }
         ],
         "display_name": {
-            "value": "Sepia faraónica limpia Hacendado congelada",
+            "value": "Sepia fara\u00f3nica limpia Hacendado congelada",
             "previous": [],
             "timestamp": 1742983407
         },
@@ -196,7 +196,7 @@
             "timestamp": 1742983407
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/24200/sepia-limpia-congelada-pieza",
+            "value": "https:\/\/tienda.mercadona.es\/product\/24200\/sepia-limpia-congelada-pieza",
             "previous": [],
             "timestamp": 1742983407
         },
@@ -211,7 +211,7 @@
             "timestamp": 1742983407
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/a148fb304e5cc25ae7cb63a35d0662f2.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/a148fb304e5cc25ae7cb63a35d0662f2.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983407
         },
@@ -223,7 +223,7 @@
     },
     "stats": {
         "created_at": 1742983407,
-        "updated_at": 1743023355,
-        "updates": 4
+        "updated_at": 1749739304,
+        "updates": 6
     }
 }

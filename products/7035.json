@@ -174,7 +174,7 @@
             "timestamp": 1742983422
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/7035/caldo-paella-carne-hacendado-con-sofrito-brick",
+            "value": "https:\/\/tienda.mercadona.es\/product\/7035\/caldo-paella-carne-hacendado-con-sofrito-brick",
             "previous": [],
             "timestamp": 1742983422
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983422
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/d69777995b5bddf4e4aed697ce962d6b.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/d69777995b5bddf4e4aed697ce962d6b.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983422
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983422,
-        "updated_at": 1743023263,
-        "updates": 2
+        "updated_at": 1749739175,
+        "updates": 3
     }
 }

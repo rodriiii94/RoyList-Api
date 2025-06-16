@@ -174,7 +174,7 @@
             "timestamp": 1742983402
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/64179/helado-horchata-hacendado-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/64179\/helado-horchata-hacendado-caja",
             "previous": [],
             "timestamp": 1742983402
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983402
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/2cb6b58ee83eeeda7665a055af5e168b.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/2cb6b58ee83eeeda7665a055af5e168b.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983402
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983402,
-        "updated_at": 1743023241,
-        "updates": 2
+        "updated_at": 1749739148,
+        "updates": 3
     }
 }

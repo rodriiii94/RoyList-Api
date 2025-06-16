@@ -42,7 +42,7 @@
                     "timestamp": 1742983391
                 },
                 "name": {
-                    "value": "Charcutería y quesos",
+                    "value": "Charcuter\u00eda y quesos",
                     "previous": [],
                     "timestamp": 1742983391
                 },
@@ -59,7 +59,7 @@
             }
         ],
         "display_name": {
-            "value": "Hueso garrón",
+            "value": "Hueso garr\u00f3n",
             "previous": [],
             "timestamp": 1742983364
         },
@@ -196,7 +196,7 @@
             "timestamp": 1742983364
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/58307/hueso-garron-incarlopsa-pieza",
+            "value": "https:\/\/tienda.mercadona.es\/product\/58307\/hueso-garron-incarlopsa-pieza",
             "previous": [],
             "timestamp": 1742983364
         },
@@ -211,7 +211,7 @@
             "timestamp": 1742983364
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/1f6928a432081cf7c4bb36c66a4dd305.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/1f6928a432081cf7c4bb36c66a4dd305.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983364
         },
@@ -223,7 +223,7 @@
     },
     "stats": {
         "created_at": 1742983364,
-        "updated_at": 1743023229,
-        "updates": 4
+        "updated_at": 1749739131,
+        "updates": 6
     }
 }

@@ -20,7 +20,7 @@
                     "timestamp": 1742983337
                 },
                 "name": {
-                    "value": "Bebé",
+                    "value": "Beb\u00e9",
                     "previous": [],
                     "timestamp": 1742983337
                 },
@@ -59,7 +59,7 @@
             }
         ],
         "display_name": {
-            "value": "Postre lácteo infantil de galleta Hacendado +8 meses",
+            "value": "Postre l\u00e1cteo infantil de galleta Hacendado +8 meses",
             "previous": [],
             "timestamp": 1742983337
         },
@@ -196,7 +196,7 @@
             "timestamp": 1742983337
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/60400/postre-lacteo-infantil-galleta-hacendado-8-meses",
+            "value": "https:\/\/tienda.mercadona.es\/product\/60400\/postre-lacteo-infantil-galleta-hacendado-8-meses",
             "previous": [],
             "timestamp": 1742983337
         },
@@ -211,7 +211,7 @@
             "timestamp": 1742983337
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/ca8f764f951205b8fdd07892775b14ed.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/ca8f764f951205b8fdd07892775b14ed.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983337
         },
@@ -223,7 +223,7 @@
     },
     "stats": {
         "created_at": 1742983337,
-        "updated_at": 1743023404,
-        "updates": 4
+        "updated_at": 1749739370,
+        "updates": 6
     }
 }

@@ -88,14 +88,24 @@
                 "timestamp": 1742983376
             },
             "bulk_price": {
-                "value": "27.50",
-                "previous": [],
-                "timestamp": 1742983376
+                "value": "28.50",
+                "previous": [
+                    {
+                        "value": "27.50",
+                        "timestamp": 1742983376
+                    }
+                ],
+                "timestamp": 1749739109
             },
             "unit_price": {
-                "value": "5.50",
-                "previous": [],
-                "timestamp": 1742983376
+                "value": "5.70",
+                "previous": [
+                    {
+                        "value": "5.50",
+                        "timestamp": 1742983376
+                    }
+                ],
+                "timestamp": 1749739109
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983376
             },
             "reference_price": {
-                "value": "27.500",
-                "previous": [],
-                "timestamp": 1742983376
+                "value": "28.500",
+                "previous": [
+                    {
+                        "value": "27.500",
+                        "timestamp": 1742983376
+                    }
+                ],
+                "timestamp": 1749739109
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983376
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/8308/steak-tartar-vacuno-marinado-bandeja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/8308\/steak-tartar-vacuno-marinado-bandeja",
             "previous": [],
             "timestamp": 1742983376
         },
@@ -189,9 +204,14 @@
             "timestamp": 1742983376
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/5e1fdfb7bfb020075a7fbb6e6e90de9e.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983376
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/d5c6524a463df18255c427411878cd52.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/5e1fdfb7bfb020075a7fbb6e6e90de9e.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983376
+                }
+            ],
+            "timestamp": 1749739109
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +221,7 @@
     },
     "stats": {
         "created_at": 1742983376,
-        "updated_at": 1743023212,
-        "updates": 2
+        "updated_at": 1749739109,
+        "updates": 3
     }
 }

@@ -88,14 +88,24 @@
                 "timestamp": 1742983402
             },
             "bulk_price": {
-                "value": "6.50",
-                "previous": [],
-                "timestamp": 1742983402
+                "value": "6.00",
+                "previous": [
+                    {
+                        "value": "6.50",
+                        "timestamp": 1742983402
+                    }
+                ],
+                "timestamp": 1749739148
             },
             "unit_price": {
-                "value": "3.25",
-                "previous": [],
-                "timestamp": 1742983402
+                "value": "3.00",
+                "previous": [
+                    {
+                        "value": "3.25",
+                        "timestamp": 1742983402
+                    }
+                ],
+                "timestamp": 1749739148
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983402
             },
             "reference_price": {
-                "value": "6.500",
-                "previous": [],
-                "timestamp": 1742983402
+                "value": "6.000",
+                "previous": [
+                    {
+                        "value": "6.500",
+                        "timestamp": 1742983402
+                    }
+                ],
+                "timestamp": 1749739148
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983402
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/22996/helado-caramelo-con-salsa-caramelo-salado-trozos-caramelo-hacendado-bote",
+            "value": "https:\/\/tienda.mercadona.es\/product\/22996\/helado-caramelo-con-salsa-caramelo-salado-trozos-caramelo-hacendado-bote",
             "previous": [],
             "timestamp": 1742983402
         },
@@ -189,9 +204,14 @@
             "timestamp": 1742983402
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/0e333dd64996517eb26a9acda7793359.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983402
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/d97bd6a7e1dc54098ded160c8c683708.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/0e333dd64996517eb26a9acda7793359.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983402
+                }
+            ],
+            "timestamp": 1749739148
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +221,7 @@
     },
     "stats": {
         "created_at": 1742983402,
-        "updated_at": 1743023241,
-        "updates": 2
+        "updated_at": 1749739148,
+        "updates": 3
     }
 }

@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Taco pulidor de uñas manos Deliplus",
+            "value": "Taco pulidor de u\u00f1as manos Deliplus",
             "previous": [],
             "timestamp": 1742983446
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983446
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/78070/taco-pulidor-unas-manos-deliplus-con-4-fases-numeradas-utilizar-secuencia",
+            "value": "https:\/\/tienda.mercadona.es\/product\/78070\/taco-pulidor-unas-manos-deliplus-con-4-fases-numeradas-utilizar-secuencia",
             "previous": [],
             "timestamp": 1742983446
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983446
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/c986d9a88ce0a15bb7cc1d83518d67d0.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/c986d9a88ce0a15bb7cc1d83518d67d0.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983446
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983446,
-        "updated_at": 1743023292,
-        "updates": 2
+        "updated_at": 1749739217,
+        "updates": 3
     }
 }

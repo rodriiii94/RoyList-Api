@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Refresco Coca-Cola Zero azúcar",
+            "value": "Refresco Coca-Cola Zero az\u00facar",
             "previous": [],
             "timestamp": 1742983314
         },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983314
             },
             "bulk_price": {
-                "value": "1.00",
-                "previous": [],
-                "timestamp": 1742983314
+                "value": "1.16",
+                "previous": [
+                    {
+                        "value": "1.00",
+                        "timestamp": 1742983314
+                    }
+                ],
+                "timestamp": 1749739019
             },
             "unit_price": {
-                "value": "2.50",
-                "previous": [],
-                "timestamp": 1742983314
+                "value": "2.90",
+                "previous": [
+                    {
+                        "value": "2.50",
+                        "timestamp": 1742983314
+                    }
+                ],
+                "timestamp": 1749739019
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983314
             },
             "reference_price": {
-                "value": "1.000",
-                "previous": [],
-                "timestamp": 1742983314
+                "value": "1.160",
+                "previous": [
+                    {
+                        "value": "1.000",
+                        "timestamp": 1742983314
+                    }
+                ],
+                "timestamp": 1749739019
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983314
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/9887/refresco-coca-cola-zero-azucar",
+            "value": "https:\/\/tienda.mercadona.es\/product\/9887\/refresco-coca-cola-zero-azucar",
             "previous": [],
             "timestamp": 1742983314
         },
@@ -189,9 +204,14 @@
             "timestamp": 1742983314
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/cc076c539abb4b02394d473e87035e25.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983314
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/30494fa364b01c2917da33acbbdcb401.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/cc076c539abb4b02394d473e87035e25.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983314
+                }
+            ],
+            "timestamp": 1749739019
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +221,7 @@
     },
     "stats": {
         "created_at": 1742983314,
-        "updated_at": 1743023139,
-        "updates": 2
+        "updated_at": 1749739019,
+        "updates": 3
     }
 }

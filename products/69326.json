@@ -83,29 +83,42 @@
                 "timestamp": 1742983459
             },
             "unit_size": {
-                "value": 0.31,
+                "value": 0.35,
                 "previous": [
                     {
                         "value": 0.32,
                         "timestamp": 1742983459
+                    },
+                    {
+                        "value": 0.31,
+                        "timestamp": 1743023308
                     }
                 ],
-                "timestamp": 1743023308
+                "timestamp": 1749739240
             },
             "bulk_price": {
-                "value": "1.94",
-                "previous": [],
-                "timestamp": 1742983459
+                "value": "1.95",
+                "previous": [
+                    {
+                        "value": "1.94",
+                        "timestamp": 1742983459
+                    }
+                ],
+                "timestamp": 1749739240
             },
             "unit_price": {
-                "value": "0.60",
+                "value": "0.68",
                 "previous": [
                     {
                         "value": "0.62",
                         "timestamp": 1742983459
+                    },
+                    {
+                        "value": "0.60",
+                        "timestamp": 1743023308
                     }
                 ],
-                "timestamp": 1743023308
+                "timestamp": 1749739240
             },
             "approx_size": {
                 "value": true,
@@ -153,9 +166,14 @@
                 "timestamp": 1742983459
             },
             "reference_price": {
-                "value": "1.940",
-                "previous": [],
-                "timestamp": 1742983459
+                "value": "1.950",
+                "previous": [
+                    {
+                        "value": "1.940",
+                        "timestamp": 1742983459
+                    }
+                ],
+                "timestamp": 1749739240
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -184,7 +202,7 @@
             "timestamp": 1742983459
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/69326/berenjena-pieza",
+            "value": "https:\/\/tienda.mercadona.es\/product\/69326\/berenjena-pieza",
             "previous": [],
             "timestamp": 1742983459
         },
@@ -199,7 +217,7 @@
             "timestamp": 1742983459
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/cbd784174d4dfee4fedee9f32d3ad0ab.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/cbd784174d4dfee4fedee9f32d3ad0ab.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983459
         },
@@ -211,7 +229,7 @@
     },
     "stats": {
         "created_at": 1742983459,
-        "updated_at": 1743023308,
-        "updates": 2
+        "updated_at": 1749739240,
+        "updates": 3
     }
 }

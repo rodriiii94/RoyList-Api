@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739202
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739202
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 20,
+                    "previous": [],
+                    "timestamp": 1749739202
+                },
+                "name": {
+                    "value": "Cuidado facial y corporal",
+                    "previous": [],
+                    "timestamp": 1749739202
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739202
+                },
+                "order": {
+                    "value": 241,
+                    "previous": [],
+                    "timestamp": 1749739202
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Cera facial caliente en tarro Deliplus piel sensible",
+            "previous": [],
+            "timestamp": 1749739202
+        },
+        "id": {
+            "value": "12932",
+            "previous": [],
+            "timestamp": 1749739202
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739202
+        },
+        "packaging": {
+            "value": "Caja",
+            "previous": [],
+            "timestamp": 1749739202
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1749739202
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739202
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739202
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739202
+            },
+            "unit_name": {
+                "value": "tarro",
+                "previous": [],
+                "timestamp": 1749739202
+            },
+            "unit_size": {
+                "value": 0.1,
+                "previous": [],
+                "timestamp": 1749739202
+            },
+            "bulk_price": {
+                "value": "37.50",
+                "previous": [],
+                "timestamp": 1749739202
+            },
+            "unit_price": {
+                "value": "3.75",
+                "previous": [],
+                "timestamp": 1749739202
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739202
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1749739202
+            },
+            "total_units": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739202
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739202
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739202
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739202
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739202
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1749739202
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739202
+            },
+            "reference_price": {
+                "value": "3.750",
+                "previous": [],
+                "timestamp": 1749739202
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739202
+            },
+            "reference_format": {
+                "value": "100 g",
+                "previous": [],
+                "timestamp": 1749739202
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739202
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739202
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739202
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/12932\/cera-facial-caliente-tarro-deliplus-piel-sensible-contiene-cera-caliente-espatulas-madera-crema-post-depilacion-15ml-apto-microondas-caja",
+            "previous": [],
+            "timestamp": 1749739202
+        },
+        "slug": {
+            "value": "cera-facial-caliente-tarro-deliplus-piel-sensible-contiene-cera-caliente-espatulas-madera-crema-post-depilacion-15ml-apto-microondas-caja",
+            "previous": [],
+            "timestamp": 1749739202
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739202
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/3e1ec20ad50e1e6b3fa642d3f97b6249.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739202
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739202
+        }
+    },
+    "stats": {
+        "created_at": 1749739202,
+        "updated_at": 1749739202,
+        "updates": 1
+    }
+}

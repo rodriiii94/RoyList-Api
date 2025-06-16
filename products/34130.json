@@ -174,7 +174,7 @@
             "timestamp": 1742983305
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/34130/sal-ajo-hacendado-bote",
+            "value": "https:\/\/tienda.mercadona.es\/product\/34130\/sal-ajo-hacendado-bote",
             "previous": [],
             "timestamp": 1742983305
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983305
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/bd81680a3655bf89428f333254f34979.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/bd81680a3655bf89428f333254f34979.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983305
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983305,
-        "updated_at": 1743023129,
-        "updates": 4
+        "updated_at": 1749739006,
+        "updates": 6
     }
 }

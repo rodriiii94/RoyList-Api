@@ -20,7 +20,7 @@
                     "timestamp": 1742983514
                 },
                 "name": {
-                    "value": "Panadería y pastelería",
+                    "value": "Panader\u00eda y pasteler\u00eda",
                     "previous": [],
                     "timestamp": 1742983514
                 },
@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Empanadilla de atún 16%",
+            "value": "Empanadilla de at\u00fan 16%",
             "previous": [],
             "timestamp": 1742983514
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983514
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/4911/empanadilla-atun-16-pieza",
+            "value": "https:\/\/tienda.mercadona.es\/product\/4911\/empanadilla-atun-16-pieza",
             "previous": [],
             "timestamp": 1742983514
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983514
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/f1306bdb6ec098d1b05b7d02039e19de.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/f1306bdb6ec098d1b05b7d02039e19de.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983514
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983514,
-        "updated_at": 1743023367,
-        "updates": 2
+        "updated_at": 1749739320,
+        "updates": 3
     }
 }

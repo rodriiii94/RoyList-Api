@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Bolsas Congelación grandes Bosque Verde",
+            "value": "Bolsas Congelaci\u00f3n grandes Bosque Verde",
             "previous": [],
             "timestamp": 1742983484
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983484
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/49154/bolsas-congelacion-grandes-bosque-verde-30-x-45-cm-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/49154\/bolsas-congelacion-grandes-bosque-verde-30-x-45-cm-caja",
             "previous": [],
             "timestamp": 1742983484
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983484
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/2ab4b6c044fa174bb9b3d92d2774f1ff.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983484
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/c633159d6219d8a89511e358df2e34ca.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/2ab4b6c044fa174bb9b3d92d2774f1ff.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983484
+                }
+            ],
+            "timestamp": 1749739276
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983484,
-        "updated_at": 1743023335,
-        "updates": 2
+        "updated_at": 1749739276,
+        "updates": 3
     }
 }

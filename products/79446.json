@@ -174,7 +174,7 @@
             "timestamp": 1742983470
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/79446/ambientador-coche-frutos-silvestres-bosque-verde-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/79446\/ambientador-coche-frutos-silvestres-bosque-verde-caja",
             "previous": [],
             "timestamp": 1742983470
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983470
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/52f728077b694d1e7bf32020ee8b6bb4.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/52f728077b694d1e7bf32020ee8b6bb4.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983470
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983470,
-        "updated_at": 1743023321,
-        "updates": 2
+        "updated_at": 1749739259,
+        "updates": 3
     }
 }

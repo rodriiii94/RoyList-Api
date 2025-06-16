@@ -20,7 +20,7 @@
                     "timestamp": 1742983391
                 },
                 "name": {
-                    "value": "Charcutería y quesos",
+                    "value": "Charcuter\u00eda y quesos",
                     "previous": [],
                     "timestamp": 1742983391
                 },
@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Jamón serrano reserva cortado a tapas",
+            "value": "Jam\u00f3n serrano reserva cortado a tapas",
             "previous": [],
             "timestamp": 1742983391
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983391
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/58274/jamon-serrano-reserva-cortado-cuchillo-envasado-vacio-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/58274\/jamon-serrano-reserva-cortado-cuchillo-envasado-vacio-paquete",
             "previous": [],
             "timestamp": 1742983391
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983391
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/fa034a182cb15b78ecb44918885d7c64.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/fa034a182cb15b78ecb44918885d7c64.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983391
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983391,
-        "updated_at": 1743023228,
-        "updates": 2
+        "updated_at": 1749739130,
+        "updates": 3
     }
 }

@@ -37,9 +37,14 @@
             }
         ],
         "display_name": {
-            "value": "Abrillantador lavavajillas líquido Essential Finish",
-            "previous": [],
-            "timestamp": 1742983482
+            "value": "Abrillantador lavavajillas l\u00edquido Finish",
+            "previous": [
+                {
+                    "value": "Abrillantador lavavajillas l\u00edquido Essential Finish",
+                    "timestamp": 1742983482
+                }
+            ],
+            "timestamp": 1749739274
         },
         "id": {
             "value": "86652",
@@ -174,7 +179,7 @@
             "timestamp": 1742983482
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/86652/abrillantador-lavavajillas-liquido-essential-finish-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/86652\/abrillantador-lavavajillas-liquido-essential-finish-botella",
             "previous": [],
             "timestamp": 1742983482
         },
@@ -189,9 +194,14 @@
             "timestamp": 1742983482
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/909bb57b28f58a5c6129d87ceb5790da.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983482
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/84fd2ea7964de7d86406d638c5207ef9.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/909bb57b28f58a5c6129d87ceb5790da.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983482
+                }
+            ],
+            "timestamp": 1749739274
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +211,7 @@
     },
     "stats": {
         "created_at": 1742983482,
-        "updated_at": 1743023333,
-        "updates": 2
+        "updated_at": 1749739274,
+        "updates": 3
     }
 }

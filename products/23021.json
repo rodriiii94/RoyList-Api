@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Laca de uñas manicura francesa Deliplus 06 blanco milky",
+            "value": "Laca de u\u00f1as manicura francesa Deliplus 06 blanco milky",
             "previous": [],
             "timestamp": 1742983446
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983446
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/23021/laca-unas-manicura-francesa-deliplus-06-blanco",
+            "value": "https:\/\/tienda.mercadona.es\/product\/23021\/laca-unas-manicura-francesa-deliplus-06-blanco",
             "previous": [],
             "timestamp": 1742983446
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983446
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/698214515a038918991ec0fa5aa6dce7.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/698214515a038918991ec0fa5aa6dce7.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983446
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983446,
-        "updated_at": 1743023292,
-        "updates": 2
+        "updated_at": 1749739216,
+        "updates": 3
     }
 }

@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Bebida Kéfir de coco Hacendado",
+            "value": "Bebida K\u00e9fir de coco Hacendado",
             "previous": [],
             "timestamp": 1742983547
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983547
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/15664/bebida-kefir-coco-hacendado-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/15664\/bebida-kefir-coco-hacendado-botella",
             "previous": [],
             "timestamp": 1742983547
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983547
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/479a0815ddf6e4b2e5c7c82c3832e99c.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983547
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/9ce6b7cf5fec6c14b1c25c6f142a3d07.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/479a0815ddf6e4b2e5c7c82c3832e99c.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983547
+                }
+            ],
+            "timestamp": 1749739366
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983547,
-        "updated_at": 1743023401,
-        "updates": 2
+        "updated_at": 1749739366,
+        "updates": 3
     }
 }

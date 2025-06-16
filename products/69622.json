@@ -37,9 +37,14 @@
             }
         ],
         "display_name": {
-            "value": "Floretas de brócoli para microondas",
-            "previous": [],
-            "timestamp": 1742983459
+            "value": "Floretas de br\u00f3coli para microondas lavadas",
+            "previous": [
+                {
+                    "value": "Floretas de br\u00f3coli para microondas",
+                    "timestamp": 1742983459
+                }
+            ],
+            "timestamp": 1749739240
         },
         "id": {
             "value": "69622",
@@ -174,7 +179,7 @@
             "timestamp": 1742983459
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/69622/floretas-brocoli-microondas-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/69622\/floretas-brocoli-microondas-paquete",
             "previous": [],
             "timestamp": 1742983459
         },
@@ -189,7 +194,7 @@
             "timestamp": 1742983459
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/3c23712045339f762d14e691e9b0171e.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/3c23712045339f762d14e691e9b0171e.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983459
         },
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983459,
-        "updated_at": 1743023308,
-        "updates": 2
+        "updated_at": 1749739240,
+        "updates": 3
     }
 }

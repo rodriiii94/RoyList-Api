@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Tortilla de patata con calabacín Listo para Comer",
+            "value": "Tortilla de patata con calabac\u00edn Listo para Comer",
             "previous": [],
             "timestamp": 1742983530
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983530
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/60091/tortilla-patata-con-calabacin-listo-comer",
+            "value": "https:\/\/tienda.mercadona.es\/product\/60091\/tortilla-patata-con-calabacin-listo-comer",
             "previous": [],
             "timestamp": 1742983530
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983530
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/fe57e046130dff298c0a2a82b6f723fd.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/fe57e046130dff298c0a2a82b6f723fd.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983530
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983530,
-        "updated_at": 1743023387,
-        "updates": 4
+        "updated_at": 1749739348,
+        "updates": 6
     }
 }

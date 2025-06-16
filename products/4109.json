@@ -88,14 +88,24 @@
                 "timestamp": 1742983366
             },
             "bulk_price": {
-                "value": "8.30",
-                "previous": [],
-                "timestamp": 1742983366
+                "value": "8.20",
+                "previous": [
+                    {
+                        "value": "8.30",
+                        "timestamp": 1742983366
+                    }
+                ],
+                "timestamp": 1749739096
             },
             "unit_price": {
-                "value": "4.98",
-                "previous": [],
-                "timestamp": 1742983366
+                "value": "4.92",
+                "previous": [
+                    {
+                        "value": "4.98",
+                        "timestamp": 1742983366
+                    }
+                ],
+                "timestamp": 1749739096
             },
             "approx_size": {
                 "value": true,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983366
             },
             "reference_price": {
-                "value": "8.300",
-                "previous": [],
-                "timestamp": 1742983366
+                "value": "8.200",
+                "previous": [
+                    {
+                        "value": "8.300",
+                        "timestamp": 1742983366
+                    }
+                ],
+                "timestamp": 1749739096
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983366
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/4109/filetes-pavo-contramuslo-bandeja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/4109\/filetes-pavo-contramuslo-bandeja",
             "previous": [],
             "timestamp": 1742983366
         },
@@ -189,9 +204,14 @@
             "timestamp": 1742983366
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/8fd5da972a72cb1abfa9ba8b95ac9ced.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983366
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/9b6571aaf82ce5f4918e31ee5e134f80.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/8fd5da972a72cb1abfa9ba8b95ac9ced.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983366
+                }
+            ],
+            "timestamp": 1749739096
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +221,7 @@
     },
     "stats": {
         "created_at": 1742983366,
-        "updated_at": 1743023201,
-        "updates": 2
+        "updated_at": 1749739096,
+        "updates": 3
     }
 }

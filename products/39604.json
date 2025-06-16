@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Bebida de pomelo Hacendado sin azúcares añadidos",
+            "value": "Bebida de pomelo Hacendado sin az\u00facares a\u00f1adidos",
             "previous": [],
             "timestamp": 1742983557
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983557
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/39604/bebida-pomelo-hacendado-sin-azucares-anadidos-brick",
+            "value": "https:\/\/tienda.mercadona.es\/product\/39604\/bebida-pomelo-hacendado-sin-azucares-anadidos-brick",
             "previous": [],
             "timestamp": 1742983557
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983557
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/9d055e110488e6e2a6efa1b322d3ba0e.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/9d055e110488e6e2a6efa1b322d3ba0e.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983557
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983557,
-        "updated_at": 1743023410,
-        "updates": 2
+        "updated_at": 1749739377,
+        "updates": 3
     }
 }

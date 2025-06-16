@@ -174,7 +174,7 @@
             "timestamp": 1742983428
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/35772/mascarilla-cabello-rubio-miel-deliplus-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/35772\/mascarilla-cabello-rubio-miel-deliplus-caja",
             "previous": [],
             "timestamp": 1742983428
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983428
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/91799137efe792bba11dcd24faa93488.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983428
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/879618623915610bc580e8e7bf240f85.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/91799137efe792bba11dcd24faa93488.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983428
+                }
+            ],
+            "timestamp": 1749739187
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983428,
-        "updated_at": 1743023271,
-        "updates": 2
+        "updated_at": 1749739187,
+        "updates": 3
     }
 }

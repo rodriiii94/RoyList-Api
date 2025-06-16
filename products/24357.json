@@ -59,7 +59,7 @@
             }
         ],
         "display_name": {
-            "value": "Rodajas de atún de aleta amarilla Hacendado congelado",
+            "value": "Rodajas de at\u00fan de aleta amarilla Hacendado congelado",
             "previous": [],
             "timestamp": 1742983407
         },
@@ -196,7 +196,7 @@
             "timestamp": 1742983407
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/24357/rodajas-atun-aleta-amarilla-hacendado-congelado-bandeja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/24357\/rodajas-atun-aleta-amarilla-hacendado-congelado-bandeja",
             "previous": [],
             "timestamp": 1742983407
         },
@@ -211,7 +211,7 @@
             "timestamp": 1742983407
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/9e38f74bd5c28c2d69b8738830c9633e.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/9e38f74bd5c28c2d69b8738830c9633e.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983407
         },
@@ -223,7 +223,7 @@
     },
     "stats": {
         "created_at": 1742983407,
-        "updated_at": 1743023355,
-        "updates": 4
+        "updated_at": 1749739303,
+        "updates": 6
     }
 }

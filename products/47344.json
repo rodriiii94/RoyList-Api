@@ -174,7 +174,7 @@
             "timestamp": 1742983444
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/47344/compresa-sin-alas-normal-deliplus-suave-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/47344\/compresa-sin-alas-normal-deliplus-suave-paquete",
             "previous": [],
             "timestamp": 1742983444
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983444
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/8ffef1c5ae1902f1ff4c4b8e6e38d56b.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/8ffef1c5ae1902f1ff4c4b8e6e38d56b.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983444
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983444,
-        "updated_at": 1743023290,
-        "updates": 2
+        "updated_at": 1749739213,
+        "updates": 3
     }
 }

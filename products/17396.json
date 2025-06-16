@@ -174,7 +174,7 @@
             "timestamp": 1742983309
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/17396/salsa-piri-piri-hacendado-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/17396\/salsa-piri-piri-hacendado-botella",
             "previous": [],
             "timestamp": 1742983309
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983309
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/c17d2319747366d2987a22ad455aa37e.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/c17d2319747366d2987a22ad455aa37e.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983309
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983309,
-        "updated_at": 1743023133,
-        "updates": 2
+        "updated_at": 1749739011,
+        "updates": 3
     }
 }

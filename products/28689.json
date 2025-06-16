@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Bebida isotónica de naranja Iso drink",
+            "value": "Bebida isot\u00f3nica de naranja Iso drink",
             "previous": [],
             "timestamp": 1742983312
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983312
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/28689/bebida-isotonica-naranja-iso-drink-hacendado-lata",
+            "value": "https:\/\/tienda.mercadona.es\/product\/28689\/bebida-isotonica-naranja-iso-drink-hacendado-lata",
             "previous": [],
             "timestamp": 1742983312
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983312
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/ad99fabc3e2332435c5bcea78b320bac.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/ad99fabc3e2332435c5bcea78b320bac.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983312
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983312,
-        "updated_at": 1743023137,
-        "updates": 2
+        "updated_at": 1749739016,
+        "updates": 3
     }
 }

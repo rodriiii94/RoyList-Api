@@ -174,7 +174,7 @@
             "timestamp": 1742983346
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/67632/ginebra-london-dry-gin-kingerly-sons-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/67632\/ginebra-london-dry-gin-kingerly-sons-botella",
             "previous": [],
             "timestamp": 1742983346
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983346
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/7c06f28a50100435746b8e5d19030559.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/7c06f28a50100435746b8e5d19030559.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983346
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983346,
-        "updated_at": 1743023179,
-        "updates": 2
+        "updated_at": 1749739069,
+        "updates": 3
     }
 }

@@ -174,7 +174,7 @@
             "timestamp": 1742983508
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/15986/comida-gato-adulto-compy-con-pollo-ternera-frutas-verduras-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/15986\/comida-gato-adulto-compy-con-pollo-ternera-frutas-verduras-paquete",
             "previous": [],
             "timestamp": 1742983508
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983508
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/8800b5aabe3f0d84ad498be931759dd3.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/8800b5aabe3f0d84ad498be931759dd3.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983508
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983508,
-        "updated_at": 1743023361,
-        "updates": 2
+        "updated_at": 1749739312,
+        "updates": 3
     }
 }

@@ -88,14 +88,24 @@
                 "timestamp": 1742983355
             },
             "bulk_price": {
-                "value": "8.67",
-                "previous": [],
-                "timestamp": 1742983355
+                "value": "8.47",
+                "previous": [
+                    {
+                        "value": "8.67",
+                        "timestamp": 1742983355
+                    }
+                ],
+                "timestamp": 1749739081
             },
             "unit_price": {
-                "value": "6.50",
-                "previous": [],
-                "timestamp": 1742983355
+                "value": "6.35",
+                "previous": [
+                    {
+                        "value": "6.50",
+                        "timestamp": 1742983355
+                    }
+                ],
+                "timestamp": 1749739081
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983355
             },
             "reference_price": {
-                "value": "8.667",
-                "previous": [],
-                "timestamp": 1742983355
+                "value": "8.467",
+                "previous": [
+                    {
+                        "value": "8.667",
+                        "timestamp": 1742983355
+                    }
+                ],
+                "timestamp": 1749739081
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -158,7 +173,7 @@
                 "timestamp": 1742983355
             },
             "previous_unit_price": {
-                "value": null,
+                "value": "        6.50",
                 "previous": [],
                 "timestamp": 1742983355
             },
@@ -174,7 +189,7 @@
             "timestamp": 1742983355
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/66320/vino-tinto-do-rioja-coto-crianza-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/66320\/vino-tinto-do-rioja-coto-crianza-botella",
             "previous": [],
             "timestamp": 1742983355
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983355
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/57ae79880eb86113e3bb64691f42e274.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/57ae79880eb86113e3bb64691f42e274.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983355
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983355,
-        "updated_at": 1743023189,
-        "updates": 2
+        "updated_at": 1749739081,
+        "updates": 3
     }
 }

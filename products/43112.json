@@ -174,7 +174,7 @@
             "timestamp": 1742983476
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/43112/70-alcohol-limpieza-hogar-bosque-verde-perfumado-con-pistola-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/43112\/70-alcohol-limpieza-hogar-bosque-verde-perfumado-con-pistola-botella",
             "previous": [],
             "timestamp": 1742983476
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983476
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/f8f5be02ca76a6bbcde467b440392a24.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/f8f5be02ca76a6bbcde467b440392a24.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983476
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983476,
-        "updated_at": 1743023331,
-        "updates": 4
+        "updated_at": 1749739272,
+        "updates": 6
     }
 }

@@ -174,7 +174,7 @@
             "timestamp": 1742983539
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/68137/natillas-sabor-vainilla-hacendado-pack-4",
+            "value": "https:\/\/tienda.mercadona.es\/product\/68137\/natillas-sabor-vainilla-hacendado-pack-4",
             "previous": [],
             "timestamp": 1742983539
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983539
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/b189eabedf2ba4d7e0c901306f465e92.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/b189eabedf2ba4d7e0c901306f465e92.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983539
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983539,
-        "updated_at": 1743023392,
-        "updates": 2
+        "updated_at": 1749739355,
+        "updates": 3
     }
 }

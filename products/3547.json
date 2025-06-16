@@ -88,14 +88,24 @@
                 "timestamp": 1742983374
             },
             "bulk_price": {
-                "value": "12.22",
-                "previous": [],
-                "timestamp": 1742983374
+                "value": "13.33",
+                "previous": [
+                    {
+                        "value": "12.22",
+                        "timestamp": 1742983374
+                    }
+                ],
+                "timestamp": 1749739106
             },
             "unit_price": {
-                "value": "4.40",
-                "previous": [],
-                "timestamp": 1742983374
+                "value": "4.80",
+                "previous": [
+                    {
+                        "value": "4.40",
+                        "timestamp": 1742983374
+                    }
+                ],
+                "timestamp": 1749739106
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983374
             },
             "reference_price": {
-                "value": "12.223",
-                "previous": [],
-                "timestamp": 1742983374
+                "value": "13.334",
+                "previous": [
+                    {
+                        "value": "12.223",
+                        "timestamp": 1742983374
+                    }
+                ],
+                "timestamp": 1749739106
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983374
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/3547/burger-vacuno-gruesas-bandeja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/3547\/burger-vacuno-gruesas-bandeja",
             "previous": [],
             "timestamp": 1742983374
         },
@@ -189,9 +204,14 @@
             "timestamp": 1742983374
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/b8869c45f59d642b168d062a72a0f79c.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983374
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/979f351ff93ac3d74c1a2efa6dafea44.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/b8869c45f59d642b168d062a72a0f79c.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983374
+                }
+            ],
+            "timestamp": 1749739106
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +221,7 @@
     },
     "stats": {
         "created_at": 1742983374,
-        "updated_at": 1743023210,
-        "updates": 2
+        "updated_at": 1749739106,
+        "updates": 3
     }
 }

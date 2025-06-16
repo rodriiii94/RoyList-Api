@@ -196,7 +196,7 @@
             "timestamp": 1742983407
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/62179/filetes-merluza-cabo-grandes-sin-piel-hacendado-ultracongelados-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/62179\/filetes-merluza-cabo-grandes-sin-piel-hacendado-ultracongelados-paquete",
             "previous": [],
             "timestamp": 1742983407
         },
@@ -211,7 +211,7 @@
             "timestamp": 1742983407
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/3b17bd9f52b316ae1d1349f7c92a2712.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/3b17bd9f52b316ae1d1349f7c92a2712.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983407
         },
@@ -223,7 +223,7 @@
     },
     "stats": {
         "created_at": 1742983407,
-        "updated_at": 1743023354,
-        "updates": 4
+        "updated_at": 1749739303,
+        "updates": 6
     }
 }

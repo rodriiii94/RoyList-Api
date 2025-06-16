@@ -88,14 +88,24 @@
                 "timestamp": 1742983369
             },
             "bulk_price": {
-                "value": "7.24",
-                "previous": [],
-                "timestamp": 1742983369
+                "value": "7.57",
+                "previous": [
+                    {
+                        "value": "7.24",
+                        "timestamp": 1742983369
+                    }
+                ],
+                "timestamp": 1749739101
             },
             "unit_price": {
-                "value": "2.68",
-                "previous": [],
-                "timestamp": 1742983369
+                "value": "2.80",
+                "previous": [
+                    {
+                        "value": "2.68",
+                        "timestamp": 1742983369
+                    }
+                ],
+                "timestamp": 1749739101
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983369
             },
             "reference_price": {
-                "value": "7.244",
-                "previous": [],
-                "timestamp": 1742983369
+                "value": "7.568",
+                "previous": [
+                    {
+                        "value": "7.244",
+                        "timestamp": 1742983369
+                    }
+                ],
+                "timestamp": 1749739101
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983369
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/23308/fiambre-magro-cerdo-adobado-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/23308\/fiambre-magro-cerdo-adobado-paquete",
             "previous": [],
             "timestamp": 1742983369
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983369
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/41f5b2ec1f01df5f240b640b66b4a4f9.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/41f5b2ec1f01df5f240b640b66b4a4f9.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983369
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983369,
-        "updated_at": 1743023213,
-        "updates": 4
+        "updated_at": 1749739110,
+        "updates": 6
     }
 }

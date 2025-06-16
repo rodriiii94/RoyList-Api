@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Petit Nesquik Nestlé",
+            "value": "Petit Nesquik Nestl\u00e9",
             "previous": [],
             "timestamp": 1742983550
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983550
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/68029/petit-nesquik-nestle-pack-6",
+            "value": "https:\/\/tienda.mercadona.es\/product\/68029\/petit-nesquik-nestle-pack-6",
             "previous": [],
             "timestamp": 1742983550
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983550
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/f819e859580812aa746ae8e2f2c91aa6.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/f819e859580812aa746ae8e2f2c91aa6.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983550
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983550,
-        "updated_at": 1743023404,
-        "updates": 2
+        "updated_at": 1749739370,
+        "updates": 3
     }
 }

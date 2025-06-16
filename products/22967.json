@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Batido de chocolate Hacendado 0% sin azúcares añadidos",
+            "value": "Batido de chocolate Hacendado 0% sin az\u00facares a\u00f1adidos",
             "previous": [],
             "timestamp": 1742983463
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983463
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/22967/batido-chocolate-hacendado-0-sin-azucares-anadidos-pack-6",
+            "value": "https:\/\/tienda.mercadona.es\/product\/22967\/batido-chocolate-hacendado-0-sin-azucares-anadidos-pack-6",
             "previous": [],
             "timestamp": 1742983463
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983463
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/705e4b69f5952299c3f9d7e954440275.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/705e4b69f5952299c3f9d7e954440275.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983463
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983463,
-        "updated_at": 1743023313,
-        "updates": 2
+        "updated_at": 1749739247,
+        "updates": 3
     }
 }

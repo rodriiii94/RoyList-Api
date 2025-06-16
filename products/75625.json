@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Coloración permanente L'Oréal 10 rubio muy claro",
+            "value": "Coloraci\u00f3n permanente L'Or\u00e9al 10 rubio muy claro",
             "previous": [],
             "timestamp": 1742983428
         },
@@ -169,7 +169,7 @@
             "timestamp": 1742983428
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/75625/coloracion-permanente-loreal-10-rubio-muy-claro-excellence-creme-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/75625\/coloracion-permanente-loreal-10-rubio-muy-claro-excellence-creme-caja",
             "previous": [],
             "timestamp": 1742983428
         },
@@ -184,7 +184,7 @@
             "timestamp": 1742983428
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/640a5dbf525f241355efb1145fbb57dd.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/640a5dbf525f241355efb1145fbb57dd.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983428
         },
@@ -196,7 +196,7 @@
     },
     "stats": {
         "created_at": 1742983428,
-        "updated_at": 1743023271,
-        "updates": 2
+        "updated_at": 1749739187,
+        "updates": 3
     }
 }

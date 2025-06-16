@@ -174,7 +174,7 @@
             "timestamp": 1742983327
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/6106/pasta-fusilli-100-lentejas-rojas-felicia-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/6106\/pasta-fusilli-100-lentejas-rojas-felicia-paquete",
             "previous": [],
             "timestamp": 1742983327
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983327
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/b82394e08ac387522c2286fb9c234b5f.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/b82394e08ac387522c2286fb9c234b5f.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983327
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983327,
-        "updated_at": 1743023156,
-        "updates": 2
+        "updated_at": 1749739041,
+        "updates": 3
     }
 }

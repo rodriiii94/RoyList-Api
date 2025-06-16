@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Detergente ropa todo en 1 Ariel Pods en cápsulas",
+            "value": "Detergente ropa todo en 1 Ariel Pods en c\u00e1psulas",
             "previous": [],
             "timestamp": 1742983467
         },
@@ -78,24 +78,39 @@
                 "timestamp": 1742983467
             },
             "unit_name": {
-                "value": "cápsulas",
+                "value": "c\u00e1psulas",
                 "previous": [],
                 "timestamp": 1742983467
             },
             "unit_size": {
-                "value": 0.3978,
-                "previous": [],
-                "timestamp": 1742983467
+                "value": 0.369,
+                "previous": [
+                    {
+                        "value": 0.3978,
+                        "timestamp": 1742983467
+                    }
+                ],
+                "timestamp": 1749739252
             },
             "bulk_price": {
-                "value": "0.33",
-                "previous": [],
-                "timestamp": 1742983467
+                "value": "0.38",
+                "previous": [
+                    {
+                        "value": "0.33",
+                        "timestamp": 1742983467
+                    }
+                ],
+                "timestamp": 1749739252
             },
             "unit_price": {
-                "value": "5.95",
-                "previous": [],
-                "timestamp": 1742983467
+                "value": "6.90",
+                "previous": [
+                    {
+                        "value": "5.95",
+                        "timestamp": 1742983467
+                    }
+                ],
+                "timestamp": 1749739252
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +158,14 @@
                 "timestamp": 1742983467
             },
             "reference_price": {
-                "value": "0.331",
-                "previous": [],
-                "timestamp": 1742983467
+                "value": "0.384",
+                "previous": [
+                    {
+                        "value": "0.331",
+                        "timestamp": 1742983467
+                    }
+                ],
+                "timestamp": 1749739252
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -158,9 +178,14 @@
                 "timestamp": 1742983467
             },
             "previous_unit_price": {
-                "value": "        6.90",
-                "previous": [],
-                "timestamp": 1742983467
+                "value": null,
+                "previous": [
+                    {
+                        "value": "        6.90",
+                        "timestamp": 1742983467
+                    }
+                ],
+                "timestamp": 1749739252
             },
             "increment_bunch_amount": {
                 "value": 1,
@@ -174,7 +199,7 @@
             "timestamp": 1742983467
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/52553/detergente-ropa-all-in-1-ariel-pods-capsulas-lavadora-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/52553\/detergente-ropa-all-in-1-ariel-pods-capsulas-lavadora-caja",
             "previous": [],
             "timestamp": 1742983467
         },
@@ -189,7 +214,7 @@
             "timestamp": 1742983467
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/b6638a1df050dc42bf9e5546efc52f6e.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/b6638a1df050dc42bf9e5546efc52f6e.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983467
         },
@@ -201,7 +226,7 @@
     },
     "stats": {
         "created_at": 1742983467,
-        "updated_at": 1743023317,
-        "updates": 2
+        "updated_at": 1749739252,
+        "updates": 3
     }
 }

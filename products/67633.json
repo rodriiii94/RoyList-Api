@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Flan de café Hacendado",
+            "value": "Flan de caf\u00e9 Hacendado",
             "previous": [],
             "timestamp": 1742983539
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983539
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/67633/flan-cafe-hacendado-pack-4",
+            "value": "https:\/\/tienda.mercadona.es\/product\/67633\/flan-cafe-hacendado-pack-4",
             "previous": [],
             "timestamp": 1742983539
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983539
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/81f6c2485bf89afe346e9b7928c7edf4.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983539
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/16939cd082276620515c0702bdd8835d.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/81f6c2485bf89afe346e9b7928c7edf4.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983539
+                }
+            ],
+            "timestamp": 1749739355
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983539,
-        "updated_at": 1743023392,
-        "updates": 2
+        "updated_at": 1749739355,
+        "updates": 3
     }
 }

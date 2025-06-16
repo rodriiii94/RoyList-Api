@@ -174,7 +174,7 @@
             "timestamp": 1742983507
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/26995/migas-bacalao-desaladas-hacendado-bandeja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/26995\/migas-bacalao-desaladas-hacendado-bandeja",
             "previous": [],
             "timestamp": 1742983507
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983507
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/bedf3ce630eced0b26ff534f942487f9.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/bedf3ce630eced0b26ff534f942487f9.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983507
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983507,
-        "updated_at": 1743023359,
-        "updates": 2
+        "updated_at": 1749739310,
+        "updates": 3
     }
 }

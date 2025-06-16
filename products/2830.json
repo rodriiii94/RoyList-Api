@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Solomillos de pollo certificado alimentado con un 50% de maíz",
+            "value": "Solomillos de pollo certificado alimentado con un 50% de ma\u00edz",
             "previous": [],
             "timestamp": 1742983366
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983366
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/2830/solomillos-pollo-certificado-alimentado-con-50-maiz-bandeja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/2830\/solomillos-pollo-certificado-alimentado-con-50-maiz-bandeja",
             "previous": [],
             "timestamp": 1742983366
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983366
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/1ef423898c27959cd6d6a11071259b0d.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983366
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/ec023f8cb2f10308269c28146446e35c.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/1ef423898c27959cd6d6a11071259b0d.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983366
+                }
+            ],
+            "timestamp": 1749739097
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983366,
-        "updated_at": 1743023202,
-        "updates": 2
+        "updated_at": 1749739097,
+        "updates": 3
     }
 }

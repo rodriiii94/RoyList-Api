@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739207
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739207
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 20,
+                    "previous": [],
+                    "timestamp": 1749739207
+                },
+                "name": {
+                    "value": "Cuidado facial y corporal",
+                    "previous": [],
+                    "timestamp": 1749739207
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739207
+                },
+                "order": {
+                    "value": 241,
+                    "previous": [],
+                    "timestamp": 1749739207
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Gel de ba\u00f1o granada y frutos silvestres Deliplus piel normal",
+            "previous": [],
+            "timestamp": 1749739207
+        },
+        "id": {
+            "value": "13294",
+            "previous": [],
+            "timestamp": 1749739207
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739207
+        },
+        "packaging": {
+            "value": "Botella",
+            "previous": [],
+            "timestamp": 1749739207
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1749739207
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739207
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739207
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739207
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739207
+            },
+            "unit_size": {
+                "value": 0.75,
+                "previous": [],
+                "timestamp": 1749739207
+            },
+            "bulk_price": {
+                "value": "2.13",
+                "previous": [],
+                "timestamp": 1749739207
+            },
+            "unit_price": {
+                "value": "1.60",
+                "previous": [],
+                "timestamp": 1749739207
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739207
+            },
+            "size_format": {
+                "value": "l",
+                "previous": [],
+                "timestamp": 1749739207
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739207
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739207
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739207
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739207
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739207
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1749739207
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739207
+            },
+            "reference_price": {
+                "value": "0.214",
+                "previous": [],
+                "timestamp": 1749739207
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739207
+            },
+            "reference_format": {
+                "value": "100 ml",
+                "previous": [],
+                "timestamp": 1749739207
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739207
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739207
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739207
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/13294\/gel-bano-granada-frutos-silvestres-deliplus-piel-normal-botella",
+            "previous": [],
+            "timestamp": 1749739207
+        },
+        "slug": {
+            "value": "gel-bano-granada-frutos-silvestres-deliplus-piel-normal-botella",
+            "previous": [],
+            "timestamp": 1749739207
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739207
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/53a2d41d8893527e2ac08c89fd30b6ef.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739207
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739207
+        }
+    },
+    "stats": {
+        "created_at": 1749739207,
+        "updated_at": 1749739207,
+        "updates": 1
+    }
+}

@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Gel de manos hidroalcohólico 80% alcohol Deliplus antiséptico sin aclarado",
+            "value": "Gel de manos hidroalcoh\u00f3lico 80% alcohol Deliplus antis\u00e9ptico sin aclarado",
             "previous": [],
             "timestamp": 1742983440
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983440
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/77007/gel-manos-hidroalcoholico-80-alcohol-deliplus-antiseptico-sin-aclarado-bote",
+            "value": "https:\/\/tienda.mercadona.es\/product\/77007\/gel-manos-hidroalcoholico-80-alcohol-deliplus-antiseptico-sin-aclarado-bote",
             "previous": [],
             "timestamp": 1742983440
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983440
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/2019af8d16395f465eb94c6c75dd75c3.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/2019af8d16395f465eb94c6c75dd75c3.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983440
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983440,
-        "updated_at": 1743023286,
-        "updates": 2
+        "updated_at": 1749739207,
+        "updates": 3
     }
 }

@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Coloración permanente 8.31 nude arena Deliplus",
+            "value": "Coloraci\u00f3n permanente 8.31 nude arena Deliplus",
             "previous": [],
             "timestamp": 1742983429
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983429
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/73199/coloracion-permanente-831-nude-arena-deliplus-colorcor-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/73199\/coloracion-permanente-831-nude-arena-deliplus-colorcor-caja",
             "previous": [],
             "timestamp": 1742983429
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983429
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/ba2c78d296abe21bfec9c2cdbbe0f61c.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/ba2c78d296abe21bfec9c2cdbbe0f61c.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983429
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983429,
-        "updated_at": 1743023271,
-        "updates": 2
+        "updated_at": 1749739188,
+        "updates": 3
     }
 }

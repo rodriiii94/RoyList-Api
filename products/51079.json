@@ -20,7 +20,7 @@
                     "timestamp": 1742983397
                 },
                 "name": {
-                    "value": "Charcutería y quesos",
+                    "value": "Charcuter\u00eda y quesos",
                     "previous": [],
                     "timestamp": 1742983397
                 },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983397
             },
             "bulk_price": {
-                "value": "8.52",
-                "previous": [],
-                "timestamp": 1742983397
+                "value": "10.56",
+                "previous": [
+                    {
+                        "value": "8.52",
+                        "timestamp": 1742983397
+                    }
+                ],
+                "timestamp": 1749739140
             },
             "unit_price": {
-                "value": "2.30",
-                "previous": [],
-                "timestamp": 1742983397
+                "value": "2.85",
+                "previous": [
+                    {
+                        "value": "2.30",
+                        "timestamp": 1742983397
+                    }
+                ],
+                "timestamp": 1749739140
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983397
             },
             "reference_price": {
-                "value": "8.519",
-                "previous": [],
-                "timestamp": 1742983397
+                "value": "10.556",
+                "previous": [
+                    {
+                        "value": "8.519",
+                        "timestamp": 1742983397
+                    }
+                ],
+                "timestamp": 1749739140
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -158,9 +173,14 @@
                 "timestamp": 1742983397
             },
             "previous_unit_price": {
-                "value": "        2.84",
-                "previous": [],
-                "timestamp": 1742983397
+                "value": null,
+                "previous": [
+                    {
+                        "value": "        2.84",
+                        "timestamp": 1742983397
+                    }
+                ],
+                "timestamp": 1749739140
             },
             "increment_bunch_amount": {
                 "value": 1,
@@ -174,7 +194,7 @@
             "timestamp": 1742983397
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/51079/queso-untar-light-philadelphia-tarrina",
+            "value": "https:\/\/tienda.mercadona.es\/product\/51079\/queso-untar-light-philadelphia-tarrina",
             "previous": [],
             "timestamp": 1742983397
         },
@@ -189,9 +209,14 @@
             "timestamp": 1742983397
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/7c5cc6090b6bc88d7a94bad839ab4066.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983397
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/1a7ff652c2508d92c72cd6058c70a29a.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/7c5cc6090b6bc88d7a94bad839ab4066.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983397
+                }
+            ],
+            "timestamp": 1749739140
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +226,7 @@
     },
     "stats": {
         "created_at": 1742983397,
-        "updated_at": 1743023236,
-        "updates": 2
+        "updated_at": 1749739140,
+        "updates": 3
     }
 }

@@ -174,7 +174,7 @@
             "timestamp": 1742983492
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/12832/colorete-fluido-blush-mate-deliplus-03-rosa",
+            "value": "https:\/\/tienda.mercadona.es\/product\/12832\/colorete-fluido-blush-mate-deliplus-03-rosa",
             "previous": [],
             "timestamp": 1742983492
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983492
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/f28035dafe501d3f54708535a6ab191b.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/f28035dafe501d3f54708535a6ab191b.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983492
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983492,
-        "updated_at": 1743023344,
-        "updates": 2
+        "updated_at": 1749739288,
+        "updates": 3
     }
 }

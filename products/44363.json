@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Acondicionador Repair & Nutrition Deliplus cabello seco y dañado",
+            "value": "Acondicionador Repair & Nutrition Deliplus cabello seco y da\u00f1ado",
             "previous": [],
             "timestamp": 1742983425
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983425
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/44363/acondicionador-repair-nutrition-deliplus-cabello-seco-danado-con-8-agentes-reparadores-bote",
+            "value": "https:\/\/tienda.mercadona.es\/product\/44363\/acondicionador-repair-nutrition-deliplus-cabello-seco-danado-con-8-agentes-reparadores-bote",
             "previous": [],
             "timestamp": 1742983425
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983425
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/d4104f4e2c5072b09ea5894d8cdd7ba1.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/d4104f4e2c5072b09ea5894d8cdd7ba1.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983425
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983425,
-        "updated_at": 1743023266,
-        "updates": 2
+        "updated_at": 1749739179,
+        "updates": 3
     }
 }

@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Maíz palomitas Hacendado",
+            "value": "Ma\u00edz palomitas Hacendado",
             "previous": [],
             "timestamp": 1742983321
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983321
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/34804/maiz-palomitas-hacendado-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/34804\/maiz-palomitas-hacendado-paquete",
             "previous": [],
             "timestamp": 1742983321
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983321
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/cad2546eb5ab6a7ae93b84625898509a.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/cad2546eb5ab6a7ae93b84625898509a.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983321
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983321,
-        "updated_at": 1743023148,
-        "updates": 2
+        "updated_at": 1749739031,
+        "updates": 3
     }
 }

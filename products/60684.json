@@ -174,7 +174,7 @@
             "timestamp": 1742983402
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/60684/helado-cookie-dough-hacendado-crema-vainilla-con-trozos-galletas-con-pepitas-chocolate-salsa-caramelo-bote",
+            "value": "https:\/\/tienda.mercadona.es\/product\/60684\/helado-cookie-dough-hacendado-crema-vainilla-con-trozos-galletas-con-pepitas-chocolate-salsa-caramelo-bote",
             "previous": [],
             "timestamp": 1742983402
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983402
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/3474fb75f5c06b8bb79bf02b8ea748c9.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983402
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/0b89324f51d3e6db4539311d0a4f37a0.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/3474fb75f5c06b8bb79bf02b8ea748c9.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983402
+                }
+            ],
+            "timestamp": 1749739148
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983402,
-        "updated_at": 1743023241,
-        "updates": 2
+        "updated_at": 1749739148,
+        "updates": 3
     }
 }

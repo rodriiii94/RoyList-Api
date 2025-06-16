@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Bífidus natural probiótico azucarado Hacendado con cereales y fresas deshidratadas",
+            "value": "B\u00edfidus natural probi\u00f3tico azucarado Hacendado con cereales y fresas deshidratadas",
             "previous": [],
             "timestamp": 1742983538
         },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983538
             },
             "bulk_price": {
-                "value": "6.65",
-                "previous": [],
-                "timestamp": 1742983538
+                "value": "6.76",
+                "previous": [
+                    {
+                        "value": "6.65",
+                        "timestamp": 1742983538
+                    }
+                ],
+                "timestamp": 1749739354
             },
             "unit_price": {
-                "value": "1.13",
-                "previous": [],
-                "timestamp": 1742983538
+                "value": "1.15",
+                "previous": [
+                    {
+                        "value": "1.13",
+                        "timestamp": 1742983538
+                    }
+                ],
+                "timestamp": 1749739354
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983538
             },
             "reference_price": {
-                "value": "6.648",
-                "previous": [],
-                "timestamp": 1742983538
+                "value": "6.765",
+                "previous": [
+                    {
+                        "value": "6.648",
+                        "timestamp": 1742983538
+                    }
+                ],
+                "timestamp": 1749739354
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983538
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/20859/bifidus-natural-probiotico-azucarado-hacendado-con-cereales-fresas-deshidratadas-tarrina",
+            "value": "https:\/\/tienda.mercadona.es\/product\/20859\/bifidus-natural-probiotico-azucarado-hacendado-con-cereales-fresas-deshidratadas-tarrina",
             "previous": [],
             "timestamp": 1742983538
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983538
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/57eb27c83b66f0ba50b171a8ee1fb023.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/57eb27c83b66f0ba50b171a8ee1fb023.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983538
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983538,
-        "updated_at": 1743023391,
-        "updates": 2
+        "updated_at": 1749739354,
+        "updates": 3
     }
 }

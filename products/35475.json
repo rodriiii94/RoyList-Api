@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739062
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739062
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 24,
+                    "previous": [],
+                    "timestamp": 1749739062
+                },
+                "name": {
+                    "value": "Beb\u00e9",
+                    "previous": [],
+                    "timestamp": 1749739062
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739062
+                },
+                "order": {
+                    "value": 14,
+                    "previous": [],
+                    "timestamp": 1749739062
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Pa\u00f1al ba\u00f1ador desechable talla M Deliplus de 12-18 kg",
+            "previous": [],
+            "timestamp": 1749739062
+        },
+        "id": {
+            "value": "35475",
+            "previous": [],
+            "timestamp": 1749739062
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739062
+        },
+        "packaging": {
+            "value": "Paquete",
+            "previous": [],
+            "timestamp": 1749739062
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1749739062
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739062
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739062
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739062
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739062
+            },
+            "unit_size": {
+                "value": 12,
+                "previous": [],
+                "timestamp": 1749739062
+            },
+            "bulk_price": {
+                "value": "0.46",
+                "previous": [],
+                "timestamp": 1749739062
+            },
+            "unit_price": {
+                "value": "5.50",
+                "previous": [],
+                "timestamp": 1749739062
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739062
+            },
+            "size_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1749739062
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739062
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739062
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739062
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739062
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739062
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1749739062
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739062
+            },
+            "reference_price": {
+                "value": "0.459",
+                "previous": [],
+                "timestamp": 1749739062
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739062
+            },
+            "reference_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1749739062
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739062
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739062
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739062
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/35475\/panal-banador-desechable-talla-m-deliplus-12-18-kg-paquete",
+            "previous": [],
+            "timestamp": 1749739062
+        },
+        "slug": {
+            "value": "panal-banador-desechable-talla-m-deliplus-12-18-kg-paquete",
+            "previous": [],
+            "timestamp": 1749739062
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739062
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/c749e1c5e75ef0673a044ddc0c7e5e20.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739062
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739062
+        }
+    },
+    "stats": {
+        "created_at": 1749739062,
+        "updated_at": 1749739062,
+        "updates": 1
+    }
+}

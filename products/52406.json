@@ -20,7 +20,7 @@
                     "timestamp": 1742983397
                 },
                 "name": {
-                    "value": "Charcutería y quesos",
+                    "value": "Charcuter\u00eda y quesos",
                     "previous": [],
                     "timestamp": 1742983397
                 },
@@ -174,7 +174,7 @@
             "timestamp": 1742983397
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/52406/queso-fresco-burgos-natural-hacendado-pack-2",
+            "value": "https:\/\/tienda.mercadona.es\/product\/52406\/queso-fresco-burgos-natural-hacendado-pack-2",
             "previous": [],
             "timestamp": 1742983397
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983397
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/f720ac03cd3735edc5ec4647c7da94ec.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/f720ac03cd3735edc5ec4647c7da94ec.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983397
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983397,
-        "updated_at": 1743023236,
-        "updates": 2
+        "updated_at": 1749739140,
+        "updates": 3
     }
 }

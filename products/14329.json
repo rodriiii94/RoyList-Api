@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739221
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739221
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 20,
+                    "previous": [],
+                    "timestamp": 1749739221
+                },
+                "name": {
+                    "value": "Cuidado facial y corporal",
+                    "previous": [],
+                    "timestamp": 1749739221
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739221
+                },
+                "order": {
+                    "value": 241,
+                    "previous": [],
+                    "timestamp": 1749739221
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Neceser sand\u00eda transparente grande Uahuu con asa",
+            "previous": [],
+            "timestamp": 1749739221
+        },
+        "id": {
+            "value": "14329",
+            "previous": [],
+            "timestamp": 1749739221
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739221
+        },
+        "packaging": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739221
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1749739221
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739221
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739221
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739221
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739221
+            },
+            "unit_size": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739221
+            },
+            "bulk_price": {
+                "value": "7.50",
+                "previous": [],
+                "timestamp": 1749739221
+            },
+            "unit_price": {
+                "value": "7.50",
+                "previous": [],
+                "timestamp": 1749739221
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739221
+            },
+            "size_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1749739221
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739221
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739221
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739221
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739221
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739221
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1749739221
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739221
+            },
+            "reference_price": {
+                "value": "7.500",
+                "previous": [],
+                "timestamp": 1749739221
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739221
+            },
+            "reference_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1749739221
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739221
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739221
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739221
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/14329\/neceser-sandia-transparente-grande-uahuu-con-asa-310-x-190-x-60-mm",
+            "previous": [],
+            "timestamp": 1749739221
+        },
+        "slug": {
+            "value": "neceser-sandia-transparente-grande-uahuu-con-asa-310-x-190-x-60-mm",
+            "previous": [],
+            "timestamp": 1749739221
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739221
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/ce4bbc7b1bae5ddf13954e23084375d8.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739221
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739221
+        }
+    },
+    "stats": {
+        "created_at": 1749739221,
+        "updated_at": 1749739221,
+        "updates": 1
+    }
+}

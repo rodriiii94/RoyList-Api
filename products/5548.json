@@ -20,7 +20,7 @@
                     "timestamp": 1742983394
                 },
                 "name": {
-                    "value": "Charcutería y quesos",
+                    "value": "Charcuter\u00eda y quesos",
                     "previous": [],
                     "timestamp": 1742983394
                 },
@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Queso añejo ibérico mezcla Hacendado cortado en cuñitas",
+            "value": "Queso a\u00f1ejo ib\u00e9rico mezcla Hacendado cortado en cu\u00f1itas",
             "previous": [],
             "timestamp": 1742983394
         },
@@ -88,9 +88,14 @@
                 "timestamp": 1742983394
             },
             "bulk_price": {
-                "value": "18.99",
-                "previous": [],
-                "timestamp": 1742983394
+                "value": "19.00",
+                "previous": [
+                    {
+                        "value": "18.99",
+                        "timestamp": 1742983394
+                    }
+                ],
+                "timestamp": 1749739135
             },
             "unit_price": {
                 "value": "6.08",
@@ -143,9 +148,14 @@
                 "timestamp": 1742983394
             },
             "reference_price": {
-                "value": "18.990",
-                "previous": [],
-                "timestamp": 1742983394
+                "value": "19.000",
+                "previous": [
+                    {
+                        "value": "18.990",
+                        "timestamp": 1742983394
+                    }
+                ],
+                "timestamp": 1749739135
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +184,7 @@
             "timestamp": 1742983394
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/5548/queso-anejo-iberico-mezcla-hacendado-cortado-cunitas-pieza",
+            "value": "https:\/\/tienda.mercadona.es\/product\/5548\/queso-anejo-iberico-mezcla-hacendado-cortado-cunitas-pieza",
             "previous": [],
             "timestamp": 1742983394
         },
@@ -189,7 +199,7 @@
             "timestamp": 1742983394
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/489448f63b8a9fa323a1e3d285be58cf.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/489448f63b8a9fa323a1e3d285be58cf.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983394
         },
@@ -201,7 +211,7 @@
     },
     "stats": {
         "created_at": 1742983394,
-        "updated_at": 1743023232,
-        "updates": 2
+        "updated_at": 1749739135,
+        "updates": 3
     }
 }

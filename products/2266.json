@@ -59,7 +59,7 @@
             }
         ],
         "display_name": {
-            "value": "Rabo de vacuno añojo congelado",
+            "value": "Rabo de vacuno a\u00f1ojo congelado",
             "previous": [],
             "timestamp": 1742983367
         },
@@ -105,19 +105,34 @@
                 "timestamp": 1742983367
             },
             "unit_size": {
-                "value": 1.1,
-                "previous": [],
-                "timestamp": 1742983367
+                "value": 1.05,
+                "previous": [
+                    {
+                        "value": 1.1,
+                        "timestamp": 1742983367
+                    }
+                ],
+                "timestamp": 1749739099
             },
             "bulk_price": {
-                "value": "15.50",
-                "previous": [],
-                "timestamp": 1742983367
+                "value": "17.00",
+                "previous": [
+                    {
+                        "value": "15.50",
+                        "timestamp": 1742983367
+                    }
+                ],
+                "timestamp": 1749739099
             },
             "unit_price": {
-                "value": "17.05",
-                "previous": [],
-                "timestamp": 1742983367
+                "value": "17.85",
+                "previous": [
+                    {
+                        "value": "17.05",
+                        "timestamp": 1742983367
+                    }
+                ],
+                "timestamp": 1749739099
             },
             "approx_size": {
                 "value": true,
@@ -165,9 +180,14 @@
                 "timestamp": 1742983367
             },
             "reference_price": {
-                "value": "15.500",
-                "previous": [],
-                "timestamp": 1742983367
+                "value": "17.000",
+                "previous": [
+                    {
+                        "value": "15.500",
+                        "timestamp": 1742983367
+                    }
+                ],
+                "timestamp": 1749739099
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -196,7 +216,7 @@
             "timestamp": 1742983367
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/2266/rabo-vacuno-anojo-congelado-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/2266\/rabo-vacuno-anojo-congelado-paquete",
             "previous": [],
             "timestamp": 1742983367
         },
@@ -211,7 +231,7 @@
             "timestamp": 1742983367
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/d5ac4015bab4d6cbbbf82c8ad51cff07.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/d5ac4015bab4d6cbbbf82c8ad51cff07.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983367
         },
@@ -223,7 +243,7 @@
     },
     "stats": {
         "created_at": 1742983367,
-        "updated_at": 1743023240,
-        "updates": 4
+        "updated_at": 1749739145,
+        "updates": 6
     }
 }

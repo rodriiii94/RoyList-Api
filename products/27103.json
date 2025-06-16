@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739064
+            },
+            "requires_age_check": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739064
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 19,
+                    "previous": [],
+                    "timestamp": 1749739064
+                },
+                "name": {
+                    "value": "Bodega",
+                    "previous": [],
+                    "timestamp": 1749739064
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739064
+                },
+                "order": {
+                    "value": 15,
+                    "previous": [],
+                    "timestamp": 1749739064
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Cerveza especial San Miguel",
+            "previous": [],
+            "timestamp": 1749739064
+        },
+        "id": {
+            "value": "27103",
+            "previous": [],
+            "timestamp": 1749739064
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739064
+        },
+        "packaging": {
+            "value": "Lata",
+            "previous": [],
+            "timestamp": 1749739064
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1749739064
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739064
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739064
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739064
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739064
+            },
+            "unit_size": {
+                "value": 0.33,
+                "previous": [],
+                "timestamp": 1749739064
+            },
+            "bulk_price": {
+                "value": "2.24",
+                "previous": [],
+                "timestamp": 1749739064
+            },
+            "unit_price": {
+                "value": "0.74",
+                "previous": [],
+                "timestamp": 1749739064
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739064
+            },
+            "size_format": {
+                "value": "l",
+                "previous": [],
+                "timestamp": 1749739064
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739064
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739064
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739064
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739064
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739064
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1749739064
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739064
+            },
+            "reference_price": {
+                "value": "2.243",
+                "previous": [],
+                "timestamp": 1749739064
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739064
+            },
+            "reference_format": {
+                "value": "L",
+                "previous": [],
+                "timestamp": 1749739064
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739064
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739064
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739064
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/27103\/cerveza-especial-san-miguel-lata",
+            "previous": [],
+            "timestamp": 1749739064
+        },
+        "slug": {
+            "value": "cerveza-especial-san-miguel-lata",
+            "previous": [],
+            "timestamp": 1749739064
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739064
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/bf51e12d259ce16fea3664f552f66d07.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739064
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739064
+        }
+    },
+    "stats": {
+        "created_at": 1749739064,
+        "updated_at": 1749739064,
+        "updates": 1
+    }
+}

@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Lasaña boloñesa familiar Hacendado ultracongelada",
+            "value": "Lasa\u00f1a bolo\u00f1esa familiar Hacendado ultracongelada",
             "previous": [],
             "timestamp": 1742983399
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983399
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/35767/lasana-bolonesa-familiar-hacendado-ultracongelada-bandeja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/35767\/lasana-bolonesa-familiar-hacendado-ultracongelada-bandeja",
             "previous": [],
             "timestamp": 1742983399
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983399
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/d3aa6907a659d89fd40a5c7f195a56ce.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/d3aa6907a659d89fd40a5c7f195a56ce.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983399
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983399,
-        "updated_at": 1743023238,
-        "updates": 2
+        "updated_at": 1749739143,
+        "updates": 3
     }
 }

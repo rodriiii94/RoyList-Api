@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739219
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739219
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 20,
+                    "previous": [],
+                    "timestamp": 1749739219
+                },
+                "name": {
+                    "value": "Cuidado facial y corporal",
+                    "previous": [],
+                    "timestamp": 1749739219
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739219
+                },
+                "order": {
+                    "value": 241,
+                    "previous": [],
+                    "timestamp": 1749739219
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Body spray citronela Deliplus",
+            "previous": [],
+            "timestamp": 1749739219
+        },
+        "id": {
+            "value": "78694",
+            "previous": [],
+            "timestamp": 1749739219
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739219
+        },
+        "packaging": {
+            "value": "Bote",
+            "previous": [],
+            "timestamp": 1749739219
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1749739219
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739219
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739219
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739219
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739219
+            },
+            "unit_size": {
+                "value": 0.15,
+                "previous": [],
+                "timestamp": 1749739219
+            },
+            "bulk_price": {
+                "value": "9.00",
+                "previous": [],
+                "timestamp": 1749739219
+            },
+            "unit_price": {
+                "value": "1.35",
+                "previous": [],
+                "timestamp": 1749739219
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739219
+            },
+            "size_format": {
+                "value": "l",
+                "previous": [],
+                "timestamp": 1749739219
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739219
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739219
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739219
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739219
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739219
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1749739219
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739219
+            },
+            "reference_price": {
+                "value": "0.900",
+                "previous": [],
+                "timestamp": 1749739219
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739219
+            },
+            "reference_format": {
+                "value": "100 ml",
+                "previous": [],
+                "timestamp": 1749739219
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739219
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739219
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739219
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/78694\/body-spray-citronela-deliplus-bote",
+            "previous": [],
+            "timestamp": 1749739219
+        },
+        "slug": {
+            "value": "body-spray-citronela-deliplus-bote",
+            "previous": [],
+            "timestamp": 1749739219
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739219
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/5ca2cf91fca3edfde7791f8af0420cf3.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739219
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739219
+        }
+    },
+    "stats": {
+        "created_at": 1749739219,
+        "updated_at": 1749739219,
+        "updates": 1
+    }
+}

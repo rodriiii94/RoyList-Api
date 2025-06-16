@@ -20,7 +20,7 @@
                     "timestamp": 1742983339
                 },
                 "name": {
-                    "value": "Bebé",
+                    "value": "Beb\u00e9",
                     "previous": [],
                     "timestamp": 1742983339
                 },
@@ -174,7 +174,7 @@
             "timestamp": 1742983339
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/79497/chupete-silicona-reversible-18-meses-deliplus-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/79497\/chupete-silicona-reversible-18-meses-deliplus-paquete",
             "previous": [],
             "timestamp": 1742983339
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983339
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/14a14b5c9b1bdf315bfc7363cfa5a439.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/14a14b5c9b1bdf315bfc7363cfa5a439.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983339
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983339,
-        "updated_at": 1743023169,
-        "updates": 2
+        "updated_at": 1749739058,
+        "updates": 3
     }
 }

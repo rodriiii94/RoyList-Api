@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739106
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739106
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 3,
+                    "previous": [],
+                    "timestamp": 1749739106
+                },
+                "name": {
+                    "value": "Carne",
+                    "previous": [],
+                    "timestamp": 1749739106
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739106
+                },
+                "order": {
+                    "value": 17,
+                    "previous": [],
+                    "timestamp": 1749739106
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Burger de pollo gruesa",
+            "previous": [],
+            "timestamp": 1749739106
+        },
+        "id": {
+            "value": "86911",
+            "previous": [],
+            "timestamp": 1749739106
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739106
+        },
+        "packaging": {
+            "value": "Bandeja",
+            "previous": [],
+            "timestamp": 1749739106
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1749739106
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739106
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739106
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739106
+            },
+            "unit_name": {
+                "value": "ud.",
+                "previous": [],
+                "timestamp": 1749739106
+            },
+            "unit_size": {
+                "value": 0.36,
+                "previous": [],
+                "timestamp": 1749739106
+            },
+            "bulk_price": {
+                "value": "8.89",
+                "previous": [],
+                "timestamp": 1749739106
+            },
+            "unit_price": {
+                "value": "3.20",
+                "previous": [],
+                "timestamp": 1749739106
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739106
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1749739106
+            },
+            "total_units": {
+                "value": 2,
+                "previous": [],
+                "timestamp": 1749739106
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739106
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739106
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739106
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739106
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1749739106
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739106
+            },
+            "reference_price": {
+                "value": "8.889",
+                "previous": [],
+                "timestamp": 1749739106
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739106
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1749739106
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739106
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739106
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739106
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/86911\/burger-pollo-gruesa-bandeja",
+            "previous": [],
+            "timestamp": 1749739106
+        },
+        "slug": {
+            "value": "burger-pollo-gruesa-bandeja",
+            "previous": [],
+            "timestamp": 1749739106
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739106
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/839a95b7ca2ce771df08a0f852a2e069.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739106
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739106
+        }
+    },
+    "stats": {
+        "created_at": 1749739106,
+        "updated_at": 1749739106,
+        "updates": 1
+    }
+}

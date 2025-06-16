@@ -174,7 +174,7 @@
             "timestamp": 1742983448
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/46659/eau-toilette-mujer-ikiru-frasco",
+            "value": "https:\/\/tienda.mercadona.es\/product\/46659\/eau-toilette-mujer-ikiru-frasco",
             "previous": [],
             "timestamp": 1742983448
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983448
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/256c1d1ac65f7280a19e2999b39a3d19.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/256c1d1ac65f7280a19e2999b39a3d19.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983448
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983448,
-        "updated_at": 1743023294,
-        "updates": 2
+        "updated_at": 1749739220,
+        "updates": 3
     }
 }

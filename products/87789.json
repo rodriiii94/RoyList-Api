@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Salpicón de marisco Hacendado",
+            "value": "Salpic\u00f3n de marisco Hacendado",
             "previous": [],
             "timestamp": 1742983500
         },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983500
             },
             "bulk_price": {
-                "value": "12.40",
-                "previous": [],
-                "timestamp": 1742983500
+                "value": "11.90",
+                "previous": [
+                    {
+                        "value": "12.40",
+                        "timestamp": 1742983500
+                    }
+                ],
+                "timestamp": 1749739300
             },
             "unit_price": {
-                "value": "4.96",
-                "previous": [],
-                "timestamp": 1742983500
+                "value": "4.76",
+                "previous": [
+                    {
+                        "value": "4.96",
+                        "timestamp": 1742983500
+                    }
+                ],
+                "timestamp": 1749739300
             },
             "approx_size": {
                 "value": true,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983500
             },
             "reference_price": {
-                "value": "12.400",
-                "previous": [],
-                "timestamp": 1742983500
+                "value": "11.900",
+                "previous": [
+                    {
+                        "value": "12.400",
+                        "timestamp": 1742983500
+                    }
+                ],
+                "timestamp": 1749739300
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983500
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/87789/salpicon-marisco-hacendado-bandeja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/87789\/salpicon-marisco-hacendado-bandeja",
             "previous": [],
             "timestamp": 1742983500
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983500
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/4ca6c21639a4a29671afa6eb85b1e89f.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/4ca6c21639a4a29671afa6eb85b1e89f.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983500
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983500,
-        "updated_at": 1743023353,
-        "updates": 2
+        "updated_at": 1749739300,
+        "updates": 3
     }
 }

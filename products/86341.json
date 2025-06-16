@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Copos de avena Brüggen",
+            "value": "Copos de avena Br\u00fcggen",
             "previous": [],
             "timestamp": 1742983379
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983379
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/86341/copos-avena-bruggen-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/86341\/copos-avena-bruggen-caja",
             "previous": [],
             "timestamp": 1742983379
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983379
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/98910a7833008eddea7deffc843ffac7.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/98910a7833008eddea7deffc843ffac7.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983379
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983379,
-        "updated_at": 1743023215,
-        "updates": 2
+        "updated_at": 1749739113,
+        "updates": 3
     }
 }

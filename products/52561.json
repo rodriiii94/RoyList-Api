@@ -174,7 +174,7 @@
             "timestamp": 1742983402
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/52561/helado-sabor-huevo-chocolate-hacendado-tarrina",
+            "value": "https:\/\/tienda.mercadona.es\/product\/52561\/helado-sabor-huevo-chocolate-hacendado-tarrina",
             "previous": [],
             "timestamp": 1742983402
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983402
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/48d6aae75925d7d6e278f00f6dae75a3.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983402
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/108f33e7169c01fbab53d574f93580f3.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/48d6aae75925d7d6e278f00f6dae75a3.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983402
+                }
+            ],
+            "timestamp": 1749739148
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983402,
-        "updated_at": 1743023241,
-        "updates": 2
+        "updated_at": 1749739148,
+        "updates": 3
     }
 }

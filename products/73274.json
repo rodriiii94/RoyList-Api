@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Coloración permanente 101 rubio platino ceniza Deliplus 0% amoníaco",
+            "value": "Coloraci\u00f3n permanente 101 rubio platino ceniza Deliplus 0% amon\u00edaco",
             "previous": [],
             "timestamp": 1742983429
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983429
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/73274/coloracion-permanente-101-rubio-platino-ceniza-deliplus-0-amoniaco-colorcor-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/73274\/coloracion-permanente-101-rubio-platino-ceniza-deliplus-0-amoniaco-colorcor-caja",
             "previous": [],
             "timestamp": 1742983429
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983429
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/34590735a7df8fdd37f618a0c5feae3e.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/34590735a7df8fdd37f618a0c5feae3e.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983429
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983429,
-        "updated_at": 1743023271,
-        "updates": 2
+        "updated_at": 1749739188,
+        "updates": 3
     }
 }

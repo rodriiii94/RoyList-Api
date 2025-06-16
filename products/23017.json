@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Aceite árbol del té 100% puro Deliplus con pipeta dosificadora",
+            "value": "Aceite \u00e1rbol del t\u00e9 100% puro Deliplus con pipeta dosificadora",
             "previous": [],
             "timestamp": 1742983451
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983451
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/23017/aceite-arbol-te-100-puro-deliplus-con-pipeta-dosificadora-bote",
+            "value": "https:\/\/tienda.mercadona.es\/product\/23017\/aceite-arbol-te-100-puro-deliplus-con-pipeta-dosificadora-bote",
             "previous": [],
             "timestamp": 1742983451
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983451
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/12bff082dfc5d2c812b310e10aef97d0.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/12bff082dfc5d2c812b310e10aef97d0.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983451
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983451,
-        "updated_at": 1743023298,
-        "updates": 2
+        "updated_at": 1749739226,
+        "updates": 3
     }
 }

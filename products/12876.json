@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739179
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739179
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 21,
+                    "previous": [],
+                    "timestamp": 1749739179
+                },
+                "name": {
+                    "value": "Cuidado del cabello",
+                    "previous": [],
+                    "timestamp": 1749739179
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739179
+                },
+                "order": {
+                    "value": 238,
+                    "previous": [],
+                    "timestamp": 1749739179
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Acondicionador instant\u00e1neo maracuj\u00e1 Deliplus",
+            "previous": [],
+            "timestamp": 1749739179
+        },
+        "id": {
+            "value": "12876",
+            "previous": [],
+            "timestamp": 1749739179
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739179
+        },
+        "packaging": {
+            "value": "Bote",
+            "previous": [],
+            "timestamp": 1749739179
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1749739179
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739179
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739179
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739179
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739179
+            },
+            "unit_size": {
+                "value": 0.25,
+                "previous": [],
+                "timestamp": 1749739179
+            },
+            "bulk_price": {
+                "value": "8.60",
+                "previous": [],
+                "timestamp": 1749739179
+            },
+            "unit_price": {
+                "value": "2.15",
+                "previous": [],
+                "timestamp": 1749739179
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739179
+            },
+            "size_format": {
+                "value": "l",
+                "previous": [],
+                "timestamp": 1749739179
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739179
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739179
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739179
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739179
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739179
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1749739179
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739179
+            },
+            "reference_price": {
+                "value": "0.860",
+                "previous": [],
+                "timestamp": 1749739179
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739179
+            },
+            "reference_format": {
+                "value": "100 ml",
+                "previous": [],
+                "timestamp": 1749739179
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739179
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739179
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739179
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/12876\/acondicionador-instantaneo-maracuja-deliplus-bote",
+            "previous": [],
+            "timestamp": 1749739179
+        },
+        "slug": {
+            "value": "acondicionador-instantaneo-maracuja-deliplus-bote",
+            "previous": [],
+            "timestamp": 1749739179
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739179
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/7b82e0a10db0758f8abc9f5ea67f9ab5.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739179
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739179
+        }
+    },
+    "stats": {
+        "created_at": 1749739179,
+        "updated_at": 1749739179,
+        "updates": 1
+    }
+}

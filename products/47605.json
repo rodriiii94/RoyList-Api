@@ -20,7 +20,7 @@
                     "timestamp": 1742983342
                 },
                 "name": {
-                    "value": "Bebé",
+                    "value": "Beb\u00e9",
                     "previous": [],
                     "timestamp": 1742983342
                 },
@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Pañales bebé talla 5 de 13-18 kg Deliplus",
+            "value": "Pa\u00f1ales beb\u00e9 talla 5 de 13-18 kg Deliplus",
             "previous": [],
             "timestamp": 1742983342
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983342
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/47605/panales-bebe-talla-5-13-18-kg-deliplus-pack-3",
+            "value": "https:\/\/tienda.mercadona.es\/product\/47605\/panales-bebe-talla-5-13-18-kg-deliplus-pack-3",
             "previous": [],
             "timestamp": 1742983342
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983342
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/00329421f8e3abb849981b97c86e1c29.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/00329421f8e3abb849981b97c86e1c29.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983342
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983342,
-        "updated_at": 1743023173,
-        "updates": 2
+        "updated_at": 1749739062,
+        "updates": 3
     }
 }

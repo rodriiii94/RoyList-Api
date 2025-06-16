@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739083
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739083
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 8,
+                    "previous": [],
+                    "timestamp": 1749739083
+                },
+                "name": {
+                    "value": "Cacao, caf\u00e9 e infusiones",
+                    "previous": [],
+                    "timestamp": 1749739083
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739083
+                },
+                "order": {
+                    "value": 16,
+                    "previous": [],
+                    "timestamp": 1749739083
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Cacao soluble Hacendado",
+            "previous": [],
+            "timestamp": 1749739083
+        },
+        "id": {
+            "value": "13038",
+            "previous": [],
+            "timestamp": 1749739083
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739083
+        },
+        "packaging": {
+            "value": "Bote",
+            "previous": [],
+            "timestamp": 1749739083
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1749739083
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739083
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739083
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739083
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739083
+            },
+            "unit_size": {
+                "value": 0.5,
+                "previous": [],
+                "timestamp": 1749739083
+            },
+            "bulk_price": {
+                "value": "5.20",
+                "previous": [],
+                "timestamp": 1749739083
+            },
+            "unit_price": {
+                "value": "2.60",
+                "previous": [],
+                "timestamp": 1749739083
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739083
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1749739083
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739083
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739083
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739083
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739083
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739083
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1749739083
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739083
+            },
+            "reference_price": {
+                "value": "5.200",
+                "previous": [],
+                "timestamp": 1749739083
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739083
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1749739083
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739083
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739083
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739083
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/13038\/cacao-soluble-hacendado-bote",
+            "previous": [],
+            "timestamp": 1749739083
+        },
+        "slug": {
+            "value": "cacao-soluble-hacendado-bote",
+            "previous": [],
+            "timestamp": 1749739083
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739083
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/2b33f5365ca349b7daf6329fe7e3f1bd.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739083
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739083
+        }
+    },
+    "stats": {
+        "created_at": 1749739083,
+        "updated_at": 1749739083,
+        "updates": 1
+    }
+}

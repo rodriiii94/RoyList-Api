@@ -174,7 +174,7 @@
             "timestamp": 1742983315
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/29039/refresco-naranja-hacendado-fresh-gas-pack-6",
+            "value": "https:\/\/tienda.mercadona.es\/product\/29039\/refresco-naranja-hacendado-fresh-gas-pack-6",
             "previous": [],
             "timestamp": 1742983315
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983315
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/3510b63dd7a419fa0ce798967be86828.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983315
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/025303a70699ee4fd705a7f19ff72c5b.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/3510b63dd7a419fa0ce798967be86828.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983315
+                }
+            ],
+            "timestamp": 1749739022
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983315,
-        "updated_at": 1743023141,
-        "updates": 2
+        "updated_at": 1749739022,
+        "updates": 3
     }
 }

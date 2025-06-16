@@ -174,7 +174,7 @@
             "timestamp": 1742983461
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/31540/huevos-grandes-l-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/31540\/huevos-grandes-l-paquete",
             "previous": [],
             "timestamp": 1742983461
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983461
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/24a770df80cb4ec523ffc6b606ab61c4.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983461
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/46ee35a145ca8f1985b9819a3e3fffb7.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/24a770df80cb4ec523ffc6b606ab61c4.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983461
+                }
+            ],
+            "timestamp": 1749739242
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983461,
-        "updated_at": 1743023309,
-        "updates": 2
+        "updated_at": 1749739242,
+        "updates": 3
     }
 }

@@ -174,7 +174,7 @@
             "timestamp": 1742983414
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/7879/patatas-fritas-horno-air-fryer-hacendado-ultracongeladas-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/7879\/patatas-fritas-horno-air-fryer-hacendado-ultracongeladas-paquete",
             "previous": [],
             "timestamp": 1742983414
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983414
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/e5cc47ec53ae7ed1f090d8069bf9ab6e.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/e5cc47ec53ae7ed1f090d8069bf9ab6e.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983414
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983414,
-        "updated_at": 1743023254,
-        "updates": 2
+        "updated_at": 1749739164,
+        "updates": 3
     }
 }

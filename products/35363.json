@@ -174,7 +174,7 @@
             "timestamp": 1742983439
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/35363/desodorante-aloe-deliplus-antitranspirante-0-alcohol-spray",
+            "value": "https:\/\/tienda.mercadona.es\/product\/35363\/desodorante-aloe-deliplus-antitranspirante-0-alcohol-spray",
             "previous": [],
             "timestamp": 1742983439
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983439
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/c566805ff266da86f410ca3fa945770f.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/c566805ff266da86f410ca3fa945770f.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983439
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983439,
-        "updated_at": 1743023284,
-        "updates": 2
+        "updated_at": 1749739205,
+        "updates": 3
     }
 }

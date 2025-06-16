@@ -88,14 +88,24 @@
                 "timestamp": 1742983432
             },
             "bulk_price": {
-                "value": "7.80",
-                "previous": [],
-                "timestamp": 1742983432
+                "value": "8.60",
+                "previous": [
+                    {
+                        "value": "7.80",
+                        "timestamp": 1742983432
+                    }
+                ],
+                "timestamp": 1749739192
             },
             "unit_price": {
-                "value": "1.95",
-                "previous": [],
-                "timestamp": 1742983432
+                "value": "2.15",
+                "previous": [
+                    {
+                        "value": "1.95",
+                        "timestamp": 1742983432
+                    }
+                ],
+                "timestamp": 1749739192
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983432
             },
             "reference_price": {
-                "value": "0.780",
-                "previous": [],
-                "timestamp": 1742983432
+                "value": "0.860",
+                "previous": [
+                    {
+                        "value": "0.780",
+                        "timestamp": 1742983432
+                    }
+                ],
+                "timestamp": 1749739192
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983432
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/35610/espuma-afeitar-piel-sensible-gillette-con-aloe-vera-bote",
+            "value": "https:\/\/tienda.mercadona.es\/product\/35610\/espuma-afeitar-piel-sensible-gillette-con-aloe-vera-bote",
             "previous": [],
             "timestamp": 1742983432
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983432
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/df13fc3b422e8defa82659c383b77199.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/df13fc3b422e8defa82659c383b77199.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983432
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983432,
-        "updated_at": 1743023274,
-        "updates": 2
+        "updated_at": 1749739192,
+        "updates": 3
     }
 }

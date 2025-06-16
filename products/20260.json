@@ -88,14 +88,24 @@
                 "timestamp": 1742983549
             },
             "bulk_price": {
-                "value": "1.97",
-                "previous": [],
-                "timestamp": 1742983549
+                "value": "2.07",
+                "previous": [
+                    {
+                        "value": "1.97",
+                        "timestamp": 1742983549
+                    }
+                ],
+                "timestamp": 1749739367
             },
             "unit_price": {
-                "value": "1.89",
-                "previous": [],
-                "timestamp": 1742983549
+                "value": "1.99",
+                "previous": [
+                    {
+                        "value": "1.89",
+                        "timestamp": 1742983549
+                    }
+                ],
+                "timestamp": 1749739367
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983549
             },
             "reference_price": {
-                "value": "1.969",
-                "previous": [],
-                "timestamp": 1742983549
+                "value": "2.073",
+                "previous": [
+                    {
+                        "value": "1.969",
+                        "timestamp": 1742983549
+                    }
+                ],
+                "timestamp": 1749739367
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983549
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/20260/yogur-natural-danone-pack-8",
+            "value": "https:\/\/tienda.mercadona.es\/product\/20260\/yogur-natural-danone-pack-8",
             "previous": [],
             "timestamp": 1742983549
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983549
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/95893922af6683ed5eac61b7fcf87ba2.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/95893922af6683ed5eac61b7fcf87ba2.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983549
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983549,
-        "updated_at": 1743023402,
-        "updates": 2
+        "updated_at": 1749739367,
+        "updates": 3
     }
 }

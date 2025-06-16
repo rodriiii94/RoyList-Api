@@ -88,14 +88,24 @@
                 "timestamp": 1742983323
             },
             "bulk_price": {
-                "value": "15.50",
-                "previous": [],
-                "timestamp": 1742983323
+                "value": "14.50",
+                "previous": [
+                    {
+                        "value": "15.50",
+                        "timestamp": 1742983323
+                    }
+                ],
+                "timestamp": 1749739034
             },
             "unit_price": {
-                "value": "1.55",
-                "previous": [],
-                "timestamp": 1742983323
+                "value": "1.45",
+                "previous": [
+                    {
+                        "value": "1.55",
+                        "timestamp": 1742983323
+                    }
+                ],
+                "timestamp": 1749739034
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983323
             },
             "reference_price": {
-                "value": "15.500",
-                "previous": [],
-                "timestamp": 1742983323
+                "value": "14.500",
+                "previous": [
+                    {
+                        "value": "15.500",
+                        "timestamp": 1742983323
+                    }
+                ],
+                "timestamp": 1749739034
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983323
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/33436/torreznos-sabor-barbacoa-hacendado-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/33436\/torreznos-sabor-barbacoa-hacendado-paquete",
             "previous": [],
             "timestamp": 1742983323
         },
@@ -189,9 +204,14 @@
             "timestamp": 1742983323
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/95083add1b82058f3ba020c26e1bc256.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983323
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/56ee16c4c72616870cc9099398e70cf7.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/95083add1b82058f3ba020c26e1bc256.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983323
+                }
+            ],
+            "timestamp": 1749739034
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +221,7 @@
     },
     "stats": {
         "created_at": 1742983323,
-        "updated_at": 1743023151,
-        "updates": 2
+        "updated_at": 1749739034,
+        "updates": 3
     }
 }

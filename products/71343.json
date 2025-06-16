@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739254
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739254
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 26,
+                    "previous": [],
+                    "timestamp": 1749739254
+                },
+                "name": {
+                    "value": "Limpieza y hogar",
+                    "previous": [],
+                    "timestamp": 1749739254
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739254
+                },
+                "order": {
+                    "value": 374,
+                    "previous": [],
+                    "timestamp": 1749739254
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Estropajo limpieza delicada Bosque Verde",
+            "previous": [],
+            "timestamp": 1749739254
+        },
+        "id": {
+            "value": "71343",
+            "previous": [],
+            "timestamp": 1749739254
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739254
+        },
+        "packaging": {
+            "value": "Paquete",
+            "previous": [],
+            "timestamp": 1749739254
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1749739254
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739254
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739254
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739254
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739254
+            },
+            "unit_size": {
+                "value": 3,
+                "previous": [],
+                "timestamp": 1749739254
+            },
+            "bulk_price": {
+                "value": "0.30",
+                "previous": [],
+                "timestamp": 1749739254
+            },
+            "unit_price": {
+                "value": "0.90",
+                "previous": [],
+                "timestamp": 1749739254
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739254
+            },
+            "size_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1749739254
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739254
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739254
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739254
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739254
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739254
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1749739254
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739254
+            },
+            "reference_price": {
+                "value": "0.300",
+                "previous": [],
+                "timestamp": 1749739254
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739254
+            },
+            "reference_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1749739254
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739254
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739254
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739254
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/71343\/estropajo-limpieza-delicada-bosque-verde-paquete",
+            "previous": [],
+            "timestamp": 1749739254
+        },
+        "slug": {
+            "value": "estropajo-limpieza-delicada-bosque-verde-paquete",
+            "previous": [],
+            "timestamp": 1749739254
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739254
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/052ddcc2917abaf02a2be3fb6820b2ba.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739254
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739254
+        }
+    },
+    "stats": {
+        "created_at": 1749739254,
+        "updated_at": 1749739254,
+        "updates": 1
+    }
+}

@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Bálsamo labial Color Balm Deliplus 08 nude beige",
+            "value": "B\u00e1lsamo labial Color Balm Deliplus 08 nude beige",
             "previous": [],
             "timestamp": 1742983494
         },
@@ -161,6 +161,11 @@
                 "value": 1,
                 "previous": [],
                 "timestamp": 1742983494
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1749739291
             }
         },
         "published": {
@@ -169,7 +174,7 @@
             "timestamp": 1742983494
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/35337/balsamo-labial-color-balm-deliplus-08-nude-beige",
+            "value": "https:\/\/tienda.mercadona.es\/product\/35337\/balsamo-labial-color-balm-deliplus-08-nude-beige",
             "previous": [],
             "timestamp": 1742983494
         },
@@ -184,7 +189,7 @@
             "timestamp": 1742983494
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/ff7ee864c3b324e6de6614911c01eb3e.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/ff7ee864c3b324e6de6614911c01eb3e.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983494
         },
@@ -196,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983494,
-        "updated_at": 1743023347,
-        "updates": 2
+        "updated_at": 1749739291,
+        "updates": 3
     }
 }

@@ -174,7 +174,7 @@
             "timestamp": 1742983465
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/20991/mantequilla-sin-lactosa-hacendado-tarrina",
+            "value": "https:\/\/tienda.mercadona.es\/product\/20991\/mantequilla-sin-lactosa-hacendado-tarrina",
             "previous": [],
             "timestamp": 1742983465
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983465
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/204137b735b52ce0531635f14716bf9d.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983465
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/798d8bc0800bb32cfb0212e1dc9d804c.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/204137b735b52ce0531635f14716bf9d.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983465
+                }
+            ],
+            "timestamp": 1749739249
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983465,
-        "updated_at": 1743023314,
-        "updates": 2
+        "updated_at": 1749739249,
+        "updates": 3
     }
 }

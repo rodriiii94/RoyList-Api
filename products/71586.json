@@ -88,14 +88,24 @@
                 "timestamp": 1742983489
             },
             "bulk_price": {
-                "value": "4.50",
-                "previous": [],
-                "timestamp": 1742983489
+                "value": "4.95",
+                "previous": [
+                    {
+                        "value": "4.50",
+                        "timestamp": 1742983489
+                    }
+                ],
+                "timestamp": 1749739283
             },
             "unit_price": {
-                "value": "4.50",
-                "previous": [],
-                "timestamp": 1742983489
+                "value": "4.95",
+                "previous": [
+                    {
+                        "value": "4.50",
+                        "timestamp": 1742983489
+                    }
+                ],
+                "timestamp": 1749739283
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983489
             },
             "reference_price": {
-                "value": "4.500",
-                "previous": [],
-                "timestamp": 1742983489
+                "value": "4.950",
+                "previous": [
+                    {
+                        "value": "4.500",
+                        "timestamp": 1742983489
+                    }
+                ],
+                "timestamp": 1749739283
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983489
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/71586/plumero-avestruz-extensible-bosque-verde",
+            "value": "https:\/\/tienda.mercadona.es\/product\/71586\/plumero-avestruz-extensible-bosque-verde",
             "previous": [],
             "timestamp": 1742983489
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983489
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/9c274d95dd525a285f6086b451e0c8b2.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/9c274d95dd525a285f6086b451e0c8b2.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983489
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983489,
-        "updated_at": 1743023341,
-        "updates": 2
+        "updated_at": 1749739283,
+        "updates": 3
     }
 }

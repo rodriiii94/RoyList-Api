@@ -20,7 +20,7 @@
                     "timestamp": 1742983357
                 },
                 "name": {
-                    "value": "Cacao, café e infusiones",
+                    "value": "Cacao, caf\u00e9 e infusiones",
                     "previous": [],
                     "timestamp": 1742983357
                 },
@@ -158,9 +158,14 @@
                 "timestamp": 1742983357
             },
             "previous_unit_price": {
-                "value": "        6.99",
-                "previous": [],
-                "timestamp": 1742983357
+                "value": null,
+                "previous": [
+                    {
+                        "value": "        6.99",
+                        "timestamp": 1742983357
+                    }
+                ],
+                "timestamp": 1749739083
             },
             "increment_bunch_amount": {
                 "value": 1,
@@ -174,7 +179,7 @@
             "timestamp": 1742983357
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/13021/cacao-soluble-colacao-original-bote",
+            "value": "https:\/\/tienda.mercadona.es\/product\/13021\/cacao-soluble-colacao-original-bote",
             "previous": [],
             "timestamp": 1742983357
         },
@@ -189,7 +194,7 @@
             "timestamp": 1742983357
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/5b4b97d32121b70c073129d07dbaab24.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/5b4b97d32121b70c073129d07dbaab24.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983357
         },
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983357,
-        "updated_at": 1743023190,
-        "updates": 2
+        "updated_at": 1749739083,
+        "updates": 3
     }
 }

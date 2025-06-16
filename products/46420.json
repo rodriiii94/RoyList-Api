@@ -37,9 +37,14 @@
             }
         ],
         "display_name": {
-            "value": "Desodorante invisible antimanchas Deliplus antitranspirante",
-            "previous": [],
-            "timestamp": 1742983439
+            "value": "Desodorante invisible Deliplus antitranspirante",
+            "previous": [
+                {
+                    "value": "Desodorante invisible antimanchas Deliplus antitranspirante",
+                    "timestamp": 1742983439
+                }
+            ],
+            "timestamp": 1749739204
         },
         "id": {
             "value": "46420",
@@ -174,7 +179,7 @@
             "timestamp": 1742983439
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/46420/desodorante-invisible-antimanchas-deliplus-antitranspirante-0-alcohol-spray",
+            "value": "https:\/\/tienda.mercadona.es\/product\/46420\/desodorante-invisible-antimanchas-deliplus-antitranspirante-0-alcohol-spray",
             "previous": [],
             "timestamp": 1742983439
         },
@@ -189,9 +194,14 @@
             "timestamp": 1742983439
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/d35de289b97b1b7bb791e9793d3b9d59.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983439
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/5358680ee85249296bb9d93c81ae249d.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/d35de289b97b1b7bb791e9793d3b9d59.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983439
+                }
+            ],
+            "timestamp": 1749739204
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +211,7 @@
     },
     "stats": {
         "created_at": 1742983439,
-        "updated_at": 1743023284,
-        "updates": 2
+        "updated_at": 1749739204,
+        "updates": 3
     }
 }

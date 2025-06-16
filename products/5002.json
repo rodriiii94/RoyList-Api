@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Arroz basmati aromático Hacendado",
+            "value": "Arroz basmati arom\u00e1tico Hacendado",
             "previous": [],
             "timestamp": 1742983324
         },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983324
             },
             "bulk_price": {
-                "value": "2.35",
-                "previous": [],
-                "timestamp": 1742983324
+                "value": "2.20",
+                "previous": [
+                    {
+                        "value": "2.35",
+                        "timestamp": 1742983324
+                    }
+                ],
+                "timestamp": 1749739036
             },
             "unit_price": {
-                "value": "2.35",
-                "previous": [],
-                "timestamp": 1742983324
+                "value": "2.20",
+                "previous": [
+                    {
+                        "value": "2.35",
+                        "timestamp": 1742983324
+                    }
+                ],
+                "timestamp": 1749739036
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983324
             },
             "reference_price": {
-                "value": "2.350",
-                "previous": [],
-                "timestamp": 1742983324
+                "value": "2.200",
+                "previous": [
+                    {
+                        "value": "2.350",
+                        "timestamp": 1742983324
+                    }
+                ],
+                "timestamp": 1749739036
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983324
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/5002/arroz-basmati-aromatico-hacendado-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/5002\/arroz-basmati-aromatico-hacendado-paquete",
             "previous": [],
             "timestamp": 1742983324
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983324
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/d25c062f26c257d9ca54b5fc219c2b62.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/d25c062f26c257d9ca54b5fc219c2b62.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983324
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983324,
-        "updated_at": 1743023152,
-        "updates": 2
+        "updated_at": 1749739036,
+        "updates": 3
     }
 }

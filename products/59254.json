@@ -20,7 +20,7 @@
                     "timestamp": 1742983389
                 },
                 "name": {
-                    "value": "Charcutería y quesos",
+                    "value": "Charcuter\u00eda y quesos",
                     "previous": [],
                     "timestamp": 1742983389
                 },
@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Longaniza de payés extra Hacendado lonchas",
+            "value": "Longaniza de pay\u00e9s extra Hacendado lonchas",
             "previous": [],
             "timestamp": 1742983389
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983389
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/59254/longaniza-payes-extra-hacendado-lonchas-pack-4",
+            "value": "https:\/\/tienda.mercadona.es\/product\/59254\/longaniza-payes-extra-hacendado-lonchas-pack-4",
             "previous": [],
             "timestamp": 1742983389
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983389
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/1a0d687cf49d284d08b58e7990555d0c.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/1a0d687cf49d284d08b58e7990555d0c.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983389
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983389,
-        "updated_at": 1743023226,
-        "updates": 2
+        "updated_at": 1749739127,
+        "updates": 3
     }
 }

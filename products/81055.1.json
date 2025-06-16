@@ -83,14 +83,18 @@
                 "timestamp": 1742983505
             },
             "unit_size": {
-                "value": 1.42,
+                "value": 1.49,
                 "previous": [
                     {
                         "value": 1.37,
                         "timestamp": 1742983505
+                    },
+                    {
+                        "value": 1.42,
+                        "timestamp": 1743023357
                     }
                 ],
-                "timestamp": 1743023357
+                "timestamp": 1749739307
             },
             "bulk_price": {
                 "value": "10.95",
@@ -98,14 +102,18 @@
                 "timestamp": 1742983505
             },
             "unit_price": {
-                "value": "15.55",
+                "value": "16.32",
                 "previous": [
                     {
                         "value": "15.00",
                         "timestamp": 1742983505
+                    },
+                    {
+                        "value": "15.55",
+                        "timestamp": 1743023357
                     }
                 ],
-                "timestamp": 1743023357
+                "timestamp": 1749739307
             },
             "approx_size": {
                 "value": true,
@@ -184,7 +192,7 @@
             "timestamp": 1742983505
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/81055.1/corvina-limpia-con-cabeza-pieza",
+            "value": "https:\/\/tienda.mercadona.es\/product\/81055.1\/corvina-limpia-con-cabeza-pieza",
             "previous": [],
             "timestamp": 1742983505
         },
@@ -199,7 +207,7 @@
             "timestamp": 1742983505
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/914aa9f7dc7c62ac7ca4a4126e45b5b3.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/914aa9f7dc7c62ac7ca4a4126e45b5b3.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983505
         },
@@ -211,7 +219,7 @@
     },
     "stats": {
         "created_at": 1742983505,
-        "updated_at": 1743023357,
-        "updates": 2
+        "updated_at": 1749739307,
+        "updates": 3
     }
 }

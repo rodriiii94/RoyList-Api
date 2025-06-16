@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Plátano macho",
+            "value": "Pl\u00e1tano macho",
             "previous": [],
             "timestamp": 1742983455
         },
@@ -83,9 +83,14 @@
                 "timestamp": 1742983455
             },
             "unit_size": {
-                "value": 0.33,
-                "previous": [],
-                "timestamp": 1742983455
+                "value": 0.32,
+                "previous": [
+                    {
+                        "value": 0.33,
+                        "timestamp": 1742983455
+                    }
+                ],
+                "timestamp": 1749739231
             },
             "bulk_price": {
                 "value": "2.90",
@@ -93,9 +98,14 @@
                 "timestamp": 1742983455
             },
             "unit_price": {
-                "value": "0.96",
-                "previous": [],
-                "timestamp": 1742983455
+                "value": "0.93",
+                "previous": [
+                    {
+                        "value": "0.96",
+                        "timestamp": 1742983455
+                    }
+                ],
+                "timestamp": 1749739231
             },
             "approx_size": {
                 "value": true,
@@ -174,7 +184,7 @@
             "timestamp": 1742983455
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/3132/platano-macho-pieza",
+            "value": "https:\/\/tienda.mercadona.es\/product\/3132\/platano-macho-pieza",
             "previous": [],
             "timestamp": 1742983455
         },
@@ -189,7 +199,7 @@
             "timestamp": 1742983455
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/c22baa2a17de06fbf8477ef25392b7ca.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/c22baa2a17de06fbf8477ef25392b7ca.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983455
         },
@@ -201,7 +211,7 @@
     },
     "stats": {
         "created_at": 1742983455,
-        "updated_at": 1743023302,
-        "updates": 2
+        "updated_at": 1749739231,
+        "updates": 3
     }
 }

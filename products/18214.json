@@ -88,14 +88,24 @@
                 "timestamp": 1742983415
             },
             "bulk_price": {
-                "value": "11.39",
-                "previous": [],
-                "timestamp": 1742983415
+                "value": "11.11",
+                "previous": [
+                    {
+                        "value": "11.39",
+                        "timestamp": 1742983415
+                    }
+                ],
+                "timestamp": 1749739166
             },
             "unit_price": {
-                "value": "2.05",
-                "previous": [],
-                "timestamp": 1742983415
+                "value": "2.00",
+                "previous": [
+                    {
+                        "value": "2.05",
+                        "timestamp": 1742983415
+                    }
+                ],
+                "timestamp": 1749739166
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983415
             },
             "reference_price": {
-                "value": "15.770",
-                "previous": [],
-                "timestamp": 1742983415
+                "value": "15.385",
+                "previous": [
+                    {
+                        "value": "15.770",
+                        "timestamp": 1742983415
+                    }
+                ],
+                "timestamp": 1749739166
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983415
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/18214/sardinillas-reducidas-sal-aceite-oliva-hacendado-6-12-ud-pack-2",
+            "value": "https:\/\/tienda.mercadona.es\/product\/18214\/sardinillas-reducidas-sal-aceite-oliva-hacendado-6-12-ud-pack-2",
             "previous": [],
             "timestamp": 1742983415
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983415
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/50ed9a5e452499dc949cd76af9138024.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/50ed9a5e452499dc949cd76af9138024.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983415
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983415,
-        "updated_at": 1743023256,
-        "updates": 2
+        "updated_at": 1749739166,
+        "updates": 3
     }
 }

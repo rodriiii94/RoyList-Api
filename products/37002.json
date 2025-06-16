@@ -174,7 +174,7 @@
             "timestamp": 1742983354
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/37002/vino-rosado-do-navarra-hypatia-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/37002\/vino-rosado-do-navarra-hypatia-botella",
             "previous": [],
             "timestamp": 1742983354
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983354
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/f2c43710af7bdec97b19098a1f427618.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/f2c43710af7bdec97b19098a1f427618.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983354
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983354,
-        "updated_at": 1743023187,
-        "updates": 2
+        "updated_at": 1749739079,
+        "updates": 3
     }
 }

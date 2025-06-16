@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Molde de Aluminio Rectangular 0,5L Alibérico",
+            "value": "Molde de Aluminio Rectangular 0,5L Alib\u00e9rico",
             "previous": [],
             "timestamp": 1742983484
         },
@@ -161,6 +161,11 @@
                 "value": 1,
                 "previous": [],
                 "timestamp": 1742983484
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1749739276
             }
         },
         "published": {
@@ -169,7 +174,7 @@
             "timestamp": 1742983484
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/49837/molde-aluminio-rectangular-05l-aliberico-con-tapa-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/49837\/molde-aluminio-rectangular-05l-aliberico-con-tapa-paquete",
             "previous": [],
             "timestamp": 1742983484
         },
@@ -184,9 +189,14 @@
             "timestamp": 1742983484
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/5e3b7ddc757fa01e5ba1a1c97878b72c.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983484
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/925e954f147073a63c7057a955f9c5d4.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/5e3b7ddc757fa01e5ba1a1c97878b72c.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983484
+                }
+            ],
+            "timestamp": 1749739276
         },
         "unavailable_from": {
             "value": null,
@@ -196,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983484,
-        "updated_at": 1743023335,
-        "updates": 2
+        "updated_at": 1749739276,
+        "updates": 3
     }
 }

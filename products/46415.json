@@ -174,7 +174,7 @@
             "timestamp": 1742983439
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/46415/desodorante-invisible-men-deliplus-antitranspirante-antimanchas-0-alcohol-spray",
+            "value": "https:\/\/tienda.mercadona.es\/product\/46415\/desodorante-invisible-men-deliplus-antitranspirante-antimanchas-0-alcohol-spray",
             "previous": [],
             "timestamp": 1742983439
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983439
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/47b99abef0bb6a5d706103789c858f8b.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983439
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/709c21744732f8dd4ee22fface75de92.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/47b99abef0bb6a5d706103789c858f8b.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983439
+                }
+            ],
+            "timestamp": 1749739205
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983439,
-        "updated_at": 1743023284,
-        "updates": 2
+        "updated_at": 1749739205,
+        "updates": 3
     }
 }

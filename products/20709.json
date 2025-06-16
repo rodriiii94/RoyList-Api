@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Bebida láctea natural Actimel 0% m.g",
+            "value": "Bebida l\u00e1ctea natural Actimel 0% m.g",
             "previous": [],
             "timestamp": 1742983547
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983547
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/20709/bebida-lactea-natural-actimel-0-mg-danone-pack-12",
+            "value": "https:\/\/tienda.mercadona.es\/product\/20709\/bebida-lactea-natural-actimel-0-mg-danone-pack-12",
             "previous": [],
             "timestamp": 1742983547
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983547
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/e3bd057345f26982d40b11804e17dd83.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/e3bd057345f26982d40b11804e17dd83.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983547
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983547,
-        "updated_at": 1743023401,
-        "updates": 2
+        "updated_at": 1749739366,
+        "updates": 3
     }
 }

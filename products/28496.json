@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Yogur azucarado YogoMix Hacendado variado de copos maíz, bolitas y disquitos chocolateados",
+            "value": "Yogur azucarado YogoMix Hacendado variado de copos ma\u00edz, bolitas y disquitos chocolateados",
             "previous": [],
             "timestamp": 1742983541
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983541
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/28496/yogur-azucarado-yogomix-hacendado-variado-copos-maiz-bolitas-disquitos-chocolateados-pack-6",
+            "value": "https:\/\/tienda.mercadona.es\/product\/28496\/yogur-azucarado-yogomix-hacendado-variado-copos-maiz-bolitas-disquitos-chocolateados-pack-6",
             "previous": [],
             "timestamp": 1742983541
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983541
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/81e8bac027bac4d0344a56863d459bc8.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/81e8bac027bac4d0344a56863d459bc8.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983541
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983541,
-        "updated_at": 1743023394,
-        "updates": 2
+        "updated_at": 1749739357,
+        "updates": 3
     }
 }

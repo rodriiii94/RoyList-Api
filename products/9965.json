@@ -20,7 +20,7 @@
                     "timestamp": 1742983514
                 },
                 "name": {
-                    "value": "Panadería y pastelería",
+                    "value": "Panader\u00eda y pasteler\u00eda",
                     "previous": [],
                     "timestamp": 1742983514
                 },
@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Bizcocho con azúcar moreno y nueces",
+            "value": "Bizcocho con az\u00facar moreno y nueces",
             "previous": [],
             "timestamp": 1742983514
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983514
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/9965/bizcocho-con-azucar-moreno-nueces-bandeja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/9965\/bizcocho-con-azucar-moreno-nueces-bandeja",
             "previous": [],
             "timestamp": 1742983514
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983514
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/d75f9794efc3b7a4699f46e05381fb7b.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/d75f9794efc3b7a4699f46e05381fb7b.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983514
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983514,
-        "updated_at": 1743023366,
-        "updates": 2
+        "updated_at": 1749739320,
+        "updates": 3
     }
 }

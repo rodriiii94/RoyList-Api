@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Paté perro junior Delikuit con ternera y cordero",
+            "value": "Pat\u00e9 perro junior Delikuit con ternera y cordero",
             "previous": [],
             "timestamp": 1742983510
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983510
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/8956/pate-perro-junior-delikuit-con-ternera-cordero-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/8956\/pate-perro-junior-delikuit-con-ternera-cordero-paquete",
             "previous": [],
             "timestamp": 1742983510
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983510
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/1c5d86e676019e5393757b1baac0a212.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/1c5d86e676019e5393757b1baac0a212.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983510
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983510,
-        "updated_at": 1743023363,
-        "updates": 2
+        "updated_at": 1749739315,
+        "updates": 3
     }
 }

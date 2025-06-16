@@ -196,7 +196,7 @@
             "timestamp": 1742983309
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/3840/guacamole-hacendado-95-aguacate-fresco-tarrina",
+            "value": "https:\/\/tienda.mercadona.es\/product\/3840\/guacamole-hacendado-95-aguacate-fresco-tarrina",
             "previous": [],
             "timestamp": 1742983309
         },
@@ -211,7 +211,7 @@
             "timestamp": 1742983309
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/5c3a7d00a6c79339f48bae00593089ed.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/5c3a7d00a6c79339f48bae00593089ed.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983309
         },
@@ -223,7 +223,7 @@
     },
     "stats": {
         "created_at": 1742983309,
-        "updated_at": 1743023302,
-        "updates": 4
+        "updated_at": 1749739233,
+        "updates": 6
     }
 }

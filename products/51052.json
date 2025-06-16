@@ -20,7 +20,7 @@
                     "timestamp": 1742983397
                 },
                 "name": {
-                    "value": "Charcutería y quesos",
+                    "value": "Charcuter\u00eda y quesos",
                     "previous": [],
                     "timestamp": 1742983397
                 },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983397
             },
             "bulk_price": {
-                "value": "6.43",
-                "previous": [],
-                "timestamp": 1742983397
+                "value": "6.50",
+                "previous": [
+                    {
+                        "value": "6.43",
+                        "timestamp": 1742983397
+                    }
+                ],
+                "timestamp": 1749739140
             },
             "unit_price": {
-                "value": "1.93",
-                "previous": [],
-                "timestamp": 1742983397
+                "value": "1.95",
+                "previous": [
+                    {
+                        "value": "1.93",
+                        "timestamp": 1742983397
+                    }
+                ],
+                "timestamp": 1749739140
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983397
             },
             "reference_price": {
-                "value": "12.867",
-                "previous": [],
-                "timestamp": 1742983397
+                "value": "13.000",
+                "previous": [
+                    {
+                        "value": "12.867",
+                        "timestamp": 1742983397
+                    }
+                ],
+                "timestamp": 1749739140
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983397
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/51052/mozzarella-fresca-vaca-hacendado-perlas-tarrina",
+            "value": "https:\/\/tienda.mercadona.es\/product\/51052\/mozzarella-fresca-vaca-hacendado-perlas-tarrina",
             "previous": [],
             "timestamp": 1742983397
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983397
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/d603407549e943bb79d0b03d3c8147c8.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/d603407549e943bb79d0b03d3c8147c8.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983397
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983397,
-        "updated_at": 1743023236,
-        "updates": 2
+        "updated_at": 1749739140,
+        "updates": 3
     }
 }

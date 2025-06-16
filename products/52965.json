@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Comprimidos cabello y uñas Deliplus",
+            "value": "Comprimidos cabello y u\u00f1as Deliplus",
             "previous": [],
             "timestamp": 1742983452
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983452
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/52965/comprimidos-cabello-unas-deliplus-contiene-biotina-zinc-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/52965\/comprimidos-cabello-unas-deliplus-contiene-biotina-zinc-caja",
             "previous": [],
             "timestamp": 1742983452
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983452
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/38b914b15183bd88b42e6c049c58e155.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/38b914b15183bd88b42e6c049c58e155.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983452
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983452,
-        "updated_at": 1743023298,
-        "updates": 2
+        "updated_at": 1749739227,
+        "updates": 3
     }
 }

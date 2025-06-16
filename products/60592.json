@@ -174,7 +174,7 @@
             "timestamp": 1742983498
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/60592/kit-verde-pinceles-rostro-deliplus-contiene-brocha-polvos-brocha-colorete-iluminador-pincel-maquillaje-corrector-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/60592\/kit-verde-pinceles-rostro-deliplus-contiene-brocha-polvos-brocha-colorete-iluminador-pincel-maquillaje-corrector-caja",
             "previous": [],
             "timestamp": 1742983498
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983498
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/b6bc43b0b1605cb1840ebe2ea4ae4fe0.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/b6bc43b0b1605cb1840ebe2ea4ae4fe0.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983498
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983498,
-        "updated_at": 1742983498,
-        "updates": 1
+        "updated_at": 1749739298,
+        "updates": 2
     }
 }

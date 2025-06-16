@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Limpiador WC con lejía Bosque Verde en gel",
+            "value": "Limpiador WC con lej\u00eda Bosque Verde en gel",
             "previous": [],
             "timestamp": 1742983477
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983477
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/43113/limpiador-wc-con-lejia-bosque-verde-gel-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/43113\/limpiador-wc-con-lejia-bosque-verde-gel-botella",
             "previous": [],
             "timestamp": 1742983477
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983477
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/1b142bc3421384906c340bee5e2a9b98.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/1b142bc3421384906c340bee5e2a9b98.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983477
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983477,
-        "updated_at": 1743023328,
-        "updates": 2
+        "updated_at": 1749739267,
+        "updates": 3
     }
 }

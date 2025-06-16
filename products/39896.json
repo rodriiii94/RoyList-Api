@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Mosto tinto Casón Histórico",
+            "value": "Mosto tinto Cas\u00f3n Hist\u00f3rico",
             "previous": [],
             "timestamp": 1742983351
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983351
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/39896/mosto-tinto-cason-historico-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/39896\/mosto-tinto-cason-historico-botella",
             "previous": [],
             "timestamp": 1742983351
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983351
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/1b8e6a4830e5f3466417552fe59fc56a.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/1b8e6a4830e5f3466417552fe59fc56a.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983351
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983351,
-        "updated_at": 1743023184,
-        "updates": 2
+        "updated_at": 1749739076,
+        "updates": 3
     }
 }

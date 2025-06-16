@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Cápsulas Memory Forte Deliplus",
+            "value": "C\u00e1psulas Memory Forte Deliplus",
             "previous": [],
             "timestamp": 1742983451
         },
@@ -78,7 +78,7 @@
                 "timestamp": 1742983451
             },
             "unit_name": {
-                "value": "cápsulas",
+                "value": "c\u00e1psulas",
                 "previous": [],
                 "timestamp": 1742983451
             },
@@ -174,7 +174,7 @@
             "timestamp": 1742983451
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/35945/capsulas-memory-forte-deliplus-contiene-bacopa-ashwagandha-gaba-elaborado-base-especies-vegetales-fosfatidilserina-vitaminas-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/35945\/capsulas-memory-forte-deliplus-contiene-bacopa-ashwagandha-gaba-elaborado-base-especies-vegetales-fosfatidilserina-vitaminas-caja",
             "previous": [],
             "timestamp": 1742983451
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983451
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/622d2532c2a9f94344a248af92db2856.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/622d2532c2a9f94344a248af92db2856.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983451
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983451,
-        "updated_at": 1743023298,
-        "updates": 2
+        "updated_at": 1749739227,
+        "updates": 3
     }
 }

@@ -158,9 +158,14 @@
                 "timestamp": 1742983325
             },
             "previous_unit_price": {
-                "value": "        2.18",
-                "previous": [],
-                "timestamp": 1742983325
+                "value": null,
+                "previous": [
+                    {
+                        "value": "        2.18",
+                        "timestamp": 1742983325
+                    }
+                ],
+                "timestamp": 1749739038
             },
             "increment_bunch_amount": {
                 "value": 1,
@@ -174,7 +179,7 @@
             "timestamp": 1742983325
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/5330/lenteja-pardina-hacendado-categoria-extra-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/5330\/lenteja-pardina-hacendado-categoria-extra-paquete",
             "previous": [],
             "timestamp": 1742983325
         },
@@ -189,7 +194,7 @@
             "timestamp": 1742983325
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/8d2301f5605ebd3a1aa22774bd973f3b.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/8d2301f5605ebd3a1aa22774bd973f3b.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983325
         },
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983325,
-        "updated_at": 1743023154,
-        "updates": 2
+        "updated_at": 1749739038,
+        "updates": 3
     }
 }

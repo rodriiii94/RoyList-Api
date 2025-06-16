@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Extrait de parfum mujer Ámbar",
+            "value": "Extrait de parfum mujer \u00c1mbar",
             "previous": [],
             "timestamp": 1742983448
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983448
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/52980/extrait-parfum-ambar-frasco",
+            "value": "https:\/\/tienda.mercadona.es\/product\/52980\/extrait-parfum-ambar-frasco",
             "previous": [],
             "timestamp": 1742983448
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983448
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/f1b9fd549af4fc42ad74c22c1bcae233.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/f1b9fd549af4fc42ad74c22c1bcae233.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983448
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983448,
-        "updated_at": 1743023294,
-        "updates": 2
+        "updated_at": 1749739220,
+        "updates": 3
     }
 }

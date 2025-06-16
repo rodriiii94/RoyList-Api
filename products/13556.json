@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Rizador de pestañas Deliplus",
+            "value": "Rizador de pesta\u00f1as Deliplus",
             "previous": [],
             "timestamp": 1742983497
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983497
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/13556/rizador-pestanas-deliplus-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/13556\/rizador-pestanas-deliplus-caja",
             "previous": [],
             "timestamp": 1742983497
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983497
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/35d773f47aa9c9e64ed32d5dc80f67ca.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/35d773f47aa9c9e64ed32d5dc80f67ca.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983497
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983497,
-        "updated_at": 1743023349,
-        "updates": 2
+        "updated_at": 1749739295,
+        "updates": 3
     }
 }

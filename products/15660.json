@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Yogur líquido desnatado Piña y Coco Hacendado 0% m.g 0% sin azúcares añadidos",
+            "value": "Yogur l\u00edquido desnatado Pi\u00f1a y Coco Hacendado 0% m.g 0% sin az\u00facares a\u00f1adidos",
             "previous": [],
             "timestamp": 1742983547
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983547
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/15660/yogur-liquido-desnatado-pina-coco-hacendado-0-mg-0-sin-azucares-anadidos-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/15660\/yogur-liquido-desnatado-pina-coco-hacendado-0-mg-0-sin-azucares-anadidos-botella",
             "previous": [],
             "timestamp": 1742983547
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983547
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/c9343e1589787d49d2694294f7410f85.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/c9343e1589787d49d2694294f7410f85.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983547
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983547,
-        "updated_at": 1743023400,
-        "updates": 2
+        "updated_at": 1749739365,
+        "updates": 3
     }
 }

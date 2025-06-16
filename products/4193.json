@@ -88,14 +88,24 @@
                 "timestamp": 1742983305
             },
             "bulk_price": {
-                "value": "10.11",
-                "previous": [],
-                "timestamp": 1742983305
+                "value": "12.11",
+                "previous": [
+                    {
+                        "value": "10.11",
+                        "timestamp": 1742983305
+                    }
+                ],
+                "timestamp": 1749739003
             },
             "unit_price": {
-                "value": "4.55",
-                "previous": [],
-                "timestamp": 1742983305
+                "value": "5.45",
+                "previous": [
+                    {
+                        "value": "4.55",
+                        "timestamp": 1742983305
+                    }
+                ],
+                "timestamp": 1749739003
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983305
             },
             "reference_price": {
-                "value": "10.112",
-                "previous": [],
-                "timestamp": 1742983305
+                "value": "12.112",
+                "previous": [
+                    {
+                        "value": "10.112",
+                        "timestamp": 1742983305
+                    }
+                ],
+                "timestamp": 1749739003
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983305
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/4193/aceite-coco-virgen-hacendado-bote",
+            "value": "https:\/\/tienda.mercadona.es\/product\/4193\/aceite-coco-virgen-hacendado-bote",
             "previous": [],
             "timestamp": 1742983305
         },
@@ -189,9 +204,14 @@
             "timestamp": 1742983305
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/4b73d0063a13ed91219d84e7dd70d22d.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983305
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/2fe6ba84f4e3783e1e57c42903035bd3.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/4b73d0063a13ed91219d84e7dd70d22d.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983305
+                }
+            ],
+            "timestamp": 1749739003
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +221,7 @@
     },
     "stats": {
         "created_at": 1742983305,
-        "updated_at": 1743023127,
-        "updates": 2
+        "updated_at": 1749739003,
+        "updates": 3
     }
 }

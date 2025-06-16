@@ -78,7 +78,7 @@
                 "timestamp": 1742983482
             },
             "unit_name": {
-                "value": "cápsulas",
+                "value": "c\u00e1psulas",
                 "previous": [],
                 "timestamp": 1742983482
             },
@@ -174,7 +174,7 @@
             "timestamp": 1742983482
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/86380/lavavajillas-ultra-1-fairy-pastillas-lavado-maquina-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/86380\/lavavajillas-ultra-1-fairy-pastillas-lavado-maquina-paquete",
             "previous": [],
             "timestamp": 1742983482
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983482
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/5d8e5bc6293ca1e62168466a9951c141.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/5d8e5bc6293ca1e62168466a9951c141.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983482
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983482,
-        "updated_at": 1743023333,
-        "updates": 2
+        "updated_at": 1749739274,
+        "updates": 3
     }
 }

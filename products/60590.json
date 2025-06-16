@@ -59,7 +59,7 @@
             }
         ],
         "display_name": {
-            "value": "Sérum de pestañas SOS cuida y refuerza Deliplus",
+            "value": "S\u00e9rum de pesta\u00f1as SOS cuida y refuerza Deliplus",
             "previous": [],
             "timestamp": 1742983436
         },
@@ -196,7 +196,7 @@
             "timestamp": 1742983436
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/60590/serum-pestanas-sos-cuida-refuerza-deliplus",
+            "value": "https:\/\/tienda.mercadona.es\/product\/60590\/serum-pestanas-sos-cuida-refuerza-deliplus",
             "previous": [],
             "timestamp": 1742983436
         },
@@ -211,7 +211,7 @@
             "timestamp": 1742983436
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/ecf0dc550070f4585cb5738b81f1c6e6.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/ecf0dc550070f4585cb5738b81f1c6e6.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983436
         },
@@ -223,7 +223,7 @@
     },
     "stats": {
         "created_at": 1742983436,
-        "updated_at": 1743023349,
-        "updates": 4
+        "updated_at": 1749739296,
+        "updates": 6
     }
 }

@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739069
+            },
+            "requires_age_check": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739069
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 19,
+                    "previous": [],
+                    "timestamp": 1749739069
+                },
+                "name": {
+                    "value": "Bodega",
+                    "previous": [],
+                    "timestamp": 1749739069
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739069
+                },
+                "order": {
+                    "value": 15,
+                    "previous": [],
+                    "timestamp": 1749739069
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Ginebra sabor mel\u00f3n Gin Glivery",
+            "previous": [],
+            "timestamp": 1749739069
+        },
+        "id": {
+            "value": "86363",
+            "previous": [],
+            "timestamp": 1749739069
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739069
+        },
+        "packaging": {
+            "value": "Botella",
+            "previous": [],
+            "timestamp": 1749739069
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1749739069
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739069
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739069
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739069
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739069
+            },
+            "unit_size": {
+                "value": 0.7,
+                "previous": [],
+                "timestamp": 1749739069
+            },
+            "bulk_price": {
+                "value": "9.86",
+                "previous": [],
+                "timestamp": 1749739069
+            },
+            "unit_price": {
+                "value": "6.90",
+                "previous": [],
+                "timestamp": 1749739069
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739069
+            },
+            "size_format": {
+                "value": "l",
+                "previous": [],
+                "timestamp": 1749739069
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739069
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739069
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739069
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739069
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739069
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1749739069
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739069
+            },
+            "reference_price": {
+                "value": "9.858",
+                "previous": [],
+                "timestamp": 1749739069
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739069
+            },
+            "reference_format": {
+                "value": "L",
+                "previous": [],
+                "timestamp": 1749739069
+            },
+            "previous_unit_price": {
+                "value": "        7.15",
+                "previous": [],
+                "timestamp": 1749739069
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739069
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739069
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/86363\/ginebra-sabor-melon-gin-glivery-botella",
+            "previous": [],
+            "timestamp": 1749739069
+        },
+        "slug": {
+            "value": "ginebra-sabor-melon-gin-glivery-botella",
+            "previous": [],
+            "timestamp": 1749739069
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739069
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/7215d6b200432fd0e2608056740a81f3.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739069
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739069
+        }
+    },
+    "stats": {
+        "created_at": 1749739069,
+        "updated_at": 1749739069,
+        "updates": 1
+    }
+}

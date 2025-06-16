@@ -105,9 +105,14 @@
                 "timestamp": 1742983367
             },
             "unit_size": {
-                "value": 0.65,
-                "previous": [],
-                "timestamp": 1742983367
+                "value": 0.72,
+                "previous": [
+                    {
+                        "value": 0.65,
+                        "timestamp": 1742983367
+                    }
+                ],
+                "timestamp": 1749739099
             },
             "bulk_price": {
                 "value": "14.90",
@@ -115,9 +120,14 @@
                 "timestamp": 1742983367
             },
             "unit_price": {
-                "value": "9.69",
-                "previous": [],
-                "timestamp": 1742983367
+                "value": "10.73",
+                "previous": [
+                    {
+                        "value": "9.69",
+                        "timestamp": 1742983367
+                    }
+                ],
+                "timestamp": 1749739099
             },
             "approx_size": {
                 "value": true,
@@ -196,7 +206,7 @@
             "timestamp": 1742983367
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/4073/pierna-lechal-entera-congelada-pieza",
+            "value": "https:\/\/tienda.mercadona.es\/product\/4073\/pierna-lechal-entera-congelada-pieza",
             "previous": [],
             "timestamp": 1742983367
         },
@@ -211,9 +221,14 @@
             "timestamp": 1742983367
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/66fbb0d00d8e209871d49778beea28e3.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983367
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/87f0b79255b638658bad75dce3139871.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/66fbb0d00d8e209871d49778beea28e3.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983367
+                }
+            ],
+            "timestamp": 1749739099
         },
         "unavailable_from": {
             "value": null,
@@ -223,7 +238,7 @@
     },
     "stats": {
         "created_at": 1742983367,
-        "updated_at": 1743023240,
-        "updates": 4
+        "updated_at": 1749739145,
+        "updates": 6
     }
 }

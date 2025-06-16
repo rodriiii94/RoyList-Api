@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Salmón a rodajas",
+            "value": "Salm\u00f3n a rodajas",
             "previous": [],
             "timestamp": 1742983504
         },
@@ -83,29 +83,42 @@
                 "timestamp": 1742983504
             },
             "unit_size": {
-                "value": 2.88,
+                "value": 3.46,
                 "previous": [
                     {
                         "value": 2.91,
                         "timestamp": 1742983504
+                    },
+                    {
+                        "value": 2.88,
+                        "timestamp": 1743023356
                     }
                 ],
-                "timestamp": 1743023356
+                "timestamp": 1749739306
             },
             "bulk_price": {
-                "value": "12.95",
-                "previous": [],
-                "timestamp": 1742983504
+                "value": "11.95",
+                "previous": [
+                    {
+                        "value": "12.95",
+                        "timestamp": 1742983504
+                    }
+                ],
+                "timestamp": 1749739306
             },
             "unit_price": {
-                "value": "37.30",
+                "value": "41.35",
                 "previous": [
                     {
                         "value": "37.68",
                         "timestamp": 1742983504
+                    },
+                    {
+                        "value": "37.30",
+                        "timestamp": 1743023356
                     }
                 ],
-                "timestamp": 1743023356
+                "timestamp": 1749739306
             },
             "approx_size": {
                 "value": true,
@@ -153,9 +166,14 @@
                 "timestamp": 1742983504
             },
             "reference_price": {
-                "value": "12.950",
-                "previous": [],
-                "timestamp": 1742983504
+                "value": "11.950",
+                "previous": [
+                    {
+                        "value": "12.950",
+                        "timestamp": 1742983504
+                    }
+                ],
+                "timestamp": 1749739306
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -184,7 +202,7 @@
             "timestamp": 1742983504
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/81649.1/salmon-rodajas-pieza",
+            "value": "https:\/\/tienda.mercadona.es\/product\/81649.1\/salmon-rodajas-pieza",
             "previous": [],
             "timestamp": 1742983504
         },
@@ -199,7 +217,7 @@
             "timestamp": 1742983504
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/efde699df9d548c2e8a9887daf63cd7a.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/efde699df9d548c2e8a9887daf63cd7a.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983504
         },
@@ -211,7 +229,7 @@
     },
     "stats": {
         "created_at": 1742983504,
-        "updated_at": 1743023356,
-        "updates": 2
+        "updated_at": 1749739306,
+        "updates": 3
     }
 }

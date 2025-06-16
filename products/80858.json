@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Hummus de garbanzos Hacendado receta clásica",
+            "value": "Hummus de garbanzos Hacendado receta cl\u00e1sica",
             "previous": [],
             "timestamp": 1742983536
         },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983536
             },
             "bulk_price": {
-                "value": "4.58",
-                "previous": [],
-                "timestamp": 1742983536
+                "value": "4.17",
+                "previous": [
+                    {
+                        "value": "4.58",
+                        "timestamp": 1742983536
+                    }
+                ],
+                "timestamp": 1749739351
             },
             "unit_price": {
-                "value": "1.10",
-                "previous": [],
-                "timestamp": 1742983536
+                "value": "1.00",
+                "previous": [
+                    {
+                        "value": "1.10",
+                        "timestamp": 1742983536
+                    }
+                ],
+                "timestamp": 1749739351
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983536
             },
             "reference_price": {
-                "value": "4.584",
-                "previous": [],
-                "timestamp": 1742983536
+                "value": "4.167",
+                "previous": [
+                    {
+                        "value": "4.584",
+                        "timestamp": 1742983536
+                    }
+                ],
+                "timestamp": 1749739351
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983536
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/80858/hummus-garbanzos-hacendado-receta-clasica-tarrina",
+            "value": "https:\/\/tienda.mercadona.es\/product\/80858\/hummus-garbanzos-hacendado-receta-clasica-tarrina",
             "previous": [],
             "timestamp": 1742983536
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983536
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/15667b13bbdba430cddb8e98106b583e.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/15667b13bbdba430cddb8e98106b583e.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983536
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983536,
-        "updated_at": 1743023389,
-        "updates": 2
+        "updated_at": 1749739351,
+        "updates": 3
     }
 }

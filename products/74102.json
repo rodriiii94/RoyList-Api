@@ -174,7 +174,7 @@
             "timestamp": 1742983434
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/74102/crema-manos-cara-cuerpo-nivea-soft-hidratante-intensiva-bote",
+            "value": "https:\/\/tienda.mercadona.es\/product\/74102\/crema-manos-cara-cuerpo-nivea-soft-hidratante-intensiva-bote",
             "previous": [],
             "timestamp": 1742983434
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983434
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/6f71b43842dc4b0002cdd363e4ac7986.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983434
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/a086654477e99eb9d9b5076f63366728.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/6f71b43842dc4b0002cdd363e4ac7986.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983434
+                }
+            ],
+            "timestamp": 1749739196
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983434,
-        "updated_at": 1743023277,
-        "updates": 2
+        "updated_at": 1749739196,
+        "updates": 3
     }
 }

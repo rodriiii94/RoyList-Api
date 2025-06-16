@@ -174,7 +174,7 @@
             "timestamp": 1742983419
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/16008/pimientos-piquillo-tiras-con-ajo-hacendado-tarro",
+            "value": "https:\/\/tienda.mercadona.es\/product\/16008\/pimientos-piquillo-tiras-con-ajo-hacendado-tarro",
             "previous": [],
             "timestamp": 1742983419
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983419
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/9fe0d7f4205273df6663360b77f568e4.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/9fe0d7f4205273df6663360b77f568e4.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983419
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983419,
-        "updated_at": 1743023259,
-        "updates": 2
+        "updated_at": 1749739171,
+        "updates": 3
     }
 }

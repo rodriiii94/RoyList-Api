@@ -174,7 +174,7 @@
             "timestamp": 1742983549
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/22313/yogur-natural-hacendado-pack-6",
+            "value": "https:\/\/tienda.mercadona.es\/product\/22313\/yogur-natural-hacendado-pack-6",
             "previous": [],
             "timestamp": 1742983549
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983549
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/0689561ce98dba5c0b3ad43e69be0f5f.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/0689561ce98dba5c0b3ad43e69be0f5f.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983549
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983549,
-        "updated_at": 1743023402,
-        "updates": 2
+        "updated_at": 1749739367,
+        "updates": 3
     }
 }

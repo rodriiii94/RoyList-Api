@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Crema protección solar infantil FPS 50+ Deliplus para pieles sensibles y atópicas",
+            "value": "Crema protecci\u00f3n solar infantil FPS 50+ Deliplus para pieles sensibles y at\u00f3picas",
             "previous": [],
             "timestamp": 1742983450
         },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983450
             },
             "bulk_price": {
-                "value": "42.00",
-                "previous": [],
-                "timestamp": 1742983450
+                "value": "40.00",
+                "previous": [
+                    {
+                        "value": "42.00",
+                        "timestamp": 1742983450
+                    }
+                ],
+                "timestamp": 1749739224
             },
             "unit_price": {
-                "value": "4.20",
-                "previous": [],
-                "timestamp": 1742983450
+                "value": "4.00",
+                "previous": [
+                    {
+                        "value": "4.20",
+                        "timestamp": 1742983450
+                    }
+                ],
+                "timestamp": 1749739224
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983450
             },
             "reference_price": {
-                "value": "4.200",
-                "previous": [],
-                "timestamp": 1742983450
+                "value": "4.000",
+                "previous": [
+                    {
+                        "value": "4.200",
+                        "timestamp": 1742983450
+                    }
+                ],
+                "timestamp": 1749739224
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -158,7 +173,7 @@
                 "timestamp": 1742983450
             },
             "previous_unit_price": {
-                "value": null,
+                "value": "        4.20",
                 "previous": [],
                 "timestamp": 1742983450
             },
@@ -174,7 +189,7 @@
             "timestamp": 1742983450
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/86297/crema-proteccion-solar-infantil-fps-50-deliplus-pieles-sensibles-atopicas-resistente-agua-bote",
+            "value": "https:\/\/tienda.mercadona.es\/product\/86297\/crema-proteccion-solar-infantil-fps-50-deliplus-pieles-sensibles-atopicas-resistente-agua-bote",
             "previous": [],
             "timestamp": 1742983450
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983450
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/750e7ba1d897b7ab978f3eb730c62886.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/750e7ba1d897b7ab978f3eb730c62886.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983450
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983450,
-        "updated_at": 1743023297,
-        "updates": 2
+        "updated_at": 1749739224,
+        "updates": 3
     }
 }

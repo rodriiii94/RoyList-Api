@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Albóndigas guisadas Hacendado",
+            "value": "Alb\u00f3ndigas guisadas Hacendado",
             "previous": [],
             "timestamp": 1742983534
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983534
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/4797/albondigas-guisadas-hacendado-bandeja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/4797\/albondigas-guisadas-hacendado-bandeja",
             "previous": [],
             "timestamp": 1742983534
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983534
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/c18d155afe03aa090047bc1a0016e842.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983534
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/0530a6b96bdc5975928c8174e751bafa.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/c18d155afe03aa090047bc1a0016e842.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983534
+                }
+            ],
+            "timestamp": 1749739348
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983534,
-        "updated_at": 1743023387,
-        "updates": 2
+        "updated_at": 1749739348,
+        "updates": 3
     }
 }

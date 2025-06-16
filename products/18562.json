@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Espárragos medianos Hacendado",
+            "value": "Esp\u00e1rragos medianos Hacendado",
             "previous": [],
             "timestamp": 1742983418
         },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983418
             },
             "bulk_price": {
-                "value": "5.65",
-                "previous": [],
-                "timestamp": 1742983418
+                "value": "5.36",
+                "previous": [
+                    {
+                        "value": "5.65",
+                        "timestamp": 1742983418
+                    }
+                ],
+                "timestamp": 1749739170
             },
             "unit_price": {
-                "value": "1.95",
-                "previous": [],
-                "timestamp": 1742983418
+                "value": "1.85",
+                "previous": [
+                    {
+                        "value": "1.95",
+                        "timestamp": 1742983418
+                    }
+                ],
+                "timestamp": 1749739170
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983418
             },
             "reference_price": {
-                "value": "9.513",
-                "previous": [],
-                "timestamp": 1742983418
+                "value": "9.025",
+                "previous": [
+                    {
+                        "value": "9.513",
+                        "timestamp": 1742983418
+                    }
+                ],
+                "timestamp": 1749739170
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983418
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/18562/esparragos-medianos-hacendado-tarro",
+            "value": "https:\/\/tienda.mercadona.es\/product\/18562\/esparragos-medianos-hacendado-tarro",
             "previous": [],
             "timestamp": 1742983418
         },
@@ -189,9 +204,14 @@
             "timestamp": 1742983418
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/61e0ef88d285e66d8f076a711212051b.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983418
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/b1e7f0e96c3b45d7a286e462ebd3d2d6.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/61e0ef88d285e66d8f076a711212051b.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983418
+                }
+            ],
+            "timestamp": 1749739170
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +221,7 @@
     },
     "stats": {
         "created_at": 1742983418,
-        "updated_at": 1743023259,
-        "updates": 2
+        "updated_at": 1749739170,
+        "updates": 3
     }
 }

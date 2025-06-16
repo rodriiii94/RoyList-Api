@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Bífidus desnatado natural Activia zero m.g.",
+            "value": "B\u00edfidus desnatado natural Activia zero m.g.",
             "previous": [],
             "timestamp": 1742983538
         },
@@ -158,9 +158,14 @@
                 "timestamp": 1742983538
             },
             "previous_unit_price": {
-                "value": "        3.89",
-                "previous": [],
-                "timestamp": 1742983538
+                "value": null,
+                "previous": [
+                    {
+                        "value": "        3.89",
+                        "timestamp": 1742983538
+                    }
+                ],
+                "timestamp": 1749739354
             },
             "increment_bunch_amount": {
                 "value": 1,
@@ -174,7 +179,7 @@
             "timestamp": 1742983538
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/23477/bifidus-desnatado-natural-activia-zero-mg-danone-pack-8",
+            "value": "https:\/\/tienda.mercadona.es\/product\/23477\/bifidus-desnatado-natural-activia-zero-mg-danone-pack-8",
             "previous": [],
             "timestamp": 1742983538
         },
@@ -189,7 +194,7 @@
             "timestamp": 1742983538
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/5503c0081f32067decd11eee17bc72be.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/5503c0081f32067decd11eee17bc72be.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983538
         },
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983538,
-        "updated_at": 1743023391,
-        "updates": 2
+        "updated_at": 1749739354,
+        "updates": 3
     }
 }

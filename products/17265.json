@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Aliño de aceite con perejil y ajo Hacendado",
+            "value": "Ali\u00f1o de aceite con perejil y ajo Hacendado",
             "previous": [],
             "timestamp": 1742983309
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983309
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/17265/alino-aceite-ajo-perejil-hacendado-tarrina",
+            "value": "https:\/\/tienda.mercadona.es\/product\/17265\/alino-aceite-ajo-perejil-hacendado-tarrina",
             "previous": [],
             "timestamp": 1742983309
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983309
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/081c554fcf8b0512ed68017f76ac8145.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/081c554fcf8b0512ed68017f76ac8145.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983309
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983309,
-        "updated_at": 1743023133,
-        "updates": 2
+        "updated_at": 1749739011,
+        "updates": 3
     }
 }

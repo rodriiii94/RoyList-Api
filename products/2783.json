@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Cuartos traseros de pollo certificado alimentado con un 50% de maíz",
+            "value": "Cuartos traseros de pollo certificado alimentado con un 50% de ma\u00edz",
             "previous": [],
             "timestamp": 1742983366
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983366
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/2783/cuartos-traseros-pollo-certificado-alimentado-con-50-maiz-bandeja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/2783\/cuartos-traseros-pollo-certificado-alimentado-con-50-maiz-bandeja",
             "previous": [],
             "timestamp": 1742983366
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983366
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/01e5617412ffb68ebefd46eb56143e19.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/01e5617412ffb68ebefd46eb56143e19.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983366
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983366,
-        "updated_at": 1743023201,
-        "updates": 2
+        "updated_at": 1749739096,
+        "updates": 3
     }
 }

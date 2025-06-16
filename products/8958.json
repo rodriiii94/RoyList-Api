@@ -37,9 +37,14 @@
             }
         ],
         "display_name": {
-            "value": "Wok de pollo adobado y verduras",
-            "previous": [],
-            "timestamp": 1742983366
+            "value": "Pollo adobado y verduras",
+            "previous": [
+                {
+                    "value": "Wok de pollo adobado y verduras",
+                    "timestamp": 1742983366
+                }
+            ],
+            "timestamp": 1749739097
         },
         "id": {
             "value": "8958",
@@ -88,14 +93,24 @@
                 "timestamp": 1742983366
             },
             "bulk_price": {
-                "value": "6.60",
-                "previous": [],
-                "timestamp": 1742983366
+                "value": "7.30",
+                "previous": [
+                    {
+                        "value": "6.60",
+                        "timestamp": 1742983366
+                    }
+                ],
+                "timestamp": 1749739097
             },
             "unit_price": {
-                "value": "3.04",
-                "previous": [],
-                "timestamp": 1742983366
+                "value": "3.36",
+                "previous": [
+                    {
+                        "value": "3.04",
+                        "timestamp": 1742983366
+                    }
+                ],
+                "timestamp": 1749739097
             },
             "approx_size": {
                 "value": true,
@@ -143,9 +158,14 @@
                 "timestamp": 1742983366
             },
             "reference_price": {
-                "value": "6.600",
-                "previous": [],
-                "timestamp": 1742983366
+                "value": "7.300",
+                "previous": [
+                    {
+                        "value": "6.600",
+                        "timestamp": 1742983366
+                    }
+                ],
+                "timestamp": 1749739097
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +194,7 @@
             "timestamp": 1742983366
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/8958/wok-pollo-adobado-verduras-bandeja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/8958\/wok-pollo-adobado-verduras-bandeja",
             "previous": [],
             "timestamp": 1742983366
         },
@@ -189,9 +209,14 @@
             "timestamp": 1742983366
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/0dcd7ef26d50dd4a4166a2cd5db3768b.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983366
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/14a3bffe1aa51811a65d0b4f0bf0a647.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/0dcd7ef26d50dd4a4166a2cd5db3768b.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983366
+                }
+            ],
+            "timestamp": 1749739097
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +226,7 @@
     },
     "stats": {
         "created_at": 1742983366,
-        "updated_at": 1743023202,
-        "updates": 2
+        "updated_at": 1749739097,
+        "updates": 3
     }
 }

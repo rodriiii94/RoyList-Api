@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Gel facial Hidrata Deliplus ácido hialurónico",
+            "value": "Gel facial Hidrata Deliplus \u00e1cido hialur\u00f3nico",
             "previous": [],
             "timestamp": 1742983435
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983435
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/22503/gel-facial-hidrata-deliplus-acido-hialuronico-piel-normal-grasa-tarro",
+            "value": "https:\/\/tienda.mercadona.es\/product\/22503\/gel-facial-hidrata-deliplus-acido-hialuronico-piel-normal-grasa-tarro",
             "previous": [],
             "timestamp": 1742983435
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983435
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/8822c300057ff02fc5568b5ba51a21fd.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983435
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/80fb117803bb967e1c63825c38c6c350.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/8822c300057ff02fc5568b5ba51a21fd.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983435
+                }
+            ],
+            "timestamp": 1749739199
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983435,
-        "updated_at": 1743023279,
-        "updates": 2
+        "updated_at": 1749739199,
+        "updates": 3
     }
 }

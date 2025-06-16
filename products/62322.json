@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739300
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739300
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 2,
+                    "previous": [],
+                    "timestamp": 1749739300
+                },
+                "name": {
+                    "value": "Marisco y pescado",
+                    "previous": [],
+                    "timestamp": 1749739300
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739300
+                },
+                "order": {
+                    "value": 441,
+                    "previous": [],
+                    "timestamp": 1749739300
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Cigala cruda mediana Hacendado ultracongelada",
+            "previous": [],
+            "timestamp": 1749739300
+        },
+        "id": {
+            "value": "62322",
+            "previous": [],
+            "timestamp": 1749739300
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739300
+        },
+        "packaging": {
+            "value": "Caja",
+            "previous": [],
+            "timestamp": 1749739300
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1749739300
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739300
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739300
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739300
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739300
+            },
+            "unit_size": {
+                "value": 0.34,
+                "previous": [],
+                "timestamp": 1749739300
+            },
+            "bulk_price": {
+                "value": "26.35",
+                "previous": [],
+                "timestamp": 1749739300
+            },
+            "unit_price": {
+                "value": "8.96",
+                "previous": [],
+                "timestamp": 1749739300
+            },
+            "approx_size": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739300
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1749739300
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739300
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739300
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739300
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739300
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739300
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1749739300
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739300
+            },
+            "reference_price": {
+                "value": "26.350",
+                "previous": [],
+                "timestamp": 1749739300
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739300
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1749739300
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739300
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739300
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739300
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/62322\/cigala-cruda-mediana-hacendado-ultracongelada-caja",
+            "previous": [],
+            "timestamp": 1749739300
+        },
+        "slug": {
+            "value": "cigala-cruda-mediana-hacendado-ultracongelada-caja",
+            "previous": [],
+            "timestamp": 1749739300
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739300
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/6726affc76673adb6ba107fc47640225.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739300
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739300
+        }
+    },
+    "stats": {
+        "created_at": 1749739300,
+        "updated_at": 1749739300,
+        "updates": 1
+    }
+}

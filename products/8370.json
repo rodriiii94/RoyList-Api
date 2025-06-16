@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Azafrán hebra Hacendado",
+            "value": "Azafr\u00e1n hebra Hacendado",
             "previous": [],
             "timestamp": 1742983306
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983306
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/8370/azafran-hebra-hacendado-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/8370\/azafran-hebra-hacendado-paquete",
             "previous": [],
             "timestamp": 1742983306
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983306
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/3434b4736a34f67f0e66575d8e2a2983.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/3434b4736a34f67f0e66575d8e2a2983.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983306
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983306,
-        "updated_at": 1743023129,
-        "updates": 2
+        "updated_at": 1749739006,
+        "updates": 3
     }
 }

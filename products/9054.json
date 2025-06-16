@@ -20,7 +20,7 @@
                     "timestamp": 1742983337
                 },
                 "name": {
-                    "value": "Bebé",
+                    "value": "Beb\u00e9",
                     "previous": [],
                     "timestamp": 1742983337
                 },
@@ -59,7 +59,7 @@
             }
         ],
         "display_name": {
-            "value": "Preparado lácteo cereales al cacao Peques 3 Puleva",
+            "value": "Preparado l\u00e1cteo cereales al cacao Peques 3 Puleva",
             "previous": [],
             "timestamp": 1742983337
         },
@@ -196,7 +196,7 @@
             "timestamp": 1742983337
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/9054/preparado-lacteo-cereales-cacao-peques-3-puleva-12-36-meses-pack-3",
+            "value": "https:\/\/tienda.mercadona.es\/product\/9054\/preparado-lacteo-cereales-cacao-peques-3-puleva-12-36-meses-pack-3",
             "previous": [],
             "timestamp": 1742983337
         },
@@ -211,7 +211,7 @@
             "timestamp": 1742983337
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/97890c6bb75ab7a977627f665695b50c.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/97890c6bb75ab7a977627f665695b50c.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983337
         },
@@ -223,7 +223,7 @@
     },
     "stats": {
         "created_at": 1742983337,
-        "updated_at": 1743023313,
-        "updates": 4
+        "updated_at": 1749739247,
+        "updates": 6
     }
 }

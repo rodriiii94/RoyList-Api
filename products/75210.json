@@ -174,7 +174,7 @@
             "timestamp": 1742983430
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/75210/laca-cabello-nelly-spray",
+            "value": "https:\/\/tienda.mercadona.es\/product\/75210\/laca-cabello-nelly-spray",
             "previous": [],
             "timestamp": 1742983430
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983430
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/f22c942ec615c32dd83e6ed1a4cb10b3.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/f22c942ec615c32dd83e6ed1a4cb10b3.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983430
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983430,
-        "updated_at": 1743023272,
-        "updates": 2
+        "updated_at": 1749739189,
+        "updates": 3
     }
 }

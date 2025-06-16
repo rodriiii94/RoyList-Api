@@ -174,7 +174,7 @@
             "timestamp": 1742983309
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/52859/salsa-tomate-con-albahaca-hacendado-tarro",
+            "value": "https:\/\/tienda.mercadona.es\/product\/52859\/salsa-tomate-con-albahaca-hacendado-tarro",
             "previous": [],
             "timestamp": 1742983309
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983309
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/c5b78823f170be65e8904f835c222e67.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983309
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/a4df9be0e66c4c72ee971c33856dfc27.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/c5b78823f170be65e8904f835c222e67.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983309
+                }
+            ],
+            "timestamp": 1749739011
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983309,
-        "updated_at": 1743023133,
-        "updates": 2
+        "updated_at": 1749739011,
+        "updates": 3
     }
 }

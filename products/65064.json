@@ -20,7 +20,7 @@
                     "timestamp": 1742983334
                 },
                 "name": {
-                    "value": "Azúcar, caramelos y chocolate",
+                    "value": "Az\u00facar, caramelos y chocolate",
                     "previous": [],
                     "timestamp": 1742983334
                 },
@@ -37,9 +37,14 @@
             }
         ],
         "display_name": {
-            "value": "Golosinas tubos rellenos Hacendado sabor fresa",
-            "previous": [],
-            "timestamp": 1742983334
+            "value": "Golosinas tubos Hacendado sabor fresa y nata",
+            "previous": [
+                {
+                    "value": "Golosinas tubos rellenos Hacendado sabor fresa",
+                    "timestamp": 1742983334
+                }
+            ],
+            "timestamp": 1749739051
         },
         "id": {
             "value": "65064",
@@ -174,7 +179,7 @@
             "timestamp": 1742983334
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/65064/golosinas-tubos-fresa-hacendado-rellenos-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/65064\/golosinas-tubos-fresa-hacendado-rellenos-caja",
             "previous": [],
             "timestamp": 1742983334
         },
@@ -189,7 +194,7 @@
             "timestamp": 1742983334
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/d0545ed394abad774a6c3eebcaafb65e.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/d0545ed394abad774a6c3eebcaafb65e.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983334
         },
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983334,
-        "updated_at": 1743023164,
-        "updates": 2
+        "updated_at": 1749739051,
+        "updates": 3
     }
 }

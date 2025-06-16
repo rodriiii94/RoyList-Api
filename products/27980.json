@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Tónica Hacendado",
+            "value": "T\u00f3nica Hacendado",
             "previous": [],
             "timestamp": 1742983317
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983317
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/27980/tonica-hacendado-lata",
+            "value": "https:\/\/tienda.mercadona.es\/product\/27980\/tonica-hacendado-lata",
             "previous": [],
             "timestamp": 1742983317
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983317
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/c6ff7f43896a2d745e29be32857dc93c.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/c6ff7f43896a2d745e29be32857dc93c.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983317
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983317,
-        "updated_at": 1743023142,
-        "updates": 2
+        "updated_at": 1749739023,
+        "updates": 3
     }
 }

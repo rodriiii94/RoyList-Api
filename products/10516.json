@@ -88,14 +88,24 @@
                 "timestamp": 1742983463
             },
             "bulk_price": {
-                "value": "1.10",
-                "previous": [],
-                "timestamp": 1742983463
+                "value": "1.17",
+                "previous": [
+                    {
+                        "value": "1.10",
+                        "timestamp": 1742983463
+                    }
+                ],
+                "timestamp": 1749739245
             },
             "unit_price": {
-                "value": "9.90",
-                "previous": [],
-                "timestamp": 1742983463
+                "value": "10.56",
+                "previous": [
+                    {
+                        "value": "9.90",
+                        "timestamp": 1742983463
+                    }
+                ],
+                "timestamp": 1749739245
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983463
             },
             "reference_price": {
-                "value": "1.100",
-                "previous": [],
-                "timestamp": 1742983463
+                "value": "1.174",
+                "previous": [
+                    {
+                        "value": "1.100",
+                        "timestamp": 1742983463
+                    }
+                ],
+                "timestamp": 1749739245
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -158,9 +173,14 @@
                 "timestamp": 1742983463
             },
             "previous_unit_price": {
-                "value": "       10.56",
-                "previous": [],
-                "timestamp": 1742983463
+                "value": null,
+                "previous": [
+                    {
+                        "value": "       10.56",
+                        "timestamp": 1742983463
+                    }
+                ],
+                "timestamp": 1749739245
             },
             "increment_bunch_amount": {
                 "value": 1,
@@ -174,7 +194,7 @@
             "timestamp": 1742983463
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/10516/leche-desnatada-asturiana-pack-6",
+            "value": "https:\/\/tienda.mercadona.es\/product\/10516\/leche-desnatada-asturiana-pack-6",
             "previous": [],
             "timestamp": 1742983463
         },
@@ -189,7 +209,7 @@
             "timestamp": 1742983463
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/b24a6284dfa744beccfa97471e588858.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/b24a6284dfa744beccfa97471e588858.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983463
         },
@@ -201,7 +221,7 @@
     },
     "stats": {
         "created_at": 1742983463,
-        "updated_at": 1743023312,
-        "updates": 2
+        "updated_at": 1749739245,
+        "updates": 3
     }
 }

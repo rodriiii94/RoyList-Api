@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Vino blanco Don Simón",
+            "value": "Vino blanco Don Sim\u00f3n",
             "previous": [],
             "timestamp": 1742983351
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983351
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/66105/vino-blanco-don-simon-brick",
+            "value": "https:\/\/tienda.mercadona.es\/product\/66105\/vino-blanco-don-simon-brick",
             "previous": [],
             "timestamp": 1742983351
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983351
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/b8af2033139edf4fa58547b2a9fadee4.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/b8af2033139edf4fa58547b2a9fadee4.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983351
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983351,
-        "updated_at": 1743023184,
-        "updates": 2
+        "updated_at": 1749739075,
+        "updates": 3
     }
 }

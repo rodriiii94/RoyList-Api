@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Perfilador de ojos Deliplus 02 marrón",
+            "value": "Perfilador de ojos Deliplus 02 marr\u00f3n",
             "previous": [],
             "timestamp": 1742983496
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983496
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/52805/perfilador-ojos-deliplus-02-marron",
+            "value": "https:\/\/tienda.mercadona.es\/product\/52805\/perfilador-ojos-deliplus-02-marron",
             "previous": [],
             "timestamp": 1742983496
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983496
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/3a1d60836046606f93b70275dddbfe45.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/3a1d60836046606f93b70275dddbfe45.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983496
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983496,
-        "updated_at": 1743023349,
-        "updates": 2
+        "updated_at": 1749739294,
+        "updates": 3
     }
 }

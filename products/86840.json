@@ -88,14 +88,24 @@
                 "timestamp": 1742983327
             },
             "bulk_price": {
-                "value": "5.25",
-                "previous": [],
-                "timestamp": 1742983327
+                "value": "5.00",
+                "previous": [
+                    {
+                        "value": "5.25",
+                        "timestamp": 1742983327
+                    }
+                ],
+                "timestamp": 1749739042
             },
             "unit_price": {
-                "value": "2.10",
-                "previous": [],
-                "timestamp": 1742983327
+                "value": "2.00",
+                "previous": [
+                    {
+                        "value": "2.10",
+                        "timestamp": 1742983327
+                    }
+                ],
+                "timestamp": 1749739042
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983327
             },
             "reference_price": {
-                "value": "5.250",
-                "previous": [],
-                "timestamp": 1742983327
+                "value": "5.000",
+                "previous": [
+                    {
+                        "value": "5.250",
+                        "timestamp": 1742983327
+                    }
+                ],
+                "timestamp": 1749739042
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983327
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/86840/pasta-fresca-gnocchi-quesos-hacendado-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/86840\/pasta-fresca-gnocchi-quesos-hacendado-paquete",
             "previous": [],
             "timestamp": 1742983327
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983327
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/3140306dabea0d761d6be95f0429e82b.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/3140306dabea0d761d6be95f0429e82b.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983327
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983327,
-        "updated_at": 1743023156,
-        "updates": 2
+        "updated_at": 1749739042,
+        "updates": 3
     }
 }

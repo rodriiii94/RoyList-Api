@@ -20,7 +20,7 @@
                     "timestamp": 1742983385
                 },
                 "name": {
-                    "value": "Charcutería y quesos",
+                    "value": "Charcuter\u00eda y quesos",
                     "previous": [],
                     "timestamp": 1742983385
                 },
@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Pechuga de pavo al horno de leña Campofrío lonchas",
+            "value": "Pechuga de pavo al horno de le\u00f1a Campofr\u00edo lonchas",
             "previous": [],
             "timestamp": 1742983385
         },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983385
             },
             "bulk_price": {
-                "value": "13.60",
-                "previous": [],
-                "timestamp": 1742983385
+                "value": "14.40",
+                "previous": [
+                    {
+                        "value": "13.60",
+                        "timestamp": 1742983385
+                    }
+                ],
+                "timestamp": 1749739120
             },
             "unit_price": {
-                "value": "1.70",
-                "previous": [],
-                "timestamp": 1742983385
+                "value": "1.80",
+                "previous": [
+                    {
+                        "value": "1.70",
+                        "timestamp": 1742983385
+                    }
+                ],
+                "timestamp": 1749739120
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983385
             },
             "reference_price": {
-                "value": "13.600",
-                "previous": [],
-                "timestamp": 1742983385
+                "value": "14.400",
+                "previous": [
+                    {
+                        "value": "13.600",
+                        "timestamp": 1742983385
+                    }
+                ],
+                "timestamp": 1749739120
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983385
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/53140/pechuga-pavo-horno-lena-campofrio-lonchas-pavofrio-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/53140\/pechuga-pavo-horno-lena-campofrio-lonchas-pavofrio-paquete",
             "previous": [],
             "timestamp": 1742983385
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983385
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/4d0aeb86816023033231a708eeb0f7cb.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/4d0aeb86816023033231a708eeb0f7cb.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983385
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983385,
-        "updated_at": 1743023221,
-        "updates": 2
+        "updated_at": 1749739120,
+        "updates": 3
     }
 }

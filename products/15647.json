@@ -37,9 +37,14 @@
             }
         ],
         "display_name": {
-            "value": "Bebida de almendras Hacendado",
-            "previous": [],
-            "timestamp": 1742983463
+            "value": "Bebida de almendras con calcio Hacendado",
+            "previous": [
+                {
+                    "value": "Bebida de almendras Hacendado",
+                    "timestamp": 1742983463
+                }
+            ],
+            "timestamp": 1749739246
         },
         "id": {
             "value": "15647",
@@ -52,9 +57,14 @@
             "timestamp": 1742983463
         },
         "packaging": {
-            "value": "Pack-6",
-            "previous": [],
-            "timestamp": 1742983463
+            "value": null,
+            "previous": [
+                {
+                    "value": "Pack-6",
+                    "timestamp": 1742983463
+                }
+            ],
+            "timestamp": 1749739246
         },
         "price_instructions": {
             "iva": {
@@ -88,14 +98,24 @@
                 "timestamp": 1742983463
             },
             "bulk_price": {
-                "value": "1.25",
-                "previous": [],
-                "timestamp": 1742983463
+                "value": "1.20",
+                "previous": [
+                    {
+                        "value": "1.25",
+                        "timestamp": 1742983463
+                    }
+                ],
+                "timestamp": 1749739246
             },
             "unit_price": {
-                "value": "7.50",
-                "previous": [],
-                "timestamp": 1742983463
+                "value": "7.20",
+                "previous": [
+                    {
+                        "value": "7.50",
+                        "timestamp": 1742983463
+                    }
+                ],
+                "timestamp": 1749739246
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +163,14 @@
                 "timestamp": 1742983463
             },
             "reference_price": {
-                "value": "1.250",
-                "previous": [],
-                "timestamp": 1742983463
+                "value": "1.200",
+                "previous": [
+                    {
+                        "value": "1.250",
+                        "timestamp": 1742983463
+                    }
+                ],
+                "timestamp": 1749739246
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +199,7 @@
             "timestamp": 1742983463
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/15647/bebida-almendras-hacendado-pack-6",
+            "value": "https:\/\/tienda.mercadona.es\/product\/15647\/bebida-almendras-hacendado-pack-6",
             "previous": [],
             "timestamp": 1742983463
         },
@@ -189,7 +214,7 @@
             "timestamp": 1742983463
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/e4a083b607ffb5a2235cadc434a932d0.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/e4a083b607ffb5a2235cadc434a932d0.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983463
         },
@@ -201,7 +226,7 @@
     },
     "stats": {
         "created_at": 1742983463,
-        "updated_at": 1743023312,
-        "updates": 2
+        "updated_at": 1749739246,
+        "updates": 3
     }
 }

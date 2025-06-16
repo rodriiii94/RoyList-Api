@@ -174,7 +174,7 @@
             "timestamp": 1742983549
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/60955/yogur-con-frutas-hacendado-2-con-melocoton-2-con-fresas-2-con-pera-2-con-frutos-silvestres-pack-8",
+            "value": "https:\/\/tienda.mercadona.es\/product\/60955\/yogur-con-frutas-hacendado-2-con-melocoton-2-con-fresas-2-con-pera-2-con-frutos-silvestres-pack-8",
             "previous": [],
             "timestamp": 1742983549
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983549
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/d7bedaeb2147b0f2e44144efff9e835a.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/d7bedaeb2147b0f2e44144efff9e835a.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983549
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983549,
-        "updated_at": 1743023402,
-        "updates": 2
+        "updated_at": 1749739368,
+        "updates": 3
     }
 }

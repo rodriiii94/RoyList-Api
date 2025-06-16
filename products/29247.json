@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Tónica original Schweppes",
+            "value": "T\u00f3nica original Schweppes",
             "previous": [],
             "timestamp": 1742983317
         },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983317
             },
             "bulk_price": {
-                "value": "1.79",
-                "previous": [],
-                "timestamp": 1742983317
+                "value": "1.93",
+                "previous": [
+                    {
+                        "value": "1.79",
+                        "timestamp": 1742983317
+                    }
+                ],
+                "timestamp": 1749739023
             },
             "unit_price": {
-                "value": "1.79",
-                "previous": [],
-                "timestamp": 1742983317
+                "value": "1.93",
+                "previous": [
+                    {
+                        "value": "1.79",
+                        "timestamp": 1742983317
+                    }
+                ],
+                "timestamp": 1749739023
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983317
             },
             "reference_price": {
-                "value": "1.790",
-                "previous": [],
-                "timestamp": 1742983317
+                "value": "1.930",
+                "previous": [
+                    {
+                        "value": "1.790",
+                        "timestamp": 1742983317
+                    }
+                ],
+                "timestamp": 1749739023
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -158,9 +173,14 @@
                 "timestamp": 1742983317
             },
             "previous_unit_price": {
-                "value": "        1.99",
-                "previous": [],
-                "timestamp": 1742983317
+                "value": null,
+                "previous": [
+                    {
+                        "value": "        1.99",
+                        "timestamp": 1742983317
+                    }
+                ],
+                "timestamp": 1749739023
             },
             "increment_bunch_amount": {
                 "value": 1,
@@ -174,7 +194,7 @@
             "timestamp": 1742983317
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/29247/tonica-original-schweppes-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/29247\/tonica-original-schweppes-botella",
             "previous": [],
             "timestamp": 1742983317
         },
@@ -189,7 +209,7 @@
             "timestamp": 1742983317
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/a5b067def62da24c57c9a658fa350bda.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/a5b067def62da24c57c9a658fa350bda.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983317
         },
@@ -201,7 +221,7 @@
     },
     "stats": {
         "created_at": 1742983317,
-        "updated_at": 1743023142,
-        "updates": 2
+        "updated_at": 1749739023,
+        "updates": 3
     }
 }

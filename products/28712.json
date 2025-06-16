@@ -88,14 +88,24 @@
                 "timestamp": 1742983346
             },
             "bulk_price": {
-                "value": "18.57",
-                "previous": [],
-                "timestamp": 1742983346
+                "value": "18.50",
+                "previous": [
+                    {
+                        "value": "18.57",
+                        "timestamp": 1742983346
+                    }
+                ],
+                "timestamp": 1749739069
             },
             "unit_price": {
-                "value": "13.00",
-                "previous": [],
-                "timestamp": 1742983346
+                "value": "12.95",
+                "previous": [
+                    {
+                        "value": "13.00",
+                        "timestamp": 1742983346
+                    }
+                ],
+                "timestamp": 1749739069
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983346
             },
             "reference_price": {
-                "value": "18.572",
-                "previous": [],
-                "timestamp": 1742983346
+                "value": "18.500",
+                "previous": [
+                    {
+                        "value": "18.572",
+                        "timestamp": 1742983346
+                    }
+                ],
+                "timestamp": 1749739069
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -158,7 +173,7 @@
                 "timestamp": 1742983346
             },
             "previous_unit_price": {
-                "value": null,
+                "value": "       14.25",
                 "previous": [],
                 "timestamp": 1742983346
             },
@@ -174,7 +189,7 @@
             "timestamp": 1742983346
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/28712/ginebra-london-dry-gin-beefeater-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/28712\/ginebra-london-dry-gin-beefeater-botella",
             "previous": [],
             "timestamp": 1742983346
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983346
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/c8daf2871ce636e5135bb6f0772b363a.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/c8daf2871ce636e5135bb6f0772b363a.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983346
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983346,
-        "updated_at": 1743023179,
-        "updates": 2
+        "updated_at": 1749739069,
+        "updates": 3
     }
 }

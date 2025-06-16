@@ -37,9 +37,14 @@
             }
         ],
         "display_name": {
-            "value": "Zanahoria rallada base para ensalada",
-            "previous": [],
-            "timestamp": 1742983459
+            "value": "Zanahoria rallada lavada",
+            "previous": [
+                {
+                    "value": "Zanahoria rallada base para ensalada",
+                    "timestamp": 1742983459
+                }
+            ],
+            "timestamp": 1749739239
         },
         "id": {
             "value": "69722",
@@ -174,7 +179,7 @@
             "timestamp": 1742983459
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/69722/zanahoria-rallada-base-ensalada-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/69722\/zanahoria-rallada-base-ensalada-paquete",
             "previous": [],
             "timestamp": 1742983459
         },
@@ -189,7 +194,7 @@
             "timestamp": 1742983459
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/55981cabbe3dfaa2216e5038375cb91d.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/55981cabbe3dfaa2216e5038375cb91d.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983459
         },
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983459,
-        "updated_at": 1743023307,
-        "updates": 2
+        "updated_at": 1749739239,
+        "updates": 3
     }
 }

@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Salmón con verduras Listo para Comer",
+            "value": "Salm\u00f3n con verduras Listo para Comer",
             "previous": [],
             "timestamp": 1742983530
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983530
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/13243/salmon-con-verduras-listo-comer-compuesto-salmon-marinado-salsa-romescu-arroz-verduras-asadas-calabacin-patata-pimiento-rojo-boniato-bol",
+            "value": "https:\/\/tienda.mercadona.es\/product\/13243\/salmon-con-verduras-listo-comer-compuesto-salmon-marinado-salsa-romescu-arroz-verduras-asadas-calabacin-patata-pimiento-rojo-boniato-bol",
             "previous": [],
             "timestamp": 1742983530
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983530
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/c306868b28f7d9be71b7c37b14559c7e.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/c306868b28f7d9be71b7c37b14559c7e.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983530
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983530,
-        "updated_at": 1743023383,
-        "updates": 2
+        "updated_at": 1749739342,
+        "updates": 3
     }
 }

@@ -20,7 +20,7 @@
                     "timestamp": 1742983329
                 },
                 "name": {
-                    "value": "Azúcar, caramelos y chocolate",
+                    "value": "Az\u00facar, caramelos y chocolate",
                     "previous": [],
                     "timestamp": 1742983329
                 },
@@ -174,7 +174,7 @@
             "timestamp": 1742983329
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/19812/edulcorante-pastillas-stevia-hacendado-bote",
+            "value": "https:\/\/tienda.mercadona.es\/product\/19812\/edulcorante-pastillas-stevia-hacendado-bote",
             "previous": [],
             "timestamp": 1742983329
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983329
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/daf1d996bb5dc50de4696d52da90400a.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/daf1d996bb5dc50de4696d52da90400a.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983329
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983329,
-        "updated_at": 1743023158,
-        "updates": 2
+        "updated_at": 1749739044,
+        "updates": 3
     }
 }

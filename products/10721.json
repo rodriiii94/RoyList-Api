@@ -88,14 +88,24 @@
                 "timestamp": 1742983462
             },
             "bulk_price": {
-                "value": "0.93",
-                "previous": [],
-                "timestamp": 1742983462
+                "value": "0.96",
+                "previous": [
+                    {
+                        "value": "0.93",
+                        "timestamp": 1742983462
+                    }
+                ],
+                "timestamp": 1749739244
             },
             "unit_price": {
-                "value": "5.58",
-                "previous": [],
-                "timestamp": 1742983462
+                "value": "5.76",
+                "previous": [
+                    {
+                        "value": "5.58",
+                        "timestamp": 1742983462
+                    }
+                ],
+                "timestamp": 1749739244
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983462
             },
             "reference_price": {
-                "value": "0.930",
-                "previous": [],
-                "timestamp": 1742983462
+                "value": "0.960",
+                "previous": [
+                    {
+                        "value": "0.930",
+                        "timestamp": 1742983462
+                    }
+                ],
+                "timestamp": 1749739244
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983462
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/10721/leche-semidesnatada-sin-lactosa-hacendado-pack-6",
+            "value": "https:\/\/tienda.mercadona.es\/product\/10721\/leche-semidesnatada-sin-lactosa-hacendado-pack-6",
             "previous": [],
             "timestamp": 1742983462
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983462
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/6b8cf0ba135f7e717632541922c5791d.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/6b8cf0ba135f7e717632541922c5791d.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983462
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983462,
-        "updated_at": 1743023311,
-        "updates": 2
+        "updated_at": 1749739244,
+        "updates": 3
     }
 }

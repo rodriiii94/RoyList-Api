@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Crema facial Antiarrugas y Reafirmante Men care Deliplus ácido hialurónico y matrixyl",
+            "value": "Crema facial Antiarrugas y Reafirmante Men care Deliplus \u00e1cido hialur\u00f3nico y matrixyl",
             "previous": [],
             "timestamp": 1742983435
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983435
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/11941/crema-facial-antiarrugas-reafirmante-men-care-deliplus-acido-hialuronico-matrixyl-6-1-bote",
+            "value": "https:\/\/tienda.mercadona.es\/product\/11941\/crema-facial-antiarrugas-reafirmante-men-care-deliplus-acido-hialuronico-matrixyl-6-1-bote",
             "previous": [],
             "timestamp": 1742983435
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983435
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/26c6306f83e397d77642140402af865c.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/26c6306f83e397d77642140402af865c.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983435
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983435,
-        "updated_at": 1743023279,
-        "updates": 2
+        "updated_at": 1749739199,
+        "updates": 3
     }
 }

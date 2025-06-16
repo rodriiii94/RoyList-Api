@@ -174,7 +174,7 @@
             "timestamp": 1742983314
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/29032/refresco-cola-hacendado-lata",
+            "value": "https:\/\/tienda.mercadona.es\/product\/29032\/refresco-cola-hacendado-lata",
             "previous": [],
             "timestamp": 1742983314
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983314
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/92e3d15bba5076195b64d69619d97f0d.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/92e3d15bba5076195b64d69619d97f0d.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983314
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983314,
-        "updated_at": 1743023139,
-        "updates": 2
+        "updated_at": 1749739018,
+        "updates": 3
     }
 }

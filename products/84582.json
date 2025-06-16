@@ -20,7 +20,7 @@
                     "timestamp": 1742983514
                 },
                 "name": {
-                    "value": "Panadería y pastelería",
+                    "value": "Panader\u00eda y pasteler\u00eda",
                     "previous": [],
                     "timestamp": 1742983514
                 },
@@ -37,9 +37,14 @@
             }
         ],
         "display_name": {
-            "value": "Xuxu relleno de crema 49%",
-            "previous": [],
-            "timestamp": 1742983514
+            "value": "Suso relleno de crema 49%",
+            "previous": [
+                {
+                    "value": "Xuxu relleno de crema 49%",
+                    "timestamp": 1742983514
+                }
+            ],
+            "timestamp": 1749739320
         },
         "id": {
             "value": "84582",
@@ -174,7 +179,7 @@
             "timestamp": 1742983514
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/84582/xuxu-relleno-crema-49-pieza",
+            "value": "https:\/\/tienda.mercadona.es\/product\/84582\/xuxu-relleno-crema-49-pieza",
             "previous": [],
             "timestamp": 1742983514
         },
@@ -189,7 +194,7 @@
             "timestamp": 1742983514
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/c33895ed659e83edad12a35eee12ef00.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/c33895ed659e83edad12a35eee12ef00.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983514
         },
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983514,
-        "updated_at": 1743023366,
-        "updates": 2
+        "updated_at": 1749739320,
+        "updates": 3
     }
 }

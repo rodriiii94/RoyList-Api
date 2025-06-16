@@ -20,7 +20,7 @@
                     "timestamp": 1742983336
                 },
                 "name": {
-                    "value": "Azúcar, caramelos y chocolate",
+                    "value": "Az\u00facar, caramelos y chocolate",
                     "previous": [],
                     "timestamp": 1742983336
                 },
@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Mermelada de melocotón monodosis Hacendado",
+            "value": "Mermelada de melocot\u00f3n monodosis Hacendado",
             "previous": [],
             "timestamp": 1742983336
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983336
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/13444/mermelada-melocoton-monodosis-hacendado-pack-10",
+            "value": "https:\/\/tienda.mercadona.es\/product\/13444\/mermelada-melocoton-monodosis-hacendado-pack-10",
             "previous": [],
             "timestamp": 1742983336
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983336
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/f162d40d58d2f7289498e36e18010eaf.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/f162d40d58d2f7289498e36e18010eaf.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983336
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983336,
-        "updated_at": 1743023166,
-        "updates": 2
+        "updated_at": 1749739053,
+        "updates": 3
     }
 }

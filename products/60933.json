@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Pintalabios Mate Deliplus 111 marrón",
+            "value": "Pintalabios Mate Deliplus 111 marr\u00f3n",
             "previous": [],
             "timestamp": 1742983495
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983495
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/60933/pintalabios-mate-deliplus-111-marron",
+            "value": "https:\/\/tienda.mercadona.es\/product\/60933\/pintalabios-mate-deliplus-111-marron",
             "previous": [],
             "timestamp": 1742983495
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983495
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/dc901b0c03d46257343570b4736bfa60.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/dc901b0c03d46257343570b4736bfa60.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983495
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983495,
-        "updated_at": 1743023347,
-        "updates": 2
+        "updated_at": 1749739292,
+        "updates": 3
     }
 }

@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Piña",
+            "value": "Pi\u00f1a",
             "previous": [],
             "timestamp": 1742983455
         },
@@ -83,29 +83,42 @@
                 "timestamp": 1742983455
             },
             "unit_size": {
-                "value": 2.31,
+                "value": 2.1,
                 "previous": [
                     {
                         "value": 2.3,
                         "timestamp": 1742983455
+                    },
+                    {
+                        "value": 2.31,
+                        "timestamp": 1743023302
                     }
                 ],
-                "timestamp": 1743023302
+                "timestamp": 1749739232
             },
             "bulk_price": {
-                "value": "2.00",
-                "previous": [],
-                "timestamp": 1742983455
+                "value": "1.95",
+                "previous": [
+                    {
+                        "value": "2.00",
+                        "timestamp": 1742983455
+                    }
+                ],
+                "timestamp": 1749739232
             },
             "unit_price": {
-                "value": "4.62",
+                "value": "4.10",
                 "previous": [
                     {
                         "value": "4.60",
                         "timestamp": 1742983455
+                    },
+                    {
+                        "value": "4.62",
+                        "timestamp": 1743023302
                     }
                 ],
-                "timestamp": 1743023302
+                "timestamp": 1749739232
             },
             "approx_size": {
                 "value": true,
@@ -153,9 +166,14 @@
                 "timestamp": 1742983455
             },
             "reference_price": {
-                "value": "2.000",
-                "previous": [],
-                "timestamp": 1742983455
+                "value": "1.950",
+                "previous": [
+                    {
+                        "value": "2.000",
+                        "timestamp": 1742983455
+                    }
+                ],
+                "timestamp": 1749739232
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -184,7 +202,7 @@
             "timestamp": 1742983455
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/3076/pina-pieza",
+            "value": "https:\/\/tienda.mercadona.es\/product\/3076\/pina-pieza",
             "previous": [],
             "timestamp": 1742983455
         },
@@ -199,7 +217,7 @@
             "timestamp": 1742983455
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/9dd42248e51d82317d3e48eaa166d56e.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/9dd42248e51d82317d3e48eaa166d56e.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983455
         },
@@ -211,7 +229,7 @@
     },
     "stats": {
         "created_at": 1742983455,
-        "updated_at": 1743023302,
-        "updates": 2
+        "updated_at": 1749739232,
+        "updates": 3
     }
 }

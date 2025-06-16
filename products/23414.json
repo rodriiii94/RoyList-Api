@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Cloro 5 acciones disolución lenta tabletas para piscina",
+            "value": "Cloro 5 acciones disoluci\u00f3n lenta tabletas para piscina",
             "previous": [],
             "timestamp": 1742983472
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983472
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/23414/cloro-5-acciones-disolucion-lenta-tabletas-piscina-bote",
+            "value": "https:\/\/tienda.mercadona.es\/product\/23414\/cloro-5-acciones-disolucion-lenta-tabletas-piscina-bote",
             "previous": [],
             "timestamp": 1742983472
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983472
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/93b4946a36c1060309706ebc306a749e.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983472
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/d0124ee4c87952c1067f40b3c793e7f1.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/93b4946a36c1060309706ebc306a749e.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983472
+                }
+            ],
+            "timestamp": 1749739262
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983472,
-        "updated_at": 1743023323,
-        "updates": 2
+        "updated_at": 1749739262,
+        "updates": 3
     }
 }

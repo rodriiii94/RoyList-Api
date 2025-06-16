@@ -174,7 +174,7 @@
             "timestamp": 1742983531
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/60685/pizza-barbacoa-hacendado-pack-2",
+            "value": "https:\/\/tienda.mercadona.es\/product\/60685\/pizza-barbacoa-hacendado-pack-2",
             "previous": [],
             "timestamp": 1742983531
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983531
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/c1be6016c94e7e2a3c2bf2e6e19147e8.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/c1be6016c94e7e2a3c2bf2e6e19147e8.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983531
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983531,
-        "updated_at": 1743023385,
-        "updates": 2
+        "updated_at": 1749739344,
+        "updates": 3
     }
 }

@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Patatas guarnición",
+            "value": "Patatas guarnici\u00f3n",
             "previous": [],
             "timestamp": 1742983458
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983458
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/69386/patatas-guarnicion-malla",
+            "value": "https:\/\/tienda.mercadona.es\/product\/69386\/patatas-guarnicion-malla",
             "previous": [],
             "timestamp": 1742983458
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983458
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/df2dd24063ff1787bf0e643da4f9e9ed.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/df2dd24063ff1787bf0e643da4f9e9ed.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983458
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983458,
-        "updated_at": 1743023307,
-        "updates": 2
+        "updated_at": 1749739237,
+        "updates": 3
     }
 }

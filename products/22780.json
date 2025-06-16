@@ -20,7 +20,7 @@
                     "timestamp": 1742983397
                 },
                 "name": {
-                    "value": "Charcutería y quesos",
+                    "value": "Charcuter\u00eda y quesos",
                     "previous": [],
                     "timestamp": 1742983397
                 },
@@ -174,7 +174,7 @@
             "timestamp": 1742983397
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/22780/crema-queso-viejo-tostado-mezcla-hacendado-tarrina",
+            "value": "https:\/\/tienda.mercadona.es\/product\/22780\/crema-queso-viejo-tostado-mezcla-hacendado-tarrina",
             "previous": [],
             "timestamp": 1742983397
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983397
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/7d85c827e2862551181fc770beb51f26.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983397
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/1aa1c7b76f5a83e54d74d4a97030c15c.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/7d85c827e2862551181fc770beb51f26.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983397
+                }
+            ],
+            "timestamp": 1749739140
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983397,
-        "updated_at": 1743023236,
-        "updates": 2
+        "updated_at": 1749739140,
+        "updates": 3
     }
 }

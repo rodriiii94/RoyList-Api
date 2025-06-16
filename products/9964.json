@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Vino tinto D.O Campo de Borja Borsao Colección de parcelas",
+            "value": "Vino tinto D.O Campo de Borja Borsao Colecci\u00f3n de parcelas",
             "previous": [],
             "timestamp": 1742983355
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983355
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/9964/vino-tinto-do-campo-borja-borsao-coleccion-parcelas-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/9964\/vino-tinto-do-campo-borja-borsao-coleccion-parcelas-botella",
             "previous": [],
             "timestamp": 1742983355
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983355
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/47d6157d0717cfc06e2b253297525918.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983355
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/8cfc3ff4aea6645841cebb33001d5a62.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/47d6157d0717cfc06e2b253297525918.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983355
+                }
+            ],
+            "timestamp": 1749739081
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983355,
-        "updated_at": 1743023189,
-        "updates": 2
+        "updated_at": 1749739081,
+        "updates": 3
     }
 }

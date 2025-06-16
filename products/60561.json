@@ -196,7 +196,7 @@
             "timestamp": 1742983434
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/60561/toallitas-refrescantes-deliplus-monodosis-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/60561\/toallitas-refrescantes-deliplus-monodosis-caja",
             "previous": [],
             "timestamp": 1742983434
         },
@@ -211,7 +211,7 @@
             "timestamp": 1742983434
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/f48b7b31c5afd53bd5cac9a02eaa06be.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/f48b7b31c5afd53bd5cac9a02eaa06be.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983434
         },
@@ -223,7 +223,7 @@
     },
     "stats": {
         "created_at": 1742983434,
-        "updated_at": 1743023337,
-        "updates": 4
+        "updated_at": 1749739279,
+        "updates": 6
     }
 }

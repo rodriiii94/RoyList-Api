@@ -88,14 +88,24 @@
                 "timestamp": 1742983492
             },
             "bulk_price": {
-                "value": "5.00",
-                "previous": [],
-                "timestamp": 1742983492
+                "value": "5.40",
+                "previous": [
+                    {
+                        "value": "5.00",
+                        "timestamp": 1742983492
+                    }
+                ],
+                "timestamp": 1749739289
             },
             "unit_price": {
-                "value": "5.00",
-                "previous": [],
-                "timestamp": 1742983492
+                "value": "5.40",
+                "previous": [
+                    {
+                        "value": "5.00",
+                        "timestamp": 1742983492
+                    }
+                ],
+                "timestamp": 1749739289
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983492
             },
             "reference_price": {
-                "value": "5.000",
-                "previous": [],
-                "timestamp": 1742983492
+                "value": "5.400",
+                "previous": [
+                    {
+                        "value": "5.000",
+                        "timestamp": 1742983492
+                    }
+                ],
+                "timestamp": 1749739289
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983492
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/80427/polvo-compacto-matificante-deliplus",
+            "value": "https:\/\/tienda.mercadona.es\/product\/80427\/polvo-compacto-matificante-deliplus",
             "previous": [],
             "timestamp": 1742983492
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983492
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/92d2de46893d7fbe5323e2096a8e3983.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/92d2de46893d7fbe5323e2096a8e3983.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983492
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983492,
-        "updated_at": 1743023345,
-        "updates": 2
+        "updated_at": 1749739289,
+        "updates": 3
     }
 }

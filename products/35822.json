@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Rosca lomo, bacón y queso emmental Hacendado",
+            "value": "Rosca lomo, bac\u00f3n y queso emmental Hacendado",
             "previous": [],
             "timestamp": 1742983532
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983532
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/35822/rosca-lomo-bacon-queso-emmental-hacendado",
+            "value": "https:\/\/tienda.mercadona.es\/product\/35822\/rosca-lomo-bacon-queso-emmental-hacendado",
             "previous": [],
             "timestamp": 1742983532
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983532
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/2e0fc02559cf2e16458acc03a37ac379.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/2e0fc02559cf2e16458acc03a37ac379.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983532
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983532,
-        "updated_at": 1743023385,
-        "updates": 2
+        "updated_at": 1749739345,
+        "updates": 3
     }
 }

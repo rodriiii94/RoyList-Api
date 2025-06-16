@@ -37,9 +37,14 @@
             }
         ],
         "display_name": {
-            "value": "Desodorante seda suave Deliplus antitranspirante",
-            "previous": [],
-            "timestamp": 1742983439
+            "value": "Desodorante seda Deliplus antitranspirante",
+            "previous": [
+                {
+                    "value": "Desodorante seda suave Deliplus antitranspirante",
+                    "timestamp": 1742983439
+                }
+            ],
+            "timestamp": 1749739204
         },
         "id": {
             "value": "46417",
@@ -174,7 +179,7 @@
             "timestamp": 1742983439
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/46417/desodorante-seda-suave-deliplus-antitranspirante-0-alcohol-spray",
+            "value": "https:\/\/tienda.mercadona.es\/product\/46417\/desodorante-seda-suave-deliplus-antitranspirante-0-alcohol-spray",
             "previous": [],
             "timestamp": 1742983439
         },
@@ -189,9 +194,14 @@
             "timestamp": 1742983439
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/fd7fe8571ca0fc893c3382ce8b9bafff.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983439
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/2be81877bf7d0c8c992fc4954fef8c62.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/fd7fe8571ca0fc893c3382ce8b9bafff.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983439
+                }
+            ],
+            "timestamp": 1749739204
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +211,7 @@
     },
     "stats": {
         "created_at": 1742983439,
-        "updated_at": 1743023284,
-        "updates": 2
+        "updated_at": 1749739204,
+        "updates": 3
     }
 }

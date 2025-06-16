@@ -20,7 +20,7 @@
                     "timestamp": 1742983385
                 },
                 "name": {
-                    "value": "Charcutería y quesos",
+                    "value": "Charcuter\u00eda y quesos",
                     "previous": [],
                     "timestamp": 1742983385
                 },
@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Jamón cocido extra Hacendado finas lonchas",
+            "value": "Jam\u00f3n cocido extra Hacendado finas lonchas",
             "previous": [],
             "timestamp": 1742983385
         },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983385
             },
             "bulk_price": {
-                "value": "10.25",
-                "previous": [],
-                "timestamp": 1742983385
+                "value": "10.00",
+                "previous": [
+                    {
+                        "value": "10.25",
+                        "timestamp": 1742983385
+                    }
+                ],
+                "timestamp": 1749739121
             },
             "unit_price": {
-                "value": "2.05",
-                "previous": [],
-                "timestamp": 1742983385
+                "value": "2.00",
+                "previous": [
+                    {
+                        "value": "2.05",
+                        "timestamp": 1742983385
+                    }
+                ],
+                "timestamp": 1749739121
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983385
             },
             "reference_price": {
-                "value": "10.250",
-                "previous": [],
-                "timestamp": 1742983385
+                "value": "10.000",
+                "previous": [
+                    {
+                        "value": "10.250",
+                        "timestamp": 1742983385
+                    }
+                ],
+                "timestamp": 1749739121
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983385
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/60329/jamon-cocido-extra-hacendado-finas-lonchas-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/60329\/jamon-cocido-extra-hacendado-finas-lonchas-paquete",
             "previous": [],
             "timestamp": 1742983385
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983385
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/d070e4c58948dba0b36098e312bb401b.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/d070e4c58948dba0b36098e312bb401b.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983385
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983385,
-        "updated_at": 1743023221,
-        "updates": 2
+        "updated_at": 1749739121,
+        "updates": 3
     }
 }

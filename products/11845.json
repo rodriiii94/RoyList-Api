@@ -20,7 +20,7 @@
                     "timestamp": 1742983360
                 },
                 "name": {
-                    "value": "Cacao, café e infusiones",
+                    "value": "Cacao, caf\u00e9 e infusiones",
                     "previous": [],
                     "timestamp": 1742983360
                 },
@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Café molido mezcla Marcilla crème express",
+            "value": "Caf\u00e9 molido mezcla Marcilla cr\u00e8me express",
             "previous": [],
             "timestamp": 1742983360
         },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983360
             },
             "bulk_price": {
-                "value": "19.80",
-                "previous": [],
-                "timestamp": 1742983360
+                "value": "17.80",
+                "previous": [
+                    {
+                        "value": "19.80",
+                        "timestamp": 1742983360
+                    }
+                ],
+                "timestamp": 1749739088
             },
             "unit_price": {
-                "value": "4.95",
-                "previous": [],
-                "timestamp": 1742983360
+                "value": "4.45",
+                "previous": [
+                    {
+                        "value": "4.95",
+                        "timestamp": 1742983360
+                    }
+                ],
+                "timestamp": 1749739088
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983360
             },
             "reference_price": {
-                "value": "19.800",
-                "previous": [],
-                "timestamp": 1742983360
+                "value": "17.800",
+                "previous": [
+                    {
+                        "value": "19.800",
+                        "timestamp": 1742983360
+                    }
+                ],
+                "timestamp": 1749739088
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -158,7 +173,7 @@
                 "timestamp": 1742983360
             },
             "previous_unit_price": {
-                "value": null,
+                "value": "        4.95",
                 "previous": [],
                 "timestamp": 1742983360
             },
@@ -174,7 +189,7 @@
             "timestamp": 1742983360
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/11845/cafe-molido-mezcla-marcilla-creme-express-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/11845\/cafe-molido-mezcla-marcilla-creme-express-caja",
             "previous": [],
             "timestamp": 1742983360
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983360
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/4cd907914e980e53265e3a44a49a0379.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/4cd907914e980e53265e3a44a49a0379.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983360
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983360,
-        "updated_at": 1743023194,
-        "updates": 2
+        "updated_at": 1749739088,
+        "updates": 3
     }
 }

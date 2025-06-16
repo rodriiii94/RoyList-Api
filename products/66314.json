@@ -174,7 +174,7 @@
             "timestamp": 1742983355
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/66314/vino-tinto-do-rioja-cune-crianza-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/66314\/vino-tinto-do-rioja-cune-crianza-botella",
             "previous": [],
             "timestamp": 1742983355
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983355
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/51cf167a83c61e15d6396c3624d20c9a.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983355
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/ac9698eb00337bf3af442a855ccf30e1.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/51cf167a83c61e15d6396c3624d20c9a.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983355
+                }
+            ],
+            "timestamp": 1749739081
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983355,
-        "updated_at": 1743023189,
-        "updates": 2
+        "updated_at": 1749739081,
+        "updates": 3
     }
 }

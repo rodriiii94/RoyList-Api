@@ -88,14 +88,24 @@
                 "timestamp": 1742983418
             },
             "bulk_price": {
-                "value": "3.33",
-                "previous": [],
-                "timestamp": 1742983418
+                "value": "3.15",
+                "previous": [
+                    {
+                        "value": "3.33",
+                        "timestamp": 1742983418
+                    }
+                ],
+                "timestamp": 1749739170
             },
             "unit_price": {
-                "value": "1.85",
-                "previous": [],
-                "timestamp": 1742983418
+                "value": "1.75",
+                "previous": [
+                    {
+                        "value": "1.85",
+                        "timestamp": 1742983418
+                    }
+                ],
+                "timestamp": 1749739170
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983418
             },
             "reference_price": {
-                "value": "5.139",
-                "previous": [],
-                "timestamp": 1742983418
+                "value": "4.862",
+                "previous": [
+                    {
+                        "value": "5.139",
+                        "timestamp": 1742983418
+                    }
+                ],
+                "timestamp": 1749739170
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983418
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/16415/guisantes-extra-hacendado-pack-3",
+            "value": "https:\/\/tienda.mercadona.es\/product\/16415\/guisantes-extra-hacendado-pack-3",
             "previous": [],
             "timestamp": 1742983418
         },
@@ -189,9 +204,14 @@
             "timestamp": 1742983418
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/cbefe9faad0f366c67449f99923e03d8.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983418
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/94c16b610ccee72d27455e6b5efa93dd.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/cbefe9faad0f366c67449f99923e03d8.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983418
+                }
+            ],
+            "timestamp": 1749739170
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +221,7 @@
     },
     "stats": {
         "created_at": 1742983418,
-        "updated_at": 1743023259,
-        "updates": 2
+        "updated_at": 1749739170,
+        "updates": 3
     }
 }

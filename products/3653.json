@@ -88,14 +88,24 @@
                 "timestamp": 1742983366
             },
             "bulk_price": {
-                "value": "7.40",
-                "previous": [],
-                "timestamp": 1742983366
+                "value": "7.55",
+                "previous": [
+                    {
+                        "value": "7.40",
+                        "timestamp": 1742983366
+                    }
+                ],
+                "timestamp": 1749739097
             },
             "unit_price": {
-                "value": "4.14",
-                "previous": [],
-                "timestamp": 1742983366
+                "value": "4.23",
+                "previous": [
+                    {
+                        "value": "4.14",
+                        "timestamp": 1742983366
+                    }
+                ],
+                "timestamp": 1749739097
             },
             "approx_size": {
                 "value": true,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983366
             },
             "reference_price": {
-                "value": "7.400",
-                "previous": [],
-                "timestamp": 1742983366
+                "value": "7.550",
+                "previous": [
+                    {
+                        "value": "7.400",
+                        "timestamp": 1742983366
+                    }
+                ],
+                "timestamp": 1749739097
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983366
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/3653/filetes-pechuga-pollo-extra-tiernos-bandeja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/3653\/filetes-pechuga-pollo-extra-tiernos-bandeja",
             "previous": [],
             "timestamp": 1742983366
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983366
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/a5bce045a26938d4a4ecf1fb1b25830c.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/a5bce045a26938d4a4ecf1fb1b25830c.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983366
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983366,
-        "updated_at": 1743023202,
-        "updates": 2
+        "updated_at": 1749739097,
+        "updates": 3
     }
 }

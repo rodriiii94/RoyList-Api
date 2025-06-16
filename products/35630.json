@@ -174,7 +174,7 @@
             "timestamp": 1742983490
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/35630/maquillaje-fluido-fit-maybelline-110-porcelain",
+            "value": "https:\/\/tienda.mercadona.es\/product\/35630\/maquillaje-fluido-fit-maybelline-110-porcelain",
             "previous": [],
             "timestamp": 1742983490
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983490
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/27925c5475711978995a431280a2a097.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/27925c5475711978995a431280a2a097.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983490
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983490,
-        "updated_at": 1743023342,
-        "updates": 2
+        "updated_at": 1749739285,
+        "updates": 3
     }
 }

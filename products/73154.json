@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Coloración permanente 4.5 caoba oscuro Deliplus",
+            "value": "Coloraci\u00f3n permanente 4.5 caoba oscuro Deliplus",
             "previous": [],
             "timestamp": 1742983428
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983428
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/73154/coloracion-permanente-45-caoba-oscuro-deliplus-colorcor-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/73154\/coloracion-permanente-45-caoba-oscuro-deliplus-colorcor-caja",
             "previous": [],
             "timestamp": 1742983428
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983428
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/55bf0fe66edd846fd6cfeef89766f12b.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/55bf0fe66edd846fd6cfeef89766f12b.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983428
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983428,
-        "updated_at": 1743023270,
-        "updates": 2
+        "updated_at": 1749739186,
+        "updates": 3
     }
 }

@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Mascarilla Hidra Hialurónico Elvive cabello deshidratado",
+            "value": "Mascarilla Hidra Hialur\u00f3nico Elvive cabello deshidratado",
             "previous": [],
             "timestamp": 1742983425
         },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983425
             },
             "bulk_price": {
-                "value": "12.26",
-                "previous": [],
-                "timestamp": 1742983425
+                "value": "14.19",
+                "previous": [
+                    {
+                        "value": "12.26",
+                        "timestamp": 1742983425
+                    }
+                ],
+                "timestamp": 1749739180
             },
             "unit_price": {
-                "value": "3.80",
-                "previous": [],
-                "timestamp": 1742983425
+                "value": "4.40",
+                "previous": [
+                    {
+                        "value": "3.80",
+                        "timestamp": 1742983425
+                    }
+                ],
+                "timestamp": 1749739180
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983425
             },
             "reference_price": {
-                "value": "1.226",
-                "previous": [],
-                "timestamp": 1742983425
+                "value": "1.420",
+                "previous": [
+                    {
+                        "value": "1.226",
+                        "timestamp": 1742983425
+                    }
+                ],
+                "timestamp": 1749739180
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983425
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/67899/mascarilla-hidra-hialuronico-elvive-cabello-deshidratado-tarro",
+            "value": "https:\/\/tienda.mercadona.es\/product\/67899\/mascarilla-hidra-hialuronico-elvive-cabello-deshidratado-tarro",
             "previous": [],
             "timestamp": 1742983425
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983425
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/4be19fda93fc37ffa8957db3aed8b0a0.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/4be19fda93fc37ffa8957db3aed8b0a0.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983425
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983425,
-        "updated_at": 1743023266,
-        "updates": 2
+        "updated_at": 1749739180,
+        "updates": 3
     }
 }

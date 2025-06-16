@@ -174,7 +174,7 @@
             "timestamp": 1742983346
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/28506/licor-crema-puente-pazos-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/28506\/licor-crema-puente-pazos-botella",
             "previous": [],
             "timestamp": 1742983346
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983346
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/8273a0640193b3a3b04216c1f3e15225.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983346
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/d79121ec433da0e299b91086029f873c.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/8273a0640193b3a3b04216c1f3e15225.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983346
+                }
+            ],
+            "timestamp": 1749739070
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983346,
-        "updated_at": 1743023179,
-        "updates": 2
+        "updated_at": 1749739070,
+        "updates": 3
     }
 }

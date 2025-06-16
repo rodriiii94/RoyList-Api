@@ -174,7 +174,7 @@
             "timestamp": 1742983451
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/79621/comprimidos-vitaminas-minerales-deliplus-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/79621\/comprimidos-vitaminas-minerales-deliplus-caja",
             "previous": [],
             "timestamp": 1742983451
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983451
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/a76d83ad146c5d3893731b1ea5023c0e.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/a76d83ad146c5d3893731b1ea5023c0e.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983451
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983451,
-        "updated_at": 1743023298,
-        "updates": 2
+        "updated_at": 1749739227,
+        "updates": 3
     }
 }

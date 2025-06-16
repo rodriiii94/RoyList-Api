@@ -174,7 +174,7 @@
             "timestamp": 1742983540
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/68172/gelatina-sabor-fresa-hacendado-pack-6",
+            "value": "https:\/\/tienda.mercadona.es\/product\/68172\/gelatina-sabor-fresa-hacendado-pack-6",
             "previous": [],
             "timestamp": 1742983540
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983540
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/ed9e075eb696bab404282ed7088d42db.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/ed9e075eb696bab404282ed7088d42db.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983540
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983540,
-        "updated_at": 1743023394,
-        "updates": 2
+        "updated_at": 1749739357,
+        "updates": 3
     }
 }

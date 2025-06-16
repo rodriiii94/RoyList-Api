@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Bebida Kéfir de fresa y plátano Hacendado",
+            "value": "Bebida K\u00e9fir de fresa y pl\u00e1tano Hacendado",
             "previous": [],
             "timestamp": 1742983547
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983547
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/52750/bebida-kefir-fresa-platano-hacendado-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/52750\/bebida-kefir-fresa-platano-hacendado-botella",
             "previous": [],
             "timestamp": 1742983547
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983547
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/dd289147f3d6ee7437c4a9b701adf6ec.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/dd289147f3d6ee7437c4a9b701adf6ec.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983547
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983547,
-        "updated_at": 1743023401,
-        "updates": 2
+        "updated_at": 1749739366,
+        "updates": 3
     }
 }

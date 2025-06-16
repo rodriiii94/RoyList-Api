@@ -37,9 +37,14 @@
             }
         ],
         "display_name": {
-            "value": "Desodorante perfume afrutado Deliplus antitranspirante",
-            "previous": [],
-            "timestamp": 1742983439
+            "value": "Desodorante perfume Fashion Deliplus antitranspirante",
+            "previous": [
+                {
+                    "value": "Desodorante perfume afrutado Deliplus antitranspirante",
+                    "timestamp": 1742983439
+                }
+            ],
+            "timestamp": 1749739205
         },
         "id": {
             "value": "46434",
@@ -174,7 +179,7 @@
             "timestamp": 1742983439
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/46434/desodorante-perfume-afrutado-deliplus-antitranspirante-0-alcohol-spray",
+            "value": "https:\/\/tienda.mercadona.es\/product\/46434\/desodorante-perfume-afrutado-deliplus-antitranspirante-0-alcohol-spray",
             "previous": [],
             "timestamp": 1742983439
         },
@@ -189,9 +194,14 @@
             "timestamp": 1742983439
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/d48b9316fc38ee77c9cdbcae99098063.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983439
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/80dc804f101955ababa650b24459f4bb.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/d48b9316fc38ee77c9cdbcae99098063.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983439
+                }
+            ],
+            "timestamp": 1749739205
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +211,7 @@
     },
     "stats": {
         "created_at": 1742983439,
-        "updated_at": 1743023284,
-        "updates": 2
+        "updated_at": 1749739205,
+        "updates": 3
     }
 }

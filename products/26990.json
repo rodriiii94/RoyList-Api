@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Refresco lima limón Sprite",
+            "value": "Refresco lima lim\u00f3n Sprite",
             "previous": [],
             "timestamp": 1742983315
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983315
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/26990/refresco-lima-limon-sprite-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/26990\/refresco-lima-limon-sprite-botella",
             "previous": [],
             "timestamp": 1742983315
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983315
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/b51df40f8cf00e0ad42c0203006abeef.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/b51df40f8cf00e0ad42c0203006abeef.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983315
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983315,
-        "updated_at": 1743023141,
-        "updates": 2
+        "updated_at": 1749739021,
+        "updates": 3
     }
 }

@@ -174,7 +174,7 @@
             "timestamp": 1742983366
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/2788/muslos-pollo-deshuesados-con-piel-bandeja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/2788\/muslos-pollo-deshuesados-con-piel-bandeja",
             "previous": [],
             "timestamp": 1742983366
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983366
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/79d61c5d677a1263b13a4875a496d8b4.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/79d61c5d677a1263b13a4875a496d8b4.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983366
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983366,
-        "updated_at": 1743023201,
-        "updates": 2
+        "updated_at": 1749739096,
+        "updates": 3
     }
 }

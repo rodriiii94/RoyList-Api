@@ -174,7 +174,7 @@
             "timestamp": 1742983459
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/69690/cilantro-bandeja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/69690\/cilantro-bandeja",
             "previous": [],
             "timestamp": 1742983459
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983459
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/3ed0e8e4b12dd87825ca4b1b9fc788f1.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/3ed0e8e4b12dd87825ca4b1b9fc788f1.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983459
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983459,
-        "updated_at": 1743023307,
-        "updates": 2
+        "updated_at": 1749739239,
+        "updates": 3
     }
 }

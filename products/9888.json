@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739312
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739312
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 25,
+                    "previous": [],
+                    "timestamp": 1749739312
+                },
+                "name": {
+                    "value": "Mascotas",
+                    "previous": [],
+                    "timestamp": 1749739312
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739312
+                },
+                "order": {
+                    "value": 442,
+                    "previous": [],
+                    "timestamp": 1749739312
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Pat\u00e9 gato j\u00fanior Delikuit con pollo y ternera",
+            "previous": [],
+            "timestamp": 1749739312
+        },
+        "id": {
+            "value": "9888",
+            "previous": [],
+            "timestamp": 1749739312
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739312
+        },
+        "packaging": {
+            "value": "Paquete",
+            "previous": [],
+            "timestamp": 1749739312
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1749739312
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739312
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739312
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739312
+            },
+            "unit_name": {
+                "value": "ud.",
+                "previous": [],
+                "timestamp": 1749739312
+            },
+            "unit_size": {
+                "value": 0.4,
+                "previous": [],
+                "timestamp": 1749739312
+            },
+            "bulk_price": {
+                "value": "5.00",
+                "previous": [],
+                "timestamp": 1749739312
+            },
+            "unit_price": {
+                "value": "2.00",
+                "previous": [],
+                "timestamp": 1749739312
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739312
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1749739312
+            },
+            "total_units": {
+                "value": 4,
+                "previous": [],
+                "timestamp": 1749739312
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739312
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739312
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739312
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739312
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1749739312
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739312
+            },
+            "reference_price": {
+                "value": "5.000",
+                "previous": [],
+                "timestamp": 1749739312
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739312
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1749739312
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739312
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739312
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739312
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/9888\/pate-gato-junior-delikuit-con-pollo-ternera-paquete",
+            "previous": [],
+            "timestamp": 1749739312
+        },
+        "slug": {
+            "value": "pate-gato-junior-delikuit-con-pollo-ternera-paquete",
+            "previous": [],
+            "timestamp": 1749739312
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739312
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/be41e529323283dcb0e5022434446c50.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739312
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739312
+        }
+    },
+    "stats": {
+        "created_at": 1749739312,
+        "updated_at": 1749739312,
+        "updates": 1
+    }
+}

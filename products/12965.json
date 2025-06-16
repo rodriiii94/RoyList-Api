@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739051
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739051
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 9,
+                    "previous": [],
+                    "timestamp": 1749739051
+                },
+                "name": {
+                    "value": "Az\u00facar, caramelos y chocolate",
+                    "previous": [],
+                    "timestamp": 1749739051
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739051
+                },
+                "order": {
+                    "value": 11,
+                    "previous": [],
+                    "timestamp": 1749739051
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Golosinas Rega Red Hacendado sabor fresa",
+            "previous": [],
+            "timestamp": 1749739051
+        },
+        "id": {
+            "value": "12965",
+            "previous": [],
+            "timestamp": 1749739051
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739051
+        },
+        "packaging": {
+            "value": "Paquete",
+            "previous": [],
+            "timestamp": 1749739051
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1749739051
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739051
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739051
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739051
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739051
+            },
+            "unit_size": {
+                "value": 0.1,
+                "previous": [],
+                "timestamp": 1749739051
+            },
+            "bulk_price": {
+                "value": "10.00",
+                "previous": [],
+                "timestamp": 1749739051
+            },
+            "unit_price": {
+                "value": "1.00",
+                "previous": [],
+                "timestamp": 1749739051
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739051
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1749739051
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739051
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739051
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739051
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739051
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739051
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1749739051
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739051
+            },
+            "reference_price": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1749739051
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739051
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1749739051
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739051
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739051
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739051
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/12965\/golosinas-rega-red-hacendado-sabor-fresa-paquete",
+            "previous": [],
+            "timestamp": 1749739051
+        },
+        "slug": {
+            "value": "golosinas-rega-red-hacendado-sabor-fresa-paquete",
+            "previous": [],
+            "timestamp": 1749739051
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739051
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/56294ce44f0bbd8658cf1f2db78c4b7b.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739051
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739051
+        }
+    },
+    "stats": {
+        "created_at": 1749739051,
+        "updated_at": 1749739051,
+        "updates": 1
+    }
+}

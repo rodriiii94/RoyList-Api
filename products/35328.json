@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Espuma cabello Rizos Definidos Pantene fijación 5",
+            "value": "Espuma cabello Rizos Definidos Pantene fijaci\u00f3n 5",
             "previous": [],
             "timestamp": 1742983430
         },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983430
             },
             "bulk_price": {
-                "value": "15.20",
-                "previous": [],
-                "timestamp": 1742983430
+                "value": "17.00",
+                "previous": [
+                    {
+                        "value": "15.20",
+                        "timestamp": 1742983430
+                    }
+                ],
+                "timestamp": 1749739190
             },
             "unit_price": {
-                "value": "3.80",
-                "previous": [],
-                "timestamp": 1742983430
+                "value": "4.25",
+                "previous": [
+                    {
+                        "value": "3.80",
+                        "timestamp": 1742983430
+                    }
+                ],
+                "timestamp": 1749739190
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983430
             },
             "reference_price": {
-                "value": "1.520",
-                "previous": [],
-                "timestamp": 1742983430
+                "value": "1.700",
+                "previous": [
+                    {
+                        "value": "1.520",
+                        "timestamp": 1742983430
+                    }
+                ],
+                "timestamp": 1749739190
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -158,9 +173,14 @@
                 "timestamp": 1742983430
             },
             "previous_unit_price": {
-                "value": "        4.25",
-                "previous": [],
-                "timestamp": 1742983430
+                "value": null,
+                "previous": [
+                    {
+                        "value": "        4.25",
+                        "timestamp": 1742983430
+                    }
+                ],
+                "timestamp": 1749739190
             },
             "increment_bunch_amount": {
                 "value": 1,
@@ -174,7 +194,7 @@
             "timestamp": 1742983430
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/35328/espuma-cabello-rizos-definidos-pantene-fijacion-5-con-aceite-coco-spray",
+            "value": "https:\/\/tienda.mercadona.es\/product\/35328\/espuma-cabello-rizos-definidos-pantene-fijacion-5-con-aceite-coco-spray",
             "previous": [],
             "timestamp": 1742983430
         },
@@ -189,7 +209,7 @@
             "timestamp": 1742983430
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/fb151995476f61e490ea07cd2abc60e8.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/fb151995476f61e490ea07cd2abc60e8.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983430
         },
@@ -201,7 +221,7 @@
     },
     "stats": {
         "created_at": 1742983430,
-        "updated_at": 1743023272,
-        "updates": 2
+        "updated_at": 1749739190,
+        "updates": 3
     }
 }

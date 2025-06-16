@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739230
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739230
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 23,
+                    "previous": [],
+                    "timestamp": 1749739230
+                },
+                "name": {
+                    "value": "Fitoterapia y parafarmacia",
+                    "previous": [],
+                    "timestamp": 1749739230
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739230
+                },
+                "order": {
+                    "value": 305,
+                    "previous": [],
+                    "timestamp": 1749739230
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Ap\u00f3sitos infantiles Tattoo Deliplus",
+            "previous": [],
+            "timestamp": 1749739230
+        },
+        "id": {
+            "value": "7894",
+            "previous": [],
+            "timestamp": 1749739230
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739230
+        },
+        "packaging": {
+            "value": "Caja",
+            "previous": [],
+            "timestamp": 1749739230
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1749739230
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739230
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739230
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739230
+            },
+            "unit_name": {
+                "value": "ud.",
+                "previous": [],
+                "timestamp": 1749739230
+            },
+            "unit_size": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739230
+            },
+            "bulk_price": {
+                "value": "0.15",
+                "previous": [],
+                "timestamp": 1749739230
+            },
+            "unit_price": {
+                "value": "1.80",
+                "previous": [],
+                "timestamp": 1749739230
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739230
+            },
+            "size_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1749739230
+            },
+            "total_units": {
+                "value": 12,
+                "previous": [],
+                "timestamp": 1749739230
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739230
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739230
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739230
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739230
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1749739230
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739230
+            },
+            "reference_price": {
+                "value": "0.150",
+                "previous": [],
+                "timestamp": 1749739230
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739230
+            },
+            "reference_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1749739230
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739230
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739230
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739230
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/7894\/apositos-infantiles-tattoo-deliplus-caja",
+            "previous": [],
+            "timestamp": 1749739230
+        },
+        "slug": {
+            "value": "apositos-infantiles-tattoo-deliplus-caja",
+            "previous": [],
+            "timestamp": 1749739230
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739230
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/301c967c0a1ff21e4baae4e5638a8ec6.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739230
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739230
+        }
+    },
+    "stats": {
+        "created_at": 1749739230,
+        "updated_at": 1749739230,
+        "updates": 1
+    }
+}

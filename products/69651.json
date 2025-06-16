@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Champiñón pequeño",
+            "value": "Champi\u00f1\u00f3n peque\u00f1o",
             "previous": [],
             "timestamp": 1742983459
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983459
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/69651/champinon-pequeno-bandeja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/69651\/champinon-pequeno-bandeja",
             "previous": [],
             "timestamp": 1742983459
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983459
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/82ebf99778a5a6aecbe307158e1e1585.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/82ebf99778a5a6aecbe307158e1e1585.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983459
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983459,
-        "updated_at": 1743023307,
-        "updates": 2
+        "updated_at": 1749739239,
+        "updates": 3
     }
 }

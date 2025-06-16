@@ -174,7 +174,7 @@
             "timestamp": 1742983434
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/76487/toallitas-desmaquillantes-cara-ojos-deliplus-piel-seca-sensible-con-aloe-vera-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/76487\/toallitas-desmaquillantes-cara-ojos-deliplus-piel-seca-sensible-con-aloe-vera-paquete",
             "previous": [],
             "timestamp": 1742983434
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983434
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/a57537b8dbda98681a8cdfd85e442188.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/a57537b8dbda98681a8cdfd85e442188.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983434
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983434,
-        "updated_at": 1743023279,
-        "updates": 4
+        "updated_at": 1749739198,
+        "updates": 6
     }
 }

@@ -196,7 +196,7 @@
             "timestamp": 1742983407
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/63023/migas-bacalao-dorado-con-cebolla-patatas-paja-hacendado-congelado-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/63023\/migas-bacalao-dorado-con-cebolla-patatas-paja-hacendado-congelado-caja",
             "previous": [],
             "timestamp": 1742983407
         },
@@ -211,7 +211,7 @@
             "timestamp": 1742983407
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/d6e7c22f60ce4e3ace5ebb38f2f64c69.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/d6e7c22f60ce4e3ace5ebb38f2f64c69.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983407
         },
@@ -223,7 +223,7 @@
     },
     "stats": {
         "created_at": 1742983407,
-        "updated_at": 1743023355,
-        "updates": 4
+        "updated_at": 1749739303,
+        "updates": 6
     }
 }

@@ -83,29 +83,42 @@
                 "timestamp": 1742983455
             },
             "unit_size": {
-                "value": 0.31,
+                "value": 0.18,
                 "previous": [
                     {
                         "value": 0.32,
                         "timestamp": 1742983455
+                    },
+                    {
+                        "value": 0.31,
+                        "timestamp": 1743023302
                     }
                 ],
-                "timestamp": 1743023302
+                "timestamp": 1749739232
             },
             "bulk_price": {
-                "value": "2.90",
-                "previous": [],
-                "timestamp": 1742983455
+                "value": "2.70",
+                "previous": [
+                    {
+                        "value": "2.90",
+                        "timestamp": 1742983455
+                    }
+                ],
+                "timestamp": 1749739232
             },
             "unit_price": {
-                "value": "0.90",
+                "value": "0.49",
                 "previous": [
                     {
                         "value": "0.93",
                         "timestamp": 1742983455
+                    },
+                    {
+                        "value": "0.90",
+                        "timestamp": 1743023302
                     }
                 ],
-                "timestamp": 1743023302
+                "timestamp": 1749739232
             },
             "approx_size": {
                 "value": true,
@@ -153,9 +166,14 @@
                 "timestamp": 1742983455
             },
             "reference_price": {
-                "value": "2.900",
-                "previous": [],
-                "timestamp": 1742983455
+                "value": "2.700",
+                "previous": [
+                    {
+                        "value": "2.900",
+                        "timestamp": 1742983455
+                    }
+                ],
+                "timestamp": 1749739232
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -184,7 +202,7 @@
             "timestamp": 1742983455
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/8177/manzana-roja-dulce-pieza",
+            "value": "https:\/\/tienda.mercadona.es\/product\/8177\/manzana-roja-dulce-pieza",
             "previous": [],
             "timestamp": 1742983455
         },
@@ -199,7 +217,7 @@
             "timestamp": 1742983455
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/878bf3cf8085247ce47942d38c31666c.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/878bf3cf8085247ce47942d38c31666c.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983455
         },
@@ -211,7 +229,7 @@
     },
     "stats": {
         "created_at": 1742983455,
-        "updated_at": 1743023302,
-        "updates": 2
+        "updated_at": 1749739232,
+        "updates": 3
     }
 }

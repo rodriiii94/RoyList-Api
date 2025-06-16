@@ -20,7 +20,7 @@
                     "timestamp": 1742983331
                 },
                 "name": {
-                    "value": "Azúcar, caramelos y chocolate",
+                    "value": "Az\u00facar, caramelos y chocolate",
                     "previous": [],
                     "timestamp": 1742983331
                 },
@@ -174,7 +174,7 @@
             "timestamp": 1742983331
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/65164/chicles-fresa-gragea-hacendado-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/65164\/chicles-fresa-gragea-hacendado-paquete",
             "previous": [],
             "timestamp": 1742983331
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983331
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/8b0c7adbc48fa26bedf07e16c6277830.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/8b0c7adbc48fa26bedf07e16c6277830.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983331
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983331,
-        "updated_at": 1743023160,
-        "updates": 2
+        "updated_at": 1749739046,
+        "updates": 3
     }
 }

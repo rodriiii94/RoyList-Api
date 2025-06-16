@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739030
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739030
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 15,
+                    "previous": [],
+                    "timestamp": 1749739030
+                },
+                "name": {
+                    "value": "Aperitivos",
+                    "previous": [],
+                    "timestamp": 1749739030
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739030
+                },
+                "order": {
+                    "value": 9,
+                    "previous": [],
+                    "timestamp": 1749739030
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Almendra tostada Hacendado 0% sal a\u00f1adida con piel",
+            "previous": [],
+            "timestamp": 1749739030
+        },
+        "id": {
+            "value": "34014",
+            "previous": [],
+            "timestamp": 1749739030
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739030
+        },
+        "packaging": {
+            "value": "Paquete",
+            "previous": [],
+            "timestamp": 1749739030
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 10,
+                "previous": [],
+                "timestamp": 1749739030
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739030
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739030
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739030
+            },
+            "unit_name": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739030
+            },
+            "unit_size": {
+                "value": 0.2,
+                "previous": [],
+                "timestamp": 1749739030
+            },
+            "bulk_price": {
+                "value": "14.25",
+                "previous": [],
+                "timestamp": 1749739030
+            },
+            "unit_price": {
+                "value": "2.85",
+                "previous": [],
+                "timestamp": 1749739030
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739030
+            },
+            "size_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1749739030
+            },
+            "total_units": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739030
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739030
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739030
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739030
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739030
+            },
+            "tax_percentage": {
+                "value": "10.000",
+                "previous": [],
+                "timestamp": 1749739030
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739030
+            },
+            "reference_price": {
+                "value": "14.250",
+                "previous": [],
+                "timestamp": 1749739030
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739030
+            },
+            "reference_format": {
+                "value": "kg",
+                "previous": [],
+                "timestamp": 1749739030
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739030
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739030
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739030
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/34014\/almendra-tostada-hacendado-0-sal-anadida-con-piel-paquete",
+            "previous": [],
+            "timestamp": 1749739030
+        },
+        "slug": {
+            "value": "almendra-tostada-hacendado-0-sal-anadida-con-piel-paquete",
+            "previous": [],
+            "timestamp": 1749739030
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739030
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/7a77ef505d74e25cafc5baf23b07beed.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739030
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739030
+        }
+    },
+    "stats": {
+        "created_at": 1749739030,
+        "updated_at": 1749739030,
+        "updates": 1
+    }
+}

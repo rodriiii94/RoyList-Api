@@ -161,6 +161,11 @@
                 "value": 1,
                 "previous": [],
                 "timestamp": 1742983484
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1749739277
             }
         },
         "published": {
@@ -169,7 +174,7 @@
             "timestamp": 1742983484
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/49330/mini-mechero-clipper-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/49330\/mini-mechero-clipper-paquete",
             "previous": [],
             "timestamp": 1742983484
         },
@@ -184,7 +189,7 @@
             "timestamp": 1742983484
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/2de97805b25dd712ad31a10294d678bb.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/2de97805b25dd712ad31a10294d678bb.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983484
         },
@@ -196,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983484,
-        "updated_at": 1743023335,
-        "updates": 2
+        "updated_at": 1749739277,
+        "updates": 3
     }
 }

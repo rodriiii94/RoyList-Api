@@ -174,7 +174,7 @@
             "timestamp": 1742983495
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/16835/pintalabios-fluido-mate-superstay-matte-ink-maybelline-120-artist-larga-duracion",
+            "value": "https:\/\/tienda.mercadona.es\/product\/16835\/pintalabios-fluido-mate-superstay-matte-ink-maybelline-120-artist-larga-duracion",
             "previous": [],
             "timestamp": 1742983495
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983495
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/f252a3f1287305292c7616833e4dfe9b.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/f252a3f1287305292c7616833e4dfe9b.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983495
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983495,
-        "updated_at": 1743023347,
-        "updates": 2
+        "updated_at": 1749739292,
+        "updates": 3
     }
 }

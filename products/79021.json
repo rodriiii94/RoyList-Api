@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Crema facial Power Age L'Oréal men expert hidratante anti-edad",
+            "value": "Crema facial Power Age L'Or\u00e9al men expert hidratante anti-edad",
             "previous": [],
             "timestamp": 1742983432
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983432
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/79021/crema-facial-power-age-loreal-men-expert-hidratante-anti-edad-bote",
+            "value": "https:\/\/tienda.mercadona.es\/product\/79021\/crema-facial-power-age-loreal-men-expert-hidratante-anti-edad-bote",
             "previous": [],
             "timestamp": 1742983432
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983432
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/580960187cc765e240cca91c9176fb02.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/580960187cc765e240cca91c9176fb02.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983432
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983432,
-        "updated_at": 1743023275,
-        "updates": 2
+        "updated_at": 1749739193,
+        "updates": 3
     }
 }

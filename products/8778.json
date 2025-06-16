@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Refresco Fanta naranja zero azúcares añadidos",
+            "value": "Refresco Fanta naranja zero az\u00facares a\u00f1adidos",
             "previous": [],
             "timestamp": 1742983315
         },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983315
             },
             "bulk_price": {
-                "value": "2.33",
-                "previous": [],
-                "timestamp": 1742983315
+                "value": "2.06",
+                "previous": [
+                    {
+                        "value": "2.33",
+                        "timestamp": 1742983315
+                    }
+                ],
+                "timestamp": 1749739022
             },
             "unit_price": {
-                "value": "6.16",
-                "previous": [],
-                "timestamp": 1742983315
+                "value": "5.44",
+                "previous": [
+                    {
+                        "value": "6.16",
+                        "timestamp": 1742983315
+                    }
+                ],
+                "timestamp": 1749739022
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983315
             },
             "reference_price": {
-                "value": "2.334",
-                "previous": [],
-                "timestamp": 1742983315
+                "value": "2.061",
+                "previous": [
+                    {
+                        "value": "2.334",
+                        "timestamp": 1742983315
+                    }
+                ],
+                "timestamp": 1749739022
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -158,7 +173,7 @@
                 "timestamp": 1742983315
             },
             "previous_unit_price": {
-                "value": null,
+                "value": "        6.16",
                 "previous": [],
                 "timestamp": 1742983315
             },
@@ -174,7 +189,7 @@
             "timestamp": 1742983315
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/8778/refresco-fanta-naranja-zero-azucares-anadidos-pack-8",
+            "value": "https:\/\/tienda.mercadona.es\/product\/8778\/refresco-fanta-naranja-zero-azucares-anadidos-pack-8",
             "previous": [],
             "timestamp": 1742983315
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983315
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/4f417d3a0b711609a1daea581d8995c5.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/4f417d3a0b711609a1daea581d8995c5.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983315
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983315,
-        "updated_at": 1743023141,
-        "updates": 2
+        "updated_at": 1749739022,
+        "updates": 3
     }
 }

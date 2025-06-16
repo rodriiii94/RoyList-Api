@@ -174,7 +174,7 @@
             "timestamp": 1742983311
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/27213/agua-mineral-con-gas-grande-vichy-catalan-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/27213\/agua-mineral-con-gas-grande-vichy-catalan-botella",
             "previous": [],
             "timestamp": 1742983311
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983311
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/0475ab502de87ae5e8ae65ffd5a44a42.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983311
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/7bd8166f83035d60e61a997fe40ee7be.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/0475ab502de87ae5e8ae65ffd5a44a42.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983311
+                }
+            ],
+            "timestamp": 1749739014
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983311,
-        "updated_at": 1743023135,
-        "updates": 2
+        "updated_at": 1749739014,
+        "updates": 3
     }
 }

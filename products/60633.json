@@ -83,19 +83,34 @@
                 "timestamp": 1742983376
             },
             "unit_size": {
-                "value": 0.5,
-                "previous": [],
-                "timestamp": 1742983376
+                "value": 0.55,
+                "previous": [
+                    {
+                        "value": 0.5,
+                        "timestamp": 1742983376
+                    }
+                ],
+                "timestamp": 1749739108
             },
             "bulk_price": {
-                "value": "17.00",
-                "previous": [],
-                "timestamp": 1742983376
+                "value": "17.70",
+                "previous": [
+                    {
+                        "value": "17.00",
+                        "timestamp": 1742983376
+                    }
+                ],
+                "timestamp": 1749739108
             },
             "unit_price": {
-                "value": "8.50",
-                "previous": [],
-                "timestamp": 1742983376
+                "value": "9.74",
+                "previous": [
+                    {
+                        "value": "8.50",
+                        "timestamp": 1742983376
+                    }
+                ],
+                "timestamp": 1749739108
             },
             "approx_size": {
                 "value": true,
@@ -143,9 +158,14 @@
                 "timestamp": 1742983376
             },
             "reference_price": {
-                "value": "17.000",
-                "previous": [],
-                "timestamp": 1742983376
+                "value": "17.700",
+                "previous": [
+                    {
+                        "value": "17.000",
+                        "timestamp": 1742983376
+                    }
+                ],
+                "timestamp": 1749739108
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +194,7 @@
             "timestamp": 1742983376
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/60633/filetes-vacuno-marinado-extra-tiernos-bandeja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/60633\/filetes-vacuno-marinado-extra-tiernos-bandeja",
             "previous": [],
             "timestamp": 1742983376
         },
@@ -189,7 +209,7 @@
             "timestamp": 1742983376
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/c760e89d557cf3fb6a3fadca8530c0cb.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/c760e89d557cf3fb6a3fadca8530c0cb.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983376
         },
@@ -201,7 +221,7 @@
     },
     "stats": {
         "created_at": 1742983376,
-        "updated_at": 1743023212,
-        "updates": 2
+        "updated_at": 1749739108,
+        "updates": 3
     }
 }

@@ -88,14 +88,24 @@
                 "timestamp": 1742983463
             },
             "bulk_price": {
-                "value": "0.96",
-                "previous": [],
-                "timestamp": 1742983463
+                "value": "0.98",
+                "previous": [
+                    {
+                        "value": "0.96",
+                        "timestamp": 1742983463
+                    }
+                ],
+                "timestamp": 1749739245
             },
             "unit_price": {
-                "value": "8.64",
-                "previous": [],
-                "timestamp": 1742983463
+                "value": "8.82",
+                "previous": [
+                    {
+                        "value": "8.64",
+                        "timestamp": 1742983463
+                    }
+                ],
+                "timestamp": 1749739245
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983463
             },
             "reference_price": {
-                "value": "0.960",
-                "previous": [],
-                "timestamp": 1742983463
+                "value": "0.980",
+                "previous": [
+                    {
+                        "value": "0.960",
+                        "timestamp": 1742983463
+                    }
+                ],
+                "timestamp": 1749739245
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983463
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/10543/leche-desnatada-hacendado-pack-6",
+            "value": "https:\/\/tienda.mercadona.es\/product\/10543\/leche-desnatada-hacendado-pack-6",
             "previous": [],
             "timestamp": 1742983463
         },
@@ -189,9 +204,14 @@
             "timestamp": 1742983463
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/0861f809a7c8d9012e2cfe68137f7781.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983463
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/e2a6879b0f9a88fff1965e0f735136a9.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/0861f809a7c8d9012e2cfe68137f7781.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983463
+                }
+            ],
+            "timestamp": 1749739245
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +221,7 @@
     },
     "stats": {
         "created_at": 1742983463,
-        "updated_at": 1743023312,
-        "updates": 2
+        "updated_at": 1749739245,
+        "updates": 3
     }
 }

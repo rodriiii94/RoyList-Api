@@ -174,7 +174,7 @@
             "timestamp": 1742983458
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/69448/patatas-especial-freir-malla",
+            "value": "https:\/\/tienda.mercadona.es\/product\/69448\/patatas-especial-freir-malla",
             "previous": [],
             "timestamp": 1742983458
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983458
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/9573ce3b902f86934b52cae8ccc3f484.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/9573ce3b902f86934b52cae8ccc3f484.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983458
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983458,
-        "updated_at": 1743023307,
-        "updates": 2
+        "updated_at": 1749739238,
+        "updates": 3
     }
 }

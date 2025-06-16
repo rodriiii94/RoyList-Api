@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Tortitas de maíz con sabor a jamón Hacendado",
+            "value": "Tortitas de ma\u00edz con sabor a jam\u00f3n Hacendado",
             "previous": [],
             "timestamp": 1742983383
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983383
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/35776/tortitas-maiz-con-sabor-jamon-hacendado-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/35776\/tortitas-maiz-con-sabor-jamon-hacendado-paquete",
             "previous": [],
             "timestamp": 1742983383
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983383
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/0973b89ef01a231223178e04aeb3ceec.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/0973b89ef01a231223178e04aeb3ceec.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983383
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983383,
-        "updated_at": 1743023220,
-        "updates": 2
+        "updated_at": 1749739119,
+        "updates": 3
     }
 }

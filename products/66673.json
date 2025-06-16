@@ -174,7 +174,7 @@
             "timestamp": 1742983352
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/66673/vino-tinto-dulce-aguja-sangue-di-giuda-cueva-peccato-frizzante-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/66673\/vino-tinto-dulce-aguja-sangue-di-giuda-cueva-peccato-frizzante-botella",
             "previous": [],
             "timestamp": 1742983352
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983352
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/6af259b3c0bfb3d1320b00743970edb3.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/6af259b3c0bfb3d1320b00743970edb3.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983352
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983352,
-        "updated_at": 1743023189,
-        "updates": 4
+        "updated_at": 1749739081,
+        "updates": 6
     }
 }

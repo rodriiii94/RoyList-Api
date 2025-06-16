@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Coloración permanente Garnier 3.16 violín intenso",
+            "value": "Coloraci\u00f3n permanente Garnier 3.16 viol\u00edn intenso",
             "previous": [],
             "timestamp": 1742983428
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983428
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/77787/coloracion-permanente-garnier-316-violin-intenso-color-sensation-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/77787\/coloracion-permanente-garnier-316-violin-intenso-color-sensation-caja",
             "previous": [],
             "timestamp": 1742983428
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983428
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/efcb25c2eccea7d32f1f3ac4ace95904.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/efcb25c2eccea7d32f1f3ac4ace95904.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983428
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983428,
-        "updated_at": 1743023270,
-        "updates": 2
+        "updated_at": 1749739186,
+        "updates": 3
     }
 }

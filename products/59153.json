@@ -20,7 +20,7 @@
                     "timestamp": 1742983391
                 },
                 "name": {
-                    "value": "Charcutería y quesos",
+                    "value": "Charcuter\u00eda y quesos",
                     "previous": [],
                     "timestamp": 1742983391
                 },
@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Puntas de jamón curado Incarlopsa",
+            "value": "Puntas de jam\u00f3n curado Incarlopsa",
             "previous": [],
             "timestamp": 1742983391
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983391
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/59153/puntas-jamon-curado-incarlopsa-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/59153\/puntas-jamon-curado-incarlopsa-paquete",
             "previous": [],
             "timestamp": 1742983391
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983391
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/acbed46d6ecd92d18d901fcdffd8cc84.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/acbed46d6ecd92d18d901fcdffd8cc84.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983391
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983391,
-        "updated_at": 1743023229,
-        "updates": 2
+        "updated_at": 1749739131,
+        "updates": 3
     }
 }

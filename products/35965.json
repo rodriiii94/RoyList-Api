@@ -174,7 +174,7 @@
             "timestamp": 1742983439
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/35965/desodorante-roll-on-original-dove-antitranspirante-0-alcohol",
+            "value": "https:\/\/tienda.mercadona.es\/product\/35965\/desodorante-roll-on-original-dove-antitranspirante-0-alcohol",
             "previous": [],
             "timestamp": 1742983439
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983439
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/0f5340f5a6964b854fa5e0dab0f64817.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983439
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/fc7e20af630868a01eefd9a42253565c.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/0f5340f5a6964b854fa5e0dab0f64817.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983439
+                }
+            ],
+            "timestamp": 1749739204
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983439,
-        "updated_at": 1743023283,
-        "updates": 2
+        "updated_at": 1749739204,
+        "updates": 3
     }
 }

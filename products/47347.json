@@ -161,6 +161,11 @@
                 "value": 1,
                 "previous": [],
                 "timestamp": 1742983444
+            },
+            "tax_percentage": {
+                "value": "4.000",
+                "previous": [],
+                "timestamp": 1749739213
             }
         },
         "published": {
@@ -169,7 +174,7 @@
             "timestamp": 1742983444
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/47347/compresa-sin-alas-super-deliplus-suave-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/47347\/compresa-sin-alas-super-deliplus-suave-paquete",
             "previous": [],
             "timestamp": 1742983444
         },
@@ -184,7 +189,7 @@
             "timestamp": 1742983444
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/d0615a2753b4987cf66bea27190b7879.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/d0615a2753b4987cf66bea27190b7879.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983444
         },
@@ -196,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983444,
-        "updated_at": 1743023290,
-        "updates": 2
+        "updated_at": 1749739213,
+        "updates": 3
     }
 }

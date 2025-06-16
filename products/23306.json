@@ -88,14 +88,24 @@
                 "timestamp": 1742983378
             },
             "bulk_price": {
-                "value": "9.49",
-                "previous": [],
-                "timestamp": 1742983378
+                "value": "10.27",
+                "previous": [
+                    {
+                        "value": "9.49",
+                        "timestamp": 1742983378
+                    }
+                ],
+                "timestamp": 1749739111
             },
             "unit_price": {
-                "value": "3.51",
-                "previous": [],
-                "timestamp": 1742983378
+                "value": "3.80",
+                "previous": [
+                    {
+                        "value": "3.51",
+                        "timestamp": 1742983378
+                    }
+                ],
+                "timestamp": 1749739111
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983378
             },
             "reference_price": {
-                "value": "9.487",
-                "previous": [],
-                "timestamp": 1742983378
+                "value": "10.271",
+                "previous": [
+                    {
+                        "value": "9.487",
+                        "timestamp": 1742983378
+                    }
+                ],
+                "timestamp": 1749739111
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983378
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/23306/fiambre-pechuga-pavo-adobada-bandeja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/23306\/fiambre-pechuga-pavo-adobada-bandeja",
             "previous": [],
             "timestamp": 1742983378
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983378
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/1ee412da5f2866cf7f112b4d55e60179.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/1ee412da5f2866cf7f112b4d55e60179.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983378
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983378,
-        "updated_at": 1743023213,
-        "updates": 2
+        "updated_at": 1749739111,
+        "updates": 3
     }
 }

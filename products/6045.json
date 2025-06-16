@@ -88,14 +88,24 @@
                 "timestamp": 1742983373
             },
             "bulk_price": {
-                "value": "8.10",
-                "previous": [],
-                "timestamp": 1742983373
+                "value": "8.80",
+                "previous": [
+                    {
+                        "value": "8.10",
+                        "timestamp": 1742983373
+                    }
+                ],
+                "timestamp": 1749739104
             },
             "unit_price": {
-                "value": "3.08",
-                "previous": [],
-                "timestamp": 1742983373
+                "value": "3.34",
+                "previous": [
+                    {
+                        "value": "3.08",
+                        "timestamp": 1742983373
+                    }
+                ],
+                "timestamp": 1749739104
             },
             "approx_size": {
                 "value": true,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983373
             },
             "reference_price": {
-                "value": "8.100",
-                "previous": [],
-                "timestamp": 1742983373
+                "value": "8.800",
+                "previous": [
+                    {
+                        "value": "8.100",
+                        "timestamp": 1742983373
+                    }
+                ],
+                "timestamp": 1749739104
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983373
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/6045/longaniza-fresca-estilo-criollo-bandeja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/6045\/longaniza-fresca-estilo-criollo-bandeja",
             "previous": [],
             "timestamp": 1742983373
         },
@@ -189,9 +204,14 @@
             "timestamp": 1742983373
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/6a7242fdab4c1058f8aa9a2885e1aa3b.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983373
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/626a37704f18b9a0bce5aafc4d30a8eb.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/6a7242fdab4c1058f8aa9a2885e1aa3b.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983373
+                }
+            ],
+            "timestamp": 1749739104
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +221,7 @@
     },
     "stats": {
         "created_at": 1742983373,
-        "updated_at": 1743023208,
-        "updates": 2
+        "updated_at": 1749739104,
+        "updates": 3
     }
 }

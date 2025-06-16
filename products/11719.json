@@ -20,7 +20,7 @@
                     "timestamp": 1742983360
                 },
                 "name": {
-                    "value": "Cacao, café e infusiones",
+                    "value": "Cacao, caf\u00e9 e infusiones",
                     "previous": [],
                     "timestamp": 1742983360
                 },
@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Café molido descafeinado mezcla Hacendado",
+            "value": "Caf\u00e9 molido descafeinado mezcla Hacendado",
             "previous": [],
             "timestamp": 1742983360
         },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983360
             },
             "bulk_price": {
-                "value": "9.90",
-                "previous": [],
-                "timestamp": 1742983360
+                "value": "11.20",
+                "previous": [
+                    {
+                        "value": "9.90",
+                        "timestamp": 1742983360
+                    }
+                ],
+                "timestamp": 1749739087
             },
             "unit_price": {
-                "value": "4.95",
-                "previous": [],
-                "timestamp": 1742983360
+                "value": "5.60",
+                "previous": [
+                    {
+                        "value": "4.95",
+                        "timestamp": 1742983360
+                    }
+                ],
+                "timestamp": 1749739087
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983360
             },
             "reference_price": {
-                "value": "9.900",
-                "previous": [],
-                "timestamp": 1742983360
+                "value": "11.200",
+                "previous": [
+                    {
+                        "value": "9.900",
+                        "timestamp": 1742983360
+                    }
+                ],
+                "timestamp": 1749739087
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983360
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/11719/cafe-molido-descafeinado-mezcla-hacendado-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/11719\/cafe-molido-descafeinado-mezcla-hacendado-paquete",
             "previous": [],
             "timestamp": 1742983360
         },
@@ -189,9 +204,14 @@
             "timestamp": 1742983360
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/9c02e2fa84ba47bdb039d124d446402f.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983360
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/1e40d2b856ac458c007eb7cce7ceb99f.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/9c02e2fa84ba47bdb039d124d446402f.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983360
+                }
+            ],
+            "timestamp": 1749739087
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +221,7 @@
     },
     "stats": {
         "created_at": 1742983360,
-        "updated_at": 1743023194,
-        "updates": 2
+        "updated_at": 1749739087,
+        "updates": 3
     }
 }

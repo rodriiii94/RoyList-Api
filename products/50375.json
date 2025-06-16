@@ -174,7 +174,7 @@
             "timestamp": 1742983435
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/50375/crema-facial-fluida-hidratante-deliplus-oil-free-piel-grasa-seborreica-acneica-tubo",
+            "value": "https:\/\/tienda.mercadona.es\/product\/50375\/crema-facial-fluida-hidratante-deliplus-oil-free-piel-grasa-seborreica-acneica-tubo",
             "previous": [],
             "timestamp": 1742983435
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983435
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/4a826391e2b25601393498eaf03ba600.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983435
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/56a1f93ca15d3ab057c3c14d6d00e2e1.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/4a826391e2b25601393498eaf03ba600.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983435
+                }
+            ],
+            "timestamp": 1749739199
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983435,
-        "updated_at": 1743023279,
-        "updates": 2
+        "updated_at": 1749739199,
+        "updates": 3
     }
 }

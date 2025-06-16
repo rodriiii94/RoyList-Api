@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Crema de setas Starlux con champiñones",
+            "value": "Crema de setas Starlux con champi\u00f1ones",
             "previous": [],
             "timestamp": 1742983420
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983420
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/35662/crema-setas-starlux-con-champinones-knorr-brick",
+            "value": "https:\/\/tienda.mercadona.es\/product\/35662\/crema-setas-starlux-con-champinones-knorr-brick",
             "previous": [],
             "timestamp": 1742983420
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983420
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/d61df99aaace37a242ffdef145f78d7c.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/d61df99aaace37a242ffdef145f78d7c.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983420
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983420,
-        "updated_at": 1743023261,
-        "updates": 2
+        "updated_at": 1749739173,
+        "updates": 3
     }
 }

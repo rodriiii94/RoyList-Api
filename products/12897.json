@@ -1,0 +1,207 @@
+{
+    "product": {
+        "badges": {
+            "is_water": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739281
+            },
+            "requires_age_check": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739281
+            }
+        },
+        "categories": [
+            {
+                "id": {
+                    "value": 26,
+                    "previous": [],
+                    "timestamp": 1749739281
+                },
+                "name": {
+                    "value": "Limpieza y hogar",
+                    "previous": [],
+                    "timestamp": 1749739281
+                },
+                "level": {
+                    "value": 0,
+                    "previous": [],
+                    "timestamp": 1749739281
+                },
+                "order": {
+                    "value": 374,
+                    "previous": [],
+                    "timestamp": 1749739281
+                }
+            }
+        ],
+        "display_name": {
+            "value": "Bolsa de basura saco Bosque Verde 100L cubo industrial",
+            "previous": [],
+            "timestamp": 1749739281
+        },
+        "id": {
+            "value": "12897",
+            "previous": [],
+            "timestamp": 1749739281
+        },
+        "limit": {
+            "value": 999,
+            "previous": [],
+            "timestamp": 1749739281
+        },
+        "packaging": {
+            "value": "Paquete",
+            "previous": [],
+            "timestamp": 1749739281
+        },
+        "price_instructions": {
+            "iva": {
+                "value": 21,
+                "previous": [],
+                "timestamp": 1749739281
+            },
+            "is_new": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739281
+            },
+            "is_pack": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739281
+            },
+            "pack_size": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739281
+            },
+            "unit_name": {
+                "value": "bolsas",
+                "previous": [],
+                "timestamp": 1749739281
+            },
+            "unit_size": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739281
+            },
+            "bulk_price": {
+                "value": "0.13",
+                "previous": [],
+                "timestamp": 1749739281
+            },
+            "unit_price": {
+                "value": "2.00",
+                "previous": [],
+                "timestamp": 1749739281
+            },
+            "approx_size": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739281
+            },
+            "size_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1749739281
+            },
+            "total_units": {
+                "value": 15,
+                "previous": [],
+                "timestamp": 1749739281
+            },
+            "unit_selector": {
+                "value": true,
+                "previous": [],
+                "timestamp": 1749739281
+            },
+            "bunch_selector": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739281
+            },
+            "drained_weight": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739281
+            },
+            "selling_method": {
+                "value": 0,
+                "previous": [],
+                "timestamp": 1749739281
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1749739281
+            },
+            "price_decreased": {
+                "value": false,
+                "previous": [],
+                "timestamp": 1749739281
+            },
+            "reference_price": {
+                "value": "0.134",
+                "previous": [],
+                "timestamp": 1749739281
+            },
+            "min_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739281
+            },
+            "reference_format": {
+                "value": "ud",
+                "previous": [],
+                "timestamp": 1749739281
+            },
+            "previous_unit_price": {
+                "value": null,
+                "previous": [],
+                "timestamp": 1749739281
+            },
+            "increment_bunch_amount": {
+                "value": 1,
+                "previous": [],
+                "timestamp": 1749739281
+            }
+        },
+        "published": {
+            "value": true,
+            "previous": [],
+            "timestamp": 1749739281
+        },
+        "share_url": {
+            "value": "https:\/\/tienda.mercadona.es\/product\/12897\/bolsa-basura-saco-bosque-verde-100l-cubo-industrial-paquete",
+            "previous": [],
+            "timestamp": 1749739281
+        },
+        "slug": {
+            "value": "bolsa-basura-saco-bosque-verde-100l-cubo-industrial-paquete",
+            "previous": [],
+            "timestamp": 1749739281
+        },
+        "status": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739281
+        },
+        "thumbnail": {
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/e4298d2232d2a73b9bc6bebb942ceadf.jpg?fit=crop&h=300&w=300",
+            "previous": [],
+            "timestamp": 1749739281
+        },
+        "unavailable_from": {
+            "value": null,
+            "previous": [],
+            "timestamp": 1749739281
+        }
+    },
+    "stats": {
+        "created_at": 1749739281,
+        "updated_at": 1749739281,
+        "updates": 1
+    }
+}

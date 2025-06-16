@@ -174,7 +174,7 @@
             "timestamp": 1742983318
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/6020/refresco-tropical-gold-spring-sin-gas-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/6020\/refresco-tropical-gold-spring-sin-gas-botella",
             "previous": [],
             "timestamp": 1742983318
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983318
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/93134211072e7e3ceafb60f8c33b3667.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/93134211072e7e3ceafb60f8c33b3667.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983318
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983318,
-        "updated_at": 1743023144,
-        "updates": 2
+        "updated_at": 1749739026,
+        "updates": 3
     }
 }

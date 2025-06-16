@@ -20,7 +20,7 @@
                     "timestamp": 1742983361
                 },
                 "name": {
-                    "value": "Cacao, café e infusiones",
+                    "value": "Cacao, caf\u00e9 e infusiones",
                     "previous": [],
                     "timestamp": 1742983361
                 },
@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Café con leche cappuccino Hacendado",
+            "value": "Caf\u00e9 con leche cappuccino Hacendado",
             "previous": [],
             "timestamp": 1742983361
         },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983361
             },
             "bulk_price": {
-                "value": "3.40",
-                "previous": [],
-                "timestamp": 1742983361
+                "value": "3.00",
+                "previous": [
+                    {
+                        "value": "3.40",
+                        "timestamp": 1742983361
+                    }
+                ],
+                "timestamp": 1749739090
             },
             "unit_price": {
-                "value": "0.85",
-                "previous": [],
-                "timestamp": 1742983361
+                "value": "0.75",
+                "previous": [
+                    {
+                        "value": "0.85",
+                        "timestamp": 1742983361
+                    }
+                ],
+                "timestamp": 1749739090
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983361
             },
             "reference_price": {
-                "value": "3.400",
-                "previous": [],
-                "timestamp": 1742983361
+                "value": "3.000",
+                "previous": [
+                    {
+                        "value": "3.400",
+                        "timestamp": 1742983361
+                    }
+                ],
+                "timestamp": 1749739090
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983361
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/10666/cafe-con-leche-cappuccino-hacendado-vaso",
+            "value": "https:\/\/tienda.mercadona.es\/product\/10666\/cafe-con-leche-cappuccino-hacendado-vaso",
             "previous": [],
             "timestamp": 1742983361
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983361
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/f71077f44842e60a701a74c15a390d44.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/f71077f44842e60a701a74c15a390d44.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983361
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983361,
-        "updated_at": 1743023196,
-        "updates": 2
+        "updated_at": 1749739090,
+        "updates": 3
     }
 }

@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Rodaja de salmón",
+            "value": "Rodaja de salm\u00f3n",
             "previous": [],
             "timestamp": 1742983505
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983505
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/87205/rodaja-salmon-bandeja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/87205\/rodaja-salmon-bandeja",
             "previous": [],
             "timestamp": 1742983505
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983505
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/5e79ea62e9617114a5871d9e62e087aa.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/5e79ea62e9617114a5871d9e62e087aa.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983505
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983505,
-        "updated_at": 1743023357,
-        "updates": 2
+        "updated_at": 1749739306,
+        "updates": 3
     }
 }

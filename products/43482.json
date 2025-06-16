@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Toallitas limpiadoras de baños Bosque Verde",
+            "value": "Toallitas limpiadoras de ba\u00f1os Bosque Verde",
             "previous": [],
             "timestamp": 1742983477
         },
@@ -169,7 +169,7 @@
             "timestamp": 1742983477
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/43482/toallitas-limpiadoras-banos-bosque-verde-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/43482\/toallitas-limpiadoras-banos-bosque-verde-paquete",
             "previous": [],
             "timestamp": 1742983477
         },
@@ -184,7 +184,7 @@
             "timestamp": 1742983477
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/40f2fad7c1723e8787d54d184bbdbbaa.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/40f2fad7c1723e8787d54d184bbdbbaa.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983477
         },
@@ -196,7 +196,7 @@
     },
     "stats": {
         "created_at": 1742983477,
-        "updated_at": 1743023328,
-        "updates": 2
+        "updated_at": 1749739267,
+        "updates": 3
     }
 }

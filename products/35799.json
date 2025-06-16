@@ -37,9 +37,14 @@
             }
         ],
         "display_name": {
-            "value": "Crema de manos nutritiva Deliplus",
-            "previous": [],
-            "timestamp": 1742983434
+            "value": "Crema de manos nutritiva Karit\u00e9 Deliplus",
+            "previous": [
+                {
+                    "value": "Crema de manos nutritiva Deliplus",
+                    "timestamp": 1742983434
+                }
+            ],
+            "timestamp": 1749739196
         },
         "id": {
             "value": "35799",
@@ -174,7 +179,7 @@
             "timestamp": 1742983434
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/35799/crema-manos-nutritiva-deliplus-bote",
+            "value": "https:\/\/tienda.mercadona.es\/product\/35799\/crema-manos-nutritiva-deliplus-bote",
             "previous": [],
             "timestamp": 1742983434
         },
@@ -189,7 +194,7 @@
             "timestamp": 1742983434
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/8f73f00a3f08f6409f570fd38b1f6c17.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/8f73f00a3f08f6409f570fd38b1f6c17.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983434
         },
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983434,
-        "updated_at": 1743023277,
-        "updates": 2
+        "updated_at": 1749739196,
+        "updates": 3
     }
 }

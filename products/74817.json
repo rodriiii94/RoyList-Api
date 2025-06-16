@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Cuidado hidratante Hydra energetic L'Oréal men expert anti-fatiga 24h",
+            "value": "Cuidado hidratante Hydra energetic L'Or\u00e9al men expert anti-fatiga 24h",
             "previous": [],
             "timestamp": 1742983432
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983432
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/74817/cuidado-hidratante-hydra-energetic-loreal-men-expert-anti-fatiga-24h-bote",
+            "value": "https:\/\/tienda.mercadona.es\/product\/74817\/cuidado-hidratante-hydra-energetic-loreal-men-expert-anti-fatiga-24h-bote",
             "previous": [],
             "timestamp": 1742983432
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983432
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/d5eb8fdbbfde7e19c47115e6817b36f3.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/d5eb8fdbbfde7e19c47115e6817b36f3.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983432
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983432,
-        "updated_at": 1743023275,
-        "updates": 2
+        "updated_at": 1749739193,
+        "updates": 3
     }
 }

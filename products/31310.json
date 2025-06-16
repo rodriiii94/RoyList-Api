@@ -174,7 +174,7 @@
             "timestamp": 1742983461
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/31310/huevos-gallinas-camperas-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/31310\/huevos-gallinas-camperas-paquete",
             "previous": [],
             "timestamp": 1742983461
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983461
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/fc78f7b7635731629f93091f14e6e3d9.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983461
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/4bc3008a4b3a3a6ef4377ff6497cf723.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/fc78f7b7635731629f93091f14e6e3d9.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983461
+                }
+            ],
+            "timestamp": 1749739242
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983461,
-        "updated_at": 1743023309,
-        "updates": 2
+        "updated_at": 1749739242,
+        "updates": 3
     }
 }

@@ -174,7 +174,7 @@
             "timestamp": 1742983508
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/52710/bocaditos-salsa-gato-adulto-lechat-excellence-con-pollo-pavo-verduras-bote",
+            "value": "https:\/\/tienda.mercadona.es\/product\/52710\/bocaditos-salsa-gato-adulto-lechat-excellence-con-pollo-pavo-verduras-bote",
             "previous": [],
             "timestamp": 1742983508
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983508
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/f7b369e5941cec101f1710769c47ca53.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/f7b369e5941cec101f1710769c47ca53.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983508
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983508,
-        "updated_at": 1743023361,
-        "updates": 2
+        "updated_at": 1749739312,
+        "updates": 3
     }
 }

@@ -20,7 +20,7 @@
                     "timestamp": 1742983363
                 },
                 "name": {
-                    "value": "Cacao, café e infusiones",
+                    "value": "Cacao, caf\u00e9 e infusiones",
                     "previous": [],
                     "timestamp": 1742983363
                 },
@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Infusión Manzanilla Hacendado",
+            "value": "Infusi\u00f3n Manzanilla Hacendado",
             "previous": [],
             "timestamp": 1742983363
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983363
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/11168/infusion-manzanilla-hacendado-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/11168\/infusion-manzanilla-hacendado-caja",
             "previous": [],
             "timestamp": 1742983363
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983363
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/291a4a9e5a6ca2ed9919e25b61630190.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983363
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/ba76df9c56636d070f1be9b797bc33cb.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/291a4a9e5a6ca2ed9919e25b61630190.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983363
+                }
+            ],
+            "timestamp": 1749739092
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983363,
-        "updated_at": 1743023198,
-        "updates": 2
+        "updated_at": 1749739092,
+        "updates": 3
     }
 }

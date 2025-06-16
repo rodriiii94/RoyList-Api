@@ -174,7 +174,7 @@
             "timestamp": 1742983469
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/71226/guantes-nitrilo-bosque-verde-talla-mediana-desechables-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/71226\/guantes-nitrilo-bosque-verde-talla-mediana-desechables-caja",
             "previous": [],
             "timestamp": 1742983469
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983469
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/0685bb726ca5ad1db983e103654f855a.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/0685bb726ca5ad1db983e103654f855a.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983469
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983469,
-        "updated_at": 1743023319,
-        "updates": 2
+        "updated_at": 1749739255,
+        "updates": 3
     }
 }

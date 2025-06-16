@@ -174,7 +174,7 @@
             "timestamp": 1742983410
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/63739/fingers-queso-hacendado-ultracongelados-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/63739\/fingers-queso-hacendado-ultracongelados-paquete",
             "previous": [],
             "timestamp": 1742983410
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983410
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/cdf0d9840d26aaf7f0d1c3f23d679d1a.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/cdf0d9840d26aaf7f0d1c3f23d679d1a.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983410
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983410,
-        "updated_at": 1743023250,
-        "updates": 2
+        "updated_at": 1749739159,
+        "updates": 3
     }
 }

@@ -20,7 +20,7 @@
                     "timestamp": 1742983332
                 },
                 "name": {
-                    "value": "Azúcar, caramelos y chocolate",
+                    "value": "Az\u00facar, caramelos y chocolate",
                     "previous": [],
                     "timestamp": 1742983332
                 },
@@ -42,7 +42,7 @@
                     "timestamp": 1742983517
                 },
                 "name": {
-                    "value": "Panadería y pastelería",
+                    "value": "Panader\u00eda y pasteler\u00eda",
                     "previous": [],
                     "timestamp": 1742983517
                 },
@@ -59,7 +59,7 @@
             }
         ],
         "display_name": {
-            "value": "Chocolate negro 70% cacao fundir Hacendado 0% azúcares añadidos",
+            "value": "Chocolate negro 70% cacao fundir Hacendado 0% az\u00facares a\u00f1adidos",
             "previous": [],
             "timestamp": 1742983332
         },
@@ -196,7 +196,7 @@
             "timestamp": 1742983332
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/12530/chocolate-negro-70-cacao-fundir-hacendado-0-azucares-anadidos-tableta",
+            "value": "https:\/\/tienda.mercadona.es\/product\/12530\/chocolate-negro-70-cacao-fundir-hacendado-0-azucares-anadidos-tableta",
             "previous": [],
             "timestamp": 1742983332
         },
@@ -211,7 +211,7 @@
             "timestamp": 1742983332
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/e8e32a0506510cdb96d0eb3211d9ac8c.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/e8e32a0506510cdb96d0eb3211d9ac8c.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983332
         },
@@ -223,7 +223,7 @@
     },
     "stats": {
         "created_at": 1742983332,
-        "updated_at": 1743023370,
-        "updates": 4
+        "updated_at": 1749739326,
+        "updates": 6
     }
 }

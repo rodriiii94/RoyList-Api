@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Helado sándwich super nata Hacendado",
+            "value": "Helado s\u00e1ndwich super nata Hacendado",
             "previous": [],
             "timestamp": 1742983402
         },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983402
             },
             "bulk_price": {
-                "value": "3.79",
-                "previous": [],
-                "timestamp": 1742983402
+                "value": "3.33",
+                "previous": [
+                    {
+                        "value": "3.79",
+                        "timestamp": 1742983402
+                    }
+                ],
+                "timestamp": 1749739146
             },
             "unit_price": {
-                "value": "3.30",
-                "previous": [],
-                "timestamp": 1742983402
+                "value": "2.90",
+                "previous": [
+                    {
+                        "value": "3.30",
+                        "timestamp": 1742983402
+                    }
+                ],
+                "timestamp": 1749739146
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983402
             },
             "reference_price": {
-                "value": "3.794",
-                "previous": [],
-                "timestamp": 1742983402
+                "value": "3.334",
+                "previous": [
+                    {
+                        "value": "3.794",
+                        "timestamp": 1742983402
+                    }
+                ],
+                "timestamp": 1749739146
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -158,7 +173,7 @@
                 "timestamp": 1742983402
             },
             "previous_unit_price": {
-                "value": null,
+                "value": "        3.30",
                 "previous": [],
                 "timestamp": 1742983402
             },
@@ -174,7 +189,7 @@
             "timestamp": 1742983402
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/64200/helado-sandwich-super-nata-hacendado-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/64200\/helado-sandwich-super-nata-hacendado-caja",
             "previous": [],
             "timestamp": 1742983402
         },
@@ -189,9 +204,14 @@
             "timestamp": 1742983402
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/9c53c2084cc20aa67e806f3c91735d48.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983402
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/53582086b592f4a4e1a76e53047d57fb.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/9c53c2084cc20aa67e806f3c91735d48.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983402
+                }
+            ],
+            "timestamp": 1749739146
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +221,7 @@
     },
     "stats": {
         "created_at": 1742983402,
-        "updated_at": 1743023241,
-        "updates": 2
+        "updated_at": 1749739146,
+        "updates": 3
     }
 }

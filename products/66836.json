@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Vino blanco D.O Rías Baixas albariño Ponte Tamuxe",
+            "value": "Vino blanco D.O R\u00edas Baixas albari\u00f1o Ponte Tamuxe",
             "previous": [],
             "timestamp": 1742983351
         },
@@ -158,9 +158,14 @@
                 "timestamp": 1742983351
             },
             "previous_unit_price": {
-                "value": "        7.45",
-                "previous": [],
-                "timestamp": 1742983351
+                "value": null,
+                "previous": [
+                    {
+                        "value": "        7.45",
+                        "timestamp": 1742983351
+                    }
+                ],
+                "timestamp": 1749739075
             },
             "increment_bunch_amount": {
                 "value": 1,
@@ -174,7 +179,7 @@
             "timestamp": 1742983351
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/66836/vino-blanco-do-rias-baixas-albarino-ponte-tamuxe-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/66836\/vino-blanco-do-rias-baixas-albarino-ponte-tamuxe-botella",
             "previous": [],
             "timestamp": 1742983351
         },
@@ -189,9 +194,14 @@
             "timestamp": 1742983351
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/614af701c7f8a78568466b7dd35117ee.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983351
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/eb53b629f0bb4b13669a9ff8fcd58c12.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/614af701c7f8a78568466b7dd35117ee.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983351
+                }
+            ],
+            "timestamp": 1749739075
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +211,7 @@
     },
     "stats": {
         "created_at": 1742983351,
-        "updated_at": 1743023184,
-        "updates": 2
+        "updated_at": 1749739075,
+        "updates": 3
     }
 }

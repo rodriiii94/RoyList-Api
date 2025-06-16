@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Postre de soja sabor arándanos Alpro",
+            "value": "Postre de soja sabor ar\u00e1ndanos Alpro",
             "previous": [],
             "timestamp": 1742983542
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983542
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/8179/postre-soja-sabor-arandanos-alpro-bote",
+            "value": "https:\/\/tienda.mercadona.es\/product\/8179\/postre-soja-sabor-arandanos-alpro-bote",
             "previous": [],
             "timestamp": 1742983542
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983542
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/7398aab4c8fa863c3e109df7f0167db6.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/7398aab4c8fa863c3e109df7f0167db6.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983542
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983542,
-        "updated_at": 1743023396,
-        "updates": 2
+        "updated_at": 1749739360,
+        "updates": 3
     }
 }

@@ -161,6 +161,11 @@
                 "value": 1,
                 "previous": [],
                 "timestamp": 1742983494
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1749739291
             }
         },
         "published": {
@@ -169,7 +174,7 @@
             "timestamp": 1742983494
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/22529/pintalabios-creamy-deliplus-201-nude",
+            "value": "https:\/\/tienda.mercadona.es\/product\/22529\/pintalabios-creamy-deliplus-201-nude",
             "previous": [],
             "timestamp": 1742983494
         },
@@ -184,7 +189,7 @@
             "timestamp": 1742983494
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/5bb468af729410007a37d35fa3381809.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/5bb468af729410007a37d35fa3381809.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983494
         },
@@ -196,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983494,
-        "updated_at": 1743023346,
-        "updates": 2
+        "updated_at": 1749739291,
+        "updates": 3
     }
 }

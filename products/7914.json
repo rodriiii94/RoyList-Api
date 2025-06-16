@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Cápsulas para ojos Regen Skin Deliplus",
+            "value": "C\u00e1psulas para ojos Regen Skin Deliplus",
             "previous": [],
             "timestamp": 1742983435
         },
@@ -78,7 +78,7 @@
                 "timestamp": 1742983435
             },
             "unit_name": {
-                "value": "cápsulas",
+                "value": "c\u00e1psulas",
                 "previous": [],
                 "timestamp": 1742983435
             },
@@ -174,7 +174,7 @@
             "timestamp": 1742983435
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/7914/capsulas-ojos-regen-skin-deliplus-tipo-piel-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/7914\/capsulas-ojos-regen-skin-deliplus-tipo-piel-caja",
             "previous": [],
             "timestamp": 1742983435
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983435
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/eb254ee96ab89ff21992f2896631d78c.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/eb254ee96ab89ff21992f2896631d78c.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983435
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983435,
-        "updated_at": 1743023279,
-        "updates": 2
+        "updated_at": 1749739199,
+        "updates": 3
     }
 }

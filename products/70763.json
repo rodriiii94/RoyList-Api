@@ -174,7 +174,7 @@
             "timestamp": 1742983511
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/70763/snack-galletas-perro-adulto-con-pollo-ternera-compy-razas-medianas-grandes-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/70763\/snack-galletas-perro-adulto-con-pollo-ternera-compy-razas-medianas-grandes-paquete",
             "previous": [],
             "timestamp": 1742983511
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983511
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/54988ca540b37197c2bee8b9d850c99e.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/54988ca540b37197c2bee8b9d850c99e.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983511
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983511,
-        "updated_at": 1743023363,
-        "updates": 2
+        "updated_at": 1749739316,
+        "updates": 3
     }
 }

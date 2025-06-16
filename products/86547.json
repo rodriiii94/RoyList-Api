@@ -158,9 +158,14 @@
                 "timestamp": 1742983351
             },
             "previous_unit_price": {
-                "value": "        4.25",
-                "previous": [],
-                "timestamp": 1742983351
+                "value": null,
+                "previous": [
+                    {
+                        "value": "        4.25",
+                        "timestamp": 1742983351
+                    }
+                ],
+                "timestamp": 1749739076
             },
             "increment_bunch_amount": {
                 "value": 1,
@@ -174,7 +179,7 @@
             "timestamp": 1742983351
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/86547/vino-blanco-viura-tempranillo-do-rioja-ponce-albayda-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/86547\/vino-blanco-viura-tempranillo-do-rioja-ponce-albayda-botella",
             "previous": [],
             "timestamp": 1742983351
         },
@@ -189,7 +194,7 @@
             "timestamp": 1742983351
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/2fef3ec408b39f143d827de20cfa0f5c.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/2fef3ec408b39f143d827de20cfa0f5c.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983351
         },
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983351,
-        "updated_at": 1743023184,
-        "updates": 2
+        "updated_at": 1749739076,
+        "updates": 3
     }
 }

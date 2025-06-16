@@ -88,9 +88,14 @@
                 "timestamp": 1742983477
             },
             "bulk_price": {
-                "value": "0.36",
-                "previous": [],
-                "timestamp": 1742983477
+                "value": "7.25",
+                "previous": [
+                    {
+                        "value": "0.36",
+                        "timestamp": 1742983477
+                    }
+                ],
+                "timestamp": 1749739268
             },
             "unit_price": {
                 "value": "1.45",
@@ -143,9 +148,14 @@
                 "timestamp": 1742983477
             },
             "reference_price": {
-                "value": "0.363",
-                "previous": [],
-                "timestamp": 1742983477
+                "value": "7.250",
+                "previous": [
+                    {
+                        "value": "0.363",
+                        "timestamp": 1742983477
+                    }
+                ],
+                "timestamp": 1749739268
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -153,9 +163,14 @@
                 "timestamp": 1742983477
             },
             "reference_format": {
-                "value": "ud",
-                "previous": [],
-                "timestamp": 1742983477
+                "value": "kg",
+                "previous": [
+                    {
+                        "value": "ud",
+                        "timestamp": 1742983477
+                    }
+                ],
+                "timestamp": 1749739268
             },
             "previous_unit_price": {
                 "value": null,
@@ -174,7 +189,7 @@
             "timestamp": 1742983477
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/86354/pastillas-cisterna-bosque-verde-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/86354\/pastillas-cisterna-bosque-verde-paquete",
             "previous": [],
             "timestamp": 1742983477
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983477
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/6d234c5e74e29024753506901b2eb69d.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/6d234c5e74e29024753506901b2eb69d.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983477
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983477,
-        "updated_at": 1743023328,
-        "updates": 2
+        "updated_at": 1749739268,
+        "updates": 3
     }
 }

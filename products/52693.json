@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Laca cabello Forte Deliplus fijación 3",
+            "value": "Laca cabello Forte Deliplus fijaci\u00f3n 3",
             "previous": [],
             "timestamp": 1742983430
         },
@@ -161,6 +161,11 @@
                 "value": 1,
                 "previous": [],
                 "timestamp": 1742983430
+            },
+            "tax_percentage": {
+                "value": "21.000",
+                "previous": [],
+                "timestamp": 1749739190
             }
         },
         "published": {
@@ -169,7 +174,7 @@
             "timestamp": 1742983430
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/52693/laca-cabello-flex-deliplus-fijacion-3-spray",
+            "value": "https:\/\/tienda.mercadona.es\/product\/52693\/laca-cabello-flex-deliplus-fijacion-3-spray",
             "previous": [],
             "timestamp": 1742983430
         },
@@ -184,7 +189,7 @@
             "timestamp": 1742983430
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/69206f7ae9b5b5e6706fc4b1c42de143.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/69206f7ae9b5b5e6706fc4b1c42de143.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983430
         },
@@ -196,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983430,
-        "updated_at": 1743023272,
-        "updates": 2
+        "updated_at": 1749739190,
+        "updates": 3
     }
 }

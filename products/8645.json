@@ -196,7 +196,7 @@
             "timestamp": 1742983327
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/8645/fideos-orientales-yatekomo-sabor-pollo-gallina-blanca-pack-3",
+            "value": "https:\/\/tienda.mercadona.es\/product\/8645\/fideos-orientales-yatekomo-sabor-pollo-gallina-blanca-pack-3",
             "previous": [],
             "timestamp": 1742983327
         },
@@ -211,7 +211,7 @@
             "timestamp": 1742983327
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/df191749ac4882b0d836646d997ec6dc.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/df191749ac4882b0d836646d997ec6dc.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983327
         },
@@ -223,7 +223,7 @@
     },
     "stats": {
         "created_at": 1742983327,
-        "updated_at": 1743023387,
-        "updates": 4
+        "updated_at": 1749739348,
+        "updates": 6
     }
 }

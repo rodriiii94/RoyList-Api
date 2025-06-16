@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Bayeta pequeña Bosque Verde microfibra",
+            "value": "Bayeta peque\u00f1a Bosque Verde microfibra",
             "previous": [],
             "timestamp": 1742983468
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983468
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/22774/bayeta-pequena-bosque-verde-microfibra-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/22774\/bayeta-pequena-bosque-verde-microfibra-paquete",
             "previous": [],
             "timestamp": 1742983468
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983468
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/3abb6f08a1c5c27a703f4bd12a4f2730.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/3abb6f08a1c5c27a703f4bd12a4f2730.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983468
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983468,
-        "updated_at": 1743023318,
-        "updates": 2
+        "updated_at": 1749739255,
+        "updates": 3
     }
 }

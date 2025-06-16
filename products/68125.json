@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Danonino sabor fresa y plátano Danone",
+            "value": "Danonino sabor fresa y pl\u00e1tano Danone",
             "previous": [],
             "timestamp": 1742983550
         },
@@ -158,9 +158,14 @@
                 "timestamp": 1742983550
             },
             "previous_unit_price": {
-                "value": "        1.50",
-                "previous": [],
-                "timestamp": 1742983550
+                "value": null,
+                "previous": [
+                    {
+                        "value": "        1.50",
+                        "timestamp": 1742983550
+                    }
+                ],
+                "timestamp": 1749739369
             },
             "increment_bunch_amount": {
                 "value": 1,
@@ -174,7 +179,7 @@
             "timestamp": 1742983550
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/68125/danonino-sabor-fresa-platano-danone-pack-6",
+            "value": "https:\/\/tienda.mercadona.es\/product\/68125\/danonino-sabor-fresa-platano-danone-pack-6",
             "previous": [],
             "timestamp": 1742983550
         },
@@ -189,7 +194,7 @@
             "timestamp": 1742983550
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/87fe37417c6d7176175c21eae4f23b15.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/87fe37417c6d7176175c21eae4f23b15.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983550
         },
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983550,
-        "updated_at": 1743023404,
-        "updates": 2
+        "updated_at": 1749739369,
+        "updates": 3
     }
 }

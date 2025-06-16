@@ -37,9 +37,14 @@
             }
         ],
         "display_name": {
-            "value": "Porciones de rape blanco descongelado",
-            "previous": [],
-            "timestamp": 1742983505
+            "value": "Porciones de rape negro sin piel descongelado",
+            "previous": [
+                {
+                    "value": "Porciones de rape blanco descongelado",
+                    "timestamp": 1742983505
+                }
+            ],
+            "timestamp": 1749739308
         },
         "id": {
             "value": "87181",
@@ -83,19 +88,34 @@
                 "timestamp": 1742983505
             },
             "unit_size": {
-                "value": 0.3,
-                "previous": [],
-                "timestamp": 1742983505
+                "value": 0.38,
+                "previous": [
+                    {
+                        "value": 0.3,
+                        "timestamp": 1742983505
+                    }
+                ],
+                "timestamp": 1749739308
             },
             "bulk_price": {
-                "value": "27.95",
-                "previous": [],
-                "timestamp": 1742983505
+                "value": "32.00",
+                "previous": [
+                    {
+                        "value": "27.95",
+                        "timestamp": 1742983505
+                    }
+                ],
+                "timestamp": 1749739308
             },
             "unit_price": {
-                "value": "8.38",
-                "previous": [],
-                "timestamp": 1742983505
+                "value": "12.16",
+                "previous": [
+                    {
+                        "value": "8.38",
+                        "timestamp": 1742983505
+                    }
+                ],
+                "timestamp": 1749739308
             },
             "approx_size": {
                 "value": true,
@@ -143,9 +163,14 @@
                 "timestamp": 1742983505
             },
             "reference_price": {
-                "value": "27.950",
-                "previous": [],
-                "timestamp": 1742983505
+                "value": "32.000",
+                "previous": [
+                    {
+                        "value": "27.950",
+                        "timestamp": 1742983505
+                    }
+                ],
+                "timestamp": 1749739308
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +199,7 @@
             "timestamp": 1742983505
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/87181/porciones-rape-blanco-descongelado-bandeja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/87181\/porciones-rape-blanco-descongelado-bandeja",
             "previous": [],
             "timestamp": 1742983505
         },
@@ -189,9 +214,14 @@
             "timestamp": 1742983505
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/38eb5a262bf3bb9eb411033db1a1cb4f.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983505
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/820bff91117fb7121c8b5dd996fe7ab3.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/38eb5a262bf3bb9eb411033db1a1cb4f.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983505
+                }
+            ],
+            "timestamp": 1749739308
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +231,7 @@
     },
     "stats": {
         "created_at": 1742983505,
-        "updated_at": 1743023357,
-        "updates": 2
+        "updated_at": 1749739308,
+        "updates": 3
     }
 }

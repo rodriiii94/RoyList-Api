@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Activador Blanqueante ropa blanca Oxi Active Bosque Verde líquido",
+            "value": "Activador Blanqueante ropa blanca Oxi Active Bosque Verde l\u00edquido",
             "previous": [],
             "timestamp": 1742983467
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983467
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/40230/activador-lavado-ropa-blanca-oxi-active-bosque-verde-gel-botella",
+            "value": "https:\/\/tienda.mercadona.es\/product\/40230\/activador-lavado-ropa-blanca-oxi-active-bosque-verde-gel-botella",
             "previous": [],
             "timestamp": 1742983467
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983467
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/8a315673e0c8c150060baaa55bc2c211.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983467
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/54664d21e4042fb53849340644453038.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/8a315673e0c8c150060baaa55bc2c211.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983467
+                }
+            ],
+            "timestamp": 1749739252
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983467,
-        "updated_at": 1743023317,
-        "updates": 2
+        "updated_at": 1749739252,
+        "updates": 3
     }
 }

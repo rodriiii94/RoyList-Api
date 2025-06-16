@@ -196,7 +196,7 @@
             "timestamp": 1742983453
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/72039/pulsera-citronela-talla-s-duracion-2-semanas-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/72039\/pulsera-citronela-talla-s-duracion-2-semanas-paquete",
             "previous": [],
             "timestamp": 1742983453
         },
@@ -211,9 +211,14 @@
             "timestamp": 1742983453
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/8fb7610dab7c0b98bcdc6d55efb36648.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983453
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/507e2a9a55789c076168db81f667d9cd.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/8fb7610dab7c0b98bcdc6d55efb36648.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983453
+                }
+            ],
+            "timestamp": 1749739229
         },
         "unavailable_from": {
             "value": null,
@@ -223,7 +228,7 @@
     },
     "stats": {
         "created_at": 1742983453,
-        "updated_at": 1743023320,
-        "updates": 4
+        "updated_at": 1749739257,
+        "updates": 6
     }
 }

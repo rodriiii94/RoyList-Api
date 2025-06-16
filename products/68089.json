@@ -88,14 +88,24 @@
                 "timestamp": 1742983550
             },
             "bulk_price": {
-                "value": "4.61",
-                "previous": [],
-                "timestamp": 1742983550
+                "value": "4.72",
+                "previous": [
+                    {
+                        "value": "4.61",
+                        "timestamp": 1742983550
+                    }
+                ],
+                "timestamp": 1749739369
             },
             "unit_price": {
-                "value": "1.66",
-                "previous": [],
-                "timestamp": 1742983550
+                "value": "1.70",
+                "previous": [
+                    {
+                        "value": "1.66",
+                        "timestamp": 1742983550
+                    }
+                ],
+                "timestamp": 1749739369
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983550
             },
             "reference_price": {
-                "value": "4.612",
-                "previous": [],
-                "timestamp": 1742983550
+                "value": "4.723",
+                "previous": [
+                    {
+                        "value": "4.612",
+                        "timestamp": 1742983550
+                    }
+                ],
+                "timestamp": 1749739369
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983550
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/68089/petit-bolsillo-fresa-hacendado-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/68089\/petit-bolsillo-fresa-hacendado-caja",
             "previous": [],
             "timestamp": 1742983550
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983550
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/1e81ea84693b81132bc68b1c8000ec43.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/1e81ea84693b81132bc68b1c8000ec43.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983550
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983550,
-        "updated_at": 1743023404,
-        "updates": 2
+        "updated_at": 1749739369,
+        "updates": 3
     }
 }

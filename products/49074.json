@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Bolsas zip congelación grandes Bosque Verde",
+            "value": "Bolsas zip congelaci\u00f3n grandes Bosque Verde",
             "previous": [],
             "timestamp": 1742983484
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983484
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/49074/bolsas-zip-congelacion-grandes-bosque-verde-27-x-308-cm-caja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/49074\/bolsas-zip-congelacion-grandes-bosque-verde-27-x-308-cm-caja",
             "previous": [],
             "timestamp": 1742983484
         },
@@ -189,9 +189,14 @@
             "timestamp": 1742983484
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/fdb90d147390cf4b3b1fec08765d7233.jpg?fit=crop&h=300&w=300",
-            "previous": [],
-            "timestamp": 1742983484
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/167b8f8a9a6434b0e457bad04a5a4d67.jpg?fit=crop&h=300&w=300",
+            "previous": [
+                {
+                    "value": "https:\/\/prod-mercadona.imgix.net\/images\/fdb90d147390cf4b3b1fec08765d7233.jpg?fit=crop&h=300&w=300",
+                    "timestamp": 1742983484
+                }
+            ],
+            "timestamp": 1749739276
         },
         "unavailable_from": {
             "value": null,
@@ -201,7 +206,7 @@
     },
     "stats": {
         "created_at": 1742983484,
-        "updated_at": 1743023335,
-        "updates": 2
+        "updated_at": 1749739276,
+        "updates": 3
     }
 }

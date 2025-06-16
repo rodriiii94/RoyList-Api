@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Mejillón vivo",
+            "value": "Mejill\u00f3n vivo",
             "previous": [],
             "timestamp": 1742983500
         },
@@ -88,14 +88,24 @@
                 "timestamp": 1742983500
             },
             "bulk_price": {
-                "value": "2.95",
-                "previous": [],
-                "timestamp": 1742983500
+                "value": "3.20",
+                "previous": [
+                    {
+                        "value": "2.95",
+                        "timestamp": 1742983500
+                    }
+                ],
+                "timestamp": 1749739301
             },
             "unit_price": {
-                "value": "2.95",
-                "previous": [],
-                "timestamp": 1742983500
+                "value": "3.20",
+                "previous": [
+                    {
+                        "value": "2.95",
+                        "timestamp": 1742983500
+                    }
+                ],
+                "timestamp": 1749739301
             },
             "approx_size": {
                 "value": false,
@@ -143,9 +153,14 @@
                 "timestamp": 1742983500
             },
             "reference_price": {
-                "value": "2.950",
-                "previous": [],
-                "timestamp": 1742983500
+                "value": "3.200",
+                "previous": [
+                    {
+                        "value": "2.950",
+                        "timestamp": 1742983500
+                    }
+                ],
+                "timestamp": 1749739301
             },
             "min_bunch_amount": {
                 "value": 1,
@@ -174,7 +189,7 @@
             "timestamp": 1742983500
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/85200/mejillon-vivo-bandeja",
+            "value": "https:\/\/tienda.mercadona.es\/product\/85200\/mejillon-vivo-bandeja",
             "previous": [],
             "timestamp": 1742983500
         },
@@ -189,7 +204,7 @@
             "timestamp": 1742983500
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/8ef905423963345e84a9cd12de174d2b.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/8ef905423963345e84a9cd12de174d2b.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983500
         },
@@ -201,7 +216,7 @@
     },
     "stats": {
         "created_at": 1742983500,
-        "updated_at": 1743023353,
-        "updates": 2
+        "updated_at": 1749739301,
+        "updates": 3
     }
 }

@@ -174,7 +174,7 @@
             "timestamp": 1742983485
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/49619/papel-hogar-compacto-absorbente-bosque-verde-paquete",
+            "value": "https:\/\/tienda.mercadona.es\/product\/49619\/papel-hogar-compacto-absorbente-bosque-verde-paquete",
             "previous": [],
             "timestamp": 1742983485
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983485
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/c2b185d672f992dd957400a4f39d1f5b.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/c2b185d672f992dd957400a4f39d1f5b.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983485
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983485,
-        "updated_at": 1743023337,
-        "updates": 2
+        "updated_at": 1749739279,
+        "updates": 3
     }
 }

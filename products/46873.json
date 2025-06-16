@@ -37,7 +37,7 @@
             }
         ],
         "display_name": {
-            "value": "Sérum facial Retinol Regen Skin Deliplus",
+            "value": "S\u00e9rum facial Retinol Regen Skin Deliplus",
             "previous": [],
             "timestamp": 1742983435
         },
@@ -174,7 +174,7 @@
             "timestamp": 1742983435
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/46873/serum-facial-retinol-deliplus-regen-skin-evitar-piel-sensible-frasco",
+            "value": "https:\/\/tienda.mercadona.es\/product\/46873\/serum-facial-retinol-deliplus-regen-skin-evitar-piel-sensible-frasco",
             "previous": [],
             "timestamp": 1742983435
         },
@@ -189,7 +189,7 @@
             "timestamp": 1742983435
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/8596d99a76a4461b692a4d7deec92ad0.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/8596d99a76a4461b692a4d7deec92ad0.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983435
         },
@@ -201,7 +201,7 @@
     },
     "stats": {
         "created_at": 1742983435,
-        "updated_at": 1743023279,
-        "updates": 2
+        "updated_at": 1749739200,
+        "updates": 3
     }
 }

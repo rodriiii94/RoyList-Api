@@ -196,7 +196,7 @@
             "timestamp": 1742983457
         },
         "share_url": {
-            "value": "https://tienda.mercadona.es/product/13240/ensalada-pollo-queso-frutos-secos-listo-comer-compuesta-pollo-asado-tomate-cherry-queso-fresco-brotes-espinaca-lechuga-verde-lechuga-roja-mezcla-frutos-secos-fruta-desecada-con-monodosis-bol",
+            "value": "https:\/\/tienda.mercadona.es\/product\/13240\/ensalada-pollo-queso-frutos-secos-listo-comer-compuesta-pollo-asado-tomate-cherry-queso-fresco-brotes-espinaca-lechuga-verde-lechuga-roja-mezcla-frutos-secos-fruta-desecada-con-monodosis-bol",
             "previous": [],
             "timestamp": 1742983457
         },
@@ -211,7 +211,7 @@
             "timestamp": 1742983457
         },
         "thumbnail": {
-            "value": "https://prod-mercadona.imgix.net/images/8e19b97cf10d815ec7c3a284dff1ccf2.jpg?fit=crop&h=300&w=300",
+            "value": "https:\/\/prod-mercadona.imgix.net\/images\/8e19b97cf10d815ec7c3a284dff1ccf2.jpg?fit=crop&h=300&w=300",
             "previous": [],
             "timestamp": 1742983457
         },
@@ -223,7 +223,7 @@
     },
     "stats": {
         "created_at": 1742983457,
-        "updated_at": 1743023383,
-        "updates": 4
+        "updated_at": 1749739342,
+        "updates": 6
     }
 }
